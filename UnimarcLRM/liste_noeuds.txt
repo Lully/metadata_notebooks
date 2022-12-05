@@ -1,69 +1,69 @@
 Identifiant	Label	Type
-UMLRM0003	Nosferatu	m
-UMLRM0006	Dracula	m
-UMLRM0009	 Nosferatu, fantôme de la nuit	m
-UMLRM0012	"Nosferatu le vampire"	m
-UMLRM0015	Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra	m
-UMLRM0018	Dracula	m
-UMLRM0021	 Dracula	m
-UMLRM0024	Dracula	m
-UMLRM0027	Dracula	m
-UMLRM0030	Dracula	m
-UMLRM0033	Dracula	m
-UMLRM0036	Dracula	m
-UMLRM0039	Dracula	m
-UMLRM0042	 Dracula	m
-UMLRM0045	Dracula	m
-UMLRM0048	Dracula	m
-UMLRM0051	Dracula	m
-UMLRM0054	Dracula	m
-UMLRM0057	Dracula	m
-UMLRM0060 	Dracula	m
-UMLRM0063	Dracula	m
-UMLRM0066	Drácula	m
-UMLRM0069	Dracula‎	m
-UMLRM0072	Bram Stoker	m
-UMLRM0077	Dracula¤suivi de L'invité de Dracula	m
-UMLRM0080	Bram Stoker's Dracula	m
-UMLRM0083	 "Dracula"	m
-UMLRM0086	Dracula	m
-UMLRM0089	Le vampire au fil des siècles	m
-UMLRM0092	Nosferatu	m
-UMLRM0095	Nosferatu	m
-UMLRM0101	Nosferatu	m
-UMLRM0104	Nosferatu	m
-UMLRM0107	Dracula has risen from the grave‎	m
-UMLRM0110	Dracula	m
-UMLRM0113	 Bram Stoker’s Dracula	m
-UMLRM0116	Dracula l'immortel	m
-UMLRM0119	Dracula l'immortel	m
-UMLRM0122 	Dracula, mort et heureux de l’être	m
-UMLRM0128	Bram Stoker’s notes for “Dracula “	m
-UMLRM0131	L'ombre du vampire	m
-UMLRM0134	Max Schreck	m
-UMLRM0137	Dracula	m
-UMLRM0140	[Maquette de décor en volume pour "Nosferatu"]	m
-UMLRM0158	Dracula	m
-UMLRM0160	Dracula	m
+UMLRM0003	Nosferatu, Réalisation Friedrich W. Murnau	m
+UMLRM0006	Dracula, Bram Stoker	m
+UMLRM0009	 Nosferatu, fantôme de la nuit,  un film de Werner Herzog	m
+UMLRM0012	"Nosferatu le vampire", Paola Palma, Dimitri Vezyroglou	m
+UMLRM0015	Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra,  Opéra national de Paris	m
+UMLRM0018	Dracula, by Bram Stoker	m
+UMLRM0021	 Dracula,  Bram Stoker	m
+UMLRM0024	Dracula, Bram Stoker	m
+UMLRM0027	Dracula, Bram Stoker	m
+UMLRM0030	Dracula, Bram Stoker	m
+UMLRM0033	Dracula, Bram Stoker	m
+UMLRM0036	Dracula, d'après Bram Stoker	m
+UMLRM0039	Dracula, Bram Stoker	m
+UMLRM0042	 Dracula, Bram Stoker	m
+UMLRM0045	Dracula, Bram Stoker	m
+UMLRM0048	Dracula, Bram Stoker	m
+UMLRM0051	Dracula, Bram Stoker	m
+UMLRM0054	Dracula, Bram Stoker	m
+UMLRM0057	Dracula, Brahm Stoker	m
+UMLRM0060 	Dracula, Brahm Stoker	m
+UMLRM0063	Dracula, Bram Stoker	m
+UMLRM0066	Drácula, Bram Stoker	m
+UMLRM0069	Dracula‎, Bram Stoker‎	m
+UMLRM0072	Bram Stoker, Barbara Belford	m
+UMLRM0077	Dracula¤suivi de L'invité de Dracula, Bram Stoker	m
+UMLRM0080	Bram Stoker's Dracula, Gary Oldman, Winona Ryder, Anthony Hopkins... [et autres], [acteurs]	m
+UMLRM0083	 "Dracula", ouvrage dirigé par Gilles Menegaldo et Dominique Sipière	m
+UMLRM0086	Dracula, Matei Cazacu	m
+UMLRM0089	Le vampire au fil des siècles, Estelle Valls de Gomis	m
+UMLRM0092	Nosferatu, Idol FX AB, Pan vision	m
+UMLRM0095	Nosferatu, Idol FX AB, Pan vision	m
+UMLRM0101	Nosferatu, [texte et dessins de] Druillet	m
+UMLRM0104	Nosferatu, Druillet	m
+UMLRM0107	Dracula has risen from the grave‎, starring Christopher Lee, Rupert Davies	m
+UMLRM0110	Dracula, Bram Stoker	m
+UMLRM0113	 Bram Stoker’s Dracula, William Hughes	m
+UMLRM0116	Dracula l'immortel, Dacre Stoker et Ian Holt	m
+UMLRM0119	Dracula l'immortel, scénario, Michel Dufranne	m
+UMLRM0122 	Dracula, mort et heureux de l’être, un film de Mel Brooks	m
+UMLRM0128	Bram Stoker’s notes for “Dracula “, Bram Stoker	m
+UMLRM0131	L'ombre du vampire, E. Elias Merhige, [réalisateur]	m
+UMLRM0134	Max Schreck, Stefan Eickhoff	m
+UMLRM0137	Dracula, un film de Guy Maddin, [réalisateur]	m
+UMLRM0140	[Maquette de décor en volume pour "Nosferatu"], [Daniel Jeanneteau et Laure Deratte]	m
+UMLRM0158	Dracula, music by Philip Glass	m
+UMLRM0160	Dracula, Tod Browning, [réalisateur]	m
 UMLRM0168	Guy Maddin	m
-UMLRM0171	Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin	m
-UMLRM0173	Dracula	m
+UMLRM0171	Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin, [V. Gauriat]	m
+UMLRM0173	Dracula, Bram Stoker	m
 UMLRM0176	Les grands classiques du cinéma allemand	m
-UMLRM0177	Dracula	m
-UMLRM0178	Dracula	m
-UMLRM0179	Dracula	m
-UMLRM0182	 Dracula et les femmes	m
-UMLRM0185	L'ombre du vampire	m
-UMLRM0188	Dracula	m
+UMLRM0177	Dracula, Bram Stoker	m
+UMLRM0178	Dracula, Bram Stoker	m
+UMLRM0179	Dracula, Bram Stoker	m
+UMLRM0182	 Dracula et les femmes, avec Christopher Lee, Rupert Davies	m
+UMLRM0185	L'ombre du vampire, E. Elias Merhige, [réalisateur]	m
+UMLRM0188	Dracula, Bram Stoker	m
 UMLRM0190	Mel Brooks	m
-UMLRM0193	Dracula	m
-UMLRM0197	Bibliographie de Dracula	m
-UMLRM0199	Dictionnaire des littératures vampiriques	m
-UMLRM0002	Nosferatu, eine Symphonie des Grauens, 	e
+UMLRM0193	Dracula, starring Orson Welles	m
+UMLRM0197	Bibliographie de Dracula, Jacques Finné	m
+UMLRM0199	Dictionnaire des littératures vampiriques, Jacques Finné, Jean Marigny	m
+UMLRM0002	Nosferatu, eine Symphonie des Grauens	e
 UMLRM0005	Stoker, Bram (1847-1912), Dracula	e
-UMLRM0008	Nosferatu, Phantom der Nacht, 	e
+UMLRM0008	Nosferatu, Phantom der Nacht	e
 UMLRM0011	Palma, Paola (1971-….)¤Vezyroglou, Dimitri (1970-….), "Nosferatu le vampire"	e
-UMLRM0014	Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra, 	e
+UMLRM0014	Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra	e
 UMLRM0020	Stoker, Bram (1847-1912), Dracula	e
 UMLRM0032	Stoker, Bram (1847-1912), Dracula	e
 UMLRM0035	Humphries, Tudor (1953-….), Dracula	e
@@ -78,62 +78,63 @@ UMLRM0065	Stoker, Bram (1847-1912), Dracula	e
 UMLRM0068	Stoker, Bram (1847-1912), Dracula	e
 UMLRM0071	Belford, Barbara, Bram Stoker : a biography of the author of "Dracula"	e
 UMLRM0076	Stoker, Bram (1847-1912), Dracula’s guest	e
-UMLRM0079	Bram Stoker's Dracula, 	e
-UMLRM0082	"Dracula" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola, 	e
+UMLRM0079	Bram Stoker's Dracula	e
+UMLRM0082	"Dracula" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola	e
 UMLRM0085	Cazacu, Matei (1946-....), Dracula	e
-UMLRM0091	Nosferatu, the wrath of Malachi, 	e
+UMLRM0091	Nosferatu, the wrath of Malachi	e
 UMLRM0100	Druillet, Philippe (1944-....), Nosferatu	e
-UMLRM0106	Dracula has risen from the grave, 	e
+UMLRM0106	Dracula has risen from the grave	e
 UMLRM0112	Hughes, William (1964-....), Bram Stoker’s Dracula : a reader’s guide	e
 UMLRM0115	Stoker, Dacre¤Holt, Ian (1964-….), Dracula, the un-dead	e
 UMLRM0118	Dufranne, Michel (1970-....)¤Kowalski, Piotr (1973-....), Dracula l’immortel	e
-UMLRM0121 ¤UMLRM0126¤UMLRM0127	Dracula, dead and loving it, , Stoker, Bram (1847-1912), Manuscrits, Stoker, Bram (1847-1912), Manuscrits	e
-UMLRM0130	Shadow of the vampire, 	e
+UMLRM0121 	Dracula, dead and loving it	e
+UMLRM0130	Shadow of the vampire	e
 UMLRM0133	Eickhoff, Stefan, Max Schreck : Gespenstertheater	e
-UMLRM0136	Dracula : pages from a virgin's diary, 	e
+UMLRM0136	Dracula : pages from a virgin's diary	e
 UMLRM0139	Jeanneteau, Daniel (1963-....)¤Deratte, Laure (19..-....), [Maquette de décor en volume pour "Nosferatu"]	e
-UMLRM0148	Nosferatu, 	e
+UMLRM0148	Nosferatu	e
 UMLRM0151	Druillet, Philippe (1944-....), Illustrations pour "Dracula" de Bram Stoker	e
-UMLRM0153	[Photographies extraites du film « Dracula » de Tod Browning], 	e
+UMLRM0153	[Photographies extraites du film « Dracula » de Tod Browning]	e
 UMLRM0157	Glass, Philip (1937-....), Dracula	e
-UMLRM0159	Dracula, 	e
+UMLRM0159	Dracula	e
 UMLRM0161	Humphries, Tudor (1953-….), Dracula	e
-UMLRM0162	Drácula, 	e
-UMLRM0167	Guy Maddin, 	e
+UMLRM0162	Drácula	e
+UMLRM0167	Guy Maddin	e
 UMLRM0170	Gauriat, Vincent, Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin	e
 UMLRM0172	Stoker, Bram (1847-1912), Dracula	e
-UMLRM0175	Les grands classiques du cinéma allemand, 	e
+UMLRM0175	Les grands classiques du cinéma allemand	e
 UMLRM0181		e
-UMLRM0184	Shadow of the vampire, 	e
+UMLRM0184	Shadow of the vampire	e
 UMLRM0187	Stoker, Bram (1847-1912), Dracula	e
-UMLRM0189	Dracula, dead and loving it, 	e
-UMLRM0192	Dracula, 	e
+UMLRM0189	Dracula, dead and loving it	e
+UMLRM0192	Dracula	e
 UMLRM0196	Finné, Jacques (1944-….), Bibliographie de Dracula	e
 UMLRM0198	Finné, Jacques (1944-….)¤Marigny, Jean (1939-....), Dictionnaire des littératures vampiriques	e
 UMLRM0001	Nosferatu, eine Symphonie des Grauens	o
 UMLRM0004	Stoker, Bram (1847-1912), Dracula	o
-UMLRM0007	 Nosferatu, Phantom der Nacht, 	o
+UMLRM0007	 Nosferatu, Phantom der Nacht	o
 UMLRM0010	Palma, Paola (1971-….)¤Vezyroglou, Dimitri (1970-….), "Nosferatu le vampire"	o
-UMLRM0013	Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra, 	o
+UMLRM0013	Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra	o
 UMLRM0031	Stoker, Bram (1847-1912), Dracula	o
 UMLRM0034	Humphries, Tudor (1953-….), Dracula	o
 UMLRM0037	Stoker, Bram (1847-1912), Dracula	o
 UMLRM0070	Belford, Barbara, Bram Stoker : a biography of the author of "Dracula	o
 UMLRM0075	Stoker, Bram (1847-1912), Dracula's guest	o
-UMLRM0078	Bram Stoker's Dracula, 	o
-UMLRM0081	"Dracula" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola, 	o
+UMLRM0078	Bram Stoker's Dracula	o
+UMLRM0081	"Dracula" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola	o
 UMLRM0084	Cazacu, Matei (1946-....), Dracula	o
 UMLRM0087	Valls de Gomis, Estelle (1973-...), Le vampire au fil des siècles : enquête autour d'un mythe	o
-UMLRM0090	Nosferatu, the wrath of Malachi, 	o
+UMLRM0090	Nosferatu, the wrath of Malachi	o
 UMLRM0099	Druillet, Philippe (1944-....), Nosferatu	o
-UMLRM0105	Dracula has risen from the grave, 	o
+UMLRM0105	Dracula has risen from the grave	o
 UMLRM0111	Hughes, William (1964-....), Bram Stoker’s Dracula : a reader’s guide	o
 UMLRM0114	Stoker, Dacre¤Holt, Ian (1964-….), Dracula, the un-dead	o
 UMLRM0117	Dufranne, Michel (1970-....)¤Kowalski, Piotr (1973-....), Dracula l’immortel	o
-UMLR0120	Dracula, dead and loving it, 	o
-UMLRM0129	Shadow of the vampire, 	o
+UMLR0120	Dracula, dead and loving it	o
+UMLRM0126¤UMLRM0127	Stoker, Bram (1847-1912), Manuscrits, Stoker, Bram (1847-1912), Manuscrits	o
+UMLRM0129	Shadow of the vampire	o
 UMLRM0132	Eickhoff, Stefan, Max Schreck : Gespenstertheater	o
-UMLRM0135	Dracula: pages from a virgin's diary, 	o
+UMLRM0135	Dracula: pages from a virgin's diary	o
 UMLRM0138	Jeanneteau, Daniel (1963-....)¤Deratte, Laure (19..-....), [Maquette de décor en volume pour "Nosferatu"]	o
 UMLRM0141	Valls de Gomis, Estelle (1973-...), Le vampire au fil des siècles : docimasie d'un mythe	o
 UMLRM0142	Gallotta, Jean-Claude (1950-....), Nosferatu	o
@@ -141,21 +142,21 @@ UMLRM0143	Dusapin, Pascal (1955-....), Extenso	o
 UMLRM0144	Dusapin, Pascal (1955-....), Apex	o
 UMLRM0145	Dusapin, Pascal (1955-....), Watt	o
 UMLRM0146	Dusapin, Pascal (1955-....), Celo	o
-UMLRM0147	Nosferatu, 	o
+UMLRM0147	Nosferatu	o
 UMLRM0149	Finné, Jacques (1944-….)¤Marigny, Jean (1939-....), Dictionnaire des littératures vampiriques	o
 UMLRM0150	Druillet, Philippe (1944-....), [Illustrations pour "Dracula" de Bram Stoker]	o
-UMLRM0152	[Photographies extraites du film "Dracula" de Tod Browning], 	o
-UMLRM0154	Dracula, 	o
+UMLRM0152	[Photographies extraites du film "Dracula" de Tod Browning]	o
+UMLRM0154	Dracula	o
 UMLRM0155	Deane, Hamilton (1879-1958)¤Balderston, John L. (1889-1954), Dracula	o
 UMLRM0156	Glass, Philip (1937-....), Dracula	o
-UMLRM0163	Drácula, 	o
+UMLRM0163	Drácula	o
 UMLRM0164	Godden, Mark, Dracula	o
 UMLRM0165	Mahler, Gustav (1860-1911), Symphonies	o
-UMLRM0166	Guy Maddin, 	o
+UMLRM0166	Guy Maddin	o
 UMLRM0169	Gauriat, Vincent, Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin	o
-UMLRM0174	Les grands classiques du cinéma allemand, 	o
-UMLRM0180	Dracula, 	o
+UMLRM0174	Les grands classiques du cinéma allemand	o
+UMLRM0180	Dracula	o
 UMLRM0186	Dufranne, Michel (1970-....)¤Kowalski, Piotr (1973-....), Dracula l’immortel	o
-UMLRM0191	Dracula, 	o
-UMLRM0194	The Mercury theatre on the air, 	o
+UMLRM0191	Dracula	o
+UMLRM0194	The Mercury theatre on the air	o
 UMLRM0195	Finné, Jacques (1944-….), Bibliographie de Dracula 	o
