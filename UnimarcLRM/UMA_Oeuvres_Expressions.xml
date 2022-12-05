@@ -3265,7 +3265,7 @@
       <marc:subfield code="a">Hart</marc:subfield>
       <marc:subfield code="b"> James V.</marc:subfield>
       <marc:subfield code="f">1960-....</marc:subfield>
-      <marc:subfield code="4"> 690</marc:subfield>
+      <marc:subfield code="4">690</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="501" ind1=" " ind2="1">
       <marc:subfield code="3">FRBNF13938779</marc:subfield>
@@ -4472,7 +4472,7 @@
       <marc:subfield code="8">freeng</marc:subfield>
       <marc:subfield code="o">ISNI 0000 0001 2191 3894</marc:subfield>
       <marc:subfield code="a">Hammer Film Productions‎</marc:subfield>
-      <marc:subfield code="4">630‎</marc:subfield>
+      <marc:subfield code="4">630</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="531" ind1=" " ind2=" ">
       <marc:subfield code="5">xxd</marc:subfield>
@@ -9741,7 +9741,7 @@
       <marc:subfield code="8">freeng</marc:subfield>
       <marc:subfield code="o">ISNI 0000 0001 2191 3894</marc:subfield>
       <marc:subfield code="a">Hammer Film Productions‎</marc:subfield>
-      <marc:subfield code="4">630‎</marc:subfield>
+      <marc:subfield code="4">630</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="531" ind1=" " ind2=" ">
       <marc:subfield code="5">xxe</marc:subfield>
