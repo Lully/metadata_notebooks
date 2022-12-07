@@ -48,7 +48,7 @@ class Record:
     
     def __repr__(self):
         representation = f"id : {self.id}\ntype initial : {self.init_type} ; type : {self.type}\n\
-label : {self.label}\nXML : {etree.tostring(self.xml).decode('utf-8')}"
+label : {self.label}\n\nNotice : {self.txt} \n\nXML : {self.xml}"
         return representation
 
 
@@ -71,6 +71,13 @@ class Item(Record):
     def __init__(self, xml_record, rectype):
         super().__init__(xml_record, rectype)
         self.toManifs  = item2manif(self.xml)
+    
+    def __repr__(self):
+        representation = f"id : {self.id}\ntype initial : {self.init_type} ; type : {self.type}\n\
+label : {self.label}\n\nNotice : {self.txt} \n\nXML : {self.xml}"
+
+        representation += f"\n\nManif en lien : {self.toManifs}"
+        return representation
         
 def get_stats_zones(xml_record):
     # Renvoie un dictionnaire listant les zones avec leur nombre d'occurrences
