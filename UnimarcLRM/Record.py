@@ -45,10 +45,11 @@ class Record:
         self.stats_zones = get_stats_zones(xml_record)
         self.resp = get_responsabilites(xml_record, self.type)
         dic_id2type[self.id] = self.type
+        self.repr = f"id : {self.id}\ntype initial : {self.init_type} ; type : {self.type}\n\
+label : {self.label}\n\nNotice : {self.txt} \n\nXML : {self.xml}"
     
     def __repr__(self):
-        representation = f"id : {self.id}\ntype initial : {self.init_type} ; type : {self.type}\n\
-label : {self.label}\n\nNotice : {self.txt} \n\nXML : {self.xml}"
+        representation = self.repr
         return representation
 
 
@@ -57,15 +58,27 @@ class Manifestation(Record):
         super().__init__(xml_record, rectype)
         self.toExpressions = manif2expression(self.xml)
 
+    def __repr__(self):
+        representation = self.repr
+        return representation
 
 class Oeuvre(Record):
     def __init__(self, xml_record, rectype):
         super().__init__(xml_record, rectype)
-    
+
+    def __repr__(self):
+        representation = self.repr
+        return representation
+
+
 class Expression(Record):
     def __init__(self, xml_record, rectype):
         super().__init__(xml_record, rectype)
         self.toOeuvres  = expression2oeuvre(self.xml)
+
+    def __repr__(self):
+        representation = self.repr
+        return representation
 
 class Item(Record):
     def __init__(self, xml_record, rectype):
@@ -73,9 +86,7 @@ class Item(Record):
         self.toManifs  = item2manif(self.xml)
     
     def __repr__(self):
-        representation = f"id : {self.id}\ntype initial : {self.init_type} ; type : {self.type}\n\
-label : {self.label}\n\nNotice : {self.txt} \n\nXML : {self.xml}"
-
+        representation = self.repr
         representation += f"\n\nManif en lien : {self.toManifs}"
         return representation
         
