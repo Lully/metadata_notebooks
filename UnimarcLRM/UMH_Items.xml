@@ -124,7 +124,7 @@
     <marc:datafield tag="252" ind1=" " ind2=" ">
       <marc:subfield code="a">BM_CELESTEVILLE</marc:subfield>
       <marc:subfield code="b">ADULTES</marc:subfield>
-      <marc:subfield code="j">COTE_UMLRM1=004</marc:subfield>
+      <marc:subfield code="j">COTE_UMLRM1004</marc:subfield>
       <marc:subfield code="m">CV0000000005</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="801" ind1="0" ind2=" ">
@@ -191,7 +191,7 @@
     <marc:controlfield tag="001">UMLRM1007</marc:controlfield>
     <marc:controlfield tag="004">UMLRM0024</marc:controlfield>
     <marc:datafield tag="070" ind1=" " ind2=" ">
-      <marc:subfield code="a">CEL_0000000008 </marc:subfield>
+      <marc:subfield code="a">CEL_0000000008</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221024frey01      ba0 </marc:subfield>
@@ -218,7 +218,7 @@
     <marc:controlfield tag="001">UMLRM1008</marc:controlfield>
     <marc:controlfield tag="004">UMLRM0027</marc:controlfield>
     <marc:datafield tag="070" ind1=" " ind2=" ">
-      <marc:subfield code="a">CEL_0000000009 </marc:subfield>
+      <marc:subfield code="a">CEL_0000000009</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221024frey01      ba0</marc:subfield>
@@ -286,7 +286,7 @@
     <marc:datafield tag="252" ind1=" " ind2=" ">
       <marc:subfield code="a">BM_CELESTEVILLE</marc:subfield>
       <marc:subfield code="b">JEUNESSE</marc:subfield>
-      <marc:subfield code="j"> COTE_UMLRM1010</marc:subfield>
+      <marc:subfield code="j">COTE_UMLRM1010</marc:subfield>
       <marc:subfield code="m">CV0000000011</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="801" ind1="0" ind2=" ">
@@ -434,7 +434,7 @@
     <marc:controlfield tag="001">UMLRM1016</marc:controlfield>
     <marc:controlfield tag="004">UMLRM0051</marc:controlfield>
     <marc:datafield tag="070" ind1=" " ind2=" ">
-      <marc:subfield code="a">CEL_0000000017 </marc:subfield>
+      <marc:subfield code="a">CEL_0000000017</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221024frey01      ba0 </marc:subfield>
@@ -745,7 +745,7 @@
     <marc:datafield tag="252" ind1=" " ind2=" ">
       <marc:subfield code="a">BM_CELESTEVILLE</marc:subfield>
       <marc:subfield code="b">ADULTES</marc:subfield>
-      <marc:subfield code="j">COTE_UMLRM1027 </marc:subfield>
+      <marc:subfield code="j">COTE_UMLRM1027</marc:subfield>
       <marc:subfield code="m">CV0000000028</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="801" ind1="0" ind2=" ">
@@ -799,7 +799,7 @@
     <marc:datafield tag="252" ind1=" " ind2=" ">
       <marc:subfield code="a">BM_CELESTEVILLE</marc:subfield>
       <marc:subfield code="b"> MEZZANINE</marc:subfield>
-      <marc:subfield code="j"> COTE_UMLRM1029</marc:subfield>
+      <marc:subfield code="j">COTE_UMLRM1029</marc:subfield>
       <marc:subfield code="m">CV0000000030</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="801" ind1="0" ind2=" ">
@@ -832,33 +832,6 @@
     <marc:datafield tag="801" ind1="0" ind2=" ">
       <marc:subfield code="a">FR</marc:subfield>
       <marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield>
-    </marc:datafield>
-  </marc:record>
-  <marc:record>
-    <marc:leader>00330na aa220012110 4500</marc:leader>
-    <marc:controlfield tag="001">UMLRM1031</marc:controlfield>
-    <marc:controlfield tag="004">UMLRM0098</marc:controlfield>
-    <marc:datafield tag="070" ind1=" " ind2=" ">
-      <marc:subfield code="a">CEL_0000000032</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="100" ind1=" " ind2=" ">
-      <marc:subfield code="a">20221024frey01      ba0</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="170" ind1=" " ind2=" ">
-      <marc:subfield code="a">aa         </marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="171" ind1=" " ind2=" ">
-      <marc:subfield code="a">fb   x001</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="252" ind1=" " ind2=" ">
-      <marc:subfield code="a">BM_CELESTEVILLE</marc:subfield>
-      <marc:subfield code="b">MEZZANINE</marc:subfield>
-      <marc:subfield code="j">COTE_UMLRM1031</marc:subfield>
-      <marc:subfield code="m">CV0000000032</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="801" ind1="0" ind2=" ">
-      <marc:subfield code="a">FR</marc:subfield>
-      <marc:subfield code="b">Bibliothèque municipale de Célestevill"</marc:subfield>
     </marc:datafield>
   </marc:record>
   <marc:record>
@@ -1071,33 +1044,6 @@
       <marc:subfield code="b">MEZZANINE</marc:subfield>
       <marc:subfield code="j">COTE_UMLRM1039</marc:subfield>
       <marc:subfield code="m">CV0000000040</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="801" ind1="0" ind2=" ">
-      <marc:subfield code="a">FR</marc:subfield>
-      <marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield>
-    </marc:datafield>
-  </marc:record>
-  <marc:record>
-    <marc:leader>00329na aa220012110 4500</marc:leader>
-    <marc:controlfield tag="001">UMLRM1040</marc:controlfield>
-    <marc:controlfield tag="004">UMLRM0125</marc:controlfield>
-    <marc:datafield tag="070" ind1=" " ind2=" ">
-      <marc:subfield code="a">CEL_0000000041</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="100" ind1=" " ind2=" ">
-      <marc:subfield code="a">20221024frey01      ba0</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="170" ind1=" " ind2=" ">
-      <marc:subfield code="a">aa         </marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="171" ind1=" " ind2=" ">
-      <marc:subfield code="a">fbxxx001</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="252" ind1=" " ind2=" ">
-      <marc:subfield code="a">BM_CELESTEVILLE</marc:subfield>
-      <marc:subfield code="b">MEZZANINE</marc:subfield>
-      <marc:subfield code="j">COTE_UMLRM1040</marc:subfield>
-      <marc:subfield code="m">CV0000000041</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="801" ind1="0" ind2=" ">
       <marc:subfield code="a">FR</marc:subfield>
@@ -1460,7 +1406,7 @@
     <marc:controlfield tag="001">UMLRM1054</marc:controlfield>
     <marc:controlfield tag="004">UMLRM0193</marc:controlfield>
     <marc:datafield tag="070" ind1=" " ind2=" ">
-      <marc:subfield code="a">CEL_0000000055 </marc:subfield>
+      <marc:subfield code="a">CEL_0000000055</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221024frey01      ba0</marc:subfield>
@@ -1514,7 +1460,7 @@
     <marc:controlfield tag="001">UMLRM1056</marc:controlfield>
     <marc:controlfield tag="004">UMLRM0199</marc:controlfield>
     <marc:datafield tag="070" ind1=" " ind2=" ">
-      <marc:subfield code="a">CEL_0000000057 </marc:subfield>
+      <marc:subfield code="a">CEL_0000000057</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221024frey01      ba0</marc:subfield>

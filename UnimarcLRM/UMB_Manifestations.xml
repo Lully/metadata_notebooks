@@ -207,10 +207,10 @@
       <marc:subfield code="2">rda-frcarrier</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="200" ind1="1" ind2=" ">
-      <marc:subfield code="a"> Nosferatu, fantôme de la nuit</marc:subfield>
-      <marc:subfield code="f"> un film de Werner Herzog</marc:subfield>
-      <marc:subfield code="g"> [musique de Popol Vuh, Florian Fricke]</marc:subfield>
-      <marc:subfield code="g"> Isabelle Adjani, Klaus Kinski, [Bruno Ganz... et autres, acteurs]</marc:subfield>
+      <marc:subfield code="a">Nosferatu, fantôme de la nuit</marc:subfield>
+      <marc:subfield code="f">un film de Werner Herzog</marc:subfield>
+      <marc:subfield code="g">[musique de Popol Vuh, Florian Fricke]</marc:subfield>
+      <marc:subfield code="g">Isabelle Adjani, Klaus Kinski, [Bruno Ganz... et autres, acteurs]</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="214" ind1=" " ind2="0">
       <marc:subfield code="a">[Neuilly-sur-Seine]</marc:subfield>
@@ -225,10 +225,10 @@
       <marc:subfield code="a">1 BD vidéo</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="304" ind1=" " ind2=" ">
-      <marc:subfield code="a"> Notice rédigée d'après la jaquette</marc:subfield>
+      <marc:subfield code="a">Notice rédigée d'après la jaquette</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="327" ind1="2" ind2=" ">
-      <marc:subfield code="a"> Contient aussi : "Voyage au pays de l'indicible" de Dominique Maillet (37 min) avec les témoignages de Dominique Colladant, Harald Maury, Anne Demoulin, Serge Moati et Freddy Buache. "Klaus Kinski, la métamorphose" (20 min) par Dominique Colladant et Reiko Kruk. "Histoire de vampire(s)" (11 min) par Gérard Lenne. Bande-annonce</marc:subfield>
+      <marc:subfield code="a">Contient aussi : "Voyage au pays de l'indicible" de Dominique Maillet (37 min) avec les témoignages de Dominique Colladant, Harald Maury, Anne Demoulin, Serge Moati et Freddy Buache. "Klaus Kinski, la métamorphose" (20 min) par Dominique Colladant et Reiko Kruk. "Histoire de vampire(s)" (11 min) par Gérard Lenne. Bande-annonce</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="371" ind1="1" ind2=" ">
       <marc:subfield code="a">Interdit à la location</marc:subfield>
@@ -328,7 +328,7 @@
       <marc:subfield code="2">RDAfrCarrier</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="200" ind1="1" ind2=" ">
-      <marc:subfield code="a">"Nosferatu le vampire"</marc:subfield>
+      <marc:subfield code="a">"Nosferatu le vampire</marc:subfield>
       <marc:subfield code="f">Paola Palma, Dimitri Vezyroglou</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="214" ind1=" " ind2="0">
@@ -411,7 +411,7 @@
       <marc:subfield code="d">24 cm</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="577" ind1="1" ind2="1">
-      <marc:subfield code="3"> UMLRM0014</marc:subfield>
+      <marc:subfield code="3">UMLRM0015</marc:subfield>
       <marc:subfield code="7">ba0yba0y</marc:subfield>
       <marc:subfield code="8">frefre</marc:subfield>
       <marc:subfield code="a">Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra</marc:subfield>
@@ -507,12 +507,12 @@
       <marc:subfield code="2">RDAfrCarrier</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="200" ind1="1" ind2=" ">
-      <marc:subfield code="a"> Dracula</marc:subfield>
-      <marc:subfield code="f"> Bram Stoker</marc:subfield>
-      <marc:subfield code="g"> traduit de l'anglais par Lucienne Molitor</marc:subfield>
+      <marc:subfield code="a">Dracula</marc:subfield>
+      <marc:subfield code="f">Bram Stoker</marc:subfield>
+      <marc:subfield code="g">traduit de l'anglais par Lucienne Molitor</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="214" ind1=" " ind2="0">
-      <marc:subfield code="a"> Paris</marc:subfield>
+      <marc:subfield code="a">Paris</marc:subfield>
       <marc:subfield code="c">J'ai lu</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="214" ind1=" " ind2="3">
@@ -1102,13 +1102,13 @@
       <marc:subfield code="2">RDAfrCarrier</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="200" ind1="1" ind2=" ">
-      <marc:subfield code="a"> Dracula</marc:subfield>
+      <marc:subfield code="a">Dracula</marc:subfield>
       <marc:subfield code="e">traduction intégrale</marc:subfield>
       <marc:subfield code="f">Bram Stoker</marc:subfield>
       <marc:subfield code="g">traduit de l'anglais par Jacques Sirgent</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="214" ind1=" " ind2="0">
-      <marc:subfield code="a"> Paris</marc:subfield>
+      <marc:subfield code="a">Paris</marc:subfield>
       <marc:subfield code="c">J'ai lu</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="214" ind1=" " ind2="3">
@@ -1425,14 +1425,14 @@
       <marc:subfield code="a">Espagne</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="215" ind1=" " ind2=" ">
-      <marc:subfield code="a"> 1 volume (321 pages)</marc:subfield>
+      <marc:subfield code="a">1 volume (321 pages)</marc:subfield>
       <marc:subfield code="c">couverture illustrée en couleur</marc:subfield>
       <marc:subfield code="d">18 cm</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="577" ind1="1" ind2="1">
       <marc:subfield code="3">UMLRM0053</marc:subfield>
       <marc:subfield code="7">ba0yba0y</marc:subfield>
-      <marc:subfield code="8"> freeng</marc:subfield>
+      <marc:subfield code="8">freeng</marc:subfield>
       <marc:subfield code="a">Stoker, Bram (1847-1912)</marc:subfield>
       <marc:subfield code="t">Dracula</marc:subfield>
       <marc:subfield code="l">Version abrégée</marc:subfield>
@@ -1773,7 +1773,7 @@
       <marc:subfield code="2">éditeur</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="410" ind1=" " ind2="0">
-      <marc:subfield code="0">45544536</marc:subfield>
+      <marc:subfield code="0">FRBNF45544536</marc:subfield>
       <marc:subfield code="t">Classiques (École des loisirs)</marc:subfield>
       <marc:subfield code="x">2610-2099</marc:subfield>
       <marc:subfield code="d">2019</marc:subfield>
@@ -1834,7 +1834,7 @@
     </marc:datafield>
     <marc:datafield tag="215" ind1=" " ind2=" ">
       <marc:subfield code="a">1 volume(XV-381 pages)</marc:subfield>
-      <marc:subfield code="c"> couverture illustrée</marc:subfield>
+      <marc:subfield code="c">couverture illustrée</marc:subfield>
       <marc:subfield code="d">25 cm</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="577" ind1="1" ind2="1">
@@ -1920,7 +1920,7 @@
       <marc:subfield code="v">4669</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="423" ind1=" " ind2="0">
-      <marc:subfield code="t">NSBL’NSEinvité de Dracula</marc:subfield>
+      <marc:subfield code="t">L’invité de Dracula</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="577" ind1="1" ind2="1">
       <marc:subfield code="3">UMLRM0050</marc:subfield>
@@ -2023,7 +2023,7 @@
       <marc:subfield code="c"> 4/3, NTSC</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="304" ind1=" " ind2=" ">
-      <marc:subfield code="a"> Notice rédigée d'après la jaquette</marc:subfield>
+      <marc:subfield code="a">Notice rédigée d'après la jaquette</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="306" ind1=" " ind2=" ">
       <marc:subfield code="a">Siège de Sony pictures entertainment : Culver City en Californie</marc:subfield>
@@ -2066,7 +2066,7 @@
       <marc:subfield code="2">RDAfrCarrier </marc:subfield>
     </marc:datafield>
     <marc:datafield tag="200" ind1="1" ind2=" ">
-      <marc:subfield code="a"> "Dracula"</marc:subfield>
+      <marc:subfield code="a">"Dracula"</marc:subfield>
       <marc:subfield code="e">l'oeuvre de Bram Stoker et le film de Francis F. Coppola</marc:subfield>
       <marc:subfield code="f">ouvrage dirigé par Gilles Menegaldo et Dominique Sipière</marc:subfield>
     </marc:datafield>
@@ -2128,7 +2128,7 @@
       <marc:subfield code="f">Matei Cazacu</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="214" ind1=" " ind2="0">
-      <marc:subfield code="a"> Paris</marc:subfield>
+      <marc:subfield code="a">Paris</marc:subfield>
       <marc:subfield code="c">Tallandier</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="214" ind1=" " ind2="3">
@@ -2308,7 +2308,7 @@
       <marc:subfield code="d">2005</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="215" ind1=" " ind2=" ">
-      <marc:subfield code="a"> 1 disque optique numérique (CD-ROM)</marc:subfield>
+      <marc:subfield code="a">1 disque optique numérique (CD-ROM)</marc:subfield>
       <marc:subfield code="d">12 cm</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="225" ind1="2" ind2=" ">
@@ -2450,7 +2450,7 @@
     <marc:controlfield tag="001">UMLRM0101</marc:controlfield>
     <marc:controlfield tag="005">20220908######.D</marc:controlfield>
     <marc:datafield tag="010" ind1=" " ind2=" ">
-      <marc:subfield code="a"> 2-205-03763-3</marc:subfield>
+      <marc:subfield code="a">2-205-03763-3</marc:subfield>
       <marc:subfield code="b">Relié</marc:subfield>
       <marc:subfield code="d">61 F</marc:subfield>
     </marc:datafield>
@@ -2784,7 +2784,7 @@
       <marc:subfield code="d">copyright 2009</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="215" ind1=" " ind2=" ">
-      <marc:subfield code="a"> 1 volume (VII-150 pages)</marc:subfield>
+      <marc:subfield code="a">1 volume (VII-150 pages)</marc:subfield>
       <marc:subfield code="d">22 cm</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="225" ind1="2" ind2=" ">
@@ -2815,7 +2815,7 @@
     <marc:controlfield tag="001">UMLRM0116</marc:controlfield>
     <marc:controlfield tag="005">202210171342SS.D</marc:controlfield>
     <marc:datafield tag="010" ind1=" " ind2=" ">
-      <marc:subfield code="a"> 978-2-7499-1109-0</marc:subfield>
+      <marc:subfield code="a">978-2-7499-1109-0</marc:subfield>
       <marc:subfield code="b">Broché</marc:subfield>
       <marc:subfield code="d">22,95 EUR</marc:subfield>
     </marc:datafield>
@@ -2926,7 +2926,7 @@
       <marc:subfield code="d">2012</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="215" ind1=" " ind2=" ">
-      <marc:subfield code="a"> 1 volume (48 pages)</marc:subfield>
+      <marc:subfield code="a">1 volume (48 pages)</marc:subfield>
       <marc:subfield code="c">couverture illustrée en couleur</marc:subfield>
       <marc:subfield code="d">32 cm</marc:subfield>
     </marc:datafield>
@@ -3034,7 +3034,7 @@
       <marc:subfield code="c">monoface double couche, 16/9 compatible 3/4, PAL, Dolby surround 2.0, zone 2</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="304" ind1=" " ind2=" ">
-      <marc:subfield code="a"> Notice rédigée d'après la jaquette</marc:subfield>
+      <marc:subfield code="a">Notice rédigée d'après la jaquette</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="306" ind1=" " ind2=" ">
       <marc:subfield code="a">Copyright : Borgo Pass productions, 1994</marc:subfield>
@@ -3346,7 +3346,7 @@
       <marc:subfield code="d">25 cm</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="577" ind1="1" ind2="1">
-      <marc:subfield code="3">ULRM00133</marc:subfield>
+      <marc:subfield code="3">UMLRM0133</marc:subfield>
       <marc:subfield code="7">ba0yba0y</marc:subfield>
       <marc:subfield code="8">freger</marc:subfield>
       <marc:subfield code="a">Eickhoff, Stefan</marc:subfield>
@@ -4454,7 +4454,7 @@
       <marc:subfield code="2">rda-frcarrier</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="200" ind1="1" ind2=" ">
-      <marc:subfield code="a"> Dracula et les femmes</marc:subfield>
+      <marc:subfield code="a">Dracula et les femmes</marc:subfield>
       <marc:subfield code="d">Dracula has risen from the grave‎</marc:subfield>
       <marc:subfield code="f">avec Christopher Lee, Rupert Davies</marc:subfield>
       <marc:subfield code="g">[réalisation Freddie Francis]</marc:subfield>
@@ -4766,7 +4766,7 @@
       <marc:subfield code="c">monoface double couche, 16/9 compatible 3/4, PAL, Dolby surround 2.0, toutes zones</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="304" ind1=" " ind2=" ">
-      <marc:subfield code="a"> Notice rédigée d'après la jaquette</marc:subfield>
+      <marc:subfield code="a">Notice rédigée d'après la jaquette</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="305" ind1=" " ind2=" ">
       <marc:subfield code="a">Nouvelle édition sous coffret</marc:subfield>

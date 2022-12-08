@@ -58,7 +58,7 @@
     <marc:datafield tag="231" ind1=" " ind2=" ">
       <marc:subfield code="7">ba0yba0y</marc:subfield>
       <marc:subfield code="8">freger</marc:subfield>
-      <marc:subfield code="t">Nosferatu, eine Symphonie des Grauens</marc:subfield>
+      <marc:subfield code="a">Nosferatu, eine Symphonie des Grauens</marc:subfield>
       <marc:subfield code="c">film</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="333" ind1=" " ind2=" ">
@@ -281,7 +281,7 @@
       <marc:subfield code="a">xb</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="232" ind1=" " ind2=" ">
-      <marc:subfield code="3">ULRM0001</marc:subfield>
+      <marc:subfield code="3">UMLRM0001</marc:subfield>
       <marc:subfield code="7">ba0yba0y</marc:subfield>
       <marc:subfield code="8">freger</marc:subfield>
       <marc:subfield code="a">Nosferatu, eine Symphonie des Grauens</marc:subfield>
@@ -468,7 +468,7 @@
     </marc:datafield>
     <marc:datafield tag="531" ind1=" " ind2=" ">
       <marc:subfield code="5">xxm</marc:subfield>
-      <marc:subfield code="3">UMLRM01XX</marc:subfield>
+      <marc:subfield code="3">UMLRM0180</marc:subfield>
       <marc:subfield code="7">ba0yba0y</marc:subfield>
       <marc:subfield code="8">freeng</marc:subfield>
       <marc:subfield code="a">Dracula</marc:subfield>
@@ -896,8 +896,8 @@
     </marc:datafield>
     <marc:datafield tag="531" ind1=" " ind2=" ">
       <marc:subfield code="5">xxl</marc:subfield>
-      <marc:subfield code="3">UMLRMXXXX</marc:subfield>
-      <marc:subfield code="t">Nosferatu : eine Symphonie des Grauens</marc:subfield>
+      <marc:subfield code="3">UMLRM0001</marc:subfield>
+      <marc:subfield code="a">Nosferatu : eine Symphonie des Grauens</marc:subfield>
       <marc:subfield code="c">film</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="541" ind1=" " ind2="1">
@@ -2011,7 +2011,7 @@
       <marc:subfield code="f">Édition revue avec ajout d’un glossaire</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="502" ind1=" " ind2="1">
-      <marc:subfield code="3">11902797</marc:subfield>
+      <marc:subfield code="3">FRBNF11902797</marc:subfield>
       <marc:subfield code="7">ba0yba0y</marc:subfield>
       <marc:subfield code="8">frefre</marc:subfield>
       <marc:subfield code="o">ISNI 0000 0001 2023 6609</marc:subfield>
@@ -2174,7 +2174,7 @@
       <marc:subfield code="f">Cahier photographique en couleur</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="502" ind1=" " ind2="1">
-      <marc:subfield code="3">11902797</marc:subfield>
+      <marc:subfield code="3">FRBNF11902797</marc:subfield>
       <marc:subfield code="7">ba0yba0y</marc:subfield>
       <marc:subfield code="8">frefre</marc:subfield>
       <marc:subfield code="o">ISNI0000 0001 2023 6609</marc:subfield>
@@ -2839,7 +2839,7 @@
       <marc:subfield code="a">Index</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="501" ind1=" " ind2="1">
-      <marc:subfield code="3"> FRBNF13742386</marc:subfield>
+      <marc:subfield code="3">FRBNF13742386</marc:subfield>
       <marc:subfield code="7">ba0yba0y</marc:subfield>
       <marc:subfield code="8">fre###</marc:subfield>
       <marc:subfield code="o">ISNI 0000 0000 8116 1236</marc:subfield>
@@ -3688,7 +3688,7 @@
       <marc:subfield code="7">ba0yba0y</marc:subfield>
       <marc:subfield code="8">frefre</marc:subfield>
       <marc:subfield code="a">Valachie (Roumanie)</marc:subfield>
-      <marc:subfield code="3">11976234</marc:subfield>
+      <marc:subfield code="3">FRBNF11976234</marc:subfield>
       <marc:subfield code="z">15e siècle</marc:subfield>
       <marc:subfield code="2">rameau</marc:subfield>
     </marc:datafield>
@@ -3920,7 +3920,7 @@
       <marc:subfield code="a">RDA-FR</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="242" ind1=" " ind2="1">
-      <marc:subfield code="3">UMLRM087</marc:subfield>
+      <marc:subfield code="3">UMLRM0087</marc:subfield>
       <marc:subfield code="7">ba0yba0y</marc:subfield>
       <marc:subfield code="8">frefre</marc:subfield>
       <marc:subfield code="a">Valls de Gomis, Estelle (1973-...)</marc:subfield>
@@ -4104,7 +4104,7 @@
       <marc:subfield code="a">xb</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="232" ind1=" " ind2=" ">
-      <marc:subfield code="3">UMLRM090</marc:subfield>
+      <marc:subfield code="3">UMLRM0090</marc:subfield>
       <marc:subfield code="7">ba0yba0y</marc:subfield>
       <marc:subfield code="8">freeng</marc:subfield>
       <marc:subfield code="a">Nosferatu, the wrath of Malachi</marc:subfield>
@@ -4639,7 +4639,8 @@
       <marc:subfield code="a">Index</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="501" ind1=" " ind2="1">
-      <marc:subfield code="3">FRBNF1361624187ba0yba0y</marc:subfield>
+      <marc:subfield code="3">FRBNF1361624187</marc:subfield>
+      <marc:subfield code="7">ba0yba0y</marc:subfield>
       <marc:subfield code="8">freeng</marc:subfield>
       <marc:subfield code="o">ISNI 0000 0001 1059 1869</marc:subfield>
       <marc:subfield code="a">Hughes</marc:subfield>
@@ -5092,7 +5093,7 @@
   </marc:record>
   <marc:record>
     <marc:leader>04340cx  a2200589   4500</marc:leader>
-    <marc:controlfield tag="001">UMLR0120</marc:controlfield>
+    <marc:controlfield tag="001">UMLRM0120</marc:controlfield>
     <marc:controlfield tag="005">20221004########</marc:controlfield>
     <marc:datafield tag="033" ind1=" " ind2=" ">
       <marc:subfield code="a">https://www.wikidata.org/wiki/Q1254469</marc:subfield>
@@ -5336,10 +5337,10 @@
       <marc:subfield code="c">20221004</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="810" ind1=" " ind2=" ">
-      <marc:subfield code="a"> Dracula, mort et heureux de l'être = Dracula dead and loving it / un film de Mel Brooks ; Leslie Nielsen, Peter MacNicol, Steven Weber... [et autres], [acteurs] ; musique, Hummie Mann ; histoire de Rudy De Luca &amp; Steve Haberman ; scénario de Mel Brooks &amp; Rudy De Luca &amp; Steve Haberman ; produit et réalisé par Mel Brooks. – Neuilly-sur-Seine : Gaumont vidéo [éditeur] ; Boulogne-Billancourt : Paramount home entertainment France [distributeur], 2009. – [Image animée : vidéo]. – Référence commerciale : FG 315 880 (EDV 1504)</marc:subfield>
+      <marc:subfield code="a">Dracula, mort et heureux de l'être = Dracula dead and loving it / un film de Mel Brooks ; Leslie Nielsen, Peter MacNicol, Steven Weber... [et autres], [acteurs] ; musique, Hummie Mann ; histoire de Rudy De Luca &amp; Steve Haberman ; scénario de Mel Brooks &amp; Rudy De Luca &amp; Steve Haberman ; produit et réalisé par Mel Brooks. – Neuilly-sur-Seine : Gaumont vidéo [éditeur] ; Boulogne-Billancourt : Paramount home entertainment France [distributeur], 2009. – [Image animée : vidéo]. – Référence commerciale : FG 315 880 (EDV 1504)</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="810" ind1=" " ind2=" ">
-      <marc:subfield code="a"> Wikipedia : https://en.wikipedia.org/wiki/Dracula:_Dead_and_Loving_It (2022-10-04)</marc:subfield>
+      <marc:subfield code="a">Wikipedia : https://en.wikipedia.org/wiki/Dracula:_Dead_and_Loving_It (2022-10-04)</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="810" ind1=" " ind2=" ">
       <marc:subfield code="a">IMDB (Internet movie database) : https://www.imdb.com/title/tt0112896/ (2022-11-10)</marc:subfield>
@@ -5350,7 +5351,7 @@
   </marc:record>
   <marc:record>
     <marc:leader>04852cx  a2200793   4500</marc:leader>
-    <marc:controlfield tag="001">UMLRM0121 </marc:controlfield>
+    <marc:controlfield tag="001">UMLRM0121</marc:controlfield>
     <marc:controlfield tag="005">20221004####.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221004afrey50      ba0 </marc:subfield>
@@ -5420,7 +5421,7 @@
       <marc:subfield code="c">20221004</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="810" ind1=" " ind2=" ">
-      <marc:subfield code="a"> Dracula, mort et heureux de l'être = Dracula dead and loving it / un film de Mel Brooks ; Leslie Nielsen, Peter MacNicol, Steven Weber... [et autres], [acteurs] ; musique, Hummie Mann ; histoire de Rudy De Luca &amp; Steve Haberman ; scénario de Mel Brooks &amp; Rudy De Luca &amp; Steve Haberman ; produit et réalisé par Mel Brooks. – Neuilly-sur-Seine : Gaumont vidéo [éditeur] ; Boulogne-Billancourt : Paramount home entertainment France [distributeur], 2009. – [Image animée : vidéo]. – Référence commerciale : FG 315 880 (EDV 1504)</marc:subfield>
+      <marc:subfield code="a">Dracula, mort et heureux de l'être = Dracula dead and loving it / un film de Mel Brooks ; Leslie Nielsen, Peter MacNicol, Steven Weber... [et autres], [acteurs] ; musique, Hummie Mann ; histoire de Rudy De Luca &amp; Steve Haberman ; scénario de Mel Brooks &amp; Rudy De Luca &amp; Steve Haberman ; produit et réalisé par Mel Brooks. – Neuilly-sur-Seine : Gaumont vidéo [éditeur] ; Boulogne-Billancourt : Paramount home entertainment France [distributeur], 2009. – [Image animée : vidéo]. – Référence commerciale : FG 315 880 (EDV 1504)</marc:subfield>
     </marc:datafield>
   </marc:record>
   <marc:record>
@@ -5558,6 +5559,9 @@
       <marc:subfield code="a">Catalogue de la Bibliothèque du Congrès : https://lccn.loc.gov/2008019450</marc:subfield>
       <marc:subfield code="b">Résumé</marc:subfield>
     </marc:datafield>
+  </marc:record>
+  <marc:record>
+    <marc:leader>01026cx  a2200218   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0127</marc:controlfield>
     <marc:controlfield tag="005">20220921######.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -5672,7 +5676,7 @@
       <marc:subfield code="e">c</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="152" ind1=" " ind2=" ">
-      <marc:subfield code="a"> RDA-FR</marc:subfield>
+      <marc:subfield code="a">RDA-FR</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="154" ind1=" " ind2=" ">
       <marc:subfield code="a">xa</marc:subfield>
@@ -7418,7 +7422,7 @@
       <marc:subfield code="a">xb</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="232" ind1=" " ind2=" ">
-      <marc:subfield code="3"> UMLRM0147</marc:subfield>
+      <marc:subfield code="3">UMLRM0147</marc:subfield>
       <marc:subfield code="7">ba0yba0y</marc:subfield>
       <marc:subfield code="8">frefre</marc:subfield>
       <marc:subfield code="a">Nosferatu</marc:subfield>
@@ -7775,7 +7779,7 @@
     <marc:datafield tag="531" ind1=" " ind2=" ">
       <marc:subfield code="5">xxr</marc:subfield>
       <marc:subfield code="p">Est une sélection de [œuvre]</marc:subfield>
-      <marc:subfield code="3">UMLRM154</marc:subfield>
+      <marc:subfield code="3">UMLRM0154</marc:subfield>
       <marc:subfield code="a">Dracula</marc:subfield>
       <marc:subfield code="c">film</marc:subfield>
       <marc:subfield code="d">1931</marc:subfield>
@@ -8035,7 +8039,7 @@
     <marc:datafield tag="541" ind1=" " ind2="1">
       <marc:subfield code="5">xxa</marc:subfield>
       <marc:subfield code="p">Est une adaptation dans un autre mode de création de [œuvre]</marc:subfield>
-      <marc:subfield code="3">UMLRM155</marc:subfield>
+      <marc:subfield code="3">UMLRM0155</marc:subfield>
       <marc:subfield code="7">ba0yba0y</marc:subfield>
       <marc:subfield code="8">fre###</marc:subfield>
       <marc:subfield code="a">Deane, Hamilton (1879-1958)</marc:subfield>
@@ -8301,7 +8305,7 @@
     <marc:datafield tag="531" ind1=" " ind2=" ">
       <marc:subfield code="5">xxg</marc:subfield>
       <marc:subfield code="p">Est un complément de]</marc:subfield>
-      <marc:subfield code="3">UMLRM154</marc:subfield>
+      <marc:subfield code="3">UMLRM0154</marc:subfield>
       <marc:subfield code="a">Dracula</marc:subfield>
       <marc:subfield code="c">film</marc:subfield>
       <marc:subfield code="d">1931</marc:subfield>
@@ -8547,7 +8551,7 @@
     <marc:datafield tag="542" ind1=" " ind2="1">
       <marc:subfield code="5">xxn</marc:subfield>
       <marc:subfield code="p">A pour traduction</marc:subfield>
-      <marc:subfield code="3"> UMLRM0035</marc:subfield>
+      <marc:subfield code="3">UMLRM0035</marc:subfield>
       <marc:subfield code="7">ba0yba0y</marc:subfield>
       <marc:subfield code="8">freeng</marc:subfield>
       <marc:subfield code="a">Humphries, Tudor (1953-….)</marc:subfield>
@@ -8770,7 +8774,7 @@
     <marc:datafield tag="541" ind1=" " ind2="1">
       <marc:subfield code="5">xxa</marc:subfield>
       <marc:subfield code="p">Est une adaptation dans un autre mode de création de [œuvre]</marc:subfield>
-      <marc:subfield code="3">UMLRM155</marc:subfield>
+      <marc:subfield code="3">UMLRM0155</marc:subfield>
       <marc:subfield code="7">ba0yba0y</marc:subfield>
       <marc:subfield code="8">fre###</marc:subfield>
       <marc:subfield code="a">Deane, Hamilton (1879-1958)</marc:subfield>
@@ -9391,7 +9395,7 @@
       <marc:subfield code="o">2004</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="502" ind1=" " ind2="1">
-      <marc:subfield code="3">11902797</marc:subfield>
+      <marc:subfield code="3">FRBNF11902797</marc:subfield>
       <marc:subfield code="7">ba0yba0y</marc:subfield>
       <marc:subfield code="8">frefre</marc:subfield>
       <marc:subfield code="o">ISNI0000 0001 2023 6609</marc:subfield>
@@ -9863,7 +9867,7 @@
       <marc:subfield code="3">UMLRM0105</marc:subfield>
       <marc:subfield code="7">ba0yba0y</marc:subfield>
       <marc:subfield code="8">fre</marc:subfield>
-      <marc:subfield code="d">Dracula has risen from the grave</marc:subfield>
+      <marc:subfield code="a">Dracula has risen from the grave</marc:subfield>
       <marc:subfield code="c">film</marc:subfield>
       <marc:subfield code="m">Français</marc:subfield>
     </marc:datafield>
@@ -10700,7 +10704,7 @@
       <marc:subfield code="a">Notes bibliographiques</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="501" ind1=" " ind2="1">
-      <marc:subfield code="3"> FRBNF11902797</marc:subfield>
+      <marc:subfield code="3">FRBNF11902797</marc:subfield>
       <marc:subfield code="7">ba0yba0y</marc:subfield>
       <marc:subfield code="8">frefre</marc:subfield>
       <marc:subfield code="o">ISNI 0000 0001 2023 6609</marc:subfield>

@@ -5866,7 +5866,7 @@
       <marc:subfield code="a">Société de production appartenant à Lions gate entertainment</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="303" ind1=" " ind2=" ">
-      <marc:subfield code="a">4553 Glencoe Av. , 90292 Marina del Rey, Calif. </marc:subfield>
+      <marc:subfield code="a">4553 Glencoe Av. , 90292 Marina del Rey, Calif.</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="801" ind1=" " ind2=" ">
       <marc:subfield code="a">FR</marc:subfield>
