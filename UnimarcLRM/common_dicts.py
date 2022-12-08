@@ -7,11 +7,14 @@ ENTITY_TYPE = {"i": "item", "m": "manifestation", "e": "expression", "o": "oeuvr
 tags_manif2expressions = {"507": "point d'accès autorisé Titre (manifestation pointant vers expression)", 
                           "577": "point d'accès autorisé Auteur-Titre (manifestation pointant vers expression)"}
 
-tags_expression2oeuvres = {"531": "Point d’accès autorisé – Titre (expression pointant vers oeuvre)",
-                           "532": "Point d’accès autorisé – Titre (expression pointant vers oeuvre)",
-                           "541": "Point d’accès autorisé – Auteur/titre (expression pointant vers oeuvre)",
-                           "542": "Point d’accès autorisé – Auteur/titre (expression pointant vers oeuvre)"}
+tags_expression2oeuvres = {"232": "point d'accès autorisé Titre",
+                           "242": "point d'acècs autorité Auteur-Titre" }
 
+tags_oe2expression = {"532": "Point d’accès autorisé – Titre (expression pointant vers oeuvre)",
+                             "542": "Point d’accès autorisé – Auteur/titre (expression pointant vers oeuvre)"}
+
+tags_oe2oeuvre = {"531": "Point d’accès autorisé – Titre (expression pointant vers oeuvre)",
+                          "541": "Point d’accès autorisé – Auteur/titre (expression pointant vers oeuvre)",}
 # Zones utilisées pour faire des liens aux Personnes et collectivités (avec indicateurs de relations autre que sujet)
 tags_resp = {"o": {"501": "Lien aux mentions de responsabilité Personne depuis des oeuvres",
                    "511": "Lien aux mentions de responsabilité Collectivité depuis des oeuvres"},

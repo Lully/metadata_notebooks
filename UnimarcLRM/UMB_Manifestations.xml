@@ -82,7 +82,7 @@
       <marc:subfield code="p">7 DVD vidéo</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="507" ind1="1" ind2=" ">
-      <marc:subfield code="3">ULRM0002</marc:subfield>
+      <marc:subfield code="3">UMLRM0002</marc:subfield>
       <marc:subfield code="7">ba0yba0y</marc:subfield>
       <marc:subfield code="8">freger</marc:subfield>
       <marc:subfield code="a">Nosferatu, eine Symphonie des Grauens</marc:subfield>
@@ -411,7 +411,7 @@
       <marc:subfield code="d">24 cm</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="577" ind1="1" ind2="1">
-      <marc:subfield code="3"> UMLRM0015</marc:subfield>
+      <marc:subfield code="3"> UMLRM0014</marc:subfield>
       <marc:subfield code="7">ba0yba0y</marc:subfield>
       <marc:subfield code="8">frefre</marc:subfield>
       <marc:subfield code="a">Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra</marc:subfield>
@@ -1523,7 +1523,7 @@
   </marc:record>
   <marc:record>
     <marc:leader>01067cam a2200205 i 4500</marc:leader>
-    <marc:controlfield tag="001">UMLRM0060 </marc:controlfield>
+    <marc:controlfield tag="001">UMLRM0060</marc:controlfield>
     <marc:controlfield tag="005">20221007######.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221003d1932    x  y0frey50      ba </marc:subfield>
@@ -2493,7 +2493,7 @@
       <marc:subfield code="d">32 cm</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="577" ind1="1" ind2="1">
-      <marc:subfield code="3">UMLRM100</marc:subfield>
+      <marc:subfield code="3">UMLRM0100</marc:subfield>
       <marc:subfield code="7">ba0yba0y</marc:subfield>
       <marc:subfield code="8">frefre</marc:subfield>
       <marc:subfield code="a">Druillet, Philippe (1944-….)</marc:subfield>
@@ -2556,7 +2556,7 @@
       <marc:subfield code="d">32 cm</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="577" ind1="1" ind2="1">
-      <marc:subfield code="3">UMLRM100</marc:subfield>
+      <marc:subfield code="3">UMLRM0100</marc:subfield>
       <marc:subfield code="7">ba0yba0y</marc:subfield>
       <marc:subfield code="8">frefre</marc:subfield>
       <marc:subfield code="a">Druillet, Philippe (1944-….)</marc:subfield>
@@ -2968,7 +2968,7 @@
   </marc:record>
   <marc:record>
     <marc:leader>01864ngm a2200337 i 4500</marc:leader>
-    <marc:controlfield tag="001">UMLRM0122 </marc:controlfield>
+    <marc:controlfield tag="001">UMLRM0122</marc:controlfield>
     <marc:datafield tag="071" ind1="4" ind2="1">
       <marc:subfield code="a">FG 315 880</marc:subfield>
       <marc:subfield code="b">EDV 1504</marc:subfield>

@@ -1,31 +1,31 @@
 Identifiant	Label	Type
 UMLRM0003	Nosferatu, Réalisation Friedrich W. Murnau	m
 UMLRM0006	Dracula, Bram Stoker	m
-UMLRM0009	 Nosferatu, fantôme de la nuit,  un film de Werner Herzog	m
-UMLRM0012	"Nosferatu le vampire", Paola Palma, Dimitri Vezyroglou	m
+UMLRM0009	Nosferatu, fantôme de la nuit, un film de Werner Herzog	m
+UMLRM0012	"Nosferatu le vampire, Paola Palma, Dimitri Vezyroglou	m
 UMLRM0015	Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra,  Opéra national de Paris	m
 UMLRM0018	Dracula, by Bram Stoker	m
-UMLRM0021	 Dracula,  Bram Stoker	m
+UMLRM0021	Dracula, Bram Stoker	m
 UMLRM0024	Dracula, Bram Stoker	m
 UMLRM0027	Dracula, Bram Stoker	m
 UMLRM0030	Dracula, Bram Stoker	m
 UMLRM0033	Dracula, Bram Stoker	m
 UMLRM0036	Dracula, d'après Bram Stoker	m
 UMLRM0039	Dracula, Bram Stoker	m
-UMLRM0042	 Dracula, Bram Stoker	m
+UMLRM0042	Dracula, Bram Stoker	m
 UMLRM0045	Dracula, Bram Stoker	m
 UMLRM0048	Dracula, Bram Stoker	m
 UMLRM0051	Dracula, Bram Stoker	m
 UMLRM0054	Dracula, Bram Stoker	m
 UMLRM0057	Dracula, Brahm Stoker	m
-UMLRM0060 	Dracula, Brahm Stoker	m
+UMLRM0060	Dracula, Brahm Stoker	m
 UMLRM0063	Dracula, Bram Stoker	m
 UMLRM0066	Drácula, Bram Stoker	m
 UMLRM0069	Dracula‎, Bram Stoker‎	m
 UMLRM0072	Bram Stoker, Barbara Belford	m
 UMLRM0077	Dracula¤suivi de L'invité de Dracula, Bram Stoker	m
 UMLRM0080	Bram Stoker's Dracula, Gary Oldman, Winona Ryder, Anthony Hopkins... [et autres], [acteurs]	m
-UMLRM0083	 "Dracula", ouvrage dirigé par Gilles Menegaldo et Dominique Sipière	m
+UMLRM0083	"Dracula", ouvrage dirigé par Gilles Menegaldo et Dominique Sipière	m
 UMLRM0086	Dracula, Matei Cazacu	m
 UMLRM0089	Le vampire au fil des siècles, Estelle Valls de Gomis	m
 UMLRM0092	Nosferatu, Idol FX AB, Pan vision	m
@@ -37,7 +37,7 @@ UMLRM0110	Dracula, Bram Stoker	m
 UMLRM0113	 Bram Stoker’s Dracula, William Hughes	m
 UMLRM0116	Dracula l'immortel, Dacre Stoker et Ian Holt	m
 UMLRM0119	Dracula l'immortel, scénario, Michel Dufranne	m
-UMLRM0122 	Dracula, mort et heureux de l’être, un film de Mel Brooks	m
+UMLRM0122	Dracula, mort et heureux de l’être, un film de Mel Brooks	m
 UMLRM0128	Bram Stoker’s notes for “Dracula “, Bram Stoker	m
 UMLRM0131	L'ombre du vampire, E. Elias Merhige, [réalisateur]	m
 UMLRM0134	Max Schreck, Stefan Eickhoff	m
@@ -52,7 +52,7 @@ UMLRM0176	Les grands classiques du cinéma allemand	m
 UMLRM0177	Dracula, Bram Stoker	m
 UMLRM0178	Dracula, Bram Stoker	m
 UMLRM0179	Dracula, Bram Stoker	m
-UMLRM0182	 Dracula et les femmes, avec Christopher Lee, Rupert Davies	m
+UMLRM0182	Dracula et les femmes, avec Christopher Lee, Rupert Davies	m
 UMLRM0185	L'ombre du vampire, E. Elias Merhige, [réalisateur]	m
 UMLRM0188	Dracula, Bram Stoker	m
 UMLRM0190	Mel Brooks	m
@@ -87,7 +87,8 @@ UMLRM0106	Dracula has risen from the grave	e
 UMLRM0112	Hughes, William (1964-....), Bram Stoker’s Dracula : a reader’s guide	e
 UMLRM0115	Stoker, Dacre¤Holt, Ian (1964-….), Dracula, the un-dead	e
 UMLRM0118	Dufranne, Michel (1970-....)¤Kowalski, Piotr (1973-....), Dracula l’immortel	e
-UMLRM0121 	Dracula, dead and loving it	e
+UMLRM0121	Dracula, dead and loving it	e
+UMLRM0127	Stoker, Bram (1847-1912), Manuscrits	e
 UMLRM0130	Shadow of the vampire	e
 UMLRM0133	Eickhoff, Stefan, Max Schreck : Gespenstertheater	e
 UMLRM0136	Dracula : pages from a virgin's diary	e
@@ -103,7 +104,7 @@ UMLRM0167	Guy Maddin	e
 UMLRM0170	Gauriat, Vincent, Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin	e
 UMLRM0172	Stoker, Bram (1847-1912), Dracula	e
 UMLRM0175	Les grands classiques du cinéma allemand	e
-UMLRM0181		e
+UMLRM0181	Dracula has risen from the grave	e
 UMLRM0184	Shadow of the vampire	e
 UMLRM0187	Stoker, Bram (1847-1912), Dracula	e
 UMLRM0189	Dracula, dead and loving it	e
@@ -130,8 +131,8 @@ UMLRM0105	Dracula has risen from the grave	o
 UMLRM0111	Hughes, William (1964-....), Bram Stoker’s Dracula : a reader’s guide	o
 UMLRM0114	Stoker, Dacre¤Holt, Ian (1964-….), Dracula, the un-dead	o
 UMLRM0117	Dufranne, Michel (1970-....)¤Kowalski, Piotr (1973-....), Dracula l’immortel	o
-UMLR0120	Dracula, dead and loving it	o
-UMLRM0126¤UMLRM0127	Stoker, Bram (1847-1912), Manuscrits, Stoker, Bram (1847-1912), Manuscrits	o
+UMLRM0120	Dracula, dead and loving it	o
+UMLRM0126	Stoker, Bram (1847-1912), Manuscrits	o
 UMLRM0129	Shadow of the vampire	o
 UMLRM0132	Eickhoff, Stefan, Max Schreck : Gespenstertheater	o
 UMLRM0135	Dracula: pages from a virgin's diary	o

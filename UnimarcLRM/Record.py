@@ -44,6 +44,7 @@ class Record:
         self.label = get_label(self)
         self.stats_zones = get_stats_zones(xml_record)
         self.resp = get_responsabilites(xml_record, self.type)
+        self.respIds = get_respids(xml_record, self.type)
         dic_id2type[self.id] = self.type
         self.repr = f"id : {self.id}\ntype initial : {self.init_type} ; type : {self.type}\n\
 label : {self.label}\n\nNotice : {self.txt} \n\nXML : {self.xml}"
@@ -199,7 +200,15 @@ def get_responsabilites(xml_record, rectype):
                     for subf4 in field_occ.xpath("*[@code='4']"):
                         roles.append(ROLES[subf4.text])
                 except KeyError:
-                    print(sru.record2fieldvalue(xml_record, "001"), subf4.text)
+                    print(rectype, f'"{sru.record2fieldvalue(xml_record, "001")}"', f"'{subf4.text}'")
                 label_entity = ", ".join(label_entity)
                 resp[label_entity] = roles
     return resp
+
+def get_respids(xml_record, rectype):
+    respids = set()
+    if rectype in tags_resp:
+        for tag in tags_resp[rectype]:
+            for field_occ in xml_record.xpath(f"*[@tag='{tag}']"):
+                respids.add(sru.field2subfield(field_occ, "3"))
+    return respids
