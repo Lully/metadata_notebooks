@@ -45,6 +45,10 @@ class Record:
         self.stats_zones = get_stats_zones(xml_record)
         self.resp = get_responsabilites(xml_record, self.type)
         self.respIds = get_respids(xml_record, self.type)
+        self.toOeuvres = defaultdict(str)
+        self.toExpressions = defaultdict(str)
+        self.toManifs = defaultdict(str)
+        self.toItems = defaultdict(str)
         dic_id2type[self.id] = self.type
         self.repr = f"id : {self.id}\ntype initial : {self.init_type} ; type : {self.type}\n\
 label : {self.label}\n\nNotice : {self.txt} \n\nXML : {self.xml}"
