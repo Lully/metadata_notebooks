@@ -33,6 +33,7 @@ import SRUextraction as sru # import du fichier https://github.com/Lully/bnf-sru
 from common_dicts import *
 
 dic_id2type = {}
+dict_entities = {}
 
 class Record:
     def __init__(self, xml_record, rectype):
@@ -51,7 +52,7 @@ class Record:
         self.toItems = defaultdict(str)
         dic_id2type[self.id] = self.type
         self.repr = f"id : {self.id}\ntype initial : {self.init_type} ; type : {self.type}\n\
-label : {self.label}\n\nNotice : {self.txt} \n\nXML : {self.xml}"
+label : {self.label}\n\nNotice : {self.txt} \n\nXML : {self.xml}\n"
     
     def __repr__(self):
         representation = self.repr
@@ -70,10 +71,71 @@ class Manifestation(Record):
 class Oeuvre(Record):
     def __init__(self, xml_record, rectype):
         super().__init__(xml_record, rectype)
+        self.detailed = construct_detailed_work(self)
 
     def __repr__(self):
         representation = self.repr
+        representation += f"Liens aux autres entités :\n\
+Vers expressions : {str(self.toExpressions)}\n\
+Vers manifestations : {str(self.toManifs)}\n\
+Vers items : {str(self.toItems)}"
         return representation
+
+
+def construct_detailed_work(oeuvre):
+    """Notice détaillée d'oeuvre :
+231$a. 231$c (231$d) - 231$m
+Description : 531$p + label(531$3). 541 $p + label(541$3)
+Autres infos : 640$0 : [640$f à normaliser] (640$d)"""
+    row = []
+    first_line = sru.record2fieldvalue(oeuvre.xml, "231$a")
+    if sru.record2fieldvalue(oeuvre.xml, "231$c"):
+        first_line += f". {sru.record2fieldvalue(oeuvre.xml, '231$c')}"
+    if sru.record2fieldvalue(oeuvre.xml, "231$d"):
+        first_line += f" ({sru.record2fieldvalue(oeuvre.xml, '231$d')})"
+    if sru.record2fieldvalue(oeuvre.xml, "231$m"):
+        first_line += f" - ({sru.record2fieldvalue(oeuvre.xml, '231$m')}"
+    row.append(first_line)
+    description = zones2recorddescription(oeuvre.xml, ["531", "541"])
+    if description:
+        row.append(f"Description : {description}")
+    autres_infos = []
+    for f640 in oeuvre.xml.xpath("*[@tag='640']"):
+        val = sru.field2subfield(f640, "0")
+        if sru.field2subfield(f640, "d"):
+            val += f" : {normalize_date(sru.field2subfield(f640, 'd'))}"
+        if sru.field2subfield(f640, "f"):
+            val += f" ({sru.field2subfield(f640, 'f')})"
+        autres_infos.append(val)
+    autres_infos = ". ".join(autres_infos)
+    row.append(autres_infos)
+    row = "\n".join(row)
+    return row
+                
+def normalize_date(date):
+    reg = "#(\d\d\d\d)(\d\d)(\d\d)#"
+    new_date = ""
+    if re.fullmatch(reg, date) is not None:
+        new_date = re.sub(reg, r"$3/$2/$1", date)
+    return new_date
+
+
+def zones2recorddescription(xml_record, list_tags):
+    description = []
+    for tag in list_tags:
+        for field in xml_record.xpath(f"*[@tag='{tag}']"):
+            desc = []
+            if sru.field2subfield(field, "$p"):
+                desc.append(sru.field2subfield(field, "$p"))
+            if sru.field2subfield(field, "$3"):
+                try:
+                    desc.append(dict_entities[sru.field2subfield(field, "$3")].label)
+                except KeyError:
+                    print(sru.field2subfield(field, "$3"))
+            desc = " ".join(desc)
+            description.append(desc)  
+    description = ". ".join([el for el in description if el])
+    return description     
 
 
 class Expression(Record):
@@ -82,7 +144,10 @@ class Expression(Record):
         self.toOeuvres  = expression2oeuvre(self.xml)
 
     def __repr__(self):
-        representation = self.repr
+        representation += f"Liens aux autres entités :\n\
+Vers Oeuvres : {str(self.toOeuvres)}\n\
+Vers manifestations : {str(self.toManifs)}\n\
+Vers items : {str(self.toItems)}"
         return representation
 
 class Item(Record):
@@ -175,6 +240,9 @@ def get_label(record):
     if record.type in "mipc":
         label.append(sru.record2fieldvalue(record.xml, "200$a"))
         label.append(sru.record2fieldvalue(record.xml, "200$f"))
+        label.append(sru.record2fieldvalue(record.xml, "252$a"))
+        label.append(sru.record2fieldvalue(record.xml, "252$b"))
+        label.append(sru.record2fieldvalue(record.xml, "252$j"))
     elif record.type in "eox":
         for field in record.xml.xpath("*[@tag]"):
             tag = field.get("tag")
@@ -187,7 +255,11 @@ def get_label(record):
                     label.append("*"*20)
                     label.append("$a vide")
                     label.append(sru.field2value(field))
-    return ", ".join([el for el in label if el.strip()])
+    if record.type in "i":
+        label = " > ".join([el for el in label if el.strip()])
+    else:
+        label = ", ".join([el for el in label if el.strip()])
+    return label
 
 
 def get_responsabilites(xml_record, rectype):

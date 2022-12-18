@@ -3919,6 +3919,9 @@
     <marc:datafield tag="152" ind1=" " ind2=" ">
       <marc:subfield code="a">RDA-FR</marc:subfield>
     </marc:datafield>
+    <marc:datafield tag="154" ind1=" " ind2=" ">
+      <marc:subfield code="a">xb</marc:subfield>
+    </marc:datafield>
     <marc:datafield tag="242" ind1=" " ind2="1">
       <marc:subfield code="3">UMLRM0087</marc:subfield>
       <marc:subfield code="7">ba0yba0y</marc:subfield>
