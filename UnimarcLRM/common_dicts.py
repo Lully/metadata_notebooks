@@ -22,3 +22,11 @@ tags_resp = {"o": {"501": "Lien aux mentions de responsabilité Personne depuis 
                    "512": "Lien aux mentions de responsabilité Collectivité depuis des expressions"},
              "m": {"702": "Lien de manifestation à une mention de responsabilité Personne",
                    "712": "Lien de manifestation à une mention de responsabilité Collectivité"}}
+
+# Pour chaque type d'entité, les zones à indexer
+tags_indexation = {"m": "200,214$a$c$d,225$a$c,307$a,320$a,327$a,330$a".split(","),
+                   "e": "232$a,371$a".split(","),
+                   "o": "033$a,052$a,231$a,370$a$c,378$a".split(","),
+                   "i": "252$a$b$j".split(","),
+                   "p": []
+                   }

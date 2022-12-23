@@ -8804,11 +8804,6 @@
       <marc:subfield code="d">Madrid</marc:subfield>
       <marc:subfield code="f">#19310320#</marc:subfield>
     </marc:datafield>
-    <marc:datafield tag="640" ind1="6" ind2=" ">
-      <marc:subfield code="0">Date de première sortie en salle</marc:subfield>
-      <marc:subfield code="a">US</marc:subfield>
-      <marc:subfield code="d">New</marc:subfield>
-    </marc:datafield>
   </marc:record>
   <marc:record>
     <marc:leader>01782nx  a2200277   4500</marc:leader>
