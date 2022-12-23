@@ -28,11 +28,14 @@ from collections import defaultdict
 from lxml import etree
 from string import ascii_lowercase
 import re
+from string import punctuation
+from unidecode import unidecode
 
 import SRUextraction as sru # import du fichier https://github.com/Lully/bnf-sru/blob/master/SRUextraction.py
 from common_dicts import *
 
 dic_id2type = {}
+dict_entities = {}
 
 class Record:
     def __init__(self, xml_record, rectype):
@@ -45,9 +48,15 @@ class Record:
         self.stats_zones = get_stats_zones(xml_record)
         self.resp = get_responsabilites(xml_record, self.type)
         self.respIds = get_respids(xml_record, self.type)
+        self.toOeuvres = defaultdict(str)
+        self.toExpressions = defaultdict(str)
+        self.toManifs = defaultdict(str)
+        self.toItems = defaultdict(str)
+        self.self_index, self.linked_entities_index, self.resp_index, self.linked_resp_index, self.global_index = construct_indexation(self)
         dic_id2type[self.id] = self.type
         self.repr = f"id : {self.id}\ntype initial : {self.init_type} ; type : {self.type}\n\
-label : {self.label}\n\nNotice : {self.txt} \n\nXML : {self.xml}"
+label : {self.label}\n\nNotice : {self.txt} \n\nXML : {self.xml}\n\
+Indexation : {self.global_index}"
     
     def __repr__(self):
         representation = self.repr
@@ -61,15 +70,126 @@ class Manifestation(Record):
 
     def __repr__(self):
         representation = self.repr
+        representation += f"\nLiens aux autres entités :\n\
+Vers Oeuvres : {str(self.toOeuvres)}\n\
+Vers expressions : {str(self.toExpressions)}\n\
+Vers items : {str(self.toItems)}"
         return representation
 
 class Oeuvre(Record):
     def __init__(self, xml_record, rectype):
         super().__init__(xml_record, rectype)
+        self.detailed = construct_detailed_work(self)
 
     def __repr__(self):
-        representation = self.repr
+        representation = self.detailed + "\n"*2 + self.repr
+        representation += f"\nLiens aux autres entités :\n\
+Vers expressions : {str(self.toExpressions)}\n\
+Vers manifestations : {str(self.toManifs)}\n\
+Vers items : {str(self.toItems)}"
         return representation
+
+
+def construct_detailed_work(oeuvre):
+    """Notice détaillée d'oeuvre :
+231$a. 231$c (231$d) - 231$m
+Description : 531$p + label(531$3). 541 $p + label(541$3)
+Autres infos : 640$0 : [640$f à normaliser] (640$d)"""
+    row = []
+    first_line = sru.record2fieldvalue(oeuvre.xml, "231$a")
+    if sru.record2fieldvalue(oeuvre.xml, "231$c"):
+        first_line += f". {sru.record2fieldvalue(oeuvre.xml, '231$c')}"
+    if sru.record2fieldvalue(oeuvre.xml, "231$d"):
+        first_line += f" ({sru.record2fieldvalue(oeuvre.xml, '231$d')})"
+    if sru.record2fieldvalue(oeuvre.xml, "231$m"):
+        first_line += f" - ({sru.record2fieldvalue(oeuvre.xml, '231$m')}"
+    row.append(first_line)
+    description = zones2recorddescription(oeuvre.xml, ["531", "541"])
+    if description:
+        row.append(f"Description : {description}")
+    autres_infos = []
+    for f640 in oeuvre.xml.xpath("*[@tag='640']"):
+        val = sru.field2subfield(f640, "0")
+        if sru.field2subfield(f640, "f"):
+            val += f" : {normalize_date(sru.field2subfield(f640, 'f'))}"
+        if sru.field2subfield(f640, "d"):
+            val += f" ({sru.field2subfield(f640, 'd')})"
+        autres_infos.append(val)
+    autres_infos = ". ".join(autres_infos)
+    row.append(autres_infos)
+    row = "\n".join(row)
+    return row
+                
+def normalize_date(date):
+    reg = "#(\d\d\d\d)(\d\d)(\d\d)#"
+    new_date = ""
+    if re.fullmatch(reg, date) is not None:
+        new_date = re.sub(reg, r"\3/\2/\1", date)
+    return new_date
+
+
+def clean_string(string):
+    # renvoie une version nettoyée (sans ponctuation ni majuscules)
+    string = string.lower()
+    for char in punctuation:
+        string = string.replace(char, " ")
+    string = " ".join([el for el in string.split(" ") if len(el) > 1])
+    string = unidecode(string)
+    return string
+
+
+def construct_indexation(record):
+    # construction de l'indexation
+    global_index = []
+    self_index = []             # Métadonnées dans l'entité même
+    linked_entities_index = []  # métadonnées des entités OEMI en lien
+    resp_index = []             # métadonnées pour les mentions de responsabilité
+    linked_resp_index = []      # métadonnées des mentions de responsabilités en lien 
+    tags = tags_indexation[record.type]
+    for tag in tags:
+        current_value = sru.record2fieldvalue(record.xml, tag)
+        current_value = re.sub(" ?$. ", " ", current_value)
+        current_value = clean_string(current_value)
+        self_index.append(current_value)
+    for dico in [record.toOeuvres, record.toExpressions, record.toManifs, record.toItems]:
+        values = []
+        if type(dico) == dict:
+            for key in dico:
+                values.append(clean_string(dico[key]))
+        linked_entities_index.extend(values)
+    for resp_label in record.resp:
+        resp_index.append(clean_string(resp_label))
+    if record.type == "m":
+        for expr in record.toExpressions:
+            expr_rec = dict_entities[expr]
+            for resp_label in expr_rec.resp:
+                linked_resp_index.append(clean_string(resp_label))
+        for oeuvre in record.toOeuvres:
+            oeuvre_rec = dict_entities[oeuvre]
+            for resp_label in oeuvre_rec.resp:
+                linked_resp_index.append(clean_string(resp_label))
+    
+    global_index = self_index + linked_entities_index + resp_index + linked_resp_index
+    global_index = " ".join(global_index)
+    return self_index, linked_entities_index, resp_index, linked_resp_index, global_index
+
+
+def zones2recorddescription(xml_record, list_tags):
+    description = []
+    for tag in list_tags:
+        for field in xml_record.xpath(f"*[@tag='{tag}']"):
+            desc = []
+            if sru.field2subfield(field, "$p"):
+                desc.append(sru.field2subfield(field, "$p"))
+            if sru.field2subfield(field, "$3"):
+                try:
+                    desc.append(dict_entities[sru.field2subfield(field, "$3")].label)
+                except KeyError:
+                    print(sru.field2subfield(field, "$3"))
+            desc = " ".join(desc)
+            description.append(desc)  
+    description = ". ".join([el for el in description if el])
+    return description     
 
 
 class Expression(Record):
@@ -79,6 +199,10 @@ class Expression(Record):
 
     def __repr__(self):
         representation = self.repr
+        representation += f"\nLiens aux autres entités :\n\
+Vers Oeuvres : {str(self.toOeuvres)}\n\
+Vers manifestations : {str(self.toManifs)}\n\
+Vers items : {str(self.toItems)}"
         return representation
 
 class Item(Record):
@@ -171,6 +295,9 @@ def get_label(record):
     if record.type in "mipc":
         label.append(sru.record2fieldvalue(record.xml, "200$a"))
         label.append(sru.record2fieldvalue(record.xml, "200$f"))
+        label.append(sru.record2fieldvalue(record.xml, "252$a"))
+        label.append(sru.record2fieldvalue(record.xml, "252$b"))
+        label.append(sru.record2fieldvalue(record.xml, "252$j"))
     elif record.type in "eox":
         for field in record.xml.xpath("*[@tag]"):
             tag = field.get("tag")
@@ -178,12 +305,21 @@ def get_label(record):
                 if sru.field2subfield(field, "a"):
                     label.append(sru.field2subfield(field, "a"))
                 if record.type in "oe":
+                    label.append(sru.field2subfield(field, "c"))
+                if record.type in "oe":
+                    label.append(sru.field2subfield(field, "d"))
+                if record.type in "oe":
                     label.append(sru.field2subfield(field, "t"))
                 else:
                     label.append("*"*20)
                     label.append("$a vide")
                     label.append(sru.field2value(field))
-    return ", ".join([el for el in label if el.strip()])
+    if record.type in "i":
+        label = " > ".join([el for el in label if el.strip()])
+    else:
+        label = ", ".join([el for el in label if el.strip()])
+    label = label.replace("¤", " - ")
+    return label
 
 
 def get_responsabilites(xml_record, rectype):

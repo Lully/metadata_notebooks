@@ -3919,6 +3919,9 @@
     <marc:datafield tag="152" ind1=" " ind2=" ">
       <marc:subfield code="a">RDA-FR</marc:subfield>
     </marc:datafield>
+    <marc:datafield tag="154" ind1=" " ind2=" ">
+      <marc:subfield code="a">xb</marc:subfield>
+    </marc:datafield>
     <marc:datafield tag="242" ind1=" " ind2="1">
       <marc:subfield code="3">UMLRM0087</marc:subfield>
       <marc:subfield code="7">ba0yba0y</marc:subfield>
@@ -8800,11 +8803,6 @@
       <marc:subfield code="a">ES</marc:subfield>
       <marc:subfield code="d">Madrid</marc:subfield>
       <marc:subfield code="f">#19310320#</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="640" ind1="6" ind2=" ">
-      <marc:subfield code="0">Date de première sortie en salle</marc:subfield>
-      <marc:subfield code="a">US</marc:subfield>
-      <marc:subfield code="d">New</marc:subfield>
     </marc:datafield>
   </marc:record>
   <marc:record>
