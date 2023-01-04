@@ -96,13 +96,19 @@ def construct_detailed_work(oeuvre):
 Description : 531$p + label(531$3). 541 $p + label(541$3)
 Autres infos : 640$0 : [640$f à normaliser] (640$d)"""
     row = []
-    first_line = sru.record2fieldvalue(oeuvre.xml, "231$a")
-    if sru.record2fieldvalue(oeuvre.xml, "231$c"):
-        first_line += f". {sru.record2fieldvalue(oeuvre.xml, '231$c')}"
-    if sru.record2fieldvalue(oeuvre.xml, "231$d"):
-        first_line += f" ({sru.record2fieldvalue(oeuvre.xml, '231$d')})"
-    if sru.record2fieldvalue(oeuvre.xml, "231$m"):
-        first_line += f" - ({sru.record2fieldvalue(oeuvre.xml, '231$m')}"
+    first_line = ""
+    if sru.record2fieldvalue(oeuvre.xml, "231"):
+        first_line = sru.record2fieldvalue(oeuvre.xml, "231$a")
+        for subfield in "cdm":
+            subf = f"231${subfield}"
+            if sru.record2fieldvalue(oeuvre.xml, subf):
+                first_line += f". {sru.record2fieldvalue(oeuvre.xml, subf)}"
+    elif sru.record2fieldvalue(oeuvre.xml, "241"):
+        first_line = sru.record2fieldvalue(oeuvre.xml, "241$a")
+        for subfield in "cdm":
+            subf = f"241${subfield}"
+            if sru.record2fieldvalue(oeuvre.xml, subf):
+                first_line += f". {sru.record2fieldvalue(oeuvre.xml, subf)}"
     row.append(first_line)
     description = zones2recorddescription(oeuvre.xml, ["531", "541"])
     if description:
@@ -117,14 +123,19 @@ Autres infos : 640$0 : [640$f à normaliser] (640$d)"""
         autres_infos.append(val)
     autres_infos = ". ".join(autres_infos)
     row.append(autres_infos)
+    if sru.field2subfield(oeuvre.xml, "370$c"):
+        row.append(sru.field2subfield(oeuvre.xml, "370$c"))
     row = "\n".join(row)
     return row
                 
 def normalize_date(date):
-    reg = "#(\d\d\d\d)(\d\d)(\d\d)#"
+    reg1 = "#(\d\d\d\d)(\d\d)(\d\d)#"
+    reg2 = "#(\d\d\d\d).+#"
     new_date = ""
-    if re.fullmatch(reg, date) is not None:
-        new_date = re.sub(reg, r"\3/\2/\1", date)
+    if re.fullmatch(reg1, date) is not None:
+        new_date = re.sub(reg1, r"\3/\2/\1", date)
+    elif re.fullmatch(reg2, date) is not None:
+        new_date = re.sub(reg2, r"\1", date)
     return new_date
 
 
@@ -179,6 +190,8 @@ def zones2recorddescription(xml_record, list_tags):
     for tag in list_tags:
         for field in xml_record.xpath(f"*[@tag='{tag}']"):
             desc = []
+            if sru.field2subfield(field, "$f"):
+                desc.append(sru.field2subfield(field, "$f"))
             if sru.field2subfield(field, "$p"):
                 desc.append(sru.field2subfield(field, "$p"))
             if sru.field2subfield(field, "$3"):
@@ -196,6 +209,7 @@ class Expression(Record):
     def __init__(self, xml_record, rectype):
         super().__init__(xml_record, rectype)
         self.toOeuvres  = expression2oeuvre(self.xml)
+        self.detailed = construct_detailed_expression(self)
 
     def __repr__(self):
         representation = self.repr
@@ -204,6 +218,43 @@ Vers Oeuvres : {str(self.toOeuvres)}\n\
 Vers manifestations : {str(self.toManifs)}\n\
 Vers items : {str(self.toItems)}"
         return representation
+
+def construct_detailed_expression(expression):
+    """Notice détaillée d'oeuvre :
+231$a. 231$c (231$d) - 231$m
+Description : 531$p + label(531$3). 541 $p + label(541$3)
+Autres infos : 640$0 : [640$f à normaliser] (640$d)"""
+    row = []
+    first_line = ""
+    if sru.record2fieldvalue(expression.xml, "232"):
+        first_line = sru.record2fieldvalue(expression.xml, "232$a")
+        for subfield in "cdmt":
+            subf = f"242${subfield}"
+            if sru.record2fieldvalue(expression.xml, subf):
+                first_line += f". {sru.record2fieldvalue(expression.xml, subf.replace('¤', ', '))}"
+    elif sru.record2fieldvalue(expression.xml, "242"):
+        first_line = sru.record2fieldvalue(expression.xml, "242$a")
+        for subfield in "cdmt":
+            subf = f"242${subfield}"
+            if sru.record2fieldvalue(expression.xml, subf):
+                first_line += f". {sru.record2fieldvalue(expression.xml, subf.replace('¤', ', '))}"
+    row.append(first_line)
+    description = zones2recorddescription(expression.xml, ["371"])
+    if description:
+        row.append(f"Description : {description}")
+    autres_infos = []
+    for f640 in expression.xml.xpath("*[@tag='640']"):
+        val = sru.field2subfield(f640, "0")
+        if sru.field2subfield(f640, "f"):
+            val += f" : {normalize_date(sru.field2subfield(f640, 'f'))}"
+        if sru.field2subfield(f640, "d"):
+            val += f" ({sru.field2subfield(f640, 'd')})"
+        autres_infos.append(val)
+    autres_infos = ". ".join(autres_infos)
+    row.append(autres_infos)
+    row = "\n".join(row)
+    return row
+
 
 class Item(Record):
     def __init__(self, xml_record, rectype):
@@ -298,6 +349,8 @@ def get_label(record):
         label.append(sru.record2fieldvalue(record.xml, "252$a"))
         label.append(sru.record2fieldvalue(record.xml, "252$b"))
         label.append(sru.record2fieldvalue(record.xml, "252$j"))
+        label.append(sru.record2fieldvalue(record.xml, "214$c"))
+        label.append(sru.record2fieldvalue(record.xml, "214$d"))
     elif record.type in "eox":
         for field in record.xml.xpath("*[@tag]"):
             tag = field.get("tag")
