@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2016-04-28">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="indegree" title="Degré Entrant" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="outdegree" title="Degré Sortant" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="degree" title="Degré" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="weighted indegree" title="Degré Entrant Pondéré" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="weighted outdegree" title="Degré Sortant Pondéré" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="weighted degree" title="Degré pondéré" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="eccentricity" title="Eccentricity" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="harmonicclosnesscentrality" title="Harmonic Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="frbr-rda:Manifestation" label="frbr-rda:Manifestation">
+        <attvalues>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="outdegree" value="6"></attvalue>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted indegree" value="1.2410994E7"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0927052E8"></attvalue>
+          <attvalue for="weighted degree" value="1.21681514E8"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5106382978723404"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5902777777777778"></attvalue>
+          <attvalue for="betweenesscentrality" value="16.166666666666668"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="42.857143"></viz:size>
+        <viz:position x="-106.22052" y="1381.6827"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="geo:SpatialThing" label="geo:SpatialThing">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted indegree" value="221891.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1405790.0"></attvalue>
+          <attvalue for="weighted degree" value="1627681.0"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.36363636363636365"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4166666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="12.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="25.714287"></viz:size>
+        <viz:position x="380.39188" y="1562.1595"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="foaf:Person" label="foaf:Person">
+        <attvalues>
+          <attvalue for="indegree" value="5"></attvalue>
+          <attvalue for="outdegree" value="7"></attvalue>
+          <attvalue for="degree" value="12"></attvalue>
+          <attvalue for="weighted indegree" value="1.7560199E7"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0281142E7"></attvalue>
+          <attvalue for="weighted degree" value="3.7841341E7"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5972222222222224"></attvalue>
+          <attvalue for="betweenesscentrality" value="33.5"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="51.428574"></viz:size>
+        <viz:position x="-69.119774" y="1543.1403"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="bnf-onto:expositionVirtuelle" label="bnf-onto:expositionVirtuelle">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="14710.0"></attvalue>
+          <attvalue for="weighted degree" value="14710.0"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.36619718309859156"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4166666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="22.857143"></viz:size>
+        <viz:position x="1088.4053" y="2070.36"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="bibo:Periodical" label="bibo:Periodical">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="288.0"></attvalue>
+          <attvalue for="weighted degree" value="288.0"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.40625"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4551282051282052"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="22.857143"></viz:size>
+        <viz:position x="-2155.1064" y="1031.8104"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="#Expression" label="#Expression">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.5786834E7"></attvalue>
+          <attvalue for="weighted degree" value="2.5786834E7"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.373134328358209"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.43000000000000005"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="22.857143"></viz:size>
+        <viz:position x="-73.44494" y="1624.7462"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="skos:Concept" label="skos:Concept">
+        <attvalues>
+          <attvalue for="indegree" value="11"></attvalue>
+          <attvalue for="outdegree" value="8"></attvalue>
+          <attvalue for="degree" value="19"></attvalue>
+          <attvalue for="weighted indegree" value="2.7982815E7"></attvalue>
+          <attvalue for="weighted outdegree" value="1.8629275E7"></attvalue>
+          <attvalue for="weighted degree" value="4.661209E7"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5333333333333333"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6180555555555557"></attvalue>
+          <attvalue for="betweenesscentrality" value="117.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="71.42857"></viz:size>
+        <viz:position x="199.52426" y="1432.2418"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="frbr-rda:Manifestationlitteral" label="frbr-rda:Manifestationlitteral">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="6.3430242E7"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="6.3430242E7"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="177.49722" y="1334.0948"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="frbr-rda:Work" label="frbr-rda:Work">
+        <attvalues>
+          <attvalue for="indegree" value="9"></attvalue>
+          <attvalue for="outdegree" value="13"></attvalue>
+          <attvalue for="degree" value="22"></attvalue>
+          <attvalue for="weighted indegree" value="2043608.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3009067.0"></attvalue>
+          <attvalue for="weighted degree" value="5052675.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.631578947368421"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.736111111111111"></attvalue>
+          <attvalue for="betweenesscentrality" value="93.33333333333334"></attvalue>
+          <attvalue for="modularity_class" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="80.0"></viz:size>
+        <viz:position x="96.329124" y="1070.2501"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="owl-time:Instant" label="owl-time:Instant">
+        <attvalues>
+          <attvalue for="indegree" value="5"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="weighted indegree" value="1.4619878E7"></attvalue>
+          <attvalue for="weighted outdegree" value="12880.0"></attvalue>
+          <attvalue for="weighted degree" value="1.4632758E7"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="13.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="37.14286"></viz:size>
+        <viz:position x="-155.13992" y="1483.2799"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="frbr-rda:Expression" label="frbr-rda:Expression">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="6"></attvalue>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="weighted indegree" value="1.4575271E7"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0288169E7"></attvalue>
+          <attvalue for="weighted degree" value="2.486344E7"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5106382978723404"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5902777777777779"></attvalue>
+          <attvalue for="betweenesscentrality" value="16.333333333333332"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="161.34882" y="1270.07"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="dcmitype:InteractiveResource" label="dcmitype:InteractiveResource">
+        <attvalues>
+          <attvalue for="indegree" value="4"></attvalue>
+          <attvalue for="outdegree" value="9"></attvalue>
+          <attvalue for="degree" value="13"></attvalue>
+          <attvalue for="weighted indegree" value="4611.0"></attvalue>
+          <attvalue for="weighted outdegree" value="22713.0"></attvalue>
+          <attvalue for="weighted degree" value="27324.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5217391304347826"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6250000000000001"></attvalue>
+          <attvalue for="betweenesscentrality" value="25.16666666666667"></attvalue>
+          <attvalue for="modularity_class" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="54.285717"></viz:size>
+        <viz:position x="626.14624" y="-474.1972"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="geo:SpatialThinglitteral" label="geo:SpatialThinglitteral">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="1175562.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="1175562.0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="437.9483" y="1598.8691"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="iso639-2:iso639-2_Language" label="iso639-2:iso639-2_Language">
+        <attvalues>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted indegree" value="120290.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="120290.0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="25.714287"></viz:size>
+        <viz:position x="-493.38452" y="1758.2113"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="foaf:Personlitteral" label="foaf:Personlitteral">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="1.8587886E7"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="1.8587886E7"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="48.28704" y="1585.9319"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="madsrdf:Authority" label="madsrdf:Authority">
+        <attvalues>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted indegree" value="120290.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="120290.0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="25.714287"></viz:size>
+        <viz:position x="64.18214" y="2010.0135"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="madsrdf:Language" label="madsrdf:Language">
+        <attvalues>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted indegree" value="120290.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="120290.0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="25.714287"></viz:size>
+        <viz:position x="-235.93332" y="1972.06"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="skos:Conceptlitteral" label="skos:Conceptlitteral">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="1.3290382E7"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="1.3290382E7"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="235.59119" y="1526.1622"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="foaf:Organization" label="foaf:Organization">
+        <attvalues>
+          <attvalue for="indegree" value="5"></attvalue>
+          <attvalue for="outdegree" value="5"></attvalue>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted indegree" value="1.1565179E7"></attvalue>
+          <attvalue for="weighted outdegree" value="1893478.0"></attvalue>
+          <attvalue for="weighted degree" value="1.3458657E7"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4897959183673469"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5625000000000001"></attvalue>
+          <attvalue for="betweenesscentrality" value="29.833333333333332"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="45.714287"></viz:size>
+        <viz:position x="-186.66925" y="1667.3363"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="dcmitype:Event" label="dcmitype:Event">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="143180.0"></attvalue>
+          <attvalue for="weighted outdegree" value="657169.0"></attvalue>
+          <attvalue for="weighted degree" value="800349.0"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.36363636363636365"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4166666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="12.0"></attvalue>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="28.57143"></viz:size>
+        <viz:position x="550.0378" y="1381.472"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="dcmitype:Eventlitteral" label="dcmitype:Eventlitteral">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="513147.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="513147.0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="649.86615" y="1334.822"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="frbr-rda:Worklitteral" label="frbr-rda:Worklitteral">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="1740291.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="1740291.0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="115.14569" y="937.5385"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="foaf:Document" label="foaf:Document">
+        <attvalues>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="outdegree" value="6"></attvalue>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted indegree" value="40.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0329047E7"></attvalue>
+          <attvalue for="weighted degree" value="2.0329087E7"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5106382978723404"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5902777777777778"></attvalue>
+          <attvalue for="betweenesscentrality" value="15.666666666666666"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="42.857143"></viz:size>
+        <viz:position x="-212.11465" y="1317.2416"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="frbr-rda:Expressionlitteral" label="frbr-rda:Expressionlitteral">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="1930075.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="1930075.0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="181.90865" y="1207.2776"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="dcmitype:InteractiveResourcelitteral" label="dcmitype:InteractiveResourcelitteral">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="20429.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="20429.0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="891.8631" y="-1109.8143"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="foaf:Documentlitteral" label="foaf:Documentlitteral">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="7917285.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="7917285.0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-217.95558" y="1240.1599"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="owl-time:Instantlitteral" label="owl-time:Instantlitteral">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="7728.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="7728.0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1515.4711" y="1518.3385"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="foaf:Organizationlitteral" label="foaf:Organizationlitteral">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="1491593.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="1491593.0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-233.45383" y="1722.4496"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="bnf-onto:expositionVirtuellelitteral" label="bnf-onto:expositionVirtuellelitteral">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="7734.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="7734.0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1594.6151" y="2414.6663"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="bibo:Periodicallitteral" label="bibo:Periodicallitteral">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="192.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="192.0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-2977.9834" y="1027.3112"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="277" source="frbr-rda:Manifestation" target="frbr-rda:Manifestationlitteral" label="dcterms:title" weight="6.3430242E7"></edge>
+      <edge id="281" source="frbr-rda:Manifestation" target="skos:Concept" label="dcterms:subject" weight="1.7879398E7"></edge>
+      <edge id="292" source="frbr-rda:Manifestation" target="frbr-rda:Work" label="rdarelationships:workManifested" weight="1090046.0"></edge>
+      <edge id="293" source="frbr-rda:Manifestation" target="owl-time:Instant" label="http://rdvocab.info/Elements/dateOfCapture" weight="1.2967864E7"></edge>
+      <edge id="294" source="frbr-rda:Manifestation" target="frbr-rda:Expression" label="rdarelationships:expressionManifested" weight="1.3902964E7"></edge>
+      <edge id="297" source="frbr-rda:Manifestation" target="dcmitype:InteractiveResource" label="http://www.openarchives.org/ore/terms/aggregates" weight="6.0"></edge>
+      <edge id="309" source="geo:SpatialThing" target="geo:SpatialThinglitteral" label="rdfs:label" weight="1175562.0"></edge>
+      <edge id="326" source="geo:SpatialThing" target="skos:Concept" label="bnf-onto:cadreGeographique" weight="230228.0"></edge>
+      <edge id="333" source="foaf:Person" target="owl-time:Instant" label="rdagroup2elements:dateOfBirth" weight="1098188.0"></edge>
+      <edge id="334" source="foaf:Person" target="iso639-2:iso639-2_Language" label="rdagroup2elements:languageOfThePerson" weight="114771.0"></edge>
+      <edge id="336" source="foaf:Person" target="foaf:Personlitteral" label="bnf-onto:lastYear" weight="1.8587886E7"></edge>
+      <edge id="345" source="foaf:Person" target="frbr-rda:Work" label="dcterms:contributor" weight="4560.0"></edge>
+      <edge id="346" source="foaf:Person" target="skos:Concept" label="rdagroup2elements:countryAssociatedWithThePerson" weight="246195.0"></edge>
+      <edge id="355" source="foaf:Person" target="madsrdf:Authority" label="rdagroup2elements:languageOfThePerson" weight="114771.0"></edge>
+      <edge id="356" source="foaf:Person" target="madsrdf:Language" label="rdagroup2elements:languageOfThePerson" weight="114771.0"></edge>
+      <edge id="367" source="skos:Concept" target="skos:Concept" label="http://musicontology.com/genre" weight="1119205.0"></edge>
+      <edge id="368" source="skos:Concept" target="skos:Conceptlitteral" label="foaf:focus" weight="1.3290382E7"></edge>
+      <edge id="370" source="skos:Concept" target="foaf:Person" label="foaf:focus" weight="2504195.0"></edge>
+      <edge id="374" source="skos:Concept" target="foaf:Organization" label="foaf:focus" weight="596731.0"></edge>
+      <edge id="378" source="skos:Concept" target="geo:SpatialThing" label="foaf:focus" weight="221891.0"></edge>
+      <edge id="383" source="skos:Concept" target="dcmitype:Event" label="foaf:focus" weight="83410.0"></edge>
+      <edge id="390" source="skos:Concept" target="frbr-rda:Work" label="rdarelationships:workManifested" weight="811530.0"></edge>
+      <edge id="397" source="skos:Concept" target="dcmitype:InteractiveResource" label="foaf:focus" weight="1931.0"></edge>
+      <edge id="403" source="dcmitype:Event" target="dcmitype:Eventlitteral" label="rdfs:label" weight="513147.0"></edge>
+      <edge id="407" source="dcmitype:Event" target="skos:Concept" label="http://rdvocab.info/Elements/placeOfProduction" weight="144022.0"></edge>
+      <edge id="415" source="frbr-rda:Work" target="foaf:Organization" label="dcterms:creator" weight="3409.0"></edge>
+      <edge id="416" source="frbr-rda:Work" target="frbr-rda:Worklitteral" label="dcterms:subject" weight="1740291.0"></edge>
+      <edge id="417" source="frbr-rda:Work" target="foaf:Document" label="foaf:homepage" weight="6.0"></edge>
+      <edge id="421" source="frbr-rda:Work" target="foaf:Person" label="dcterms:creator" weight="232850.0"></edge>
+      <edge id="424" source="frbr-rda:Work" target="madsrdf:Language" label="dcterms:language" weight="5507.0"></edge>
+      <edge id="427" source="frbr-rda:Work" target="frbr-rda:Work" label="dcterms:replaces" weight="74951.0"></edge>
+      <edge id="429" source="frbr-rda:Work" target="skos:Concept" label="http://rdvocab.info/Elements/placeOfOriginOfTheWork" weight="90246.0"></edge>
+      <edge id="433" source="frbr-rda:Work" target="madsrdf:Authority" label="dcterms:language" weight="5507.0"></edge>
+      <edge id="437" source="frbr-rda:Work" target="dcmitype:InteractiveResource" label="http://www.openarchives.org/ore/terms/aggregates" weight="2604.0"></edge>
+      <edge id="451" source="frbr-rda:Work" target="owl-time:Instant" label="http://rdvocab.info/Elements/dateOfWork" weight="169415.0"></edge>
+      <edge id="459" source="frbr-rda:Work" target="iso639-2:iso639-2_Language" label="dcterms:language" weight="5507.0"></edge>
+      <edge id="462" source="frbr-rda:Work" target="frbr-rda:Manifestation" label="http://www.openarchives.org/ore/terms/aggregates" weight="6467.0"></edge>
+      <edge id="469" source="frbr-rda:Expression" target="foaf:Person" label="dcterms:contributor" weight="782.0"></edge>
+      <edge id="470" source="frbr-rda:Expression" target="frbr-rda:Expressionlitteral" label="owl:sameAs" weight="1930075.0"></edge>
+      <edge id="471" source="dcmitype:InteractiveResource" target="frbr-rda:Work" label="http://www.openarchives.org/ore/terms/aggregates" weight="2148.0"></edge>
+      <edge id="472" source="dcmitype:InteractiveResource" target="dcmitype:InteractiveResourcelitteral" label="dcterms:created" weight="20429.0"></edge>
+      <edge id="478" source="dcmitype:InteractiveResource" target="foaf:Document" label="foaf:homepage" weight="10.0"></edge>
+      <edge id="479" source="dcmitype:InteractiveResource" target="iso639-2:iso639-2_Language" label="dcterms:language" weight="12.0"></edge>
+      <edge id="482" source="dcmitype:InteractiveResource" target="dcmitype:InteractiveResource" label="bnf-onto:translation" weight="70.0"></edge>
+      <edge id="490" source="dcmitype:InteractiveResource" target="frbr-rda:Manifestation" label="http://www.openarchives.org/ore/terms/aggregates" weight="8.0"></edge>
+      <edge id="497" source="dcmitype:InteractiveResource" target="skos:Concept" label="dcterms:language" weight="12.0"></edge>
+      <edge id="498" source="dcmitype:InteractiveResource" target="madsrdf:Authority" label="dcterms:language" weight="12.0"></edge>
+      <edge id="499" source="dcmitype:InteractiveResource" target="madsrdf:Language" label="dcterms:language" weight="12.0"></edge>
+      <edge id="501" source="foaf:Document" target="foaf:Documentlitteral" label="dcterms:description" weight="7917285.0"></edge>
+      <edge id="502" source="foaf:Document" target="frbr-rda:Manifestation" label="foaf:primaryTopic" weight="1.2404519E7"></edge>
+      <edge id="507" source="foaf:Document" target="skos:Concept" label="dcterms:subject" weight="6716.0"></edge>
+      <edge id="508" source="foaf:Document" target="foaf:Person" label="dcterms:subject" weight="510.0"></edge>
+      <edge id="510" source="foaf:Document" target="frbr-rda:Work" label="dcterms:subject" weight="16.0"></edge>
+      <edge id="513" source="owl-time:Instant" target="owl-time:Instantlitteral" label="rdfs:label" weight="7728.0"></edge>
+      <edge id="515" source="owl-time:Instant" target="owl-time:Instant" label="foaf:page" weight="5152.0"></edge>
+      <edge id="517" source="foaf:Organization" target="foaf:Organizationlitteral" label="rdagroup2elements:dateOfEstablishment" weight="1491593.0"></edge>
+      <edge id="522" source="foaf:Organization" target="foaf:Document" label="foaf:homepage" weight="24.0"></edge>
+      <edge id="528" source="foaf:Organization" target="owl-time:Instant" label="rdagroup2elements:dateOfTermination" weight="379259.0"></edge>
+      <edge id="529" source="foaf:Organization" target="skos:Concept" label="rdagroup2elements:placeAssociatedWithTheCorporateBody" weight="22111.0"></edge>
+      <edge id="533" source="foaf:Organization" target="frbr-rda:Work" label="dcterms:contributor" weight="491.0"></edge>
+      <edge id="535" source="bnf-onto:expositionVirtuelle" target="bnf-onto:expositionVirtuellelitteral" label="dcterms:description" weight="7734.0"></edge>
+      <edge id="537" source="bnf-onto:expositionVirtuelle" target="skos:Concept" label="dcterms:subject" weight="6976.0"></edge>
+      <edge id="545" source="bibo:Periodical" target="bibo:Periodicallitteral" label="dcterms:created" weight="192.0"></edge>
+      <edge id="551" source="bibo:Periodical" target="frbr-rda:Work" label="foaf:focus" weight="96.0"></edge>
+      <edge id="725" source="frbr-rda:Expression" target="skos:Concept" label="dcterms:subject" weight="8237706.0"></edge>
+      <edge id="738" source="frbr-rda:Expression" target="dcmitype:Event" label="dcterms:subject" weight="59770.0"></edge>
+      <edge id="746" source="frbr-rda:Expression" target="frbr-rda:Work" label="dcterms:subject" weight="59770.0"></edge>
+      <edge id="758" source="frbr-rda:Work" target="frbr-rda:Expression" label="rdarelationships:expressionOfWork" weight="672307.0"></edge>
+      <edge id="779" source="frbr-rda:Expression" target="foaf:Organization" label="bnf-roles:r360" weight="66.0"></edge>
+      <edge id="780" source="foaf:Document" target="foaf:Organization" label="dcterms:subject"></edge>
+      <edge id="785" source="#Expression" target="foaf:Person" label="bnf-roles:r3060" weight="1.4821862E7"></edge>
+      <edge id="1293" source="#Expression" target="foaf:Organization" label="dcterms:subject" weight="1.0964972E7"></edge>
+    </edges>
+  </graph>
+</gexf>
