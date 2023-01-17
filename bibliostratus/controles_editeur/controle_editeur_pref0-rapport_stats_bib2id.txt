@@ -1,0 +1,45 @@
+Nb ID trouvés	Nb notices concernées
+0	602
+1	359
+2	19
+3	4
+4	2
+5	1
+8	1
+9	1
+22	1
+23	1
+27	1
+374	1
+
+
+----------
+Liste des notices dont l'ISBN en entrée est différent de celui dans la notice trouvée
+NumNotice	ISBN initial	ISBN converti	Notice trouvée dans le Sudoc ?
+  DOB00002278	9788885982772	8885982778	False
+  ARC00006370	978-2-7433-0482-9	2743304820	False
+
+
+Problème d'accès auxAPI Abes :
+global : API Abes down
+1 : API Abes down
+101 : API Abes down
+201 : API Abes down
+301 : API Abes down
+401 : API Abes down
+501 : API Abes down
+601 : API Abes down
+701 : API Abes down
+801 : API Abes down
+901 : API Abes down
+global : API BnF down
+1 : API BnF down
+101 : API BnF down
+201 : API BnF down
+301 : API BnF down
+401 : API BnF down
+501 : API BnF down
+601 : API BnF down
+701 : API BnF down
+801 : API BnF down
+901 : API BnF down

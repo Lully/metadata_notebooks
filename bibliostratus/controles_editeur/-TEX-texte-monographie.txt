@@ -1,0 +1,994 @@
+Num Not	FRBNF	ARK	ISBN	EAN	Titre	Auteur	Date	Volume-Tome	Editeur
+  ARC00006537					 A nous le souvenir  à eux l'immortalité   Les monuments aux morts du pays d'Ancenis  de la guerre de 1870 à la guerre d'Algérie	voisin-thiberge claire	2018	n° 33	
+  ARC00006547					 Bachelot de La Pylaie   1786-1856 	gillot gaston	1951		 s n  
+  ARC00007064					 Cette coquille    La salle du Parc des sports   dite  La Soucoupe 	solen peron	2019		
+  ARC00006843					 Documents sur la généalogie de la famille Guérin de Bouaye 				
+  ARC00007061					 La Révolution française	edouard gasc-desfosses	1923	Tome 3	Gabriel Beauchesne
+  ARC00006994					 Le nouveau port de plaisance de Pornic 	gautier marcel	1971		 s n  
+  ARC00006340					 Lieux de Souvenir  Mémoires de Soldats 	comite francais cantonal souvenir du	2007		Comité cantonal du Souvenir Français
+  ARC00006553					 Marigny  le général assassiné 	colle j-r	1969		 s n  
+  ARC00006825					 Mémoires du Cardinal B  Pacca sur le pontificat de Pie VII 	queyras m	1860		Amboise Bray libraire-éditeur
+  ARC00006985					 Mémoires d'un aide de camp de Napoléon 	de segur philippe	1910		Nelson éditeurs
+  ARC00006984					 Mémoires d'un aide de camp de Napoléon 	de segur philippe	1910		Nelson éditeurs
+  ARC00006636					 Nous ne resterons pas les bâtards de la métallurgie   Histoire de la grève des Batignolles  janvier-mars 1971  Nantes	gaelle boursier	2019		
+  ARC00006608					 Quelques racines toponymiques du Bas-Pays de Retz  du marais breton et de la baie de Bourgneuf 	mounes j	1966		 s n  
+  ARC00006841					 Sans titre  document sur le commerce avec Saint-Domingue 				
+  DOB00002341			9781407313566		 Somewhere beyond the sea  les îles bretonnes  France  perspectives archéologiques  géographiques et historiques actes du Séminaire Archéologique de l'Ouest  1er avril 2014  Rennes the islands of Brittany  France  an archaeological  geographical and historical point of view acts of the seminar on the archaeology of Western France  1st April 2014  Rennes	de gehres benjamin seminaire lorena archeologique audouard l'ouest	2015		Archaeopress
+  ARC00007053					 Sur la piste des émigrants bretons en Amérique  III - Images des 10000 Bretons de New-York	le clech gregoire	1953		Imprimerie du Cap-Horn
+  ARC00007036					 Sur la piste des émigrants bretons en Amérique  IV - Sur la piste des 25000 Bretons des Etats-Unis	le clech gregoire	1953		Imprimerie du Cap-Horn
+  ARC00007038					 Sur la piste des émigrants bretons en Amérique  VI - Bretagne - France - Canada  un courant d'émigration essentiellement catholique  suite 	le clech gregoire	19 541 955		Imprimerie du Cap-Horn
+  ARC00007039					 Sur la piste des émigrants bretons en Amérique  VII - Le problème de l'établissement des français au Canada	le clech gregoire	1953		Imprimerie du Cap-Horn
+  ARC00006555					 Un épisode de la contre-réforme  Le rétablissement des structures catholiques à la Rochelle  1628-1648  	francois moisy	1971		 s n  
+  ARC00006554					 Un épisode de la contre-réforme  Le rétablissement des structures catholiques à la Rochelle  1628-1648  	francois moisy	1971		 s n  
+  ARC00006714					 Un héros du pays nantais Pierre Jacques Etienne Cambronne 	g aubin	1952		 s n  
+  ARC00006713					 Un héros du pays nantais Pierre Jacques Etienne Cambronne 	g aubin	1952		 s n  
+  ARC00006557					 Un Saint breton authentique Saint Goustan  moine de Rhuys et de Beauvais  974-1040  	j rousseau	1939		 s n  
+  ARC00006556					 Un Saint breton authentique Saint Goustan  moine de Rhuys et de Beauvais  974-1040  	j rousseau	1939		 s n  
+  ARC00006548					 Un témoin de son temps Pierre-François Brieugne  Les souvenirs d'un volontaire nantais de 1792 	luce courville	1961		 s n  
+  ARC00006465					 Voyages de Tavernier en Turquie  en Perse et aux Indes 	j breton b	1810		Chez Veuve Lepetit libraire
+  ARC00006518					Oeuvres choisies de Joseph de Maistre	joseph maistre de		Tome 4	Bonne Presse
+  ARC00006517					Oeuvres choisies de Joseph de Maistre	joseph maistre de		Tome 3	Bonne Presse
+  ARC00006516					Oeuvres choisies de Joseph de Maistre	joseph maistre de		Tome 2 : Entretiens VII-XI	Bonne Presse
+  ARC00006515					Oeuvres choisies de Joseph de Maistre Avis de l'éditeur  biographie	joseph maistre de		Tome 1 : Entretiens I-VI	Bonne Presse
+  ARC00006521					Oeuvres complètes du comte Xavier de Maistre Expédition nocture  Le lépreux de la cité d'Aoste  Voyage autour de ma chambre  Les prionniers du Caucase  La jeune Sibérienne	de maistre xavier	1857		Charpentier libraire-éditeur
+  ARC00006511					Oeuvres du comte J  de Maistre ancien ministre plénipotentiaire Considérations sur la France - Essai sur le principe générateur des constitutions politiques	joseph maistre de	1852		J  B  Pélagaud et Cie
+  ARC00006514					Oeuvres du comte J  de Maistre ancien ministre plénipotentiaire De l'église Gallicane	joseph maistre de	1853		H  Pélagaud fils et Roblot
+  ARC00006512					Oeuvres du comte J  de Maistre ancien ministre plénipotentiaire Délais de la justice divine - Lettres à un gentilhomme Russe	joseph maistre de	1882		H  Pélagaud fils et Roblot
+  ARC00006513					Oeuvres du comte J  de Maistre ancien ministre plénipotentiaire Du pape	joseph maistre de	1870		H  Pélagaud fils et Roblot
+  ARC00006504					Oeuvres posthumes de compte J  de Maistre Examen de la philosphie de Bacon où l'on traite différentes question de philosophie rationnelle	joseph maistre de	1868	Tome 2.	H  Pélagaud fils et Roblot
+  ARC00006503					Oeuvres posthumes de compte J  de Maistre Examen de la philosphie de Bacon où l'on traite différentes question de philosophie rationnelle	joseph maistre de	1868	Tome 1.	H  Pélagaud fils et Roblot
+  ARC00006502					Oeuvres posthumes de compte J  de Maistre Les soirées de Saint-Pétersbourg ou entretiens sur le gouvernement temporel de la providence suivies d'un Traité sur les sacrifices	joseph maistre de	1870	Tome 2.	H  Pélagaud fils et Roblot
+  ARC00006501					Oeuvres posthumes de compte J  de Maistre Les soirées de Saint-Pétersbourg ou entretiens sur le gouvernement temporel de la providence suivies d'un Traité sur les sacrifices	joseph maistre de	1870	Tome 1.	H  Pélagaud fils et Roblot
+  ARC00006693					100 ans de sport à Saint-Nazaire 1860-1960	maxence ponroy	2018	Partie 2/2	
+  ARC00006692					100 ans de sport à Saint-Nazaire 1860-1960	maxence ponroy	2018	Partie 1/2	
+  ARC00006987					14 lendemain s  18 L'Ardèche dans l'après-guerre	ardeche departementales archives			Imprimerie Alpha
+  ARC00006884					1772-1780  François Lyrot  un chef vendéen  et son héritage	kervarec michel	2019		
+  ARC00006880					1772-1780  Moines de Vertou  carrières et pommes de terre	kervarec michel	2019		
+  ARC00007111					1870  entre mémoires régionales et oubli national Se souvenir de la guerre franco-prussienne	badier garrigues allorant pierre walter jean	2019		Presses universitaires de Rennes
+  ARC00006764					1914-1918  Pont-Saint-Martin dans la Guerre	d'herbonne les chemins sur			
+  ARC00006348					1914-1918  Sainte-Luce pendant la guerre	bord fleuve association du au	2018		Au bord du fleuve
+  ARC00006859					1914-1918 Hommage aux soldats Sautronnais  morts pour la France 	les sautron musee marie-cecile amis du gessant	2019		Mairie de Sautron
+  ARC00006337			979-10-699-2689-9		1914-1918 Les Nazairiens dans la Grande Guerre Une vie bouleversée	saint-nazaire histoire	2018		Saint-Nazaire Histoire
+  FRBNF456152380000004			978-2-86030-006-3		1917 et après sortir de la guerre   nos grands-parents dans la Grande guerre  exposition  Nîmes  Archives départementales du Gard  29 janvier 2018-21 juin 2019 	departementales rouayroux gard nadine archives	2018		
+  ARC00006529					1918    et après   Du pays guérandais à la Cô‌te d'Amour  naissance d'un nouveau paysage	roux charles-le rosenn	2019		
+  ARC00006342					1918-2018 Nozay se souvient Leurs histoires    C'est notre Histoire  		2018		
+  ARC00006386					1919-1974  un site centenaire Le barrage et le lac après la Grande Guerre		2018		
+  ARC00007069					2000 ans d'histoire de la brique à Couëron   et en Loire-Atlantique Histoire des techniques et de l'architecture	coueron			
+  ARC00006334					2018 Centenaire de la première guerre mondiale Volume 4	de guerre centenaire mondiale mission du premiere la	2018		14-18 Mission Centenaire
+  ARC00006863					30 ans du Parc Naturel régional de Brière Les événements qui ont marqué la vie du parc au 20ème siècle				 s  n  
+  DOB00002278			9788885982772		387 d  c dell'Ambrogio e Agostino le sorgenti dell'Europa  mostra  Milano  Museo Diocesano  Chiostri di Sant'Eustorgio  8 dicembre 2003-2 maggio 2004  	pasini paolo	2003		Olivares
+  DOB00002352					500 ans d'imprimerie en Bretagne 1484-1985 exposition	xavier ferrieu	1985		Bibliothèque municipale de Rennes
+  ARC00006542					a cordonnerie de Saint-Herblon est centenaire	bore-maillard francoise	2018	n° 33	
+  ARC00006959					A Donges  sur la route de l'or noir   Avec Des Rives  les mots d'un auteur et le regard d'un photographe sur l'estuaire	franck tomps chomette guy-pierre	2019		
+  ARC00007071					A la découverte du centre-ville de Couëron Promenade historique et architecturale	coueron			
+  ARC00007072					A la découverte du patrimoine industriel de Couëron Promenade historique et architecturale	coueron			
+  DOB00002319					A portrait of Emanuel van Meteren and his wife  Hester van Corput  by Joris Hoefnagel	lorne campbell	2019		
+  DOB00002343					A propos d'écologie historique en Amazonie	rostain stephen	2018		
+  ARC00006436					A propos du sceau pour sauf-conduit de Gilles de Retz	jeanne bechet gauche clemence			
+  ARC00006660					A SOS Familles EmmaÌs 44   on arrive souvent en dernier ressort 	guillotin berillon philippe christian	2019		
+  ARC00007077					Abbaretz infos				
+  ARC00006900					Accident du travail à Vertou  Le pont de Portillon	jean-claude brosseau	2019		
+  ARC00006916					Aéroport de Notre-Dame-des-Landes  Autopsie d'un déni démocratique	marc beniada bouchery perri frederic	2019		Librinova
+  ARC00006685					Agriculture  commerce et industrie		2019		
+  ARC00006387					Almanach de tout le monde pour l'année 1841 Contenant le calendrier avec des instructions sur le jardinage mois par mois   la table des plus hautes marées   les foires de 4 départements   Loire-Inférieure  Vendée  Maine-et-Loire  Ile-et-Vilaine		1830		Imprimerie Victor Mangin
+  DOB00002348			978-2-35518-088-0		Ancient lamps from Balkans and beyond acts of the 4th International Lychnological Congress  «Ex Oriente Lux»  Ptuj  15th-19th of May  2012  in memory of Jean Bussière	laurent chrzanovski	2019		Editions Monique Mergoil
+  DOB00002385			978-0-7123-5207-9		Anglo-saxon kingdoms art  word  war	by claire breay story and joanna edited	2018		British Library
+  DOB00002262					Animaux fantastiques en numismatique  le Griffon	gildas salain			
+  ARC00006495					Annales de Tacite  en latin et en François Règnes de Claude et de Néron	jean-henri dotteville tacite	1786	Tome second	Moutard
+  ARC00006494					Annales de Tacite  en latin et en François Règnes de Claude et de Néron	jean-henri dotteville tacite	1785	Tome premier	Moutard
+  ARC00006493					Annales de Tacite  en latin et en François Règnes de Tibère et de Caius	jean-henri dotteville tacite	1779	Tome second	Moutard
+  ARC00006492					Annales de Tacite  en latin et en François Règnes de Tibère et de Caius	jean-henri dotteville tacite	1779	Tome premier	Moutard
+  FRBNF457338620000003			978-2-203-16362-1		Anne de Bretagne intrigues au château	tchao armide cedric aurelien	2019		Casterman
+  ARC00006488					Anthinea d'Athènes à Florence	maurras charles	1920		Honoré et Edouard Champion
+  DOB00002293			978-2-7577-0054-9		Antiquité grecque et romaine vocabulaire bilingue LSF Français	sintes claude	2010		Ed  du Patrimoine Centre des monuments nationaux
+  ARC00006909					Après le débat  Nantes  la Loire et nous  les projets prennent forme	auclerc philippe	2019		
+  ARC00006408			978-2-84287-512-1		Arcana imperii II	guillot olivier	2010		Presses universitaires de Limoges
+  ARC00006407			978-2-84287-511-4		Arcana imperii II	guillot olivier	2010		Presses universitaires de Limoges
+  DOB00002272			9789461614452		Archéologie dans l'Aube des premiers paysans au prince de Lavau	de vincent dohrmann institut departementales riquier nicolas archeologiques aube preventives recherches national archives	2018		Editions Snoeck
+  DOB00002316			978-2-7535-7442-7		Architectures de l'âge du Fer en Europe occidentale et centrale actes du 40e colloque international de l'AFEAF  Rennes  du 4 au 7 mai 2016	menez patrick villard-le maguer yves tiec anne	2018		Presses universitaires de Rennes
+					Archives départementales de Loire-Atlantique  Le fonds de l'architecte René Ménard  1876-1958 	billard coralie	2019		
+  ARC00007048					Archives départementales de Loire-Atlantique  Le fonds René Ménard  1876-1958 	billard coralie	2019		
+  ARC00006617					Archives diplomatiques   mode d'emploi Archives du ministère des Affaires étrangères	ministere france etrangeres des affaires diplomatiques centre archives	2019		Archives   Culture
+  ARC00007043					Archives du passé  Julienne David femme corsaire		2019		
+  ARC00007044					Archives du passé  La concession des Mines de Houille des Touches		2019		
+  ARC00007042					Archives du passé  Les démêlés de Don Camillo et Peponne		2019		
+  ARC00006421			978-2-373-0-10848		Armistice 1918 Petit dictionnaire historique   insolite du 11 novembre 1918	soulard christophe	2018		Editions JPO
+  ARC00006906					Armorial général et nobiliaire français  KERNO - DU BOE	hubert lamant	2019		
+  FRBNF304572720000004					Arrests du parlement de Bretagne  pris des mémoires   plaidoyers de feu Me Sébastien Frain    3e et dernière édition  revue    par Me Pierre Hevin   Texte imprimé	de france bretagne hevin pierre sebastien parlement frain	1684		P  Garnier
+  ARC00006807					Arsène Leloup  maire de Rezé puis de Nantes	kervarec michel	2019		
+  ARC00006614					Article consernant l'indépendance des Etats-Unis d'Amérique		1976		
+  ARC00007004					Assérac  Bulletin municipal Assérac mag'				
+  ARC00007003					Assérac  Bulletin municipal Le vert à la mer				
+  ARC00006615					Au front  la troupe du 81ème RIT de Nantes fait la guerre au cafard Un exemple de théâtre aux armées pendant la guerre	bourgeon jean			
+  ARC00006836					Au mexique  on y fut    1862-1867 	pierre aubry	2019		
+  ARC00006703					Au Moyen âge  Nantes capitale artistique de Bretagne	leny charrier	2019		
+  ARC00006661					Au Secours populaire à Saint-Nazaire  les pauvres  les précaires et les autres	castel monique	2019		
+  ARC00006837					Au XIVème siècle  une tour de péage				
+  ARC00006662					Aux Dervallières  des coupables de pauvreté	le jean menn	2019		
+  ARC00007040					Aux origines de la guerre de succession de Bretagne  Documents  1341-1342 	graham-goering yeurc'h michael charon jones bertrand erika philippe	2019		Presses universitaires de Rennes
+  ARC00006659					Aux Restos du coeur à Machecoul  la vie d'Henri	helene rolland	2019		
+  ARC00006607					Avertissements aux protestants sur les lettres du ministre Jurieu	jacques benigne bossuet	1823		Chez Delestre-Boulage
+  ARC00006606					Avertissements aux protestants sur les lettres du ministre Jurieu	jacques benigne bossuet	1823		Chez Delestre-Boulage
+  ARC00006344					Aviateurs de la Grande Guerre 1914-1919 nés en Loire-Inférieure	perocheau christian trichard henri	2018		
+  ARC00006346					Batz-sur-Mer se souvient     Cent ans après 1918-2018		2018		
+  ARC00006612			9782021022865		Bestiaires du Moyen age	pastoureau michel	2019		Editions du Seuil
+  ARC00006854					Bibliographie sur le thème des jardins	pays de regional conseil loire la	2019		
+  DOB00002399			979-10-699-1746-0		Billets et tickets d'Outre-Mer émissions officielles dites  de nécessité  dans l'Empire colonial français	bayle georges	2018		
+	frbnf437722420000004		978-2-7578-4001-6		Bleu histoire d'une couleur	pastoureau michel	2014		Ed  du Seuil
+	frbnf437722420000004		978-2-7578-4001-6		Bleu histoire d'une couleur	pastoureau michel	2014		Ed  du Seuil
+  ARC00006633					Bordeaux  La Rochelle  Nantes  capitales négrières	fragneau yan	2019		
+  DOB00002331			978-2-271-11908-7		Boucher de Perthes	hurel arnaud aufrere leon potin yann	2018		CNRS éditions
+  ARC00006439					Bouclette  ouvrier trignacais et musicien	emile brosseau	2019		
+  ARC00006731					Boussay  Bulletin municipal				
+  ARC00006842					Bouvron	boisrouvray du xavier			
+  ARC00006541					Braud à Saint-Mars-la-Jaille  De la forge à la moissonneuse-batteuse	bernard perrouin	2018	n° 33	
+  ARC00006367			978-2-7373-7904-8		Bretagne du XXe siècle	ronan dantec	2018		Editions Ouest-France
+  ARC00006356			978-2-84346-858-2		Bretonnes et Résistantes  1940-1944  Approche sociohistorique d'un engagement hors norme	le boulanger isabelle	2018		Coop Breizh
+  ARC00006876					Briser les hermines  Les armoiriers des vicomtes et vicomtesses de Limoges de la maison de Bretagne	hablot laurent	2019		
+  ARC00006532					Bruges-la-morte	rodenbach georges			Ernest Flammarion
+  ARC00006720					Bulletin de la raffinerie				
+  ARC00006619					Bulletin paroissial de Sainte-Pazanne				
+  ARC00006724					Cur Pays de Retz  Communauté de communes				
+  ARC00006510					Cap sur Guérande   Les cartes du pays guérandais depuis le Moyen Ege	nina roche oriot albane	2019		
+  ARC00006451					Capitaines d'industrie au XXe siècle à Nantes	abed loic	2019		
+  ARC00006433			978-2-919339-52-5		Capitaines d'industrie au XXème siècle	yves rochcongar	2018		Coiffard Edition
+  ARC00006844			979-10-93050-09-6		Carnet d'ancêtres Thomazi Une famille croisicaise 1600-1700	catherine thomazi	2019		Autoédité
+  ARC00006829					Carnet d'inspiration  Echappées belles à vélo en Loire-Atlantique	loire-atlantique conseil general	2019		Loire-Atlantique développement
+  DOC00075922					Carnets numismatiques du comté de Nice et du Sud-Est	de nice cercle numismatique	2017		Cercle numismatique de Nice
+  ARC00006955					Catalogue des expositions en prêt	loire-atlantique departementales archives	2019		
+  ARC00006372			978-2-7654-1574-9		Cataloguer aujourd'hui Identifier les oeuvres  les expressions  les personnes selon RDA-FR	toussaint claire	2018		Editions du Cercle de la Librairie
+  ARC00007120					Cathédrale de Nantes Saint-Pierre et Saint-Paul	de et l'immaculee cathedrale jean-francois amis chapelle henry la	2019		
+  FRBNF313903300000001					Causeries historiques et littérairesTexte imprimé	souvestre emile	1861		Michel Lévy frères
+  ARC00007087					Ce que disent les mots   	de les memoire association gildas buron greniers la	2019		
+  FRBNF45532723000000X			979-10-97465-03-2		C'était 1958 en Bretagne pour une histoire locale de la France	erwan francois gall le prigent	2018		
+  ARC00006773					Chant du peuple de Haute-Bretagne  Région de Nort-sur-Erdre - 44	de groupe nort-sur-erdre celtique	1985		
+  ARC00006721					Chapelle-Glain  La   Bulletin municipal				
+  ARC00006753					Chapelle-Glain  La   Bulletin municipal L'Echo Glainois				
+  ARC00006869					Charles de Blois et Jeanne de Penthièvre  duc et duchesse de Bretagne et leur vicomté de Limoges L'évidence des comptes	graham-goering jones erika michael	2019		
+  ARC00006740					Charles Le Roux et Louis Cabat  deux peintres à Pornic  été 1850	hubert hervouet	2019		
+  FRBNF456099090000005			978-2-01-706899-0		Chasseurs d'héritiers histoires vraies de généalogistes	caroline gilles pascal nogueras-flavigny coutot-roehrig	2018		
+  ARC00006629					Châteaubriant  La carrière aux vingt-septs otages	gwenaelle abolivier	2019		
+  ARC00006903					Châteaubriant  Un château dans l'histoire Le Conseil général et la culture	loire-atlantique conseil general	2001		
+  ARC00006578					Chef-d'oeuvres dramatiques d'Alexis Piron précédés de la vie de l'auteur  écrite par lui-même	piron alexis	1775		chez la Veuve Duchesne
+  ARC00007050					Chronique patrimoniale  Immeubles protégés au titre des monuments historiques en Loire-Atlantique	solen peron	2019		
+  ARC00006399			979-10-90326-96-5		Chroniques oubliées en Sud Bretagne	lucas marcel	2018		Editions du Traict
+  DOB00002304					Chronologie normalisée du mobilier funéraire mérovingien entre Manche et Lorraine	francoise rene patrick perin legoux vallet	2016		Association française d'archéologie mérovingienne
+  ARC00007016					Cinq lettres sur Ernest Renan	ferdinand brunetiere	1904		Librairie Académique Perrin et Cie
+  ARC00006583					Cinq-Mars ou une conjuration sous Louis XIII précédée de Réflexions sur la vérité dans l'art   suivie du Discours de réception de l'auteur à l'Académie française  accompagnée de documents historiques et des notes et preuves du discours	de alfred vigny	1855		Charpentier libraire-éditeur
+  ARC00006978					Claire  duchesse de Duras  salonnière célèbre et écrivaine bretonne Sa vie  son oeuvre	saint-houardon jean de	2019		
+  ARC00006654					Classer  dire  compter discipline du chiffre et fabrique d'une norme comptable à la fin du Moyen Ege colloque des 10 et 11 octobre 2012	france ministere et olivier patrice des beck publics comptes finances matteoni	2015		Comité pour l'histoire économiqe et financière de la France
+  FRBNF422846430000000			978-2-7535-1092-0		Claude de Seyssel  c  1450-1520 écrire l'histoire  penser le politique en France  à l'aube des Temps modernes	d'etude xvie siecle eichel-lojkine francaise du patricia societe	2010		Presses de l'Université de Rennes
+  ARC00006853					Collection des notices d'implantation industrielle  Edition 1961-1962  Nantes	et industriels le developpement la pour societe conversion	1962		J  et R  Sennac
+  DOB00002287					Collectionner le minuscule en grand dans les quelques centimètres du netsuke  toute l'habilité du sculpteur japonais se trouve condensée monsieur G  avait cédé à leur fantaisie  et son ensemble  dispersé le 10 octobre prochain  comporte de réjouissants objets	anne doridou-heim	2018		
+  ARC00006452			978-2-503-57800-2		Collections de Bretagne  du Centre et des Pays-de-la-Loire  Texte imprimé    Angers  Blois  Bourges  Chartres  Le Mans  Loches  Nantes  Orléans  Rennes  Tours  Vendo  770 me	meyer christian	2017		Brepols
+  ARC00006443					Collégiale de Guérande Les pilliers romans	tabary bernard	2019		
+  ARC00007128	frbnf420634140000000		978-2-84497-161-6		Colpo trésors de vie par l'image	picaut jean-etienne	2009		Liv'éditions
+  ARC00006831					Comité de l'or du département de la Loire-Inférieure	emile cormerais			Imprimerie Armoricaine
+  ARC00006655					Commandants  états-majors et activité des bâtiments de la Marine française	jean-michel roche	2019	Tome 1	
+  ARC00006828					Commémoration du Centenaire de l'Armistice de la Grande Guerre 1914-1918		2018		
+  ARC00006958					Comment charbon  pétrole et gaz ont-ils investi l'estuaire   Une si longue histoire industrielle	guillaume jacques	2019		
+  FRBNF307199500000008					Commentaire sur le théâtre de Voltaire   par M  de La Harpe  imprimé d'après le manuscrit autographe    recueilli et publié par      Decroix 	de voltaire francois harpe jacques-joseph-marie decroix jean la	1814		Maradan
+  ARC00006715					Compagnie des notaires de Loire-Atlantique				Chambre des notaires de Loire-Atlantique
+  ARC00007051					Conservation des antiquités et objets d'Art de Loire-Atlantique  Actualité de l'année 2018	delpire laurent	2019		
+  ARC00006381					Consommation énergétique du patrimoine immobilier Bilan annuel 2017-2018	de loire-atlantique departement	2018		Département de la Loire-Atlantique
+  ARC00006426			978-2-36785-014-6		Constance de Bretagne  1161-1201  Une duchesse face à Richard Coeur de Lion et Jean sans Terre	borgnis desbordes eric	2018		Yoran Embanner
+  ARC00007008					Contes du lit-clos  récits et légendes bretonnes en vers    suivis de Chansons à dire     11e mille  	theodore botrel	1900		Georges Ondet
+  DOB00002336					Contribution à l'histoire de l'UFR des Sciences Pharmaceutiques et Biologiques de Nantes l'Ecole de plein exercice pendant la Première Guerre Mondiale	bastien delattre	2018		
+  ARC00006956					Cordemais en transitions 1982 - 2022 Economie   tourisme  environnement  services de proximmité  réseaux associatifs   	geffroy joel	2019		 s n  
+  ARC00006566					Correspondance de Louis Veuillot	eugene louis veuillot	18 841 885		Victor Palmé
+  ARC00006558					Correspondance littéraire  adressée à S  A  I  Mgr le grand duc  aujourd'hui empereur de Russie  et à M  le comte André Schowalow     depuis 1774 jusqu'à 1789	de francois harpe jean la	18 011 807		Migneret
+  DOB00002325			9782390380160		Cuivres  bronzes et laitons médiévaux   histoire  archéologie et archéométrie des productions en laiton  bronze et autres alliages à base de cuivre dans l'Europe médiévale  12e-16e siècles 	nicolas pete thomas dandridge	2018		Agence wallonne du Patrimoine
+  DOB00002267			9782760544543		Culture et éducation non formelle	jacobi daniel	2018		Presses de l'Université du Québec
+  ARC00006475					Daniel Cortis Traduit de l'italien par Paul Solanges	paul fogazzaro solanges antonio			Calmann-Lévy
+  ARC00006391					Dans les bois de Dailly  un soldat mort   	constant christian	2013		
+  ARC00006383			978-2-906519-71-8		Dans les prisons de Nantes   	pierre chotard	2018		Editions Château des Ducs de Bretagne
+  ARC00006638					De croix en calvaires	pierre aubry	2019		
+  ARC00006635					De la  Catho  au privé  Socio-histoire d'une reconfiguration du service public d'éducation depuis la loi Debré   le cas des Pays de la Loire	mengneau juliette	2019		
+  DOB00002303			978-2-7535-5922-6		De la Gaule à l'Orient méditerranéen Fonctions et statuts des mobiliers archéologiques dans leur contexte	ballet isabelle severine bertrand lemaitre pascale	2018		Presses universitaires de Rennes
+  ARC00006562					De la grandeur des Romains et de leur décadence avec la dissertation sur la politique des romains dans la religion  Le dialogue de Sylla  d'Eucrate et Lysimaque  L'essai sur le goût et des lettres  par Montesquieu suivis des réflexions sur les divers génies du peuple romain dans les différents temps de la république  par Saint-Evremont	de montesquieu saint-denis secondat charles charles-louis saint-evremond marguetel	1876		Librairie Garnier Frères
+  ARC00006423			978-2-7535-7474-8		De la province à la nation Religion et identité politique en Bretagne	ford caroline	2018		Presses universitaires de Rennes
+  ARC00006509					De la relique de saint Salomon en la collégiale Saint-Aubin de Guérande et de la création de la collégiale	lancien alain gallice josick	2019		
+  ARC00006563					De l'esprit des lois par Montesquieu  avec des notes de Voltaire  de Crevier  de Mably  de La Harpe  etc  revue sur les meilleurs textes suivie de la défense de l'esprit des lois par l'auteur	de montesquieu voltaire secondat francois harpe charles-louis jean la			Librairie Garnier Frères
+  ARC00006564					De l'esprit des loix ou du rapport que les loix doivent avoir avec la constitution de chaque gouvernement  les moeurs  le climat  la religion  le commerce   c  à quoi l'auteur a ajoûté  Des recherches nouvelles sur les loix romaines touchant les successions  sur les loix françoises    sur les loix féodales  Nouvelle edition revuë   corrigée  Tome premier	charles-louis montesquieu secondat de	1749		
+  ARC00006772					Découvrir Nantes métropole Infos pratiques  culture  et tourisme		2019		JMD publicité média
+  ARC00006957					Demain  un estuaire post-carbone Transition énergétique   les paysages de la Loire redessinés	maillere claude	2019		
+  ARC00006792					Dénombrement de 1797 à Nort	loire-atlantique departementales gerard fourage archives		Vol. 7	
+  ARC00006791					Dénombrement de 1797 à Nort	loire-atlantique departementales gerard fourage archives		Vol. 6	
+  ARC00006790					Dénombrement de 1797 à Nort	loire-atlantique departementales gerard fourage archives		Vol. 5	
+  ARC00006789					Dénombrement de 1797 à Nort	loire-atlantique departementales gerard fourage archives		Vol. 4	
+  ARC00006788					Dénombrement de 1797 à Nort	loire-atlantique departementales gerard fourage archives		Vol. 3	
+  ARC00006787					Dénombrement de 1797 à Nort	loire-atlantique departementales gerard fourage archives		Vol. 2	
+  ARC00006786					Dénombrement de 1797 à Nort	loire-atlantique departementales gerard fourage archives		Vol. 1	
+  ARC00007096					Des Acadiens au Pouliguen	de les memoire association greniers la	2019		
+  ARC00006449					Des Acadiens en Bretagne	saint-houardon jean de	2019		
+  FRBNF452903480000001			978-2-86049-038-2		Des Angevins en Résistance 1940-1945	marc tellier bergere departementales maine-et-loire pascal guillet serge archives	2016		Archives départementales de Maine-et-Loire
+  ARC00006873					Des clers limousins en Bretagne ou des clercs bretons en Limousin au début du XIVème siècle  	anne massoni	2019		
+  ARC00006716					Des Couëronnais venus d'ailleurs Couëron  Pontgibaud et les Anglais	le louis bail	2019		
+  ARC00006769					Des femmes engagées pendant la Grande Guerre L'union des femmes de France en Anjou	departementales archives maine-et-loire	2018		
+  ARC00006639					Des jardins ouvriers aux jardins partagés	abed loic	2019		
+  ARC00006354			978-2-86056-028-3		Des larmes de granit après la grande guerre  se souvenir	departementales archives morbihan	2018		Archives départementales du Morbihan
+  DOB00002318					Des monnaies à l'esprit chevaleresque  les types à l'écu penché timbré	gildas salain	2019		
+  ARC00006649					Des ports bretons aux étals des épiciers   le transport terrestre des produits alimentaires ultramarins au XVIIIe siècle	sklaerenn scuiller	2017		
+  ARC00007121					Des rives Voyage dans l'estuaire de la Loire	franck tomps chomette guy-pierre	2019		Editions 303
+  ARC00006430			978-2-915293-98-2		Des Tsiganes vers Auschwitz Le convoi Z du 15 janvier 1944	heddebaut monique	2018		Editions Tirésias
+  FRBNF455693770000001			978-2-36942-655-4		Désobéir des policiers et des gendarmes sous l'Occupation  1940-1944	yagil limore	2018		
+  ARC00007076					Détours à Couëron Circuits de randonnée	coueron			
+  ARC00006871					Deux titulaires pour une vicomté   Les démêlés d'Isabelle d'Espagne  duchesse de Bretagne  vicomtesse de Limoges  avec Guy de Bretagne  vicomte de Limoges	lemeillat marjolaine	2019		
+  ARC00006795					Deuxième phase  La procédure menant au partage  Juin 1825-août 1829 	alain gallice	2019		
+  ARC00006456					Devant le siècle	vogie eugene-melchior de	1896		Armand Colin
+  FRBNF356906430000001					Dictionnaire de la cartophilie francophone	armand thinlot paul-noel albert paul	1990		P  Armand
+  DOB00002277			9783943215045		Die grosse Illusionr veristische Skulpturen und ihre Techniken  Ausstellung   Liebieghaus Skulpturensammlung  Frankfurt am Main  1  Oktober 2014 bis 1  MÀrz 2015	herausgegeben von stefan rolle			
+  ARC00006376			978-2-13-052787-9		Diplomatie et relations internationales au Moyen âge  Texte imprimé    IXe-XVe siècle	jean-marie pequignot moeglin stephane	2017		Presses Universitaires de France
+  ARC00007049					Direction du patrimoine et de l'archéologie de Nantes-Métropole  Le square Fleuriot-de-Langle à Nantes   premiers résultats d'une fouille à l'angle sud-ouest de la fortification urbaine médiévale	dreillard camille mathieu laurens-berge	2019		
+  ARC00007017					Discours académiques	ferdinand brunetiere	1901		Librairie Académique Perrin et Cie
+  ARC00007020					Discours de Combat	ferdinand brunetiere	1903		Librairie Académique Perrin et Cie
+  ARC00007019					Discours de Combat	ferdinand brunetiere	1900		Librairie Académique Perrin et Cie
+  ARC00007018					Discours de Combat	ferdinand brunetiere	1907		Librairie Académique Perrin et Cie
+  ARC00006589					Discours sur l'histoire universelle par Bossuet Pour expliquer la suite de la religion et les changements des empires	jacques benigne bossuet	1821	Tome second	Chez Delestre-Boulage
+  ARC00006588					Discours sur l'histoire universelle par Bossuet Pour expliquer la suite de la religion et les changements des empires	jacques benigne bossuet	1821	Tome premier	Chez Delestre-Boulage
+  ARC00006722					Divatte-sur-Loire  Bulletin municipal				
+  ARC00006945					Données publiques et protection des données personnelles   le cadre européen	lanna maximilien	2018		
+  ARC00006801					Dossier  A propos du témoignage de l'abbé Allain  Les habitants de Saint-Joachim sont-ils vraiment des pauvres vivant de l'extraction et du commerce de la tourbe  	alain gallice	2019		
+  ARC00006960					Du charbon à la biomasse  une centrale en transition Quel avenir pour Cordemais  	lionel olivier	2019		
+  DOB00002322			978-2-343-13149-8		Du lieu de culte à la salle de musée muséologie des édifices religieux	claire merleau-ponty	2017		Editions de L'Harmattan
+  ARC00006712					Du marché de gros au Min de Nantes	abed loic	2019		
+  ARC00006820					Du trois-mâts Duquesne au paquebot Normandie  la navigation de Jean-Baptiste Codet	kervarec michel	2019		
+  FRBNF45706622000000X			978-2-911253-92-8		E bord des chalutiers dragueurs de mines	marc pinard rene elder jean-francois henry	2019		Centre Vendéen de Recherches Historiques
+  ARC00006519					e mariage de Saillé	laurent oriot blanchard albane	2019		
+  ARC00007084					Economie traditionnelle du Pouliguen avant 1854		2019		
+  ARC00006333					Eglise Notre-Dame-de-Pitié Restaurant objets d'art		2018		
+  ARC00006575					Elémens de littérature	marmontel jean-francois	1787		
+  ARC00006576					Eléments de littérature	marmontel jean-francois	1825		Chez Verdière
+  ARC00006596					Elévations à Dieu sur tous les mystères de la religion chrétienne  par Bossuet	jacques benigne bossuet	1822		Chez Delestre-Boulage
+  ARC00006595					Elévations à Dieu sur tous les mystères de la religion chrétienne  par Bossuet	jacques benigne bossuet	1822		Chez Delestre-Boulage
+  DOB00002263			9789461615138		Eloge du sentiment et de la sensibilité peintures françaises du XVIIIe siècle des collections de Bretagne  exposition  Nantes  Musée d'arts  15 février - 12 mai 2019   Rennes  Musée des beaux-arts  16 février - 12 mai 2019	musee kazerouni guillaume des adeline beaux-arts collange-perugi	2019		Editions Snoeck
+  ARC00006993					En ce temps là    l'année 1954	danielle jean-pierre gaudron bernard	2019		
+  ARC00006657					En Loire-Atlantique  des poches de pauvreté urbaines	francois herve guery cousseau	2019		
+  ARC00006682					En quête d'énergies bleues	pascaline vallee	2019		
+  DOB00002389			978-1-907427-50-3		English silver coinage from 1649	by maurice bull	2015		Spink   Son
+  DOB00002344			978-2-913272-29-3		Ensembles funéraires gallo-romains de la Loire moyenne II	alain ferdiere	2013		FERACF
+  ARC00006397			978-2-11-129080-8		Entre ciel  terre et mer La Bibliothèque du Service historique de la Défense	dubos jean-francois	2018		Service historique de la Défense
+  ARC00006733					Entre Loire-Atlantique  Maine-et-Loire et Vendée   le réseau de villes du nord de la cité des Pictons  IVème-VIIème siècle apr  J -C  	monteil martial	2019		
+  ARC00007102					Entre Moyen-Ege et Renaissance les grandes heures de Josselin	patrick huchet	2019		Editions Ouest-France
+  ARC00006674					Entre usage et conservation La restauration des bateaux protégés au titre des monuments historiques	mathurin clementine	2019		
+  DOB00002351					Epitres d'un imprimeur bibliolâtre à de vrais bibliophiles et à des bibliophiles qui s'ignorent   les règles qui conditionnent le beau livre typographique	e baudelot	1948		
+  FRBNF310240090000006					Erreurs de Voltaire  par l'abbé Nonnotte  Nouvelle édition  augmentée d'un 3e volume intitulé   l'Esprit de Voltaire dans ses écrits   Texte imprimé	nonnotte claude-francois	1822		Méquignon junior
+  ARC00006545					Escapade sur la cÎte d'Amour	alexandre biet lamoureux marie-christine	2019		
+  ARC00006932					Esclavage  mémoire  réparation	nicola frith	2018		
+  ARC00007031					Essai de psychologie contemporaine Baudelaire  M  Renan  Flaubert  M  Taine  Stendhal	bourget paul	1891		Alphonse Lemerre
+  ARC00007123					essai multi occurences				
+  ARC00007124					essai thèse				
+  ARC00006551					Essais de critique et d'histoire par H  Taine	adolphe hippolyte taine	1874		Librairie Hachette et Cie
+  ARC00006525					Essais de Montaigne  avec les notes de M  Coste suivis de son éloge  nouvelle édition	de montaigne michel	1789		Volland
+  ARC00006544					Et si on remontait le temps en Pays de Loire  		2018	n° 33	
+  FRBNF45761370000000X			978-2-36833-247-4		Et Tati créa Monsieur Hulot	jean-claude pascal rabate chemin	2019		Locus Solus
+  ARC00006445					Etimacie royale en terre guérandaise	barbot michel	2019		
+  ARC00006406			978-2-8240-0754-0		Etudes sur la naissance des principautés territoriales en France  IXe-Xe siècles 	jan dhondt	2018		Editions des régionalismes
+  UNI00000009	frbnf406864950000002				Europe	meissas gaston	1876		Hachette
+  UNI00000008	frbnf406865120000005				Europe		1889		Ex Andriveau  Goujon
+  UNI00000007	frbnf406864950000002				Europe	meissas gaston	1876		Hachette
+  UNI00000006	frbnf333779130000001				Europe		1944		Editions de minuit
+  UNI00000005	frbnf406865230000009				Europe		1913		Eydt
+  UNI00000004	frbnf434433520000001				Europe		1979		
+  UNI00000003	frbnf406865120000005				Europe		1889		Ex Andriveau  Goujon
+  UNI00000002	frbnf406865120000005				Europe		1889		Ex Andriveau  Goujon
+  UNI00000001	frbnf458583050000002				Europe	p bineteau			Bineteau
+	frbnf434427150000005				Europe		1955		
+	frbnf416101400000007				Europe		1956		les Editions Nagel
+  ARC00007090					Evolution du commerce du sel après 1854  Récit d'un déclin annoncé	de les memoire association greniers la	2019		
+  ARC00006632					Evolutions des territoires de Loire-Atlantique 1955-2015 Entretien avec Jean Renard et Nicole Croix	sophie margetic auger christine	2018		
+  ARC00006600					Exposition de la doctrine de l'église catholique sur les matières de controverse  suivie de la conférence avec M  Claude  et des instructions pastorales sur les promesses faites à l'église	jacques benigne bossuet	1822		Chez Delestre-Boulage
+  ARC00006679					Ex-voto marins en Loire-Atlantique	delpire laurent	2019		
+  FRBNF458011340000003			978-2-35077-351-3		Faire de la généalogie avec les jeunes méthodes  pistes et réalisations introduire la généalogie dans l'éducation	duret doladille yannick evelyne	2019		Archives   Culture
+  ARC00006534					Fanny ou l'esprit du large	roy bernard	1934		Les Ecrivains Associés
+  ARC00006676					Félix Cossin Un armateur corsaire nantais	david plouviez	2019		
+  FRBNF333904090000007					Felletin poésies d'un collège chrétien  de 1836 à 1853	delor hippolyte	1884		Ch  Douniol Leblanc
+  DOB00002264			9782906519756		Femmes au travail en fragilité au XVIIIe siècle  Nantes	krystel gualde	2019		Editions Château des Ducs de Bretagne
+  DOB00002265			9782906519763		Femmes au travail vers la reconnaissance au XIXe siècle  Nantes	krystel gualde	2019		Editions Château des Ducs de Bretagne
+  DOB00002266			9782906519770		Femmes au travail vers légalité au XXe siècle  Nantes	krystel gualde	2019		Editions Château des Ducs de Bretagne
+  FRBNF45695807000000X			978-2-906519-75-6;978-2-906519-76-3;978-2-906519-77-0		Femmes au travailTexte imprimé	krystel gualde	2019		
+  ARC00006917					Femmes et négoce dans les ports européens  Fin du Moyen-Ege - XIXème siècle	dufournaud nicole bernard michon	2018		Peter Lang
+  ARC00006886					Fête patriotique à Vertou	jean-claude brosseau	2019		
+  ARC00006990					Fêtes  jeux de plage  régates   rythment les étés à Mesquer-Quimiac	le jocelyne borgne	2018		
+  ARC00006463					Films d'histoire Silhouettes et paysages	cornilleau robert			Editions Spes
+  DOB00002306			9782908752878		Flacon à sels  vinaigrettes et boîtes à mouches accessoires féminins de l'époque romantique	darnis leon			La Pensée Romantique  d 2008
+  ARC00007002					Flash mag d'Asserac  Le 				
+  ARC00006889					Formation de la commune des Sorinières créée le 31 mai 1865 par un décret impérial	joseph leaute	2019		
+  ARC00006815					Fragments de vie  Simone Leray	isidore impinna	2019		
+  ARC00006806					François Lyrot  un chef vendéen  et son héritage	kervarec michel	2019		
+  ARC00006691					Frédéric Cailliaud 1787-1869	muriel rouaud	2019		
+  DOB00002310			9782369426714		Game of thrones de l'histoire à la série	cedric delaunay	2018		Nouveau Monde Editions
+  DOB00002335			978-2-7596-0419-7		Génération en Révolution dessins français du musée Fabre  1770-1815	hilaire hudowicz michel florence	2019		Paris-Musées Musée Fabre
+  ARC00006832					Géographie du département de la Loire-Inférieure	adolphe joanne	1891		Libraire Hachette
+  ARC00006971					Georges Charpak	tabary bernard	2019		
+  ARC00007006					Gétigné  Bulletin municipal Get'infos				
+  ARC00007005					Gétigné  Bulletin municipal L'écho de la butte				
+  ARC00006819					Gobo  peintre et graveur	vince yann	2019		
+  ARC00006923					Gorée   haut lieu africain de la mémoire internationale de la traite atlantique  1962-2016 	guy saupin	2018		
+  ARC00006464			2-7118-3857-9		Gothic revival architecture et arts décoratifs de l'Angleterre victorienne exposition  Paris  Musée d'Orsay  1er mars-6 juin 1999 	marc council british musee girveau bruno d'orsay bascou	1999		Réunion des Musées Nationaux
+  DOB00002358			9782909417356		Graslin un homme  son uvre  son quartier	pompidou gerard	2019		Art 3- Plessis éditions
+  FRBNF457551150000001			978-2-909417-35-6		Graslin un homme  son oeuvre  son quartier	pompidou gerard	2019		
+  DOB00002332			978-2-35906-245-8		Gravure en clair-obscur Cranach  Raphaël  Rubens	lepape severine	2018		Lienart éditions Editions du Louvre
+  ARC00006444					Guérande et le culte de Saint-Michel	fernand gueriff	2019		
+  FRBNF458099300000004			978-2-213-71219-2		Guerre et paix en Vendée  1794-1796	rolland-boulestreau anne	2019		Editions Fayard
+  FRBNF45773217000000X			978-2-11-129084-6		Guerres et paix en affiches de l'Ancien régime à Sentinelle  exposition  Vincennes  Château de Vincennes  24 juin-22 septempre 2019 	de france rocher defense service yves-marie historique doizelet luca sophie benjamin la	2019		
+  FRBNF456640940000006			978-2-11-145651-8		Guide de recherche dans les archives du Conseil d'Etat	flament-guelfucci isabelle chave emmanuelle	2018		La Documentation française
+  ARC00006768					Guide des voies fluviales   de Dinan à Nantes	albert-ernest julien glandaz boistel	1907		Hachette et Cie
+  ARC00006389					Guide pratique de Nantes  Saint-Nazaire-la Baule  CÎte d' Amour   CÎte de Jade				
+  ARC00006388					Guide pratique de Saint-Nazaire  CÎte d' Amour   CÎte de Jade				
+  ARC00006915					Guide secret de la Côte d'Amour de Saint-Nazaire à Guérande	huguette ausias-messer	2019		Editions Ouest-France
+  FRBNF457072160000005			978-2-36935-219-8		Habiter en lutte ZAD de Notre-Dame-des-Landes  quarante ans de résistance	comm'un collectif	2019		le passager clandestin
+  UNI00000011	frbnf458085920000000				Harry Potter	j k rowling	199		Bloomsbury
+  UNI00000010	frbnf457074940000002				Harry Potter				Kyrnea international
+	frbnf409607600000007				Harry Potter	j k rowling	2006		 France loisirs 
+	frbnf409607600000007				Harry Potter	j k rowling	2006		 France loisirs 
+	frbnf409607600000007				Harry Potter	j k rowling	2006		 France loisirs 
+	frbnf457074940000002				Harry Potter				Kyrnea international
+	frbnf443417670000006				Harry Potter	j k rowling	2012		an Amzer embanner
+	frbnf409607600000007				Harry Potter	j k rowling	2006		 France loisirs 
+	frbnf409607600000007				Harry Potter	j k rowling	2006		 France loisirs 
+	frbnf409607600000007				Harry Potter	j k rowling	2006		 France loisirs 
+	frbnf457074940000002				Harry Potter				Kyrnea international
+	frbnf409607600000007				Harry Potter	j k rowling	2006		 France loisirs 
+	frbnf409607600000007				Harry Potter	j k rowling	2006		 France loisirs 
+  DOB00002305			978-2-930948-01-0		Hekátê triformis Mélanges de numismatique et d'archéologie en mémoire de Marc Bar	marc genevieve jean-marc doyen bar vincent	2017		Cercle d'Etudes Numismatiques
+  ARC00006866					Henri et Marie-Thérèse Serennes  Justes parmi les Nations 	pays de retz des historiens du societe	2019		
+  ARC00006776					Henri Lemasson 1870-1956  Un Gavrais à l'itinéraire hors du commun				
+  ARC00006621					Henriette Le Belzic  résistante déportée  De novembre 1941 à avril 1945  Mémoires d'une Bretonne dans l'enfer concentrationnaire nazi	le boulanger isabelle	2018		Coop Breizh
+  FRBNF456466220000001			978-2-918315-18-6		Hiérarchie et ascension sociale de nos ancêtres artisans et boutiquiers condition  vie quotidienne  travail et ascension sociale  XVIe-XIXe siècle	sabot thierry	2018		
+  ARC00007041					Histoire  La Belle Epoque	pierre aubry	2019		
+  ARC00006980					Histoire  mémoire et patrimoine   Les Religieuses dans la tournente révolutionnaire en Vendée militaire Mémoire de Master II d'Histoire  Civilisation  Patrimoine et Sources	de rozieres berenice	2019		
+  FRBNF428037040000000					Histoire de Charles XII  roi de Suède  divisée en huit livres  avec l'Histoire de l'empire de Russie sous Pierre-le-Grand  en deux parties divisées par chapitres Texte imprimé	voltaire	1768	2	Cramer
+  ARC00006419			978-2-8240-0756-4		Histoire de la Baie de Bourgneuf et de son littoral La Baye de Bretagne   Tome Ier	lacroix louis	2018		Editions des régionalismes
+  ARC00006616					Histoire de la Bretagne Des origines à nos jours	tourault philippe	2019		Perrin
+  ARC00006377			979-10-210-3689-5		Histoire de la Collaboration  1940-1945 	francois broche muracciole jean-francois	2019		Editions Tallandier
+  ARC00006496					Histoire de la conjuration de Catilina  où l'on a inséré les Catilinaires de Cicéron	salluste	1752		H  L  Guérin
+  ARC00006835					Histoire de la création du bureau de poste	de patrimoine et basse-mer association du barbechat chapelle la	2019		
+  DOB00002356					Histoire de la destruction de Troye la Grant reproduction du manuscrit   Bibliothèque nationale  nouvelles acquisitions françaises 24920	thomas marcel	1973		Bibliothèque Nationale
+  FRBNF456897390000002			978-2-36746-948-5		Histoire de l'ile de Noirmoutier	johan vincent	2019		
+  ARC00007105					Histoire de sorciers et de sorcières sous l'ancien régime	libert louise-marie	2019		Editions Jourdan
+  ARC00006491					Histoire de Tacite  en latin et en français Avec des notes sur le texte	tacite	1780		Moutard
+  ARC00006490					Histoire de Tacite  en latin et en français Avec des notes sur le texte	tacite	1780		Moutard
+  FRBNF45761741000000X			978-2-36942-813-8		Histoire des guerres révolutionnaires et impériales 1789-1815	jean-marc marill	2019		Nouveau Monde Editions
+  ARC00006410			978-2-7178-6949-1		Histoire des institutions administratives Xe-XIXe siècle	glineur cedric	2017		Economica
+  ARC00006793					Histoire des Parre  De la terre au commerce en passant par l'auberge	jean bouteiller	2001		
+  ARC00006604					Histoire des variations des églises protestantes	jacques benigne bossuet	1822		Chez Delestre-Boulage
+  ARC00006603					Histoire des variations des églises protestantes	jacques benigne bossuet	1822		Chez Delestre-Boulage
+  ARC00006602					Histoire des variations des églises protestantes	jacques benigne bossuet	1822		Chez Delestre-Boulage
+  ARC00006601					Histoire des variations des églises protestantes	jacques benigne bossuet	1822		Chez Delestre-Boulage
+  DOB00002370					Histoire du curare les poisons de chasse en Amérique du Sud	jean-albert vellard	1965		Gallimard
+  ARC00006611					Histoire du moyen-âge Mille ans de splendeurs et misères	georges minois	2019		Perrin
+  ARC00006865					Histoire du viaduc ou  pont Têtedoie 		2019		
+  ARC00007112					Histoire intellectuelle de l'occident médiéval	paul jacques	2019		Armand Colin
+  ARC00006499					Histoire universelle de Diodore de Sicile  traduite en François par monsieur l'abbé Terrasson	sicile de terrasson diodore jean	1737		De Bure
+  FRBNF372579320000004					Historiettes et fantaisiesTexte imprimé	louis veuillot	1888		V  Palmé Société belge de librairie
+  ARC00006520					HÎtel de Rohan  actuellement Chez Lucien  7  place Saint-Aubin - Place de la Psalette 	lancien josick	2019		
+  ARC00006709					Il était une fois Le Pé de Buzay	pellerin le autrefois	2019		
+  ARC00006418			978-1-326-15058-7		Il y a 100 ans    Malville pendant la Grande Guerre	de d'histoire malville groupe laique locale l'amicale	2015		
+  ARC00006508					Il y a 600 ans   le 8 avril 1418  saint Vincent Ferrier prêche à Guérande	alain gallice lancien vaillant josick	2019		
+  ARC00006878					Ils avaient 10 ans pendant la guerre		2019		
+  ARC00006403					Images de Jules Verne		2014		
+  ARC00006698					Images de Saint-Nazaire pendant la Grande Guerre	pauvert patrick	2015		
+  ARC00006749					Impacts sur l'environnement littoral des ouvrages défensifs aux approches de l'embouchure de la Loire	louis chauris	2019		
+  ARC00006593					Introduction à la philosophie ou de la connaissance de Dieu et de soi-même suivie du traité du libre arbitre par Bossuet	jacques benigne bossuet	1822		Chez Delestre-Boulage
+  ARC00006539					Jacques Moreau  avocat et prêtre  1737-1795 	david guy	2018	n° 33	
+  ARC00007129	frbnf458271390000004		978-2-02-142057-9		Jaune histoire d'une couleur	pastoureau michel	2019		Seuil
+  ARC00006883					J-B  Kléber  soldat de la République	kervarec michel	2019		
+  ARC00006972					Je me souviens   de la seconde Guerre Mondiale Mémoires de guerre de Jean-Claude Bouin	aupiais jean-claude gregory bouin	2019		
+  ARC00006347					Jean Chapron 1887-1918 Poète  peintre et     employé à la Caisse d' Epargne		2018		
+  ARC00006870					Jean et Olivier de Bretagne  comtes de Penthièvre  vicomtes de Limoges  1384-1433 	lemeillat marjolaine	2019		
+  DOB00002294			978-2-7355-0855-6		Jean-Baptiste Isabey Petits portraits et grands desseins	cyrill lecosse	2018		CTHS Institut national d'histoire de l'art
+  ARC00006476					Jérusalem délivrée  poëme héroïque du Tasse  traduit en François Tome second	le tasse	1771		Chez la veuve Barrois et fils
+  ARC00006412			978-2-84712-582-5		J'étais sûr que tu me trouverais L'épopée des quatre frères Mahé  guérandais et de leur mère Charlotte	tabary bernard	2018		Editions du Petit Pavé
+  ARC00006461					Jeunes chefs de file	montier edward	1935		Editions Spes
+  ARC00006472					Jeunes maîtres Etats d'âme d'aujourd'hui   Henry de Montherlant  François Mauriac  Jacques Maritain  Henri Massis  Jacques Rivière	aigrain rene pauline amoudru archambault le cormier paul bernard	1926		Libr  Bloud et Gay
+  ARC00006450					Journal d'un aumÎnier breton - 1850  24e partie 	marchocki christiane	2019		
+  ARC00006979					Journal d'un aumÎnier breton - 1850  25e partie 	marchocki christiane	2019		
+  ARC00006855					Juger et punir à Nantes	elsa besson	2019		
+  ARC00006379					L' Amiral du Chaffault  1708-1794  Grand serviteur de la marine royale	alain gaillard	2014		
+  DOB00002382			978-2-7373-7623-8		L' art des jardins de France de la quête médiévale du paradis aux créations contemporaines des paysagistes	vassort jean	2017		Editions Ouest-France
+  ARC00006416			978-2-94809-311-6		Là  L-A   Loire-Atlantique  Variations autobiographiques et départementales  suivi de Frères oiseaux	jean-claude pinson	2018		Joca Seria
+  DOB00002342					La Bibliothèque du Service historique de la Défense	dubos jean-francois	2018		
+  DOB00002313			978-2-84346-870-4		La Bretagne au temps des rois de Morvan à Alain le Grand  818-907  exposition  Landévennec  Musée de l'ancienne abbaye  du 2 mai 2018 au 3 novembre 2019	guenole ridoux	2019		Editions Coop Breizh
+  ARC00007073					La Chabossière   une histoire en partage Promenade historique et architecturale	coueron			
+  DOB00002365					La Chapelle Sixtine volume I	hartt frederick	1989		Editions Citadelles
+  DOB00002357			2-85088-042-6		La Chapelle Sixtine volume II	hartt frederick	1989		Editions Citadelles
+  ARC00006745					La château de Machecoul   un bilan des recherches historiques et archéologiques récentes	de fabien bernard grandmaison briand gerard setzer	2019		
+  ARC00006647					La circulation des hommes et des techniques du raffinage des sucres au XVIIe siècle   l'Europe du Nord  Nantes  Les Antilles	tanguy marion	2017		
+  ARC00006409			978-2-7013-1956-8		La confiance à l'ère numérique	jacopo doueihi domenicucci milad	2018		Berger-Levrault
+  ARC00006809					La confrérie de la Bonne Mort	isidore impinna	2019		
+  DOB00002323			978-2-271-08916-8		La conservation des peintures modernes et contemporaines	roche alain	2016		CNRS éditions
+  ARC00006673					La conserve de sardines à l'huile Nantes  capitale mondiale	fichou jean-christophe	2019		
+  ARC00006438					La construction aéronautique à Saint-Nazaire de 1926 à 1946 Un exemple de redressement industriel	correc paul	2019		
+  ARC00006783					La construction du pont Saint-Georges à Nort-sur-Erdre  1755-1774 	ille-et-vilaine departementales gerard fourage archives	2004	5ème livraison	
+  ARC00006782					La construction du pont Saint-Georges à Nort-sur-Erdre  1755-1774 	ille-et-vilaine departementales gerard fourage archives	2004	4ème livraison	
+  ARC00006781					La construction du pont Saint-Georges à Nort-sur-Erdre  1755-1774 	ille-et-vilaine departementales gerard fourage archives	2004	supplément n°1	
+  ARC00006780					La construction du pont Saint-Georges à Nort-sur-Erdre  1755-1774 	ille-et-vilaine departementales gerard fourage archives	2004	supplément n°1	
+  ARC00006779					La construction du pont Saint-Georges à Nort-sur-Erdre  1755-1774 	ille-et-vilaine departementales gerard fourage archives	2004	3ème livraison	
+  ARC00006778					La construction du pont Saint-Georges à Nort-sur-Erdre  1755-1774 	ille-et-vilaine departementales gerard fourage archives	2003	2ème livraison	
+  ARC00006777					La construction du pont Saint-Georges à Nort-sur-Erdre  1755-1774 	ille-et-vilaine departementales gerard fourage archives	2003	1ère livraison	
+  ARC00006943					La construction d'un service public de la donnée	lucie cluzel-metayer	2018		
+  DOB00002329			978-2-35518-092-7		La construction d'une archéologie européenne  1865-1914  colloque en hommage à Joseph Déchelette	de direction pere-nogues sandra sous la	2019		Editions Monique Mergoil
+  ARC00006758					La construction juridique des paysages littoraux depuis 1906  	patrick le louarn	2019		
+  ARC00006609					La culture du maïs en Loire-Atlantique et les problèmes géographiques	colineau j	1978		 s n  
+  ARC00007080					La culture est dans les bars    et l'union fait la force 	bourgault pierrick	2019		
+  ARC00006331					La défense de la Grande Brière Mottière dans la seconde moitié du XVIIIe siècle	alain gallice	2017		
+  ARC00006845					La documentation française illustrée	de france direction francaise documentation la	1967		La Documentation française
+  ARC00006625					La duchesse Constance de Bretagne et le gouvernement en héritage à la fin du XIIème siècle	chaudet elodie	2019		
+  ARC00006527					La famille Luc et la ferronnerie d'art   une passion transmise de père en fils	guillaume francois aurelia bourse berthe andre	2019		
+  ARC00006645					La fête des Ecoles à Saint-Nazaire après la guerre	sauvaget daniel	2017		
+  DOB00002360			9782846544863		La France et l'Inde  des origines à nos jours l'Inde entrevue tome 1	weber jacques	2019		Les Indes Savantes
+  FRBNF331146760000004					La franc-maçonnerie	paul naudon	1967		Presses universitaires de France
+  ARC00007092					La gabelle  la troque  la douane  ImpÎt capricieux sur le sel	de les memoire association greniers la	2019		
+  DOB00002393			978-2-330-09264-1		La Gaule romaine	blin benjamin lefort olivier	2018		Actes Sud junior INRAP
+  ARC00006394			978-2-35077-340-7		La généalogie sur internet   Geneanet org Des milliards d'ancêtres à portée de clavier	guidou gwen	2018		Archives   Culture
+  ARC00006622					La génération de la guerre  La guerre 1914-1918 vécue par les anciens élèves du Lycée de Nantes Comité de l'Histoire du Lycée Clemenceau de Nantes	bourgeon jean	2015		
+  DOB00002397			9782917812907		La Gestion d'une régie directe culturelle le guide de bord de la gestion culturelle au sein de l'administration publique territoriale	crouzet olivier	2019		
+  ARC00006705					La grande pauvreté à Nantes   de précoces lanceurs d'alerte	guyvarc'h didier	2019		
+  ARC00006665					La grande pauvreté à Nantes   de précoces lanceurs d'alerte	guyvarc'h didier	2019		
+  ARC00006431			978-2-226-39721-8		La grande tueuse Comment la grippe espagnole a changé le monde	spinney laura	2018		Albin Michel
+  ARC00006487					La Grèce  Rome et Dante Etudes littéraires d'après nature	ampere jean-jacques			librairie académique Didier
+  FRBNF428032990000007					La Henriade  en dix chants   précédée  accompagnée    suivie de toutes les piéces rélatives à ce poëme   à la poësie épique en général   auxquelles on a joint le Temple du goût  les Discours sur l'homme  les Poèmes  de Fontenoy  sur le désastre de Lisbonne  sur la loi naturelle   c Texte imprimé	voltaire	1768	1	 Cramer 
+  ARC00006345					La justice de paix	jerime malhache	2019		
+  ARC00006747					La lanterne des morts des Moutiers-en-Retz	pipaud patrice	2019		
+  ARC00006968					La lettre à Charles	pauvert patrick	2019		
+  ARC00006620					La lutte clandestine en France Une histoire de la Résistance	douzou blanc albertelli laurent sebastien julien	2019		Editions du Seuil
+  FRBNF456688190000003			978-2-02-138952-4		La lutte et l'entraide l'âge des solidarités ouvrières	delalande nicolas	2019		Editions du Seuil
+  ARC00006363			978-2-7535-7599-8		La maison du négociant dans les villes portuaires de la façade atlantique européenne au XVIIIe siècle Mise en parallèle de deux cités   Cadix et Nantes	del gomez maria marquez carmen	2019		Presses universitaires de Rennes
+  ARC00006899					La Maladrie de Vertou	jean delumeau janine jouitteau	2019		
+  ARC00006992					La Marée Noire de l'Amoco-Cadiz  2ère partie		1978		 s n  
+  ARC00006926					La mémoire de la traite des Noirs  de l'esclavage et de leurs abolitions à La Rochelle   les initiatives municipales  1979-2015 	mickael augeron	2018		
+  ARC00006404			979-10-210-2765-7		La mémoire des croquants Chroniques de la France des campagnes  1435-1652 	jean-marc moriceau	2018		Editions Tallandier
+  FRBNF45590408000000X			978-2-226-39905-2		La métallo roman	catherine ecole-boivin	2018		Albin Michel
+  ARC00006813					La mise en boîte d'un caboteur	michel philippe	2019		
+  DOB00002376					La monnaie de Chinon pendant la Guerre de Cent Ans	gildas salain	2019		
+  DOB00002309			9782354040802		La Nécropole de Saint-Rieul à Louvres de Clovis au musée ARCHEA	antoinette patrick perin hubert	2018		ARCHEA
+  ARC00006949					La Nièce de Monseigneur ou l'histoire du Loroux-Bottereau de Noé à la guerre de 39-45 En passant par Energique et la Brebis du Bon Dieu  	perron henri	2019		Edilivre
+  FRBNF457926810000005			978-2-200-62514-6		La non-épuration en France de 1943 aux années 1950	annie lacroix-riz	2019		Armand Colin
+  FRBNF436632670000001			978-2-7535-2267-1		La paroisse  communauté et territoire constitution et recomposition du maillage paroissial	louisa daniel pichot plouchart merdrignac bernard	2013		Presses universitaires de Rennes
+  ARC00007104					La pêche   regards croisés	michon cerino eric saunier christophe bernard	2019		Presses universitaires de Rouen et du Havre
+  ARC00006359			978-2-7535-7599-8		La pêche à la morue et le renouvellement de l' élite nantaise au XVIIe siècle	bernard michon	2019		Presses universitaires de Rennes
+  ARC00007060					La place des forges de la Hunaudière dans le système productif métallurgique castelbriantais	ronan perennes	2019		
+  ARC00006946					La portabilité des données et des services	francois pellegrini	2018		
+  FRBNF457281000000001			979-10-353-0255-9		La Presqu'île de Guérande	arnaud christian braut lancien dolivet drean gregory josick	2019		Geste éditions
+  ARC00006757					La presqu'île guérandaise  source d'inspiration des peintres aux XIXème et XXème siècles  	delpire laurent	2019		
+  ARC00006458					La prêtresse d'Isis	edouard schure			Librairie Académique Perrin et Cie
+  ARC00006710					La prison de la rue de l'Anguille	pellerin le autrefois	2019		
+  ARC00006942					La propriété des données publiques	aurelien camus	2018		
+  DOB00002300			978-2-7056-9594-1		La Protohistoire de la France	guilaine dominique sciences et des international garcia prehistoriques congres jean protohistoriques	2018		Hermann
+  ARC00006847					La question de la marine marchande Introduction  La prime ou la surtaxe   La prime au temps ou à la distance   Constructions françaises ou constructions étrangères   Conclusions  Note et observations sur les décisions de la Commission Parlementaire	bureau leon	1892		Imprimerie moderne Deroual Joubin
+  DOB00002330			978-2-343-16830-2		La question mémorielle au XXIe siècle jouer éternellement le passé	leroux charles-edouard	2019		Editions de L'Harmattan
+  ARC00006328			978-2-371-1-331839		La Reine des Korrigans Une légende de Guérande	cheval fanny	2018		Beluga Coop Breizh
+  ARC00006355			978-2-37469-008-7		La Résistance en Bretagne vue par l' Armée américaine	rondel eric	2016		
+  ARC00006531					La saga Linares   à la découverte d'un héros guérandais	boulnois alain	2019		
+  FRBNF422401610000009			978-2-7574-0162-0		La santé des populations civiles et militaires nouvelles approches et nouvelles sources hospitalières  XVIIe-XVIIIe siècles	nonnis-vigilante belmas elisabeth serenella	2010		Presses universitaires du Septentrion
+  ARC00007024					La science et la religion La moralité de la doctrine évolutive  Le catholicisme aux Etats-Unis  Le mensonge du pacifisme  Les bases de la croyance  Pour les humanités classiques	ferdinand brunetiere	1916		Librairie Académique Perrin et Cie
+  ARC00007026					La science et la religion réponse à quelques objections	ferdinand brunetiere	1895		Firmin-Didot et Cie
+  FRBNF351689040000001					La Seconde guerre mondiale 1939-1945	roger cere	1970		Presses universitaires de France
+  ARC00006446					La Seigneurie de Kercabus 600 ans d' Histoire	beunon josselin	2019		
+  ARC00006770					La séparation des lépreux et leur condition notamment en Bretagne La lèpre à l'époque actuelle	trevedy julien	1904		Imprimerie René Prud'homme
+  ARC00006414			978-2-919339-53-2		La Sèvre Nantaise de la Loire à la source	raimbaud fabienne	2018		Coiffard Edition
+  ARC00006352			0419-5361		La société française de 1945 à nos jours	raflik bantigny vigreux ludivine jenny jean	2015		La Documentation française
+  ARC00006353			0419-5361		La société française de 1945 à nos jours Sortie de guerre  entrées en guerre	et modernisation reconstruction	2015		La Documentation française
+  ARC00006365			978-2-908327-96-0		La surveillance révolutionnaire dans l' Ouest en guerre	dominique jollet rothiot jean-paul pingue daniele dir anne godineau	2017		Société des Etudes Robespierristes
+  ARC00006429			978-2-271-09027-0		La survie des juifs en France 1940-1944	semelin jacques	2013		CNRS éditions
+  ARC00006743					La Touche en La Limouzinière  Loire-Atlantique   un logis-porche	scheffer michael marie-eve idris meirion-jones jones gwyn	2019		
+  ARC00006930					La traite des Noirs  le devoir de mémoire et le devoir d'histoire   quelle place pour l'enseignement   L'exemple de La Réunion	gilles gauvin	2018		
+  ARC00006396			979-10-353-0140-8		La Turballe	alain gallice lancien boutruche gildas buron jean-pierre josick	2018		Geste éditions
+  DOB00002353					La typographie	valotaire marcel	1930		
+  ARC00007107					La Vendée de la mémoire 1800-2018	jean-clement martin	2019		Editions du Seuil Perrin
+  ARC00006411			978-2-343-15232-5		La vie en Haute Bretagne Hier  aujourd'hui et demain	beuchee laurent	2018		Harmattan
+  ARC00006695					La vie quotidienne avant  pendant  et après la guerre de 1939-1945	de larousse charles olivier marchocki christiane jean nicole chaille	2017		
+  ARC00006748					La villa Chupin à Saint-Brevin l'Océan	veronique mathot	2019		
+  DOB00002260			9782354040383		La ville antique de Famars  exposition  Valenciennes  Musée des beaux-arts  12 avril-16 septembre 2013 	raphael musee des clotuche beaux-arts	2013		Service archéologique de Valenciennes
+  ARC00006744					L'abbatiale de Saint-Philbert-de-Grandlieu	christian heber-suffrin francois daniel sapin prigent	2019		
+  ARC00006642					L'abbé Mercier  historien de la commune		2019		
+  ARC00006872					L'administration de la vicomté de Limoges sous gestion bretonne  1275-1375 	remy christian	2019		
+  ARC00006920					L'ADN un outil généalogique	jovanovic-floricourt nathalie	2019		Archives   Culture
+  ARC00006986					L'affaire Lurs  4 août 1952	de departementales - haute provence labadie alpes jean-christophe archives	2019		Conseil départemental des Alpes-de-Haute-Provence
+  ARC00006933					L'amiral du Chaffault	secher reynald alain gaillard	2019		La Chouette de Vendée
+  ARC00006805					L'ancienne église Saint-Pierre de Rezé	kervarec michel	2019		
+  ARC00007126	frbnf42072294000000x		978-2-7324-3993-8		Lanterne magique et film peint 400 ans de cinéma NEW REP e  exposition  Paris  la Cinémathèque française  14 octobre 2009-28 mars 2010  Turin  la Venaria reale  12 octobre 2010-9 janvier 2011 	donata pesenti museo del nazionale cinematheque campagnoni laurent cinema mannoni francaise	2009		la Cinémathèque française NEW REP c La Martinière
+  ARC00006816					L'architecture du vide 30e anniversaire de l'inauguration de l'hÎtel de ville	cochais jean-yves	2019		
+  DOB00002270			9788836637478		L'Armée de Rome la puissance et la gloire  exposition  15 décembre 2018 - 22 avril 2019  Musée départemental Arles antique 	departemental antique musee arles	2018		Silvana
+  ARC00006973					L'Armorial général en pays de Guérande 1696-1700 - Deuxième partie	loup	2019		
+  ARC00006442					L'Armorial général en pays de Guérande 1696-1700 - Première partie	loup	2019		
+  ARC00006567					L'art d'écrire enseigné en vingt leçons	albalat antoine	1913		Armand Colin
+  DOB00002288					L'Art du symbole les motifs ornant les céramiques chinoises recèlent une symbolique cachée qui a longtemps échappé aux occidentaux Estelle Niklès Van Osselt  sinologue et conservatrice à la fondation Baur de Genève  lève le voile de mystère	van aznaour anna estelle nikles osselt	2018		
+  ARC00006874					L'art gothique entre Bretagne et Limousin  Pistes de recherches autour des expressions régionales du gothique flamboyant à la fin du Moyen Ege	michele boccard	2019		
+  ARC00006468					L'art poétique de Boileau commenté par Boileau et par ses Contemporains	delaporte victor	1888		Société Saint-Augustin  Desclée  de Brouwer et cie
+  ARC00006467					L'art poétique de Boileau commenté par Boileau et par ses Contemporains	delaporte victor	1888		Société Saint-Augustin  Desclée  de Brouwer et cie
+  ARC00006466					L'art poétique de Boileau commenté par Boileau et par ses Contemporains	delaporte victor	1888		Société Saint-Augustin  Desclée  de Brouwer et cie
+  DOB00002346			978-2-7084-1027-5		L'artiste et l'antiquaire l'étude de l'antique et son imaginaire à l'époque moderne	d'emmanuel direction et delphine burlot lurin morana sous la	2017		Institut national d'histoire de l'art A  et J  Picard
+  ARC00007063					L'Atelier de l'architecte Georges Lafont  1847-1924  et du peintre Alexis de Broca  1868-1948    un lieu d'art et de tolérance à Nantes	frederic crehalet	2019		
+  ARC00007081					Le bistrot des boulistes	guibert joel	2019		
+  ARC00007103					Le bretonisme  Les historiens bretons au XIXe siècle	denis guiomar michel jean-yves guigon philippe	2019		Presses universitaires de Rennes
+  ARC00006384					Le camp d'internement de Guérande 1914-1919	de guerande ville			Ville de Guérande
+  ARC00006839					Le canton de Rougé				
+  ARC00006478					Le Carton à Chapeau  Lettres et carnet du Front de 1914-1919	claudine stalmarski	2019		Copy Service System
+  ARC00006610			978-2-240-05014-4		Le centenaire à l'école un laboratoire pédagogique	alexandre lafon blanquer jean-michel	2019		14-18 Mission Centenaire
+  ARC00006672					Le chantier naval  Sylvain Bonniol  photographe	david liaudet	2019		
+  ARC00006734					Le château  le castrum et la ria de Pornic  XIIIème-XVème siècle  approche archéologique 	jocelyn martineau	2019		
+  ARC00007054					Le château de Derval   état des connaissances et premiers apports de l'archéologie à l'étude du site castral	lemee malo	2019		
+  ARC00006329			978-2-371-1-331808		Le Cheval Mallet Une légende de Saint-Lumine-de-Coutais	cheval fanny	2018		Beluga Coop Breizh
+  ARC00006652					Le commerce métropolitain vu de Saint-Domingue   une lente montée en puissance  1665-1700 	philippe hrodej	2019		
+  ARC00006535					Le comte de Valmont  ou les égaremens de la raison Nouvelle éd  ornée de trois gravures	philippe-louis gerard	1832		Chez Montarsolo et Compagnie
+  ARC00006901					Le conseil général de Loire-Atlantique 1998	loire-atlantique conseil general	1998		Conseil Général de Loire-Atlantique
+  ARC00006951					Le Corbusier 5x unité d'habitation Marseille Berlin Rezé Briey-en-Forêt Firminy	arthur zalewski	2019		Spector Books
+  ARC00007109					Le costume breton au début du XIXe siècle le recueil de Charpentier - 1829-1832	delouche guesdon denise yann	2019		Skol Vreizh
+  ARC00006948					Le Couvent des Cordeliers de Savenay 1419-2019 Archéologie  Histoire et Mémoire d'un Patrimoine	groupe martin 2019 jean-yves ad'hoc	2019		Editions du Petit Pavé
+  ARC00006988					Le Croisic patrimoine	de syndicat office tourisme d'initiative			
+  ARC00006962					Le dernier vol des gigognes	de casiniere nicolas la	2019		
+  ARC00006330					Le dessèchement des marais du Haut Brivet  1769-début du XIXe siècle 	alain gallice	2017		
+  ARC00007030					Le destin de l'occident suivi de divers essais critiques	rene gillouin	1929		Editions Prométhée
+  ARC00006360			978-2-7535-7599-8		Le développement du commerce colonial antillais à Nantes et le renouvellement de l'élite marchande urbaine au milieu du XVIIe siècle	tanguy marion	2019		Presses universitaires de Rennes
+  ARC00006338			978-2-8186-1456-3		Le développement local par les politiques culturelles Dossier d'experts	ferre adrienne	2018		Territorial éditions
+  FRBNF458022570000008			978-2-35723-150-4		Le discret langage du pouvoir les mentions de chancellerie du Moyen âge au XVIIe siècle	canteaut olivier	2019		Ecole nationale des Chartes
+  ARC00006907					Le droit à l'oubli   vers un nouveau droit fondamental de l'invididu  	marie ranquet	2019		
+  DOB00002377					Le florin de Florence	gildas salain	2019		
+  ARC00006420			978-2-8240-0801-1		Le foyer breton Contes et récits populaires	souvestre emile	2018		Editions des régionalismes
+  ARC00006887					Le Grand Café de la place Graslin	jean jouitteau	2019		
+  ARC00006840					Le grand Nantes d'hier à aujourd'hui				
+  ARC00006888					Le Grand Restaurant de la place Graslin	jean jouitteau	2019		
+  ARC00006904					Le guide découverte  Laissez-vous conduire  Prenez le réseau Atlantic' Transport  Janvier 2002	loire-atlantique conseil general	2002		
+  DOB00002359			9782369751144		Le Haut-Berry Aubigny  Mehun  Sancerre  Bourges	chen jean	2 182 018		Galerie Art-tension Bouinotte éditions
+  ARC00006802					Le laraire sous l'église Saint-Pierre	kervarec michel	2019		
+  DOB00002383			979-10-90853-13-3		Le Livre   la Mort XIVe-XVIIIe siècle	hans-collas queruel danielle fabienne ilona le bars	2019		Editions des Cendres Bibliothèque Mazarine Bibliothèque Sainte-Geneviève
+  ARC00006528					Le livre de raison de Charles Morvan de Kerpondarme	reymond thierry	2019		
+  DOB00002363					Le livre des fêtes françaises	mourey gabriel	1930		Librairie de France
+  ARC00006834					Le livre d'images du ciel	daniel-j giraudon	2019		
+  ARC00006981					Le loup et la Guerre de Vendée  1793 - années 1810  Mémoire de master en Histoire	libaud pierre	2018		
+  ARC00006368			978-2-02-140395-4		Le Loup Une histoire culturelle	pastoureau michel	2016		Editions du Seuil
+  ARC00007035					Le masque et l'encensoir  Introduction a une esthétique du théâtre  Préface de Maurice Brillant	maurice baty brillant gaston	1926		Libr  Bloud et Gay
+  DOB00002390			9782330113339		Le Métal	direction sous d'hugues jacquet la	2018		Actes Sud
+  DOB00002284			9782851011503		Le Métal art et techniques mise en forme  forgeage et soudage	jose ares antonio	2016		Vial
+  ARC00007115					Le modèle noir De Guéricault à Matisse	musee d'orsay	2019		Flammarion
+  ARC00006893					Le mosaïste Isidore Odorico fils  1893-1945 	kervarec michel	2019		
+  DOB00002394			978-2-330-03925-7		Le Moyen Ege	vincent carpentier	2015		Actes Sud junior INRAP
+  ARC00006929					Le musée au coeur du conflit entre la mémoire et l'histoire Le débat autour des salles sur l'esclavage du musée d'Aquitaine	francois hubert	2018		
+  ARC00007062					Le musée de la Société archéologique de Nantes et la chapelle Saint-Thomas de la Collégiale  1845-1849 	gallice alain stephane haugommard	2019		
+  ARC00007114					Le mythe national L'histoire de France revisitée	laurence de suzanne cock citron	2019		Les Editions de l'Atelier
+  DOB00002388			978-2-330-09263-4		Le Néolithique	mehee loic	2018		Actes Sud junior INRAP
+  DOB00002398					Le pardon un défi dans l'histoire actes du colloque qui s'est tenu à l'ICES en février 2015	d'etudes institut ices superieures catholique	2017		Centre Vendéen de Recherches Historiques
+  ARC00006668					Le patrimoine fortifié maritime des Pays de la Loire	patrick jade	2019		
+  ARC00006736					Le paysage portuaire de la Baie à la fin du Moyen Ege	sarrazin jean-luc	2019		
+  ARC00006324			978-2-371-1-331822		Le Petit Ramoneur Une légende de Nantes	cheval fanny	2018		Beluga Coop Breizh
+  ARC00006727					Le port de La Rochelle	sylvie reol	1978		 s n  
+  ARC00007095					Le port du Pouliguen  Coeur d'un système agro-maritime	de les memoire association greniers la	2019		
+  ARC00007075					Le Port-Launay   des hommes  un port  un fleuve Promenade historique et architecturale à Couëron	coueron			
+  ARC00007116					Le pouvoir des contes	georges jean	1981		Casterman
+  ARC00006507					Le programme iconographique des chapiteaux historiés romans de la collégiale Saint-Aubin de Guérande	alain gallice	2019		
+  ARC00006738					Le projet de canal de Nantes à Pornic du marquis de Brie-Serrant  fin du XVIIIème siècle 	bernard michon	2019		
+  ARC00007059					Le projet de Guillaume Belliard pour la chapelle de La Turmelière aux Jacobins de Nantes  Dessins inédits  1627 	jessy jouan	2019		
+  ARC00006327			978-2-371-1-331853		Le Rat Marin Une légende de Nantes	cheval fanny	2018		Beluga Coop Breizh
+  ARC00006905					Le réglement départemental d'aide sociale Mars 1999	loire-atlantique conseil general	1999		
+  ARC00006766					Le retour de  La Princesse  Livret-souvenir 13 et 14 octobre 2018	le louis bail	2018		Batignolles-Retrouvailles
+  ARC00006950					Le rÎle des femmes dans le commerce antillais du port de Nantes dans la seconde moitié du 17e siècle	tanguy marion	2018		Peter Lang
+  ARC00006581					Le roman comique	paul scarron	1884		Librairie de la Bilbliothèque nationale
+  ARC00006894					Le sculpteur Auguste Pichaud  Le tympan de l'église de Vertou	fertil jean-pierre	2019		
+  DOB00002361					Le Second Empire  2 décembre 1851 - 4 septembre 1870  d'après des peintures  gravures  photographies  sculptures  dessins  médailles  autographes  objets du temps	armand dayot	1900		Ernest Flammarion
+  ARC00006706					Le séquoïa de la rue de l'Enclos	pellerin le autrefois	2018		
+  ARC00006326			978-2-371-1-331846		Le Serpent de Mer Une légende de Saint-Brévin-les-Pins	cheval fanny	2018		Beluga Coop Breizh
+  FRBNF454340500000005			978-2-07-274813-4		Le soldat XXe-XXIe siècle	francois rioux lecointre jean-pierre	2017		Gallimard
+  ARC00006364			978-2-371-481-640		Le système d'inspection du travail en France Missions  organisation et prérogatives	ramackers avignon terrier helene paul jean-pierre	2018		Editions Liaisons
+  ARC00006838					Le tombeau de François II  Duc de Bretagne à Nantes	boisrouvray du xavier			
+  ARC00006650					Le trafic du port de Nantes avec les  Isles de l'Amérique et coste de Saint-Domingue  au XIIe siècle   essai de quantification et approche comparative	tanguy marion	2019		
+  ARC00006543					Le traité d'Ancenis  1468 		2018	n° 33	
+  ARC00006634					Le travail d'illustration en marge des actes notariés	clavel jean-pierre	2019		
+  FRBNF456085710000005			978-2-200-62105-6		Le travail sur archives guide pratique	mandret-degeilh jonathan antoine barbier	2018		Armand Colin
+  ARC00006425			978-2-262-07019-9		Le Tribunal révolutionnaire Punir les ennemis du peuple	boulant antoine	2018		Editions Perrin
+  ARC00006868					Le voyage de Jean de Montfort à Limoges en 1341	yves coativy	2019		
+  FRBNF456997670000000			978-2-84016-314-5		Le web français de la Grande Guerre réseaux amateurs et institutionnels	maurel lionel valerie beaudouin chevalier philippe	2019		
+  DOB00002362					Le XIXème Siècle	de et girard bibliothecaire nationale moncel a administrateur sainte-genevieve bibliotheque henri par la	1930		
+  DOB00002364					Le XVème siècle	barthou louis	1929		
+  DOB00002354					Le XVIIème siècle	pierre mornand			
+  ARC00007074					L'école buissonière Promenade à la découverte des écoles publiques de Couëron	coueron			
+  DOB00002340			978-2-7572-1382-7		L'Ecole de Nancy  Art nouveau et industrie d'art	bonnefont jean-claude	2018		Somogy Editions d'Art Musée de l'Ecole de Nancy
+  FRBNF456134600000007			978-2-13-079480-6		L'école des années noires une histoire du primaire en temps de guerre  entre Vichy et République  1938-1948	matthieu devigne	2018		
+  ARC00006852					L'économie de la France de l'ouest La documentation photographique	de france direction francaise documentation la	1954		Editions de la présidence du conseil
+  ARC00006911					L'Eglise et la Grande Guerre	chaline nadine-josette	2016		
+  DOB00002274					L'Ensemble Renaissance du château de Châteaubriant	ponchet olga	2008		
+  FRBNF456487290000007			978-2-84497-442-6		L'entreprise Lang une histoire de convictions	noel guetny	2018		Liv'Editions
+  FRBNF457108940000006			978-2-919339-59-4		Les 27 Fusillés de la Bouvardière	dominique etienne bloyet gasche	2019		
+  ARC00007055					Les abbayes de Blanche-Couronne et de Villeneuve et la gestion de leur temporel rural à la fin du Moyen Ege  XIVè-XVè siècles 	brice rabot	2019		
+  DOB00002333					Les adieux à l'Impératrice	de et musee alain des bois vial pougetoux charles-eloi chateaux preau national malmaison	2014		Musée national des châteaux de Malmaison et Bois-Préau
+  DOB00002297			9782377010301		Les Amis des monnaies la sociabilité savante des collectionneurs et numismates chinois de la fin des Qing	lyce jankowski	2018		Maisonneuve   Larose
+  ARC00006637					Les anciens moulins de la Loire à Nantes	arnaud biette	2018		
+  DOB00002285					Les Anneau et les bagues du XIV ème siècle au XVIIème siècle de la production à l'étude archéologique	emma dubroca	2018		
+  ARC00006341			978-2-900175-08-8		Les archives   c'est simple   Guide d'archivage pour les écoles et les établissements scolaires	des archivistes francais association	2018		Association des archivistes français
+  ARC00006821					Les archives des chemins de fer	jerime malhache	2019		
+  ARC00006641					Les archives judiciaires	pascal vidal	2019		
+  ARC00006343					Les aviateurs nantais de la Grande Guerre		2018		
+  ARC00006643					Les bals populaires	sauvaget daniel	2017		
+  ARC00006428			978-2-10-077924-6		Les blockchains en 50 questions Comprendre le fonctionnement et les enjeux de cette technologie innovante	ariane dumas lafourcade pascal jean-guillaume tichit sebastien varrette	2018		Dunod
+  ARC00007100					Les Boscéens dans la Grande Guerre 1914-1918 Livret de l'exposition présentée du 11 au 24 novembre 2018	bouaye histoire	2018		
+  ARC00006432			978-2-36785-00-4		Les Bretons et Louis XIV	barzic jean-yves	2018		Yoran Embanner
+  ARC00006762					Les campagnes de l'arrière-pays pornicais aux XIVème et XVème siècle	brice rabot	2019		
+  ARC00007108					Les Capitaines de Paimboeuf au temps du commerce avec les îles à sucre 1776-1826	bruno comps anne caillaud	2019		
+  ARC00006677					Les chants de marins en Pays de la loire	colleu michel	2019		
+  DOB00002367					Les collections Aristophil Ecrits du Moyen-Age et de la Renaissance vente  Paris  Drouot-Richelieu  salle 9  16 juin 2018	ariane jacques adeline benelli thierry claude aguttes bodin	2018	2	Aguttes
+  ARC00006402			978-2-908327-96-0		Les comités de surveillance de Loire-Inférieure en guerre civile  1793-1794 	bruno herve	2017		Société des Etudes Robespierristes
+  ARC00006896					Les costumes populaires d'autrefois	kervarec michel	2019		
+  ARC00006540					Les croix  juliennes  en pays d'Ancenis	marche veronique	2018	n° 33	
+  ARC00006486					Les Décades de Tite Live De la traduction de P  du Ryer de l'académie Françoise	pierre du ryer tite-live	1722		André de Hoogenhuysen
+  ARC00006485					Les Décades de Tite Live De la traduction de P  du Ryer de l'académie Françoise	pierre du ryer tite-live	1722		André de Hoogenhuysen
+  ARC00006484					Les Décades de Tite Live De la traduction de P  du Ryer de l'académie Françoise	pierre du ryer tite-live	1722		André de Hoogenhuysen
+  ARC00006483					Les Décades de Tite Live De la traduction de P  du Ryer de l'académie Françoise	pierre du ryer tite-live	1722		André de Hoogenhuysen
+  ARC00006479					Les Décades de Tite Live De la traduction de P  du Ryer de l'académie Françoise	pierre du ryer tite-live	1722		André de Hoogenhuysen
+  DOB00002369					Les Deniers carolingiens	gildas salain	2019		
+  DOB00002314			978-2-213-67757-6		Les dix millénaires oubliés qui ont fait l'histoire quand on inventa l'agriculture  la guerre et les chefs	jean-paul demoule	2017		Fayard
+  FRBNF314195460000007					Les Douze Césars  Traduit du latin de Suétone  avec des notes et des réflexions  par M  de La Harpe	suetone	1805		G  Warée
+  ARC00006867					Les ducs de Bretagne  vicomtes de Limoges Transferts  installations et adaptations d'une famille bretonne  1275-1315 	jeanneau cedric	2019		
+  ARC00006952					Les écoles et l'enseignement des berneriens	de et defense cite richesses bernerie la naturelles patrimoniales	2019		 s n  
+  ARC00006808					Les écrivains et Rezé aux XIXe et XXe siècles  première partie 	vince yann	2019		
+  ARC00006640					Les enfants naturels	pascal vidal	2019		
+  ARC00006398			979-10-90326-97-2		Les fantaisies de Marcel	lucas marcel	2018		Editions du Traict
+  ARC00006325			978-2-371-1-331815		Les Fées Mainberthes Une légende de Couffé	cheval fanny	2018		Beluga Coop Breizh
+  ARC00006366			978-2-7535-7455-7		Les femmes et la mer à l'époque moderne	philippe charpentier emmanuelle hrodej	2018		Presses universitaires de Rennes
+  ARC00006400			978-2-7535-7455-7		Les femmes et leurs activités liées à la mer Réflexions à partir du littoral atlantique français à l'époque moderne	bernard nicole dufournaud michon	2018		Presses universitaires de Rennes
+  ARC00006667					Les feux de la mer Phares et balises en Atlantique	martine acerra	2019		
+  ARC00006921					Les Forces françaises de l'Ouest Forces françaises oubliées   1944-1945	weiss stephane	2019		Les Indes Savantes
+  ARC00007117					Les Français de la Belle Epoque	prost antoine	2019		Gallimard
+  ARC00006371			979-2-1093508429		Les Fronts de l' Arrière L'estuaire de la Loire en état de guerre  1914-1918 	veronique mathot	2018		Graphicom
+  DOB00002395			978-2-330-05763-3		Les Gaulois	maguer patrick puech marion	2016		Actes Sud junior INRAP
+  ARC00006624					Les gens de couleur de l'océan Indien en France à la veille de la Révolution	noel eric	2019		
+  ARC00006533					Les germandrées	joseph rousse	1912		Imprimerie E Benderitter
+  ARC00006441					Les grandes figures dongeoises	jean auzuret	2019		
+  ARC00006469					Les grands aspects du paysages français	louis bertrand	1928		A  Delpeuch
+  DOB00002269			9782204126557		Les Héros de la Vendée	jean-joel bregeon	2019		Editions du Cerf
+  FRBNF37718956000000X			2-9516760-0-X		Les Jordy de Cabanac gentilshommes en Languedoc  à Paris  en Bourgogne et en Nouvelle-France	de miren fitte soucy louis	2001		L  de Fitte de Soucy
+  ARC00006550					Les journées du livre  Aux quatre coins de chez nous				
+  ARC00006664					Les madeleines de Nantes	alain croix patrick guitton veronique jean	2019		
+  ARC00006967					Les maires de Saint-Nazaire Deuxième partie 1848-1884	pauvert patrick	2019		
+  ARC00006437					Les maires de Saint-Nazaire Première partie 1790-1848	pauvert patrick	2019		
+  ARC00006336					Les Malouins dans la Grande Guerre	de le saint association malo pas l'	2017		Le Pas de Saint Malo
+  ARC00006785					Les Marais de l'Erdre  Passage des hydrophytes aux aérophytes dans les marais de Logné-Launay  Sucé  L Inf  Mémoire présenté à la faculté des sciences de l'université de Rennes pour l'obtention du diplô‌me d'études supérieures	odette meheust	1946		
+  ARC00006784					Les Marais de l'Erdre  Passage des hydrophytes aux aérophytes dans les marais de Logné-Launay  Sucé  L Inf  Mémoire présenté à la faculté des sciences de l'université de Rennes pour l'obtention du diplô‌me d'études supérieures	odette meheust	1946		
+  DOB00002256					Les Médailles de l'expédition de Lapérouse	gildas salain	2019		
+  FRBNF456940010000008			978-2-919295-27-2		Les membres du personnel du Crédit Lyonnais victimes du conflit 1914-1918	de direction pailleux mireille sous la	2019		Cercle de généalogie et d'histoire
+  DOB00002275					Les Monnaies d'or de Philippe de Valois  outils de propagande au début de la guerre de Cent Ans	gildas salain	2019		
+  ARC00007056					Les Montauban du Goust en pays nantais   évolution d'une famille de moyenne noblesse aux XVe et XVIe siècles	sita andre	2019		
+  ARC00006898					Les mortiers	janine helene haudebourg delumeau	2019		
+  ARC00006823					Les moulins à papiers et papeteries en Bretagne du XVe siècle à nos jours	jean caroff	2019		
+  ARC00006934					Les Noirs en France du 18ème siècle à nos jours	ndiaye macodou alexis florence	2019		Pan-Africaine Revue de l'Innovation  Paari 
+  FRBNF457681540000007			978-2-35077-346-9		Les noms de famille en 100 clins d'oeil	mergnac mathilde marie-odile morin	2019		Archives   Culture
+  ARC00006908			978-2-7355-0905-8		Les Noms de lieux et des personnes en France  Guide bibliographique	sebastien pierre-henri billy nadiras	2019		CTHS
+  ARC00006628					Les omnibus Nantais	rumin marcel	2019		
+  ARC00006681					Les paquebots   une histoire de ligne	sylvain venayre	2019		
+  FRBNF354283970000001					Les politiques agraires	rolande gadille	1972		Presses universitaires de France
+  ARC00006858					Les réfugiés en Maine-et-Loire durant la Première Guerre mondiale	universite angevine culturels groupe historique recherche temps libre-echanges angevins du	2018		La Botellerie Editions
+  DOB00002334			978-2-36441-317-7		Les restes humains dans les collections publiques vade-mecum	van praet michel	2019		OCIM
+  ARC00006571					Les Rois	jules lemaitre			Nelson
+  ARC00006718					Les rues de Nantes   Rue et Quai de la Piperie	hervy jean-luc	2019		
+  ARC00007089					Les salines du Pouliguen  Construction  remembrement et disparition	de les memoire association gildas buron greniers la	2019		
+  ARC00006877					Les seigneuries de Limoges  Richemont et Montfort-l'Amaury dans les chroniques bretonnes de la fin du Moyen Ege	le sophie goff	2019		
+  ARC00006670					Les sept vies d'un grand port maritime	dossal philippe	2019		
+  DOB00002276			978-2-11-138163-6		Les Sites patrimoniaux exceptionnels une ressource pour les territoires	navarre pierre-antoine francoise talandier r landel magali	2019		Plan Urbanisme Construction Architecture
+  FRBNF456511760000006			978-2-7373-7859-1		Les soldats de la Grande guerre armes  uniformes  matériels	bourlet michael	2018		
+  ARC00006627					Les sources de la traite et du commerce atlantique colonial		2019		
+  ARC00006480					Les supplémens de J  Freinshemius sur la seconde décade de Tite Live De la traduction de P  du Ryer de l'académie Françoise	pierre du ryer tite-live	1722		André de Hoogenhuysen
+  ARC00006697					Les surnoms du Bourg-de-Batz	gildas buron	2015		
+  DOB00002381					Les terres cuites architecturales en France du Moyen-Ege à l  8217 époque contemporaine   recherches sur les tuileries et les productions tuilières	thuillier freddy	2019		Editions Monique Mergoil
+  ARC00006891					Les tonneliers de la Morlachère	patrick ameline	2019		
+  ARC00006361			978-2-7535-7599-8		Les travailleurs du coton à Nantes L'industrialisation d'une ville atlantique 1760-1840	samuel guicheteau	2019		Presses universitaires de Rennes
+  DOB00002368					Les Trésors de Loire-Atlantique s'exposent à Châteaubriant	gildas salain	2019		
+  DOB00002378			978-2-7654-1517-6		Les ventes publiques d'estampes à Paris sous la Troisième République répertoire des catalogues 1870-1914	pierre juhel	2016		Editions du Cercle de la Librairie
+  ARC00006357			978-2-7535-7599-8		Les villes atlantiques européennes Une comparaison entre l' Espagne et la France  1650-1850 	guy saupin	2019		Presses universitaires de Rennes
+  DOB00002289					Les Youtubeurs de l'art une poignée de vidéastes désacralisent l'art dans de courtes vidéos pédagogiques à l'usage des internautes  un phénomène en devenir  	camille larbey	2018		
+  ARC00006752					Les zones humides entre Loire et Vilaine  1770-début du XXIème siècle    disparition  évolution  maintien et patrimonialisation	gildas buron gallice alain	2019		
+  FRBNF319033390000004					L'Esprit positif et scientifique dans Montaigne  par le Docteur Cancalon	a cancalon -auguste	1911		Editions d'art Edouard Pelletan Helleu et Sergent
+  ARC00006995					L'estuaire de la Loire  décarboné ou carbonisé   Une transition énergitique pas vraiment engagée	audic philippe	2019		
+  ARC00006890					L'étang de Chasserat	kervarec michel	2019		
+  FRBNF455901580000005			978-2-246-86299-4		L'Etat contre les Juifs Vichy  les nazis et la persécution antisémite  1940-1944	joly laurent	2018		
+  ARC00006323					L'étranger en Bretagne 1364-1514	laurence moal	2007		Université de Bretagne occidentale
+  ARC00006322					L'étranger en Bretagne aux XIVe et XVe siècles  Présence  attitudes  perceptions  Appendices  Pièces justificatives  Bibliographie	laurence moal	2007		Université de Bretagne occidentale
+  ARC00006755					Lettre aux amis de Guérande				
+  ARC00006687					Lettres  sciences et arts  Une section hétérogène		2019		
+  ARC00007021					Lettres de combat	ferdinand brunetiere	1912		Librairie Académique Perrin et Cie
+  ARC00006937					Lettres de Guerre  Eugène Blineau	jean-paul hervy	2019	Tome n°3	Graphicom
+  ARC00006936					Lettres de Guerre  Eugène Blineau	jean-paul hervy	2019	Tome n°2	Graphicom
+  ARC00006935					Lettres de Guerre  Eugène Blineau	jean-paul hervy	2019	Tome n°1	Graphicom
+  ARC00006424			978-2-07-041786-5		Lettres de guerre 1914-1918	vache jacques	2018		Editions Gallimard
+  ARC00006370			978-2-7433-0482-9		Lexique des règles typographiques en usage à l'imprimerie nationale		2002		Imprimerie Nationale
+  ARC00006711					L'Hermione  de l'Amérique au Château de Nantes	abed loic	2019		
+  ARC00006925					L'histoire et la mémoire de l'esclavage aux Pays-Bas	cornelis emmer pieter	2018		
+  ARC00006912					L'histoire religieuse de la France durant la Grande Guerre  Un état des recherches	boniface xavier	2016		
+  ARC00007106					L'illustration des contes		2012		Qui Quand Quoi éditions
+  ARC00006618					L'immigration oubliée des Belges en France XIXème-XXème siècles	jean-pierre popelier	2019		Archives   Culture
+  ARC00006856					Lire Georges Courtois  une attention à la marge	artieres philippe	2019		
+  ARC00006623					Little America Saint-Nazaire 1917-1919	de saint-nazaire ecomusee			
+	frbnf406673830000003				Lituanie	ministere france etrangeres direction des division geographique affaires rep new archives b			Ministère des affaires étrangères
+  ARC00006390					Livret d'histoire familiale concernant les frères Kervadec  Yves  Edouard et André 	et edouard kervadec yves andre	1916		
+  DOB00002350			979-10-90534-52-0		L'objet rare ou inédit dans les corpus de fouilles 4e table ronde  CORPUS-Métal et Instrumentum  Toulouse  17-18 octobre 2013	de les et l'antiquite moderne l'epoque a groupe productions travail sur dans europeen l'artisanat manufacturees	2019		Association des Publications Chauvinoises
+  ARC00006996					L'oeil de monsieur Moitié Un photographe en Pays Nantais	alain block jean-claude potet croix lionel	2019		Coiffard Edition
+  ARC00006902					Loire-Atlantique  Les atouts de la réussite Communication de Loïc LE MASNE  Président de la Comission du Développement Economique	de masne chermont loic le	1993		 s  n  
+  DOB00002347			978-2-7541-1066-2		L'Orient des peintres du rêve à la lumière oriental visions from dreams into light	emmanuelle amiot-saulnier	2019		Musée Marmottan Editions Hazan
+  ARC00006970					Louis Berlioz à Saint-Nazaire  1862-1867 	moriniere christian	2019		
+  ARC00006684					Louis Théodore Hélie 1802-1867	leuch le morgan	2019		
+  DOB00002366			9789461614902		Ludique  jouer dans l'Antiquité exposition  du 20 juin au 1er décembre 2019  Lugdunum-musée et théâtres romains	dasen musee - romains theatres lugdunum veronique	2019		Editions Snoeck
+  ARC00006375			978-2-7535-5527-3		L'usage du conte Contes classiques et réemploi  méthodes d'analyse	patricia eichel-lojkine	2017		Presses universitaires de Rennes
+  FRBNF307198900000008					Lycée  ou Cours de littérature ancienne et moderne  par J -F  Laharpe	de francois harpe jean la	1798		H  Agasse
+  ARC00006689					Ly-Chao-Pee 1841- 	muriel rouaud	2019		
+  ARC00006473					Maïtres d'autrefois et d'aujourd'hui Essais d'histoire morale et littéraire   Montaigne  Chateaubriand  Sainte-Beuve  Taine  Brunetière  Sully Prudhomme  Angellier  Gabriel Hanotaux	d	1912		Libraire Hachette
+  ARC00006582					Manon Lescaut	prevost l'abbe	1892		E  Dentu libraire éditeur
+  ARC00006373			978-2-86906-689-2		Manuel de Héraldique et Emblématique médiévale	hablot laurent	2019		Presses Universitaires François Rabelais
+  ARC00006422			979-10-302-0258-8		Manuel de survie à l'usage des trentenaires de gauche	arnaud bourdin	2018		Fauves Editions
+  ARC00006688					Marguerite Allotte de la Fuÿe 1874-1959 Le renouveau de la société académique en 1952	paumier jean-yves	2019		
+  ARC00007009					Marie Les Bretons La fleur d'or Primel et Nola Histoires poétiques	auguste seche brizeux alphonse			Louis-Michaud
+  ARC00006335			978-2-9563926-0		Mauves 1918 Tome 7	mauves histoire	2018		Association Mauves Histoire
+  ARC00006969					Méan berceau de la construction navale nazairienne	correc paul	2019		
+  DOB00002281			9782701022536		Médailles des rois de France au XVIe siècle représentation et imaginaire	marie veillon	2018		Beauchesne
+  ARC00006683					Médecine première section de spécialité	sylvie bagrin daban charlotte	2019		
+  ARC00006599					Méditations sur l'évangile  par Bossuet	jacques benigne bossuet	1822		Chez Delestre-Boulage
+  ARC00006598					Méditations sur l'évangile  par Bossuet	jacques benigne bossuet	1822		Chez Delestre-Boulage
+  ARC00006597					Méditations sur l'évangile  par Bossuet	jacques benigne bossuet	1822		Chez Delestre-Boulage
+  DOB00002337			978-2-35906-240-3		Meiji splendeurs du Japon impérial  exposition  Paris  Musée Guimet  du 17 octobre 2018-14 janvier 2019 	guimet makariou musee nasser khalili d sophie	2018		Lienart éditions MNAAG-Musée national des arts asiatiques-Guimet
+  ARC00006646					Mémoire de salles obscures Petit histoire des cinémas nazairiens depuis la guerre 1939-1945	sauvaget daniel	2017		
+  ARC00006765					Mémoire du passé 14-18 Souvenir des poilus de Puceul morts pour la France				d
+  ARC00006897					Mémoire d'un médecin vertavien déporté  Pierre Fertil	fertil jean-pierre	2019		
+  ARC00006879					Mémoires de films  20 ans de collecte en Loire-Atlantique	de loire-atlantique conseil bretagne departementales cinematheque general archives	2019		
+  ARC00006626					Mémoires de films  20 ans de collecte en Loire-Atlantique		2019		
+  FRBNF456213510000007			978-2-86049-039-9		Mémoires de pierre les monuments aux morts de la Première guerre mondiale en Maine-et-Loire	elisabeth departementales maine-et-loire verry archives	2018		
+  FRBNF457665660000000			978-2-36833-254-2		Mer    cÎte et coquillages	simonnin catherine allain yves-marie michaele gildas buron dupont	2019		
+  DOB00002261			9789461613325		Merci pour les restes   archéologie des habitudes alimentaires à la fin du Moyen âge à Valenciennes  XIVe-XVIe siècles	arnaud musee patrice des david delassus beaux-arts tixador korpiun			Editions Snoeck  c d 2016
+  ARC00006702					Mes années de Petit Séminaire  Guérande  1962-1966 Dernier inventaire avant fermeture définitive	olivaud gerard	2016		
+  ARC00006351					Mes souvenirs de guerre Clément Bourdeau août et septembre 1914				
+  DOB00002282			9782851011770		Métallurgie artisanale du fer et de l'acier	moretti christian mayn sery	2014		Vial
+  ARC00006763					Métamorphose d'un site isolé en lieu de villégiature   l'exemple du port de Pornic  1820-1939 	agathe aoustin	2019		
+  ARC00006415			978-2-8186-1448-8		Mettre en place une charte documentaire Méthode et outils pour gérer les documents et les données	coline auguie vialle katell	2018		Territorial éditions
+  ARC00006455					Minerve et Vulcain L'industrialisme et la culture intellectuelle	rene lote			Nouvelle Librairie Nationale
+  DOB00002291			978-2-251-44891-6		Minus La petite enfance en Grèce et à Rome L'Antiquité par ses textes	de senard charles laure chantal	2019		Les Belles Lettres
+  DOB00002321			978-2-11-145495-8		Modèles économiques des musées et bibliothèques	yann nicolas	2017		La Documentation française
+  ARC00007098					Mon Presse Océan a 75 ans Trois quarts de siècle au service de nos lecteurs 				
+  DOB00002387			2-906602-28-0		Monnaies et jetons des colonies françaises deuxième édition	lecompte jean	2007		V  Gadoury
+  DOB00002392			978-2-84654-470-2		Monnaies et numismates d'Indochine française	francois joyaux	2017		Les Indes Savantes
+  ARC00007065			979-10-95263-01-2		Monnaies Mérovingiennes	gildas salain	2019		Grand Patrimoine de Loire-Atlantique
+  ARC00006999					Montbert  Bulletin municipal				
+  ARC00007001					Montbert  Bulletin municipal Magazine municipal de Montbert				
+  ARC00007000					Montbert  La Gazette				
+  DOB00002292			978-2-85822-905-5		Moyen Ege vocabulaire bilingue LSF français	erlande-brandenburg alain	2008		Ed  du Patrimoine Centre des monuments nationaux
+  DOB00002271			9789461613981		Musée d'arts de Nantes guidebook to the collections	de musee sciama nantes d'arts sophie levy cyrille	2017		Editions Snoeck
+  DOB00002268			9791093572352		Musée Joseph Denais catalogue des collections	joseph musee weygand sophie denais	2018		Editions 303
+  ARC00006927					Musée versus mémorial  	krystel gualde	2018		
+  ARC00006648					Mutation dans l'industrie des engrais azotés de synthèse et transfert de technologie américaine dans les années 1950   le cas du procédé Texaco aux établissements Kuhlmann de Paimboeuf	martin philippe	2017		
+	frbnf407039670000005				Nantes	baedeker	1895		 s n  
+  DOB00002349			9782910366056		Nantes  château des ducs de Bretagne	jouzeau marie-helene	1996		Musée du Château des Ducs de Bretagne
+  ARC00006362			978-2-7535-7599-8		Nantes  ville atlantique au XVIIIe siècle La forme urbaine	guy saupin	2019		Presses universitaires de Rennes
+  DOB00002373			9791095670926		Nantes de Jules Verne au au grand éléphant de 1789 à nos jour	andre peron pajot stephane	2019		Petit à petit éditions
+  ARC00006759					Nantes en Bretagne   Contribution de la toponymie et de la dialectologie	plourin jean-yves	2019		
+  ARC00006728					Nantes révoltée				
+  FRBNF423494710000005			978-2-296-14007-3		Navires et gens de mer du Moyen âge à nos jours	d'etudes internationales sturmel sur romanite centre philippe la	2011		l'Harmattan
+  ARC00006701					Noms de lieux en -un autour de la Brière	gildas buron	2016		
+  ARC00006953					Notes historiques sur la Grande Guerre  La Bernerie-en-Retz 	de et defense bernadette cite gilles richesses guingnier bernerie la naturelles patrimoniales	2018		Graphicom
+  ARC00006830					Notice sur le R  P  Louis Gahier prêtre eudiste	g par a l'abbe	1890		Imprimerie Bourgeois
+  ARC00006849					Notre marine marchande est-elle en décadence   Discours prononcé à Paris le 9 mars 1898 à la Société d'Economie Politique Nationale par M  Léon Bureau	bureau leon	1898		Imprimerie moderne Deroual Joubin
+  ARC00006349			978-2-919-507986		Notre-Dame -des-Landes ou le métier de vivre		2018		Editions Loco
+  ARC00006613					Nouvelle histoire de l'Occupation	alary eric	2019		Perrin
+  ARC00006560					Nouvelles pages de critique et de doctrine	bourget paul	1922		Plon  Nourrit et Cie
+  ARC00006826					Numéro spécial Notre-Dame-des-Landes		2018		
+  DOB00002384			978-2-9526600-7-5		Numismatique monégasque et provençale de l'Antiquité à nos jours colloque de la SENA  2015  à l'occasion du tricentenaire de la mort de Louis XIV  1715 	karim dominique meziane hollard	2018		Société d'études numismatiques et archéologiques
+  DOB00002280			9789088906237		Océan  céramiques et îles dans l  8217 ouest de la France Approche archéométrique des relations paléo-économiques des populations insulaires du Néolithique à l  8217 Antiquité	gehres benjamin	2018		Sidestone Press
+  DOB00002338			978-94-6230-233-4		Océanie	de et direction brunt thomas peter nicholas sous la	2018		Fonds Mercator Musée du quai Branly
+  ARC00006459					Oeuvres choisies	d	1877		Lecoffre Fils et Cie
+  ARC00006570					Oeuvres choisies de Lemierre Edition stéréotype d'après le procédé de Firmin Didot	le antoine-marin mierre	1811		de l'Imprimerie de P  Didot l'aîné
+  ARC00006523					Oeuvres choisies de Marivaux	de pierre marivaux	1868		Librairie de L  Hachette
+  ARC00006580					Oeuvres choisies de Saurin édition stéréotype	saurin francois bernard-joseph fayolle	1820		Librairie Firmin-Didot et Cie
+  ARC00006457					Oeuvres choisies de Voltaire Publiées avec préface  notes et variantes	georges voltaire bengesco			Librairie des Bibliophiles
+  FRBNF316025860000002					Oeuvres choisies de VoltaireTexte imprimé Edition du centenaire   30 mai 1878	voltaire	1878		aux Bureaux du Comité central
+  FRBNF339954010000008					Oeuvres choisies et posthumes de M  de La Harpe      Publiées par C -B  Petitot  	de francois harpe jean la	1806		imp  de Migneret
+  ARC00006454					Oeuvres complètes   Voyage autour de ma chambre  Expédition nocture  Le lépreux de la cité d'Aoste  Prisonniers du caucase  La jeune Sibérienne	de maistre xavier	1882		E  Dentu libraire éditeur
+  ARC00007034					Oeuvres complètes de François Coppée  Prose éd  ill  par François Flameng et Tofani   gravures au burin par Boisson  Boutelié  Dubouchet     et al  	francois coppee	1886		L  Hébert
+  ARC00007033					Oeuvres complètes de François Coppée  Prose éd  ill  par François Flameng et Tofani   gravures au burin par Boisson  Boutelié  Dubouchet     et al  	francois coppee	1886		L  Hébert
+  ARC00007032					Oeuvres complètes de François Coppée  Prose éd  ill  par François Flameng et Tofani   gravures au burin par Boisson  Boutelié  Dubouchet     et al  	francois coppee	1886		L  Hébert
+  ARC00006524					Oeuvres complètes de Massillon  évêque de Clermont	massillon jean-baptiste	1822		Tardieu-Denesle
+  ARC00006549					Oeuvres complètes de Voltaire	voltaire	1817		Th  Desoer
+  ARC00007011					Oeuvres de Auguste Brizeux Les Bretons	auguste brizeux			Alphonse Lemerre
+  ARC00007010					Oeuvres de Auguste Brizeux Marie  Télen Arvor  Furnez Breiz	auguste brizeux			Alphonse Lemerre
+  ARC00007015					Oeuvres de Auguste Brizeux nouvelle éd  revue  corrigée et augmentée  précédée d'une notice biographique sur l'auteur et suivie de notes par Auguste Dorchain	dorchain auguste brizeux			Garnier Frères
+  ARC00007014					Oeuvres de Auguste Brizeux nouvelle éd  revue  corrigée et augmentée  précédée d'une notice biographique sur l'auteur et suivie de notes par Auguste Dorchain	dorchain auguste brizeux			Garnier Frères
+  ARC00007013					Oeuvres de Auguste Brizeux nouvelle éd  revue  corrigée et augmentée  précédée d'une notice biographique sur l'auteur et suivie de notes par Auguste Dorchain	dorchain auguste brizeux			Garnier Frères
+  ARC00007012					Oeuvres de Auguste Brizeux nouvelle éd  revue  corrigée et augmentée  précédée d'une notice biographique sur l'auteur et suivie de notes par Auguste Dorchain	dorchain auguste brizeux			Garnier Frères
+  ARC00006526					Oeuvres de Massillon  évêque de Clermont	massillon jean-baptiste	1856		Outhenin-Chalandre fils J  Lefort
+  ARC00006500					Oeuvres de Pline le jeune traduites par M  de Sacy Nouvelle édition avec le texte latin en regard	de pline jeune sacy louis-silvestre le	1808		Chez L  Duprat-Duverger et H  Nicole
+  ARC00006579					Oeuvres de Regnard Edition stéréotype	regnard jean-francois	1801		de l'Imprimerie de P  Didot l'aîné
+  FRBNF309766430000000					Oeuvres d'Hégésippe Moreau  nouvelle édition précédée d'une notice littéraire par M  Sainte-Beuve     Le Myosotis   Poésies diverses   Contes en proseTexte imprimé	hegesippe moreau	1870		Garnier frères
+  ARC00006561					Oeuvres meslées de Mr de Saint-Evremont  Nouvelle édition  revue  corrigée et augmentée 	de saint-denis charles saint-evremond marguetel	1697		par la Compagnie des libraires
+  ARC00006686					Olivier de Sesmaisons	sylvie bagrin	2019		
+  ARC00006966					Opération Chariot en 1942 à Saint-Nazaire   le dernier héros s'en est allé	mahe michel	2019		
+  DOB00002371					Or  exposition  Marseille  MUCEM  Musée des civilisations de l'Europe et de la Méditerranée  24 avril-10 septembre 2018 	de et musee civilisations bouiller des l'europe jockey morel-deledalle myriame mediterranee jean-roch philippe la	2018		Hazan
+  ARC00006586					Oraisons funèbres de Bossuet évêque de Meaux	jacques benigne bossuet	1821		Chez Delestre-Boulage
+  DOB00002326			978-88-6728-575-4		Orfèvrerie gothique en Europe   production et réception	elisabeth antoine-konig michele tomasi	2016		Viella
+  ARC00006732					Orpan  L'association des seniors Nantais  Lettre d'information				
+  ARC00006761					Orpan  L'association des seniors Nantais Sorties d'été  Programme 2018		2018		
+  ARC00006963					Où il sera question d'un roi absent  de Soldatenheim  d'orage  de modernité nantaise  de MM  Decré et Amieux  de Mlle Léontine Soudéan  et de crottin	alain croix patrick guitton veronique jean	2019		
+  ARC00006536					Oudon  Le château de Vieille Cour	de perier arnaud	2018	n° 33	
+  ARC00007086					Outils de paludiers Guérandais	de les memoire association greniers la	2019		
+  ARC00006573					Pages choisies	jules fresnois lemaitre du andre	1911		Nouvelle Librairie Nationale
+  ARC00006559					Pages de critique et de doctrine	bourget paul	1912		Plon  Nourrit et Cie
+  ARC00006392			2-911330-51-X		Paquebots de la Loire Croisières  escales et constructions depuis 1975	edmond guibert	2018		Editions Victor Stanne
+  ARC00006862					Parc naturel régional de Brière  1997 - Guide pratique	regional de parc briere naturel	1997		Cid éditions
+  ARC00006861					Parc Naturel régional de Brière  Carte d'identité	regional de parc briere naturel	2000		 s  n  
+  ARC00006860					Parc naturel régional de Brière  Réserve Pierre Constant Un laboratoire grandeur nature	pays de regional conseil loire la	2012		 s n  
+  DOB00002257					Parcours  les villas néo-classiques du Pays du vignoble nantais	de pays et alain territoriale schema mixte syndicat coherence vignoble nantais delaval du			Syndicat mixte du SCOT et du Pays du vignoble nantais
+  DOB00002328			978-2-271-12144-8		Paris en 1200 histoire et archéologie d'une capitale fortifiée par Philippe Auguste	denis hayot	2018		CNRS éditions
+  ARC00006435			979-10-699-2927-2		Partis pour la Patrie Chaumes-en-Retz 14-18		2018		
+  DOB00002283			9782851011930		Patine des métaux bijouterie et créations métalliques	runfola matthew	2015		Vial
+  ARC00006332					Patrick Leclesve  ou l'art et la manière de faire vivre la Loire estuarienne	auclerc philippe	2019		
+  DOB00002374			2-9514128-0-0		Paul Fouillen  1899-1958	et christian maurice fouillen thealle severe philippe	1999		Association des amis de Paul Fouillen
+  FRBNF424043110000007			978-2-901737-86-5		Paul Sébillot 1843-1918 un républicain promoteur des traditions populaires actes du colloque de Fougères  9-11 octobre 2008	recherche centre de celtique bretonne culture granjagoul maison laboratoire patrimoine d'histoire d'anthropologie oral l'institution du et fanch en haute-bretagne postic la	2011		Centre de recherche bretonne et celtique
+  DOB00002396			978-2-7118-6434-8		Paysages Japonais de Hokusai à Hasui	sophie makariou	2017		MNAAG-Musée national des arts asiatiques-Guimet Réunion des Musées Nationaux
+  DOB00002298			978-2356-13244-4		Peintures et stucs d'époque romaine études toichographologiques actes du 29e colloque de l'AFPMA  Louvres  18 et 19 novembre 2016	dardenay murale seminaire peinture florence alexandra boisleve association julien pour monier francaise antique la	2018		Ausonius
+  ARC00006725					Pellerin  Le   Bulletin cantonal				
+  ARC00006857					Pétition adressée à messieurs les sénateurs et députrés par les paludiers  sauniers  négociants  industriels et propriétaires des marais salants de la Loire-Inférieure qui vivent du commerce des sels marins	de industrie des salicole departements l'ouest	1901		Imprimerie moderne Deroual Joubin
+  ARC00007097					Pierre Bouguer  1698-1758   Un savant et la marine dans la première moitié du XVIIIe siècle	arnaud ferreiro mayrargue d larrie danielle fauque	2010		Armand Colin
+  ARC00006530					Pierre Chancerelle et la conserverie de la Croix-de-l'Anse  à la Turballe  1939-1942 	maryvonne trochet	2019		
+  ARC00006401			978-2-7535-7455-7		Pincenteuses  fileuse et tailleuses    Les ouvrières nantaises au XVIIIe siècle   importance et mutation du travail féminin dans une grande cité portuaire et industrielle	samuel guicheteau	2018		Presses universitaires de Rennes
+  ARC00006395			979-10-353-0141-5		Piriac-sur-Mer	alain gallice lancien boutruche gildas buron jean-pierre josick	2018		Geste éditions
+  ARC00006569					Poèmes	lionnet jean			Plon  Nourrit et Cie
+  ARC00006584					Poèmes antiques et modernes	de alfred vigny	1846		Charpentier libraire-éditeur
+  ARC00006572					Poésies complètes Amour Breton  Le bois dormant  Le pardon de la reine Anne  Impressions et souvenirs  1889-1914 	le goffic charles	1922		Plon  Nourrit et Cie
+  ARC00006522					Poésies de Malherbe	francois malherbe de			Delarue  libraire-éditeur
+  ARC00006591					Politique tirée de l'écriture Sainte par Bossuet évêque de Meaux	jacques benigne bossuet	1822	Tome second	Chez Delestre-Boulage
+  ARC00006590					Politique tirée de l'écriture Sainte par Bossuet évêque de Meaux	jacques benigne bossuet	1822	Tome premier	Chez Delestre-Boulage
+  FRBNF452502750000009			978-2-11-145082-0		Politiques et pratiques de la culture	philippe poirrier	2017		la Documentation française
+  ARC00006938					Pont-Château  Les travailleurs du calvaire 1888-1939	martin andre	2019		La Nouvelle Imprimerie
+  ARC00006741					Pornic   images de la ville ancienne	caraes jean-francois	2019		
+  ARC00006742					Pornic   images d'une ville moderne  de 1800 à nos jours 	dominique pierrelee	2019		
+  ARC00006800					Portrait  L'abbé Allain  curé de Crossac  Un témoin engagé  1837-1853 	alain gallice	2019		
+  ARC00006797					Portraits  L'administration préfectorale de la Loire-Inférieure et la question du droit dans l'affaire du dessèchement des marais de Donges  La position du préfet Villeneuve  1825  et celle du sous-préfet de Savenay Normand  1830-1832 	alain gallice	2019		
+  ARC00006460					Portraits de femmes	charles-augustin sainte-beuve	1870		Garnier Frères  libraires-éditeurs
+  ARC00006574					Portraits littéraires	gautier leon	1868		Gaume frères et J  Duprey
+  ARC00006470					Port-Royal des Champs	de jean bonnefon			Eugène Figuière
+  ARC00006358			978-2-7535-7599-8		Ports  civils  et approvisionnements militaires Approche comparée des rÎles de Nantes et Bordeaux pendant la guerre de la ligue d' Augsbourg  1688-1697 	le caroline mao	2019		Presses universitaires de Rennes
+  ARC00006924					Ports esclavagistes et mémoire publique de la traite atlantique des escalaves au Brésil et aux Etats-Unis	ana lucia araujo	2018		
+  DOB00002401					Potosi   l'argent du Nouveau Monde	gildas salain			
+  FRBNF31239929000000X					Pour l'esprit et la liberté  discours prononcés aux séances inaugurales des XIVe et XVe congrès de la Fédération internationale P  E  N   Buenos-Aires  septembre 1936  Paris  juin 1937  Texte imprimé	jules romains	1937		Gallimard
+  ARC00006931					Pourquoi commémorer l'esclavage   Mémoire publique et reconnaissance	renaud hourcade	2018		
+  ARC00006918					Pratiques d'archives à l'époque moderne Europe  mondes coloniaux	donato saada anne maria pia	2019		Classiques Garnier
+  ARC00006696					Pratiques religieuses en Brière au milieu du XXe siècle Mémoires de La Chapelle-des-Marais	belliot marcel	2018		
+  DOB00002327			978-2-7491-5917-1		Pré-histoires la conquête des territoires	de et direction teyssandier nicolas thiebault stephanie sous la	2018		Le Cherche Midi
+  ARC00006794					Première phase  Le dessèchement  Eté 1817 - été 1825 	alain gallice	2019		
+  DOB00002273			978-2-930948-04-1		Production et usages monétaires en gaule du Nord  IIIe s   av  - IXe s  ap  J -C  	lauwers christian	2018		Cercle d'Etudes Numismatiques
+  ARC00006851					Profil d'une économie	bovar andre	1968		Imprimerie Nantaise
+  ARC00006881					Prosper CHARET  acteur de la Révolution américaine	pierre helene haudebourg charet	2019		
+  ARC00006754					P'tit colporteur  Le   Association brévinoise de généalogie				
+  ARC00006653					Quatre marins dans la Grande Guerre	besseau didier	2019		La Chouette de Vendée
+  ARC00006393			978-2-86056-027-6		Quelle histoire   Le Morbihan en 56 dates	departemental du conseil morbihan	2018		Conseil Général du Morbihan
+  ARC00007022					Questions actuelles après une visite au Vatican  éducation et instruction  la moralité de la doctrine évolutive   	ferdinand brunetiere	1907		Librairie Académique Perrin et Cie
+  ARC00007025					Questions de critique	ferdinand brunetiere	1889		Calmann-Lévy
+  ARC00006846					Questions du régime des constructions navales et la marine marchande Délibérations de la chambre de commerce du 11 mai 1891	de et chambre d'industrie commerce	1891		impr  G  Schwob et fils
+  ARC00006505					Quintilien de l'institution de l'orateur  traduit par M  l'abbé Gedoyn	quintilien nicolas gedoyn	1718		Chez Grégoire Dupuis
+  ARC00006669					Ratiatum   Rezé  Une ville portuaire romaine	mouchard favreau martial david xavier jimmy guitton matthieu monteil yacger	2019		
+  ARC00006413			978-2-410-01167-8		Rebelles de la foi Les protestants en France XVIe-XXIe siècle	feutry david	2017		Belin
+  ARC00006975					Recettes gourmandes des paludiers	malou francoise roussel	2019		
+  ARC00006941					Réflexions sur la notion de donnée publique	boul maxime	2018		
+  ARC00007028					Regards en arrière   les préfaces de la ' Quinzaine 	fonsegrive george	1908		Bloud   Cie
+  DOB00002391			978-2-7578-5158-6		Régimes d'historicité présentisme et expériences du temps édition augmentée	francois hartog	2012		Editions du Seuil Ed  Points
+  DOB00002259			979-1-02040-442-8		Reines d'Egypte   Pointe-à-Caillière  Cité d'archéologie et d'histoire de Montréal	pointe-a-calliere-musee d'histoire et d'archeologie	2018		Beaux arts éditions
+  ARC00006594					Relation sur le quiétisme suivie d'un choix de lettres des maximes et réflexions sur la comédie et du discours à l'acédemie Françoise par Bossuet	jacques benigne bossuet	1822		Chez Delestre-Boulage
+  ARC00006760					Repère  Les plans Canton du Pellerin				Trans'Impact
+  DOB00002320					Reprise des données concernant le dépô‌t du Bronze final atlantique 3 de l'Ele aux Lièvres à Puceul-La Chevallerais  Loire-Atlantique  Correction d'une mauvais attribution au dépô‌t de Plessé	muriel melin	2017		
+  ARC00006939					Resistir  Les Républicains espagnols en Bretagne  de la Retirada à la Résistance	gabrielle garcia			
+  DOB00002290			978-2-271-11660-4		Ressources animales et alimentation carnée à l'âge du Fer Le cas du nord-ouest de la France  Bretagne et Basse-Normandie 	anna baudry	2018		INRAP CNRS éditions
+  ARC00006658					Restauration scolaire   quand la Ville paie plus pour les riches   	herve guery	2019		
+  ARC00006746					Retables et retabliers aux Moutiers-en-Retz	davy patrice pipaud christian	2019		
+  ARC00007118			978-2-35077-236-3		Retrouver ses ancêtres suisses	dubich denis	2019		Archives   culture
+  ARC00006919					Retrouver un ancêtre juif	abensur-hazan laurence	2019		Archives   Culture
+  ARC00006818					Reudied  Rezé en breton  		2019		
+  ARC00007046					Réunion annuelle compte-rendu de la réunion  la situation des archistes aux Archives Nationales  1910	archivistes des francais association amicale professionnelle	1907		impr  Jacquin
+  ARC00007045					Réunion annuelle compte-rendu des réunions et l'archiviste chef d'un service départemental 1909	archivistes des francais association amicale professionnelle	1907		impr  Jacquin
+  ARC00006405			978-2-212-67551-1		Réussir son référenciement web Stratégies et techniques SEO	andrieu olivier	2018		Editions Eyrolles
+  ARC00006922					Revue du Philanthrope Les ports négriers et les mémoires de la traite de l'esclavage	saunier eric bernard michon	2018		Presses universitaires de Rouen et du Havre
+  ARC00006940					Revue française d'administration publique Les données publiques	lucie cluzel-metayer	2018		Ecole Nationale d' Administration
+  ARC00006804					Rezé à l'époque mérovingienne Fouilles archéologiques dans le quartier HÎtel de ville	vince yann	2019		
+  ARC00006983					RÎles et pouvoirs des femmes au XVIe siècle dans la France de l'Ouest	nicole dufournaud	2007	Tome 2	
+  ARC00006982					RÎles et pouvoirs des femmes au XVIe siècle dans la France de l'Ouest	nicole dufournaud	2007	Tome 1	
+  DOB00002400			978-2-7011-6496-0		Rome  cité universelle de César à Caracalla   70 av  J -C -212 apr  J -C 	faure virlouvet catherine patrice	2018		Belin
+	frbnf457551780000001		978-2-7578-7820-0		Rouge histoire d'une couleur	pastoureau michel	2019		
+  ARC00006833					Saillé  un îlot au goût salé	yann fevrier	2019		
+  ARC00007066					Saint-André-des-Eaux  hier et aujourd'hui	patrimoine et andreanais association locale histoire	2019		
+  ARC00006506					Saint-Aubin  son envoyé et les Vikings à Guérande en 919   un combat virtuel	alain gallice	2019		
+  FRBNF457107370000004			978-2-919339-58-7		Saint-Herblain La ville qui nous relie	saint-herblain	2019		
+  ARC00007078					Saint-Léger-les-Vignes  Flash infos				
+  ARC00007079					Saint-Malo-de-Guersac  Bulletin municipal				
+  ARC00006671					Saint-Nazaire  A la reconquête du port et de la mer	emmanuel lu le stephanie mary	2019		
+  ARC00006434			978-2-357-2-04294		Saint-Nazaire à travers la carte postale ancienne	dominique bloyet	2018		Editions Hervé Chopin
+  ARC00006427			78-2-84497-432-7		Saint-Nazaire La reconstruction  1945-1965 	noel guetny	2018		Liv'Editions
+  ARC00006339					Saint-Viaud dans la Grande Guerre 1914-1918	cheraud roch	2018		
+  FRBNF456424310000001			978-2-86048-029-1		Sans racines ou seuls au monde guide des sources de l'histoire des enfants abandonnés en Lozère  1811-1964	lozere alain departementales venturini archives laurans	2018		
+  DOB00002315			978-94-6161-464-3		Savants et croyants les Juifs d'Europe du Nord au Moyen Ege	nicolas judith hatot olszowy-schlanger	2018		Editions Snoeck
+  ARC00006385					Savenay  le barrage et son lac Un site centenaire		2018		
+  ARC00006991					Scènes de vie à Kercabellec  autrefois   	le jocelyne borgne	2018		
+  ARC00007099					Schéma départemental d'amélioriation de l'accessibilité des services au public  Recueil cartographique  Diagnostic 2017	de loire-atlantique departement	2019		
+  ARC00006690					Sciences naturelles  L'enrichissement des collections muséales Nantaises		2019		
+  ARC00006726					Secteur sauvegardé	verney jean	1978		 s n  
+  ARC00007101					Semaine de la Mémoire et de la Citoyenneté  3-13 novembre 2000   Canton de Legé  Bilan	de guerre loire-atlantique et victimes anciens l'office des service departemental combattants national	2000		
+  FRBNF457646640000002			978-2-86004-047-1		SenezTexte imprimé un évêché provençal des origines à la Révolution  exposition  cathédrale Saint-JérÎme  Digne-les-Bains  6 juillet-30 septembre 2019 	et d'art departementales conservation des service alpes-de-haute-provence objets departemental d'archeologie antiquites archives	2019		
+  ARC00006592					Sermons et panégyriques choisis par Bossuet	jacques benigne bossuet	1822	Tome premier	Chez Delestre-Boulage
+  DOB00002339			978-2-7572-1480-0		Servir les dieux d'Egypte divines adoratrices  chanteuses et prêtres d'Amon à Thèbes	de musee grenoble florence louvre gombert-meurice payraudeau frederic du	2018		Somogy Editions d'Art
+  ARC00007047					Si l'histoire du Grand-Blottereau m'était contée	abed loic	2019		
+  FRBNF42803836000000X					Siècle de Louis XIV  auquel on a joint un Précis du siècle de Louis XV Texte imprimé	voltaire	1769	11-déc	Cramer
+  ARC00006729					Sioox				
+  ARC00006954					Soldat Jean-Marie Ferron Première bataille d'Ypres ou bataille des Flandres du 5 août 1914 au 21 novembre 1914	chirade-boero jacqueline	2017		 s  n  
+  ARC00006489					Souvenirs universitaires précédés des souvenirs bourguignons	joly henri	1922		Bloud   Gay
+  ARC00006630					Spatialisation de la nature et ressourcement  Exemple de la ville de Nantes	serigne daly coutaud maxime marie ndiaye mohamed anissa kharbajou bastien perez peyruqueou	2018		
+  ARC00006474					Spectacles contemporains	vogie eugene-melchior de			Armand Colin
+  DOB00002286					Spoliation le dernier scandale en date	noce vincent	2018		
+  DOB00002372			9791095263029		Stupéfiante Amazonie  Exposition  Gétigné  La Garenne Lemot  29 mai au 1er septembre 2019 	rostain coelho-ferreira musee marlia dobree delpuech marie stephen fleury thomas andre	2019		Grand Patrimoine de Loire-Atlantique
+  ARC00007083					Suffren et ses amis  après sa correspondance 	busson jean-pierre	1983		  S I 
+  ARC00006914					Suivez le facteur	lydia chauvin francoise marie-helene tessier sayed el anne foucher	2019		Editions du Borrego
+  FRBNF455927260000003			978-2-7535-6464-0		Sur le terrain avec les archéologues 30 ans de découvertes dans l'Ouest de la France	marcigny roux gerard charles-tanguy le cyril aubin	2018		Presses universitaires de Rennes
+  ARC00007027					Sur les chemins de la vroyance Première étape  L'utilisation du positivisme	ferdinand brunetiere	1905		Librairie Académique Perrin et Cie
+  ARC00007068					Sur les pas de Jean-Jacques Audubon à Couëron  A la découverte du Marais Audubon Circuits pédestre et cyclable	coueron			
+  ARC00006730					Syndicat mixte aéroporturaire du Grand Ouest  Lettre d'information				
+  ARC00006848					Syndicat Nantais des armateurs   des industries maritimes  Déposition des délégués M  Léon Bureau et M  Victor Vincent à la sous-commission d'enquête sur la marine marchande  Séance du vendredi 25 juin 1897	et maritimes des armateurs syndicat nantais industries	1897		Imprimerie du Phare de la Loire
+  ARC00006803					Tables alphabétiques des mariages de la paroisse de La Chapelle-Basse-Mer  Loire-Atlantique  de 1566 à 1710	de genealogique l'ouest centre			C  G  O 
+  ARC00007085					Témoinage  Vie quotidienne des paludiers  Début du XXe siècle	de les memoire association gerard pereon greniers la	2019		
+  ARC00006462					Témoins de jours passé	etienne lamy			Calmann-Lévy
+  ARC00006369			978-2-84238-357-2		Terres d' Estuaire	tual michel	2018		Editions D' Orbestier
+  DOB00002302			978-0-99548-613-3		'The most fortunate man of his day' Sir Richard Wallace connoisseur  collector   philanthropist	suzanne higgott collection wallace	2018		Wallace collection
+  DOB00002324			978-1-78023-656-8		The return of curiosity what museums are good for in the 21st century	thomas nicolas	2016		
+  ARC00006585					Théatre complet Chatterton  Le maréchale d'ancre  Quitte pour la peur  Le more de Venise  Othello  Shylock	de alfred vigny	1858		Jaccottet  Bourdilliat et Cie
+  ARC00007007					Théâtre de Collin d'Harleville suivi de  Poésies fugitives  avec une introduction par M  Louis Moland	collin d'harleville moland jean-francois louis	1877		Garnier Frères  libraires-éditeurs
+  ARC00006644					Théâtre et chansons dans les années 1950 avec l'U M P	sauvaget daniel	2017		
+  DOB00002308			978-88-366-4012-6		Tomber sur un os quand les archéologues font parler les morts	isabelle abadie	2018		Silvana
+  FRBNF456728650000002			978-2-08-141241-5		Tournée générale la France et l'alcool	victor pitrel le thomas grand	2019		
+  ARC00006350			978-2-86063-037-5		Tous dans la rue    1918-2018 	du departementales archives puy-de-dime	2018		Conseil Général du Puy-de-DÎme
+  ARC00007067					Tous en ligne   	coueron			
+  ARC00006417			978-2-7373-7885-9		Tous les secrets de Bretagne		2018		Editions Ouest-France
+  DOB00002386			978-3-8365-7147-0		Toutânkhamon le voyage dans l'au-delà	vannini sandro	2018		Taschen
+  ARC00006477					Traduction de la vie d'Agricola et des Moeurs des germains  par M  l'abbé de La Bleterie    nouv  éd   rev  par le p  Dotteville	de dotteville jean-henri jean-philippe-rene tacite bleterie la	1788		Chez Froullé  libraire
+  DOB00002355					Traité de la forme et devis d'un tournoi	rene	1946		Editions de la revue Verve
+  ARC00006380			978-2-8186-1508-9		Transformation numérique des collectivités territoriales	cedric masera	2018		Territorial éditions
+  DOB00002380			978-2-8076-1062-0		Transmettre une fidélité la Contre-Révolution et les usages du passé  France  Espagne  Italie   8210  XIXe-XXe siècles 	chopelin bruno paul dumons	2019		Peter Lang
+  ARC00006947					Transparence des algorithmes face à l'open data   quel statut pour les données d'apprentissage  	bourcier de filippi primavera daniele	2018		
+  ARC00007119					Traversées	mahe stanislas	2019		Joca Seria
+  ARC00006965					Traversées  une vie sans port d'attache A l'orée de la deuxième Guerre Mondiale  des réfugiés sur le paquebot Flandre	mahe stanislas	2019		
+  DOB00002295			978-2-7132-2461-4		Trésor  mémoire  merveilles Les objets des églises au Moyen Ege	cordez philippe	2016		EHESS
+  DOB00002317					Trésors des guerres de religion au château de Blain	gildas salain	2019		
+  DOB00002345			978-2-7177-2821-7		Trésors monétaires trésors de monnaies espagnoles dans la France des XVIIe et XVIIIe siècles	de france et nationale des monnaies jambu antiques medailles departement jerime bibliotheque	2019	Tome XXVIII	Bibliothèque Nationale de France
+  ARC00007058					Trois hÎtels nantais issus du gothique tardif   l'hÎtel de Bruc  l'hÎtel prébendal de la collégiale Notre-Dame et l'hÎtellerie des Jacobins	leny charrier	2019		
+  ARC00006796					Troisième phase  La délimitation des terrains partagés  Septembre 1829-1837 	alain gallice	2019		
+  ARC00006977					Tu seras marin  fils   	le jocelyne borgne	2019		
+  ARC00006498					Tusculanes de Cicéron traduites par Bouhier et d'Olivet	bouhier jean ciceron	1812		J  Gaude
+  ARC00006497					Tusculanes de Cicéron traduites par Bouhier et d'Olivet	bouhier jean ciceron	1812		J  Gaude
+  ARC00006827					Un aïeul dans la Grande Guerre	danielle bihoes	2017		
+  ARC00006631					Un domaine géographique méconnu   les carrières abandonnées en Loire-Atlantique  Seconde partie	louis chauris	1977		
+  ARC00006750					Un exemple d'archéologie en contexte insulaire ou l'archéologue face à la mer   l'île Dumet  Piriac-sur-Mer  Loire-Atlantique 	axel catherine levillayer moreau	2019		
+  ARC00006910					Un fonds d'une grande richesse Les registres de catholicité de l'époque révolutionnaire aux Archives historiques du diocèse de Nantes	samuel guicheteau	2017		
+  DOB00002301			978-2-35906-250-2		Un rêve d'Italie la collection du marquis Campana	trofimova francoise haumesser a laurent anna gaultier	2018		Lienart éditions Editions du Louvre
+  ARC00007052					Un tiers de sou de Rezé retrouvé	gildas salain	2019		
+  DOB00002312					Une amphore pleine de surprises à Aoste	silvino rodolphe tony nicot	2019		
+  ARC00006704					Une centrale nucléaire en Basse-Loire Le Pellerin - Le Carnet  21 ans de luttes  1976-1997  	de d'histoire saint-jean-de-boiseau societe	2019		
+  ARC00006447					Une chapelle multi-service La Chapelle Saint Marc	le jocelyne borgne	2019		
+  DOB00002279			9782707188786		Une histoire des civilisations comment l'archéologie bouleverse nos connaissances	dominique schnapp alain demoule jean-paul garcia	2018		La Découverte INRAP
+  ARC00006850					Une légende née à Saint-Nazaire		2003		Presse-Océan  l'Eclair
+  ARC00006913					Une minorité religieuse dans la Grande Guerre  Les protestants français	pierre-yves kirschleger	2016		
+  ARC00007029					Une nouvelle philosophie de l'histoire moderne et française les bases historiques et critiques d'une éducation nationale	rene gillouin	1921		Bernard Grasset
+  DOB00002311			9782916504100		Une si proche Antiquité guide des collections	departemental antique musee arles	2019		Musée de l'Arles antique
+  ARC00006822					Une terre  inconnue  au nord-ouest de la Loire-Atlantique	santos daubas marta loic miranda	2019		
+  ARC00006538					'une trace à l'autre  Découverte de gravures rupestresau nord du Pays d'Ancenis  Loire-Atlantique 	francoise poinsot hubert jacquet	2018	n° 33	
+  DOB00002307			9791092054514		Universel  exposition  25 avril au 1 er septembre 2019  Les Lucs-sur-Boulogne  Historial de la Vendée 	musees departementale loiseau conservation des vendee marie-elisabeth	2019		Mare   Martin
+  DOB00002379			978-2-262-02880-0		URBS histoire de la ville de Rome  des origines à la mort d'Auguste	alexandre grandazzi	2017		Editions Perrin
+  ARC00006997					Vair-sur-Loire  Bulletin muncipal				
+  DOB00002258			9782354040161		Valenciennes vallée de l'Escaut  un site du Néolithique final  exposition  Les premiers Valenciennois   HÎtel de Ville  Valenciennes  2009 	david marianne delassus deckers	2009		Service archéologique de Valenciennes
+  ARC00006552					Valeurs	suares andre	1936		Editions Grasset
+  ARC00006998					Vallons-de-l'Erdre  Bulletin municipal				
+  ARC00006382			978-2-8186-1486-0		Valoriser et animer le patrimoine de proximité Guide méthodologique	barthelemy philippe	2018		Territorial éditions
+  ARC00006577					Variétés littéraires  ou recueil de pièces  tant originales que traduites  concernant la philosophie  la littérature et les arts	francois arnaud	1804		Imrimerie de Xhrouet
+  ARC00006568					Vers d'il y a cinquante ans	alcide leroux	1927		Imprimerie F  Paillart
+  ARC00007094					Vie et traditions populaires  Pêcheurs de la première moitié du XXe siècle au Pouliguen	de les memoire association greniers la	2019		
+  ARC00006656					Vies de châteaux Au bord du Gesvres	treillieres fil temps du au	2018		
+  ARC00006374			978-2-7535-5381-1		Vies et métamorphoses des contes de Grimm Traductions  réception  adaptations	dominique peyrache-leborgne	2017		Presses universitaires de Rennes
+  ARC00007113					Vies oubliées Au coeur du XVIIIème siècle	arlette farge	2019		Editions La Découverte
+  ARC00006723					Villeneuve-en-Retz  Bulletin municipal				
+  ARC00006817			2 7384 2605 0		Villes reconstruites du dessin au destin  Actes du deuxième colloque international des villes reconstruites  Volume II	de institut lorient geoarchitecture ville	1994		L'Harmattan
+  ARC00006471					Visages d'hier et d'aujourd'hui	d	1911		Plon  Nourrit et Cie
+  ARC00006864					Vivre sous le chaume  vivre sous le charme	regional de parc briere naturel			Cossinus concept
+  DOB00002296			979-10-96137-03-9		Vocabulaire technique d'archéologie  français anglais - anglais français tome 1 préhistoire   protohistoire européennes	patrick le cadre	2016		Fedora
+  DOB00002299			978-94-6161-4544		Vous avez dit barbares   Archéologie des temps mérovingiens en Normandie  Ve-VIIIe siècles	sandrine berthelot hincker vincent	2018		Editions Snoeck Musée de Normandie
+  ARC00006448					Voyage au Pouliguen août 1889		2019		
+  ARC00006771					Voyage chez les lépreux  suite  Les lépreux de la Bretagne en 1892  Communication faite à l'acédemie de médecine le 23 août 1892	pacha dr zambaco	1892		éd  G  Masson
+  ARC00006565					Voyage du jeune Anacharsis en Grèce  dans le milieu du quatrième siècle avant l'ère vulgaire 	jean-jacques barthelemy	1788		chez Guillaume De Bure l'aîné
+  ARC00006440					Yves Horeau nous a quittés	jean-claude chemin	2019		
+  ARC00006964					Zoom arrière  D'une brasserie à une vie de mousse	nerriere xavier	2019		
