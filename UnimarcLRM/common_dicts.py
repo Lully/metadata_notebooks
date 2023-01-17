@@ -4,15 +4,19 @@ ROLES = {"000": "Fonction à préciser", "003": "Encadrant académique", "005": 
 
 ENTITY_TYPE = {"i": "item", "m": "manifestation", "e": "expression", "o": "oeuvre"}
 
+# Dans une manifestation : liens à des expressions
 tags_manif2expressions = {"507": "point d'accès autorisé Titre (manifestation pointant vers expression)", 
                           "577": "point d'accès autorisé Auteur-Titre (manifestation pointant vers expression)"}
 
+# Dans une expression : liens à des oeuvres
 tags_expression2oeuvres = {"232": "point d'accès autorisé Titre",
                            "242": "point d'acècs autorité Auteur-Titre" }
 
+# Dans une oeuvre ou une expression : liens vers des expressions
 tags_oe2expression = {"532": "Point d’accès autorisé – Titre (expression pointant vers oeuvre)",
                       "542": "Point d’accès autorisé – Auteur/titre (expression pointant vers oeuvre)"}
 
+# Dans une oeuvre ou une expression : liens vers des oeuvres
 tags_oe2oeuvre = {"531": "Point d’accès autorisé – Titre (expression pointant vers oeuvre)",
                   "541": "Point d’accès autorisé – Auteur/titre (expression pointant vers oeuvre)",}
 # Zones utilisées pour faire des liens aux Personnes et collectivités (avec indicateurs de relations autre que sujet)
@@ -21,12 +25,20 @@ tags_resp = {"o": {"501": "Lien aux mentions de responsabilité Personne depuis 
              "e": {"502": "Lien aux mentions de responsabilité Personne depuis des expressions",
                    "512": "Lien aux mentions de responsabilité Collectivité depuis des expressions"},
              "m": {"702": "Lien de manifestation à une mention de responsabilité Personne",
-                   "712": "Lien de manifestation à une mention de responsabilité Collectivité"}}
+                   "712": "Lien de manifestation à une mention de responsabilité Collectivité"},
+                   "716": "Lien de manifestation à une mention de marque"}
+
+tags_indexation = {"608": "genre-forme",
+                   "606": "sujet"}
 
 # Pour chaque type d'entité, les zones à indexer
 tags_indexation = {"m": "200,214$a$c$d,225$a$c,307$a,320$a,327$a,330$a".split(","),
                    "e": "232$a,371$a".split(","),
                    "o": "033$a,052$a,231$a,370$a$c,378$a".split(","),
                    "i": "252$a$b$j".split(","),
-                   "p": []
+                   "p": ["200"],
+                   "l": ["216"],
+                   "c": ["210"],
+                   "g": ["216"],
+                   "t": ["280"]
                    }

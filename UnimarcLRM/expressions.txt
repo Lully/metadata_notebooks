@@ -1,0 +1,1223 @@
+
+
+
+UMLRM0002 : Nosferatu, eine Symphonie des Grauens, film
+
+000    01357nx  a2200253   4500
+001    UMLRM0002
+100    $a 20220924afrey0103    ba0
+101 1  $a fre $c ger
+102    $a FR
+104    $a d1995     
+105    $a ba
+127    $a 010000
+145    $a b $b xa2ea 
+145    $a tdi $b rdacontent
+147    $a a $e d $h a
+152    $a RDA-FR
+154    $a xb
+232    $3 UMLRM0001 $7 ba0yba0y $8 freger $a Nosferatu, eine Symphonie des Grauens $c film $l Version restaurée $w 60mn $o 1995 $m Français
+371    $f Film muet avec intertitres en français $f Version restaurée, restauration de 1995 : 60 min (24 im./s), musique de Galeshka Moravioff
+502  1 $3 FRBNF14122771 $7 ba0yba0y $8 fre### $o ISNI 0000 0000 0886 412X $a Moravioff $b Galeshka $4 230
+532    $5 xxq $3 UMLRM0175 $7 ba0yba0y $8 frefre $a Les grands classiques du cinéma allemand $k RDM vidéo $m Anglais, allemand, français ; sous-titrage en français $n Image animée
+640 5  $0 Date de restauration $f #1995#####
+810    $a Nosferatu / réalisation Friedrich W. Murnau ; d’après le roman "Dracula" de Bram Stoker ; scénario et adaptation Henrik Galeen ; avec Max Schreck, Greta Schroeder, Gustav von Wangenheim... [et autres]. - [Sannois] : RDM vidéo [éditeur, distributeur], [DL 2012]. - [Image animée : (video]
+810    $a Wikipédia : https://fr.wikipedia.org/wiki/Nosferatu_le_vampire (2020-12-28) $b Version restaurée
+
+
+
+UMLRM0005 : Stoker, Bram (1847-1912), Dracula
+
+000    01331cx  a2200253   4500
+001    UMLRM0005
+005    20220719######.D
+100    $a 20220713afrey50      ba0
+101 0  $a eng
+102    $a GB
+104    $a d1897    
+105    $a ba
+145 0  $a i $b axxe  
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Anglais $n Texte noté
+542  1 $5 xxn $p A pour traduction $3 UMLRM0056 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Français $w Paul-Margueritte $n Texte noté
+542  1 $5 xxn $p A pour traduction $3 UMLRM0020 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Français $w Molitor $n Texte noté
+542  1 $5 xxn $p A pour traduction $3 UMLRM0041 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Français $w Sirgent $n Texte noté
+542  1 $5 xxn $p A pour traduction $3 UMLRM0050 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Français $w Finné $n Texte noté
+542  1 $5 xxn $p Abrégé en $3 UMLRM0053 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $l Version abrégée $w Chicheportiche $m Français $n Texte noté
+640 6  $0 Date de première publication $f #1897#####
+801  0 $a FR $b FR-751045101 $c 20220719
+810    $a Dracula / Bram Stoker. – London ; Sidney ; Auckland : Pan books, 1992. – [Texte noté : sans médiation] . – ISBN 0-330-32856-5
+
+
+
+UMLRM0008 : Nosferatu, Phantom der Nacht, film
+
+000    00857cx  a2200217   4500
+001    UMLRM0008
+005    20220725112526
+100    $a 20220721afrey50      ba0
+101 1  $a fre $c ger $j fre
+102    $a  FR
+104    $a d1979     
+105    $a ba
+145    $a b $b xa2ae 
+147 1  $a g $e c $h c
+152    $a  RDA-FR 
+154    $a xb
+232    $3 UMLRM0007 $7 ba0yba0y $8 freger $a Nosferatu, Phantom der Nacht $c film $m français
+371    $a Surround $c Sous-titrage en français pour malentendants
+432    $7 ba0yba0y $8 frefre $a Nosferatu, fantôme de la nuit $c film $m français
+801  0 $a FR $b 751043001 $c 20220725
+810    $a Nosferatu fantôme de la nuit / un film de Werner Herzog ; Isabelle Adjani, Klaus Kinski, [Bruno Ganz... [et autres, acteurs ; musique de Florian Fricke, Popol Vuh]. - [Neuilly-sur-Seine] : Gaumont vidéo, [DL 2010]. – [Images animées : vidéo]
+
+
+
+UMLRM0011 : Palma, Paola (1971-….) - Vezyroglou, Dimitri (1970-….), "Nosferatu le vampire"
+
+000    00692cx  a2200193   4500
+001    UMLRM0011
+005    20220927######.D
+100    $a 20220927afrey50      ba0
+101 0  $a fre
+102    $a FR
+104    $a d2021    
+105    $a ba
+145    $a i $b axxe  
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0010 $7 ba0yba0y $8 frefre $a Palma, Paola (1971-….) $a Vezyroglou, Dimitri (1970-….) $t "Nosferatu le vampire" $m Français $n Texte noté
+640 6  $0 Date de première publication $f #2021#####
+801  0 $a FR $b FR-751052119 $c 20220927
+810    $a "Nosferatu le vampire" / Paola Palma, Dimitri Vezyroglou. – Neuilly : Atlande, DL 2021. – [Texte noté : sans médiation]. – ISBN 978-2-35030-689-6
+
+
+
+UMLRM0014 : Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra, programme, 2006-05
+
+000    01036cx  a2200229   4500
+001    UMLRM0014
+005    20220712.......D
+100    $a 20060703afrey50      ba0
+101 0  $a fre
+102    $a FR
+104    $a d2005    
+105    $a ba
+145 0  $a b $b xb2e  
+145 0  $a i $b axxe  
+147 0  $a h
+152    $a RDA-FR
+154    $a xb
+232    $3 UMLRM0013 $7 ba0yba0y $8 frefre $a Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra $c programme $d 2006-05 $n Texte noté. Image fixe
+300    $a Réunit des analyses sur l’œuvre présentée, l'argument du ballet et des notices biographiques sur les interprètes
+640 6  $0 Date de copyright de l’expression $f #2005#####
+801  0 $a FR $b FR-751131015 $c 20220920
+810    $a  Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra: [chorégraphie de Jean-Claude Gallotta, musiques de Pascal Dusapin] : [programme, 6 mai 2006, Opéra national de Paris, Opéra Bastille] / Opéra national de Paris. – Paris : Opéra national de Paris, copyright 2005. – [Texte noté. Image fixe : sans médiation]
+
+
+
+UMLRM0020 : Stoker, Bram (1847-1912), Dracula
+
+000    01299cx  a2200253   4500
+001    UMLRM0020
+005    20220905######.D
+100    $a 20220826afrey50      ba0
+101 1  $a fre $c eng
+102    $a FR
+104    $a d1963    
+105    $a ba
+145    $a i $b axxe  
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Français $w Molitor $n Texte noté
+371    $f Première édition française intégrale
+502  1 $3 FRBNF12626285 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 0891 6874 $a Molitor $b Lucienne $4 730
+542  1 $5 xxo $p Est une traduction de $3 UMLRM0005 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Anglais $n Texte noté
+542  1 $5 xxn $p Abrégé en $3 UMLRM0068 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Français $w Molitor $l Version abrégée $w Moissard $n Texte noté
+640 6  $0 Date de première publication $f #1963#####
+801  0 $a FR $b FR-751052119 $c 20220905
+810    $a Dracula / Bram Stoker ; traduit de l'anglais par Lucienne Molitor ; introduction de Tony Faivre. – Verviers : Gérard et Cie, 1963. – [Texte noté : sans médiation]
+810    $a Le visage vert : littérature fantastique : http://www.levisagevert.com/bibliographie-auteurs/auteurs-s/auteurs-s/s0007.html (2022-10-07) $b Information sur la version
+
+
+
+UMLRM0032 : Stoker, Bram (1847-1912), Choix, Dracula
+
+000    01077nx  a2200229   4500
+001    UMLRM0032
+100    $a 20221024afrey50      ba0
+101 2  $a fre $c eng
+102    $a FR
+104    $a d2014    
+105    $a ba
+145 0  $a i $b axxe  
+145 0  $a b1 $b xb2e  
+147 0  $a a
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0031 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $c Choix $k Bruneel-Ziane $m Français $w Molitor $n Texte noté
+502  1 $3 FRBNF12626285 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 0891 6874 $a Molitor $b Lucienne $4 730
+542  1 $5 xxp $p Est une sélection de [expression] $3 UMLRM0020 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Français $w Molitor $n Texte noté
+640 6  $0 Date de première publication $f #2014#####
+801  0 $a FR $b FR-751131010 $c 20221024 $g RDA-FR
+810    $a Dracula / Bram Stoker ; traduction de Lucienne Molitor ; choix des extraits et appareil pédagogique établi par Nadia Bruneel-Ziane,... ; lexique établi par Michèle Sendre. – [Paris] : Magnard, impr. 2014. – [Texte noté : sans médiation]. – ISBN 978-2-210-74066-2
+
+
+
+UMLRM0035 : Humphries, Tudor (1953-….), Dracula
+
+000    01062nx  a2200229   4500
+001    UMLRM0035
+100    $a 20221031afrey50      ba0
+101 1  $a fre $c eng
+102    $a FR
+104    $a d1998     
+105    $a ba
+145    $a i $b axxe  
+145    $a b $b xb2e  
+147    $a h
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0034 $7 ba0yba0y $8 freeng $a Humphries, Tudor (1953-….) $t Dracula $m Français $n Texte noté. Image fixe
+502  1 $3 FRBNF13343810 $7 ba0yba0y $8 frefre $o ISNI 0000 0003 8523 9039 $a Jouve $b Michèle $f 19..-.... $c angliciste $4 730
+542  1 $5 xxo $p Est une traduction de $3 UMLRM0161 $7 ba0yba0y $8 freeng $a Humphries, Tudor (1953-….) $t Dracula $m Anglais $n Texte noté. Image fixe
+640 6  $0 Date de première publication $f #1998#####
+801  0 $a FR $b FR-751052119 $c 20221031
+810    $a  Dracula : [version abrégée] / d'après Bram Stoker ; illustré par Tudor Humphries ; [traduit par Michèle Jouve]. – Paris ; Bruxelles ; Montréal [etc.] : Sélection du "Reader's digest",1998. – [Texte noté. Image fixe : sans médiation]. – ISBN 2-7098-0973-7
+
+
+
+UMLRM0038 : Stoker, Bram (1847-1912), Choix, Dracula
+
+000    01128nx  a2200241   4500
+001    UMLRM0038
+100    $a 20221005afrey50      ba0
+101 2  $a fre $c eng
+102    $a FR
+104    $a d2006    
+105    $a ba
+145    $a i $b axxe  
+145    $a b1 $b xb2e  
+147    $a a
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0037 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $c Choix $k Cassou-Noguès ; Langenhagen $m Français $w Finné $n Texte noté $o 2006
+371    $f Édition revue avec ajout d’un glossaire
+502  1 $3 FRBNF11902797 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2023 6609 $a Finné $b Jacques $f 1944-.... $4 730
+542  1 $5 xxp $p Est une sélection de [expression] $3 UMLRM0050 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Français $w Finné $n Texte noté
+640 6  $0 Date de première publication $f #2006#####
+801  0 $a FR $b FR-751131010 $c 20221005
+810    $a Dracula / Bram Stoker ; traduction par Jacques Finné ; présentation, notes, choix des extraits et dossier par Anne Cassou-Noguès et Marie-Ande de Langenhagen. – Paris : Flammarion, 2006. – [Texte noté : sans médiation]. – ISBN 2-08-072306-5
+
+
+
+UMLRM0041 : Stoker, Bram (1847-1912), Dracula
+
+000    01110nx  a2200217   4500
+001    UMLRM0041
+100    $a 20220809afrey0103ba0
+101 1  $a fre $c ger
+102    $a FR
+104    $a d2010     
+105    $a ba
+145    $a i $b axxe  
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Français $w Sirgent $n Texte noté
+502  1 $3 FRBNF15547545 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 0188 825 $a Sirgent $b Jacques $4 730
+542  1 $5 xxo $p Est une traduction de $3 UMLRM0005 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Anglais $n Texte noté
+640 6  $0 Date de première publication $f #2010#####
+801  0 $a FR $b FR-341725402 $c 20220809
+810    $a Dracula] / Bram Stoker ; traduit de l'anglais par Jacques Sirgent. – Nouvelle traduction. – Rosières-en-Haye : le Camion blanc, impr. 2010. – [Texte noté : sans médiation]. – ISBN 978-2-35779-055-1
+810    $a Dracula : traduction intégrale / Bram Stoker ; traduit de l'anglais par Jacques Sirgent. – Paris : J'ai lu, impr. 2012. – [Texte noté : sans médiation]. – ISBN 978-2-290-05740-7
+
+
+
+UMLRM0047 : Stoker, Bram (1847-1912), Choix, Dracula
+
+000    01150nx  a2200241   4500
+001    UMLRM0047
+100    $a 20221005afrey50      ba0
+101 2  $a fre $c eng
+102    $a FR
+104    $a d2017    
+105    $a ba
+145    $a i $b axxe  
+145    $a b1 $b xb2e  
+147    $a g
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0037 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $c Choix $k Cassou-Noguès ; Langenhagen $m Français $w Finné $n Texte noté $o 2017
+371    $f Édition revue $f Cahier photographique en couleur
+502  1 $3 FRBNF11902797 $7 ba0yba0y $8 frefre $o ISNI0000 0001 2023 6609 $a Finné $b Jacques $f 1944-.... $4 730
+542  1 $5 xxp $p Est une sélection de [expression] $3 UMLRM0050 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Français $w Finné $n Texte noté
+640 6  $0 Date de première publication $f #2017#####
+801  0 $a FR $b FR-751131010 $c 20221005
+810    $a Dracula / Bram Stoker ; traduction de Jacques Finné ; présentation, notes, choix des extraits, cahier photos et dossier par Anne Cassou-Noguès et Marie-Ande de Langenhagen. – Paris : Flammarion, 2017. – [Texte noté : sans médiation]. – ISBN 978-2-08-140438-0
+
+
+
+UMLRM0050 : Stoker, Bram (1847-1912), Dracula
+
+000    01514cx  a2200253   4500
+001    UMLRM0050
+005    20220930######.D
+100    $a 20220930afrey50      ba0
+101 1  $a fre $c eng
+102    $a FR
+104    $a d1979     
+105    $a ba
+145    $a i $b axxe  
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Français $w Finné $n Texte noté
+502  1 $3 FRBNF11902797 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2023 6609 $a Finné $b Jacques $f 1944-.... $4 730
+542  1 $5 xxo $p Est une traduction de $3 UMLRM0005 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Anglais $n Texte noté
+542  1 $5 xxq $p A pour sélection [expression] $3 UMLRM0172 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $c Choix $k Cassou-Noguès ; Langenhagen $m Français $w Finné $n Texte noté $o 2004
+542  1 $5 xxq $p A pour sélection [expression] $3 UMLRM0038 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $c Choix $k Cassou-Noguès ; Langenhagen $m Français $w Finné $n Texte noté $o 2006
+542  1 $5 xxq $p A pour sélection [expression] $3 UMLRM0047 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $c Choix $k Cassou-Noguès ; Langenhagen $m Français $w Finné $n Texte noté $o 2017
+640 6  $0 Date de première publication $f #1979#####
+801  0 $a FR $b FR-751052119 $c 20220930
+810    $a Dracula [Texte imprimé] / Bram Stoker ; traduit de l'anglais par Jacques Finné. – Paris : Paris : Librairie des Champs-Élysées, 1979. – [Texte noté : sans médiation]. – ISBN 2-7024-0900-8
+
+
+
+UMLRM0053 : Stoker, Bram (1847-1912), Dracula
+
+000    01137cx  a2200253   4500
+001    UMLRM0053
+005    20220920######.D
+100    $a 20220826afrey50      ba0
+101 1  $a fre $c eng
+102    $a FR
+104    $a d2011     
+105    $a ba
+125  0 $a d
+145    $a i $b axxe   
+145    $c txt $2 rdacontent
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $l Version abrégée $w Chicheportiche $m Français $n Texte noté
+371    $f Version abrégée pour la jeunesse (âge de lecture 9-12 ans)
+502  1 $3 FRBNF12052485 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 0880 4872 $a Chicheportiche $b  Josette $f 1957-.... $4 010 $4 730
+542  1 $5 xxo $p Est un abrégé de $3 UMLRM0005 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Anglais $n Texte noté
+640 6  $0 Date de première publication $f #2011####
+801  0 $a FR $b FR-141186101 $c 20220920 $h FRBNF44486284000000X
+810    $a Dracula / Bram Stoker ; traduit de l'anglais par Josette Chicheportiche. – Texte abrégé. – Vanves : le Livre de poche jeunesse, DL 2015]. – [Texte noté : sans médiation] . – ISBN 978-2-01-181029-8
+
+
+
+UMLRM0056 : Stoker, Bram (1847-1912), Dracula
+
+000    01593nx  a2200265   4500
+001    UMLRM0056
+100    $a 20221003afrey50      ba0
+101 1  $a fre $c eng
+102    $a FR
+104    $a d1920    
+105    $a ba
+145    $a i $b axxe  
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Français $w Paul-Margueritte $n Texte noté
+371    $f Première traduction française sous forme d’une version écourtée publiée sous le titre "Dracula, l'homme de la nuit".
+442  1 $7 ba0yba0y $8 frefre $a Stoker, Bram (1847-1912) $t Dracula, l'homme de la nuit $n Texte noté
+502  1 $3 FRBNF12630239 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 7998 1809 $a Paul-Margueritte $b Ève $4 730
+502  1 $3 FRBNF12126118 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 7974 3368 $a Paul-Margueritte $b Lucie $4 730
+542  1 $5 xxo $p Est une traduction de $3 UMLRM0005 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Anglais $n Texte noté
+542  1 $5 xxn $p Abrégé en $3 UMLRM0059 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Français $w Paul-Margueritte $l Version abrégée $n Texte noté
+640 6  $0 Date de première publication $f #1920#####
+801  0 $a FR $b FR-751052119 $c 20221003
+810    $a Dracula : l'homme de la nuit / Brahm Stoker ; traduit de l'anglais par Ève et Lucie Paul-Margueritte. – Paris : l'Édition française illustrée, 1920. – [Texte noté : sans médiation]
+810    $a Le visage vert : littérature fantastique : http://www.levisagevert.com/bibliographie-auteurs/auteurs-s/auteurs-s/s0007.html (2022-10-07) $b Information sur la version
+
+
+
+UMLRM0059 : Stoker, Bram (1847-1912), Dracula
+
+000    01500nx  a2200253   4500
+001    UMLRM0059
+100    $a 20221007afrey50      ba0
+101 1  $a fre $c eng
+102    $a FR
+104    $a d1932     
+105    $a ba
+145    $a i $b axxe  
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Français $w Paul-Margueritte $l Version abrégée $n Texte noté
+371    $f Version abrégée suivant le découpage du film « Dracula » de Tod Browning
+442  1 $7 ba0yba0y $8 frefre $a Stoker, Bram (1847-1912) $t Dracula, l'homme de la nuit $l Version abrégée $n Texte noté
+502  1 $3 FRBNF12630239 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 7998 1809 $a Paul-Margueritte $b Ève $4 730
+502  1 $3 FRBNF12126118 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 7974 3368 $a Paul-Margueritte $b Lucie $4 730
+542  1 $5 xxo $p Est un abrégé de $3 UMLRM0056 $7 ba0yba0y $8 frefre $a Stoker, Bram (1847-1912) $t Dracula $m Français $w Paul-Margueritte $n Texte noté
+640 6  $0 Date de première publication $f #1932#####
+801  0 $a FR $b FR-751052119 $c 20221007
+810    $a Dracula, l'homme de la nuit : roman traduit par Ève et Lucie Paul-Margueritte et illustré de nombreuses photographies du film "Dracula" / Brahm Stoker. – Paris : Éditions J. Tallandier, 1932. – [Texte noté. Image fixe : sans médiation]:
+810    $a Le visage vert : littérature fantastique : http://www.levisagevert.com/bibliographie-auteurs/auteurs-s/auteurs-s/s0007.html (2022-10-07) $b Information sur la version
+
+
+
+UMLRM0065 : Stoker, Bram (1847-1912), Dracula
+
+000    00825cx  a2200217   4500
+001    UMLRM0065
+005    20220929######.D
+100    $a 20220929afrey50      ba0
+101 1  $a spa $c eng
+102    $a FR
+104    $a d2017     
+105    $a ba
+145    $a i $b axxe  
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Espagnol $n Texte noté
+442  1 $7 ba0yba0y $8 frespa $a Stoker, Bram (1847-1912) $t Drácula $n Texte noté
+542  1 $5 xxo $p Est une traduction de $3 UMLRM0005 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Anglais $n Texte noté
+640 6  $0 Date de première publication $f #2017#####
+801  0 $a FR $b FR-751052119 $c 20220929
+810    $a Drácula / Bram Stoker. – Rungis : Maxtor, DL 2017. – [Texte noté : sans médiation]. – ISBN 979-10-208-0506-5
+
+
+
+UMLRM0068 : Stoker, Bram (1847-1912), Dracula
+
+000    01270nx  a2200241   4500
+001    UMLRM0068
+100    $a 20220819afrey50      ba0
+101 1  $a fre $c eng
+102    $a FR
+104    $a d2005     
+105    $a ba
+125  0 $a e
+145    $a i $b axxe   
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Français $w Molitor $l Version abrégée $w Moissard $n Texte noté
+371    $f Version abrégée pour la jeunesse (âge de lecture 12-18 ans)
+502  1 $3 FRBNF11916402 $7 ba0yba0y $8 fre### $o ISNI 0000 0001 2122 217X $a Moissard $b Boris $f 1942-.... $4 010
+502  1 $3 FRBNF12626285 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 0891 6874 $a Molitor $b Lucienne $4 730
+542  1 $5 xxo $p Est un abrégé de $3 UMLRM0020 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Français $w Molitor $n Texte noté
+640 6  $0 Date de première publication $f #2005####
+810    $a Dracula / Bram Stoker ; traduit de l'anglais par Lucienne Molitor ; abrégé par Boris Moissard. – Paris : l'École des loisirs, DL 2019. – [Texte noté : sans médiation]. – ISBN 978-2-211-30470-2
+810    $a L’école des loisirs : Dracula | L’école des loisirs, Maison d’Édition Jeunesse (ecoledesloisirs.fr) (2022-11-02) $b Date de l’expression
+
+
+
+UMLRM0071 : Belford, Barbara, Bram Stoker : a biography of the author of "Dracula"
+
+000    00748cx  a2200217   4500
+001    UMLRM0071
+005    20220808######.D
+100    $a 20220808afrey50      ba0
+101 0  $a eng
+102    $a GB
+104    $a d1996     
+105    $a ba
+145 0  $a i $b axxe  
+145 0  $a b1 $b xb2e  
+147 0  $a a
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0070 $7 ba0yba0y $8 freeng $a Belford, Barbara $t Bram Stoker : a biography of the author of "Dracula" $m Anglais $n Texte noté
+640 6  $0 Date de première publication $f #1996#####
+801  0 $a FR $b  FR-751045101 $c 20220808
+810    $a Bram Stoker : a biography of the author of "Dracula" / Barbara Belford. – London : Weidenfeld and Nicolson, 1996. – [Texte noté : sans médiation]. – ISBN 0-297-81331-5
+
+
+
+UMLRM0076 : Stoker, Bram (1847-1912), Dracula’s guest
+
+000    01231cx  a2200241   4500
+001    UMLRM0076
+005    20221030######.D
+100    $a 20220905afrey50      ba0
+101 1  $a fre $c eng
+102    $a FR
+104    $a d1992     
+105    $a ba
+145    $a i $b axxe  
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0075 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula’s guest $m Français $w Finné $n Texte noté
+442  1 $7 ba0yba0y $8 frefre $a Stoker, Bram (1847-1912) $t L’invité de Dracula $m Français $w Finné $n Texte noté
+502  1 $3 FRBNF11902797 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2023 6609 $a Finné $b  Jacques $4 730
+542  1 $5 xxo $p Est une traduction de $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula’s guest $m Anglais $n Texte noté
+640 6  $0 Date de première publication $f #1992#####
+801  0 $a FR $b FR-751052119 $c 20221030
+810    $a BnF, catalogue général : http://ark.bnf.fr/ark:/12148/cb35544517t (2022-10-30) $b Date de première publication
+810    $a Dracula [Texte imprimé] ; suivi de L'invité de Dracula / Bram Stoker ; traduction de Jacques Finné ; présentation et commentaires de Claude Aziza. – Paris : Pocket, impr. 2011. – [Texte noté : sans médiation] . – ISBN 978-2-266-21954-9
+
+
+
+UMLRM0079 : Bram Stoker's Dracula, film
+
+000    00947cx  a2200241   4500
+001    UMLRM0079
+005    20220721######.D
+100    $a 20220721afrey50      ba0
+101 0  $a eng
+102    $a US
+104    $a d1992     
+127    $a 020700
+145 0  $a b $b xa2ae 
+145 0  $c tdi $2 rdacontent
+147 0  $a g $e c $h c
+152    $a RDA-FR
+154    $a xb
+232    $3 UMLRM0078 $7 ba0yba0y $8 freeng $a Bram Stoker's Dracula $c film $m Anglais
+371    $a Dolby Digital $f Film en version originale anglaise, non sous-titrée
+640 0  $0 Date de copyright $f #1992#####
+801  0 $a FR $b FR-141186101 $c 20220721
+810    $a IMDB (Internet movie database) : https://www.imdb.com/title/tt0103874/ (2022-11-03) $b Techniques d’enregistrement
+810    $a Bram Stoker's Dracula : a Francis Ford Coppola film / Gary Oldman, Winona Ryder, Anthony Hopkins... [et autres], [acteurs]. – Tokyo : Sony pictures entertainment [éditeur] $d  1993]. – [Image animée : vidéo]
+
+
+
+UMLRM0082 : "Dracula" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola
+
+000    00759cx  a2200193   4500
+001    UMLRM0082
+005    20220926
+100    $a 20220926afrey50      ba0
+101 0  $a fre $a eng 
+102    $a FR 
+104    $a d2005     
+105    $a ba 
+145 0  $a i $b axxe   
+152    $a RDA-FR 
+154    $a xb 
+232    $3 UMLRM0081 $a "Dracula" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola $m Français-Anglais $n Texte noté
+640 6  $0 Date de première publication $f #2005#####
+801  0 $a FR $b FR-751045101 $c 20220926
+810    $a . "Dracula" [Texte imprimé] : l'oeuvre de Bram Stoker et le film de Francis F. Coppola / ouvrage dirigé par Gilles Menegaldo et Dominique Sipière. – Paris : Ellipses, 2005.– [Texte noté : sans médiation]. – ISBN 2-7298-2533-9
+
+
+
+UMLRM0085 : Cazacu, Matei (1946-....), Dracula
+
+000    00633cx  a2200205   4500
+001    UMLRM0085
+005    20220908
+100    $a 20220908afrey50      ba0 
+101 0  $a fre
+102    $a FR
+104    $a d2011     
+105    $a ba
+145 0  $a i3 $b axxe   
+145 0  $a b1 $b cb2e  
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0084 $7 ba0yba0y $8 frefre $a Cazacu, Matei (1946-....) $t Dracula $m Français $n Texte noté
+640 6  $0 Date de première publication $f #2011#####
+801  0 $a FR $b FR-751045101 $c 20220908
+810    $a Dracula  / Matei Cazacu. – Paris : Tallandier, 2011. – [Texte noté : sans médiation]. – ISBN 978-2-84734-801-9
+
+
+
+UMLRM0088 : Valls de Gomis, Estelle (1973-...), Le vampire au fil des siècles : enquête autour d'un mythe
+
+000    00677cx  a2200193   4500
+001    UMLRM0088
+005    20220809
+100    $a 20220809afrey50      ba0
+101 0  $a fre
+102    $a FR
+104    $a d2005     
+105    $a ba
+145    $a i $b axxe  
+145    $a b1 $b xb2e  
+147    $a h
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0087 $7 ba0yba0y $8 frefre $a Valls de Gomis, Estelle (1973-...) $t Le vampire au fil des siècles : enquête autour d'un mythe $m Français $n Texte noté
+801  0 $a FR $b  FR-751045101 $c 20220809
+810    $a  Le vampire au fil des siècles : enquête autour d'un / Estelle Valls de Gomis. - Coudray-Macouard : Cheminements, DL 2005. – [Texte noté : sans médiation]
+
+
+
+UMLRM0091 : Nosferatu, the wrath of Malachi, jeu vidéo
+
+000    01372nx  a2200265   4500
+001    UMLRM0091
+100    $a 202211043afrey50      ba0
+101 0  $a fre 
+102    $a FR
+104    $a d2003     
+105    $a ba
+145    $a f $b xxxae 
+145    $c cop $2 rdacontent
+147    $a g $e b
+152    $a  RDA-FR
+154    $a xb
+232    $3 UMLRM0090 $7 ba0yba0y $8 freeng $a Nosferatu, the wrath of Malachi $c jeu vidéo $w PC $m Français
+371    $f Plateforme : PC $f Version française
+640 6  $0 Date de première mise à disposition $a FR $f #20030830#
+801  0 $a FR $b FR-751131015 $c 20221104
+810    $a  jeuxvideos.com : https://www.jeuxvideo.com/jeux/pc/00011666-nosferatu-the-wrath-of-malachi.htm (2022-11-04)
+810    $a Nosferatu : the wrath of Malachi / Idol FX AB, Pan vision. – Version française. – Courbevoie : Neo publishing, [2003]. – [Multimédia : électronique]
+810    $a Wikipedia - https://fr.wikipedia.org/wiki/Nosferatu:_The_Wrath_of_Malachi (2022-09-23) $b Date et genre précis de l’œuvre
+810    $a Giant Bomb : Video game reviews, videos, forums and wiki : Nosferatu: The Wrath of Malachi (Game) - Giant Bomb (2022-11-04) $b Date et source d’inspiration de l’œuvre
+810    $a Nosferatu : the wrath of Malachi / Idol FX AB, Pan vision. – [Clichy] : Eidos ; Boulogne-Billancourt : Mindscape, cop. 2005. – [Multimédia : électronique]
+
+
+
+UMLRM0100 : Druillet, Philippe (1944-....), Nosferatu
+
+000    00701cx  a2200217   4500
+001    UMLRM0100
+005    20220811######.D
+100    $a 20220811afrey50      ba0
+101 0  $a fre
+102    $a FR
+104    $a d1988    
+105    $a ba
+145 0  $a i $b axxe  
+145 0  $a b $b xb2e  
+147 0  $a a
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0099 $a Druillet, Philippe (1944-....) $t Nosferatu $m Français $n Texte noté. Image fixe $7 ba0yba0y $8 frefre
+640 6  $0 Date de première publication $f #1988#####
+801  0 $a FR $b FR-751045101 $c 20220811
+810    $a Nosferatu / Philippe Druillet. - Paris ; Barcelone ; Bruxelles : Dargaud, 1988. - [Texte noté, image fixe : sans médiation] - ISBN 2-205-03763-3
+
+
+
+UMLRM0106 : Dracula has risen from the grave, film
+
+000    01039nx  a2200217   4500
+001    UMLRM0106
+100    $a 20220830afrey50      ba0
+101 0  $a eng
+102    $a GB
+104    $a d1968     
+105    $a ba
+145 0  $a b $b xa2ae 
+147 0  $a g $e c $g d $h a
+152    $a RDA-FR
+154    $a xb
+232    $3 UMLRM0105 $7 ba0yba0y $8 fre $a Dracula has risen from the grave $c film $m Anglais
+371    $f Film en version originale anglaise, non sous-titrée
+640 6  $a GB $f #19681107#
+801    $a FR $b FR-341725402 $c 20220905
+810    $a IMDB (Internet movie database) : https://www.imdb.com/title/tt0062909 (2022-11-04) $b Techniques d’enregistrement
+810    $a Dracula has risen from the grave‎ / starring Christopher Lee, Rupert Davies ; produced by Aïda Young ; directed by Freddie Francis ; screenplay by John Elder based on the character created by Bram Stoker ; a Hammer film production. – [Burbank, Californie, États-Unis : Warner home video [éditeur] ; Paris : Warner home video France [distributeur], [1995]. – [Image animée : video]
+
+
+
+UMLRM0112 : Hughes, William (1964-....), Bram Stoker’s Dracula : a reader’s guide
+
+000    00747cx  a2200205   4500
+001    UMLRM0112
+005    20220920######.D
+100    $a 20220920afrey50      ba0
+101 0  $a eng
+102    $a GB
+104    $a d2009     
+105    $a ba 
+145 0  $a i $b axxe  
+152    $a RDA-FR 
+154    $a xb 
+242  1 $3 UMLRM0111 $7 ba0yba0y $8 freeng $a Hughes, William (1964-....) $t Bram Stoker’s Dracula : a reader’s guide $m Anglais $n Texte noté
+640 6  $0 Date de première publication $f #2009#####
+640 0  $0 Date de copyright $f #2009#####
+801  0 $a FR $b FR-751045101 $c 20220920
+810    $a Bram Stoker’s Dracula : a reader’s guide / Willam Hughes. – London ; New York : Continuum, cop. 2009. – [Texte noté : sans médiation]. – ISBN 9780826495365
+
+
+
+UMLRM0115 : Stoker, Dacre - Holt, Ian (1964-….), Dracula, the un-dead
+
+000    00847cx  a2200205   4500
+001    UMLRM0115
+005    202210171342##.D
+100    $a 20221017afrey50      ba0
+101 1  $a fre $c eng 
+102    $a FR
+104    $a d2009     
+105    $a ba
+145    $a i $b axxe  
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0114 $7 ba0yba0y $8 freeng $a Stoker, Dacre $a Holt, Ian (1964-….) $t Dracula, the un-dead $m Français $n Texte noté
+502  1 $3 FRBNF12056750 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 7358 5100 $a Chatain $b Jean-Noël $f 1957-.... $4 730
+640 6  $0 Date de première publication $f #2009#####
+801  0 $a FR $b FR-751131015 $c 20221017
+810    $a Dracula l'immortel / Dacre Stoker et Ian Holt ; traduit de l'anglais (États-Unis) par Jean-Noël Chatain. – Neuilly-sur-Seine : M. Lafon, DL 2009. – [Texte noté : sans médiation]. – ISBN 978-2-7499-1109-0
+
+
+
+UMLRM0118 : Dufranne, Michel (1970-....) - Kowalski, Piotr (1973-....), Dracula l’immortel
+
+000    00950cx  a2200229   4500
+001    UMLRM0118
+005    202208301048##.D
+100    $a 20220811afrey50      ba0
+101 0  $a fre
+102    $a FR
+104    $a d2012     
+105    $a ba 
+145 0  $a i $b axxe  
+145 0  $a b $b xb2e  
+147 0  $a g
+152    $a  RDA-FR
+154    $a xb
+242  1 $3 UMLRM0117 $7 ba0yba0y $8 frefre $a Dufranne, Michel (1970-....) $a Kowalski, Piotr (1973-....) $t Dracula l’immortel $h 2 $m Français $n Texte noté. Image fixe
+640 6  $0 Date de première publication $f #20120111#
+801  0 $a FR $b FR-751043001 $c 20220721
+810    $a Dracula l'immortel. 2 / scénario, Michel Dufranne ; dessin, Piotr Kowalski ; couleurs, Svart ; d'après l'ouvrage de Dacre Stoker et Ian Holt. – [Neuilly-sur-Seine] : Michel Lafon ; [Paris] : Casterman, impr. 2012. – [Texte noté. Image fixe : sans médiation]. – ISBN 978-2-203-03785-4
+810    $a http://ark.bnf.fr/ark:/12148/cb42659826w
+
+
+
+UMLRM0121 : Dracula, dead and loving it, film
+
+000    04852cx  a2200793   4500
+001    UMLRM0121
+005    20221004####.D
+100    $a 20221004afrey50      ba0 
+101 1  $a fre $c eng $j fre 
+102    $a FR 
+104    $a d2009      
+105    $a ba 
+127    $a 012700
+145    $a b $b xa2ae  
+147 1  $a g $e c $h c
+152    $a  RDA-FR 
+154    $a xb 
+232    $3 UMLRM0120 $7 ba0yba0y $8 freeng $a Dracula, dead and loving it $c film $m Français $o 2009
+371    $a Encodage du son : Dolby surround 2.0 $f Version remastérisée : nouveau master numérique haute définition $f Sous-titrage optionnel en français $f Copyright : Gaumont vidéo, 2009
+432    $7 ba0yba0y $8 frefre $a Dracula, mort et heureux de l’être $c film $m Français $o 2009
+640 0  $0 Date de copyright $f #2009#####
+801  0 $a FR $b FR-751052119 $c 20221004
+810    $a Dracula, mort et heureux de l'être = Dracula dead and loving it / un film de Mel Brooks ; Leslie Nielsen, Peter MacNicol, Steven Weber... [et autres], [acteurs] ; musique, Hummie Mann ; histoire de Rudy De Luca & Steve Haberman ; scénario de Mel Brooks & Rudy De Luca & Steve Haberman ; produit et réalisé par Mel Brooks. – Neuilly-sur-Seine : Gaumont vidéo [éditeur] ; Boulogne-Billancourt : Paramount home entertainment France [distributeur], 2009. – [Image animée : vidéo]. – Référence commerciale : FG 315 880 (EDV 1504)
+
+
+
+UMLRM0127 : Stoker, Bram (1847-1912), Choix, Manuscrits
+
+000    01026cx  a2200218   4500
+001    UMLRM0127
+005    20220921######.D
+100    $a 20220921afrey50      ba0
+101 0  $a eng
+102    $a US
+104    $a d2008      
+105    $a ba
+145 0  $a i $b axxe  
+152    $a RDA-FR 
+154    $a xb
+242  1 $3 UMLRM0126 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Manuscrits $c Choix $k Eighteen-Bisang ; Miller $m Anglais $n Texte noté
+502  1 $3 FRBNF16259396 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 0976 8225 $a Eighteen-Bisang $b Robert $4 340
+502  1 $3 FRBNF12679015 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 8170 1706 $a Miller $b Elizabeth Russel $f 1939-.... $4 340
+640 6  $0 Date de première publication $f #2008#####
+801  0 $a FR $b FR-751052119 $c 20220921
+810    $a Brams Stoker’s notes for Dracula : a facsimile edition / Bram Stoker ; annotated and transcribed by Robert Eighteen-Bisang and Elizabeth Miller. – Jefferson (N.C.) : McFarland & Company Inc. Publishers, 2008. – [Texte noté : sans mediation]. – ISBN 978-0-7864-3410-7
+
+
+
+UMLRM0130 : Shadow of the vampire, film
+
+000    01255nx  a2200241   4500
+001    UMLRM0130
+100    $a 20221021afrey50      ba0
+101 1  $a fre $c ger $c eng
+102    $a FR
+104    $a d2001     
+145    $a b $b xa2ae 
+147 1  $a h $e c $h c
+152    $a  RDA-FR
+154    $a xb
+232    $3 UMLRM0129 $7 ba0yba0y $8 freeng $a Shadow of the vampire $c film $m Français
+371    $f Film en version française
+432    $7 ba0yba0y $8 frefre $a L'ombre du vampire $c film $m français
+640 6  $0 Date de première publication $f #2001#####
+801  0 $a FR $b FR-751131015 $c 20221020
+810    $a L'ombre du vampire = Shadow of the vampire / E. Elias Merhige, [réalisateur] ; John Malkovitch, Willem Dafoe, Cary Elwes... [et autres], [acteurs]. – Paris : Studio Canal+ [éditeur] ; Antony : Universal pictures vidéo France SA [distributeur], 2001 (DL). – [Image animée : vidéo]. . – Référence commerciale : 196 241-3 (Studio Canal)
+810    $a Wikipedia : https://fr.wikipedia.org/wiki/L%27Ombre_du_vampire (2022-10-20)
+810    $a Ciné-ressources : catalogue collectif des bibliothèques et archives de cinéma : http://www.cineressources.net (2022-10-20)
+810    $a IMDB (Internet movie database) : https://www.imdb.com/title/tt0189998 (2022-10-20)
+
+
+
+UMLRM0133 : Eickhoff, Stefan, Max Schreck : Gespenstertheater
+
+000    00753cx  a2200241   4500
+001    UMLRM0133
+005    20221005140223.0
+100    $a 20221005afrey50      ba0
+101 0  $a ger
+102    $a DE
+104    $a d2009     
+105    $a ba
+145 0  $a i $b axxe  
+145 0  $a b1 $b xb2e  
+145 0  $c txt $2 rdacontent
+145 0  $c sti $2 rdacontent
+147 0  $a a
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0132 $7 ba0yba0y $8 freger $a Eickhoff, Stefan $t Max Schreck : Gespenstertheater $m Allemand $n Texte noté
+640 0  $0 Date de copyright $f #2009#####
+801  0 $a FR $b  FR-751045101 $c 20221005
+810    $a Max Schreck : Gespenstertheater / Stefan Eickhoff. – München : Belleville, cop. 2009. – [Texte noté : sans médiation]. – ISBN 9783936298543
+
+
+
+UMLRM0136 : Dracula : pages from a virgin's diary, film
+
+000    01315nx  a2200241   4500
+001    UMLRM0136
+100    $a 20221021afrey50      ba0
+101 2  $a eng $j fre
+102    $a FR
+104    $a d2005     
+145    $a b $b xa2ae 
+147 1  $a h $e d $h c
+152    $a  RDA-FR
+154    $a xb
+232    $3 UMLRM0135 $7 ba0yba0y $8 freeng $a Dracula : pages from a virgin's diary $c film $m Anglais ; sous-titrage en français
+371    $a Surround (Dolby) $c Film en version originale anglaise avec sous-titrage optionnel en français
+532    $5 xxq $3 UMLRM0167 $7 ba0yba0y $8 fre### $a Guy Maddin $k ED Distribution $m Anglais ; sous-titrage en français $n Image animée
+640 6  $0 Date de première publication $f #2005#####
+801  0 $a FR $b FR-751131015 $c 20221021
+810    $a Dracula : pages tirées du journal d'une vierge/ un film de Guy Maddin, [réalisateur] ; musique de Gustav Mahler. – [Paris] : ED distribution [éditeur, distributeur], [DL 2005]. – [Image animée : vidéo].
+810    $a Wikipedia : https://fr.wikipedia.org/wiki/Dracula,_pages_tir%C3%A9es_du_journal_d%27une_vierge (2022-10-21)
+810    $a Ciné-ressources : catalogue collectif des bibliothèques et archives de cinéma : http://www.cineressources.net (2022-10-21)
+810    $a IMDB (Internet movie database) : https://www.imdb.com/title/tt0293113/ (2022-10-21)
+
+
+
+UMLRM0139 : Jeanneteau, Daniel (1963-....) - Deratte, Laure (19..-....), [Maquette de décor en volume pour "Nosferatu"]
+
+000    00682nx  a2200181   4500
+001    UMLRM0139
+100    $a 20221025afrey50      ba0
+101 0  $a zxx
+102    $a FR
+104    $a d2001     
+145 0  $a b $b xb2e  
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0138 $a Jeanneteau, Daniel (1963-....) $a Deratte, Laure (19..-....) $t [Maquette de décor en volume pour "Nosferatu"] $n Image fixe $7 ba0yba0y $8 frefre
+371    $f Maquette montée
+640 5  $0 Date d’achèvement de l’expression $f #2001#####
+801  0 $a FR $b FR-751045101 $c 20221025
+810    $a [Maquette de décor en volume pour "Nosferatu"]/ [Daniel Jeanneteau et Laure Deratte]. – [2001]. – [Image fixe : sans médiation]
+
+
+
+UMLRM0148 : Nosferatu, spectacle, 2001
+
+000    01395cx  a2200241   4500
+001    UMLRM0148
+005    20220712.......D
+100    $a 20050513afrey50      ba0
+102    $a FR
+104    $a d2001    
+145 0  $a c $b bxxae
+145 0  $a d $b bxxae
+152    $a RDA-FR
+154    $a xb
+232    $3 UMLRM0147 $7 ba0yba0y $8 frefre $a Nosferatu $c spectacle $d 2001 $e Paris ; Opéra Bastille $l Réalisation
+502  1 $3 FRBNF15891339 $7 ba0yba0y $8 frespa $o ISNI 0000 0000 7824 6722 $a Martinez $b  José $f 1969-.... $c danseur $4 275
+502  1 $3 FRBNF13893539 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 6309 2513 $a Kontarsky $b Bernhard $f 1937-.... $4 250
+512 02 $3 FRBNF11945309 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2375 3986 $a Opéra national de Paris $b Ballet $4 275
+512 02 $3 FRBNF13905502 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2323 6161 $a Opéra national de Paris $b Orchestre $4 545
+541  1 $5 x|r $p Incorpore [expression/oeuvre] $3 UMLRM0142 $7 ba0yba0y $8 frefre $a Gallotta, Jean-Claude (1950-....) $t Nosferatu
+801  0 $a FR $b FR-751131015 $c 20220920
+810    $a Mémopéra : http://www.memopera.fr(2013-03-15)
+810    $a  Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra: [chorégraphie de Jean-Claude Gallotta, musiques de Pascal Dusapin] : [programme, 6 mai 2006, Opéra national de Paris, Opéra Bastille] / Opéra national de Paris. – Paris : Opéra national de Paris, copyright 2005. – [Texte noté. Image fixe : sans médiation]
+
+
+
+UMLRM0151 : Druillet, Philippe (1944-....), Illustrations pour "Dracula" de Bram Stoker
+
+000    00672nx  a2200181   4500
+001    UMLRM0151
+100    $a 20220927afrey50      ba0
+101 0  $a zxx
+102    $a FR
+104    $a d1968     
+145 0  $a b $b xb2e  
+147 0  $a a
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0150 $7 ba0yba0y $8 frefre $a Druillet, Philippe (1944-....) $t Illustrations pour "Dracula" de Bram Stoker $n Image fixe
+640 6  $0 Date de première publication $f #1968#####
+801  0 $a FR $b FR-751045101 $c 20220927
+810    $a Dracula / Bram Stoker ; illustrations originales de Philippe Druillet ; introduction de Tony Faivre. - Paris : Éditions Opta, 1968. - [Texte noté, image fixe : sans médiation]
+
+
+
+UMLRM0153 : [Photographies extraites du film « Dracula » de Tod Browning], 1932
+
+000    00763nx  a2200193   4500
+001    UMLRM0153
+100    $a 20221008afrey50      ba0
+101 0  $a zxx
+102    $a FR
+104    $a d1932     
+105    $a ba
+145 0  $a b $b xb2e  
+147 0  $a a
+152    $a RDA-FR
+154    $a xb
+232    $3 UMLRM0152 $7 ba0yba0y $8 frefre $a [Photographies extraites du film « Dracula » de Tod Browning] $k Tallandier $d 1932 $n Image fixe
+640 6  $0 Date de première publication $f #1932#####
+801  0 $a FR $b FR-751045101 $c 20221008
+810    $a Dracula, l'homme de la nuit : roman traduit par Ève et Lucie Paul-Margueritte et illustré de nombreuses photographies du film "Dracula" / Brahm Stoker. – Paris : Éditions J. Tallandier, 1932. – [Texte noté. Image fixe : sans médiation]
+
+
+
+UMLRM0157 : Glass, Philip (1937-....), Dracula
+
+000    01249nx  a2200265   4500
+001    UMLRM0157
+100    $a 20221013afrey50      ba0
+101    $a zxx
+102    $a US
+104    $a d1999     
+145    $a d $b bxxa  
+146 0  $a b $c 02svl     $c 02sva     $c 01svc    
+147  1 $g c $h b
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0156 $7 ba0yba0y $8 fre### $a Glass, Philip (1937-....) $t Dracula $n Musique exécutée $w Kronos quartet
+371    $f Production phonographique : New York (New York, USA) : Nonesuch, P 1999
+512 02 $3 FRBNF13904490 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2033 5359 $a The Kronos quartet $4 545 $4 ost
+512 02 $3 FRBNF13882567 $7 ba0yba0y $8 fre### $o ISNI 0000 0001 1543 9727 $a Nonesuch $4 630
+608    $a Musique classique occidentale $2 RépertoireRDA-FR
+640 5  $0 Enregistrement $a CA $d Nicasio $e Skywalker Sound $f #199808###
+640 0  $0 Date de protection $f #1999#####
+801  0 $a FR $b FR-751052119 $c 20221013
+810    $a Discogs : https://www.discogs.com/release/1968807-Philip-Glass-Kronos-Quartet-Dracula (2022-1013)
+810    $a Dracula / music by Philip Glass ; performed by Kronos quartet. – London : WEA Europe ; Le Blanc-Mesnil : distrib. Warner music France, 1999. – [Musique exécutée : audio]. – Nonesuch 795842
+
+
+
+UMLRM0159 : Dracula, film, 1931
+
+000    01638nx  a2200241   4500
+001    UMLRM0159
+100    $a 20221013afrey50      ba0
+101 2  $a eng $a fre $a ita $a spa $a ger $c eng $j fre $j eng $j ita $j spa $j ger
+102    $a US
+104    $a d2013     
+127    $a 011500
+145    $a b $b xa2ae 
+147    $a a $e b $h c 
+152    $a RDA-FR
+154    $a xb
+232    $3 UMLRM0154 $7 ba0yba0y $8 fre### $a Dracula $c film $d 1931 $l Version restaurée $m Versions multiples (5 langues ; sous-titrage en 5 langues)
+300    $a Film en version originale anglaise et en versions française, italienne, allemande, espagnole, avec sous-titrage optionnel en français, anglais, allemand, italien et espagnol
+371    $a Surround (Dolby Digital 2.0) $f Version restaurée
+640 6  $0 Date de première publication $f #20130917#
+801    $a FR $b FR-751131015 $c 202014#####
+810    $a Dracula / Tod Browning, [réalisateur] ; scénario de Garrett Fort ; d’après le roman de Bram Stoker et la pièce de Hamilton Deane et John L. Balderston ; Bela Lugosi, David Manners, Helen Chandler... [et autres], [acteurs]. – [Paris] : Universal StudioCanal vidéo [éditeur, distributeur], 2014 ; - [Images animées : vidéo]. - 830 098-5 (EDV 764)
+810    $a IMDB (Internet movie database) : https://www.imdb.com/title/tt0021814 (2022-10-18)) $b Date de publication de la version Blu-ray : September 17, 2013
+810    $a Servin, Javier. A Tale of Two Draculas: the history, preservation, restoration and legacy of Universal Studios’ English and Spanish language “Dracula” : https://jservin85.wordpress.com/preservation-and-restoration/restoration-of-dracula/ (2022-11-13)
+
+
+
+UMLRM0161 : Humphries, Tudor (1953-….), Dracula
+
+000    01206nx  a2200241   4500
+001    UMLRM0161
+100    $a 20221031afrey50      ba0
+101 0  $a eng
+102    $a GB
+104    $a d1997     
+105    $a ba
+145 0  $a i $b axxe  
+145 0  $a b $b xb2e  
+147 0  $a h
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0034 $7 ba0yba0y $8 freeng $a Humphries, Tudor (1953-….) $t Dracula $m Anglais $n Texte noté. Image fixe
+542  1 $5 xxn $p A pour traduction $3 UMLRM0035 $7 ba0yba0y $8 freeng $a Humphries, Tudor (1953-….) $t Dracula $m Français $n Texte noté. Image fixe
+640 6  $0 Date de première publication $f #1997#####
+801  0 $a FR $b FR-751052119 $c 20221031
+810    $a Dracula / Bram Stoker ; illustrated by Tudor Humphries. – Abridged edition for young readers. – London : Dorling Kindersley, 1997. – [Texte noté. Image fixe : sans médiation]. – ISBN 0751370703
+810    $a British Library Main Catalog : Explore the British Library Search - Dracula / Bram Stoker ; illustrated by Tudor Humphries (bl.uk) (2022-10-31). System number: 010729537. BNB GB9809359
+810    $a Deakin university. Library Catalog : Dracula / Bram Stoker ; illustrated by Tudor Humphries (deakin.edu.au) (2022-10-31)
+
+
+
+UMLRM0162 : Drácula, film, 1931
+
+000    01354nx  a2200241   4500
+001    UMLRM0162
+100    $a 20221013afrey50      ba0
+101 0  $a spa
+102    $a US 
+104    $a d2013     
+127    $a 014400
+145    $a b $b xa2ae 
+147    $a a $e b $h c 
+152    $a RDA-FR
+154    $a xb
+232    $3 UMLRM0163 $7 ba0yba0y $8 frespa $a Drácula $c film $d 1931 $f espagnol $l Version restaurée
+371    $a Surround (Dolby Digital 2.0) $f Version restaurée
+640 6  $f #20130917#
+801    $a FR $b FR-751131015 $c 20221013
+810    $a Dracula / Tod Browning, [réalisateur] ; scénario de Garrett Fort ; d’après le roman de Bram Stoker et la pièce de Hamilton Deane et John L. Balderston ; Bela Lugosi, David Manners, Helen Chandler... [et autres], [acteurs]. – [Paris] : Universal StudioCanal vidéo [éditeur, distributeur], 2014 ; - [Images animées : vidéo]. - 830 098-5 (EDV 764)
+810    $a Wikipédia : https://fr.wikipedia.org/wiki/Dr%C3%A1cula (2022-10-13)
+810    $a IMDB (Internet movie database) : https://www.imdb.com/title/tt0021815/ (2022-10-13)
+810    $a Servin, Javier. A Tale of Two Draculas: the history, preservation, restoration and legacy of Universal Studios’ English and Spanish language “Dracula” : https://jservin85.wordpress.com/preservation-and-restoration/restoration-of-dracula/
+
+
+
+UMLRM0167 : Guy Maddin
+
+000    01170nx  a2200265   4500
+001    UMLRM0167
+100    $a 20221021afrey50      ba0
+101 2  $a eng $j fre
+102    $a FR
+104    $a d2012     
+145    $a b $b xa2ae 
+147 1  $a h $e d $h c
+147 1  $a a $e c $h a
+147 1  $a g $e c $h a
+152    $a  RDA-FR
+154    $a xb
+232    $3 UMLRM0166 $7 ba0yba0y $8 fre### $a Guy Maddin $k ED Distribution $m Anglais ; sous-titrage en français $n Image animée
+371    $f Films en version originale anglaise avec sous-titrage optionnel en français
+532    $5 xxp $7 ba0yba0y $8 freeng $a Tales from the Gimli hospital $c film $m Anglais ; sous-titrage en français
+532    $5 xxp $7 ba0yba0y $8 freeng $a Archangel $c film $m Anglais ; sous-titrage en français
+532    $5 xxp $7 ba0yba0y $8 freeng $a Careful $c film $m Anglais ; sous-titrage en français
+532    $5 xxp $3 UMLRM0136 $7 ba0yba0y $8 freeng $a Dracula : pages from a virgin's diary $c film $m Anglais ; sous-titrage en français
+640 6  $0 Date de première publication $f #2012#####
+801  0 $a FR $b FR-751131015 $c 20221021
+810    $a Guy Maddin. – [Paris]  : ED distribution [éditeur, distributeur], [DL 2012]. – [Image animée : vidéo]
+
+
+
+UMLRM0170 : Gauriat, Vincent, Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin
+
+000    00757nx  a2200193   4500
+001    UMLRM0170
+100    $a 20221024afrey50      ba0
+101 0  $a fre
+102    $a FR
+104    $a d2003     
+145 0  $a b $b xb2e  
+147 0  $a h $c g $c i $c j
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0169 $a Gauriat, Vincent $t Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin $n Image fixe $7 ba0yba0y $8 frefre
+371    $f Technique utilisée : offset
+640 6  $0 Date de première publication $f #2003#####
+801  0 $a FR $b FR-751045101 $c 20221024
+810    $a Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin. – [Paris] : ED distribution, [2003] (Aubervilliers : Imprimerie Karcher). – [Texte noté. Image fixe : sans médiation]
+
+
+
+UMLRM0172 : Stoker, Bram (1847-1912), Choix, Dracula
+
+000    01068nx  a2200229   4500
+001    UMLRM0172
+100    $a 20221005afrey50      ba0
+101 2  $a fre $c eng
+102    $a FR
+104    $a d2004    
+105    $a ba
+145 0  $a i $b axxe  
+145 0  $a b1 $b xb2e  
+147 0  $a a
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0037 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $c Choix $k Cassou-Noguès ; Langenhagen $m Français $w Finné $n Texte noté $o 2004
+502  1 $3 FRBNF11902797 $7 ba0yba0y $8 frefre $o ISNI0000 0001 2023 6609 $a Finné $b Jacques $f 1944-.... $4 730
+542  1 $5 xxp $p Est une sélection de [expression] $3 UMLRM0050 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Français $w Finné $n Texte noté
+640 6  $0 Date de première publication $f #2004#####
+801  0 $a FR $b FR-751131010 $c 20221005
+810    $a Dracula / Bram Stoker ; traduction par Jacques Finné ; présentation, notes, choix des extraits et dossier par Anne Cassou-Noguès et Marie-Ande de Langenhagen. – Paris : Flammarion, 2004. – [Texte noté : sans médiation]. – ISBN 2-08-072188-7
+
+
+
+UMLRM0175 : Les grands classiques du cinéma allemand
+
+000    01561nx  a2200301   4500
+001    UMLRM0175
+100    $a 20221029afrey50      ba0
+101 2  $a ger $a fre $a eng $c ger $j fre
+102    $a FR
+104    $a d2013     
+127    $a 1130  
+145    $a b $b xa2ae 
+147    $a a $e d $h a
+147 1  $a h $e c $h b
+147 1  $a g $e d $h u
+147 1  $a e $e d $h b
+152    $a  RDA-FR
+154    $a xb
+232    $3 UMLRM0174 $7 ba0yba0y $8 frefre $a Les grands classiques du cinéma allemand $k RDM vidéo $m Anglais, allemand, français ; sous-titrage en français $n Image animée
+532    $5 xxp $3 UMLRM0002 $7 ba0yba0y $8 freger $t Nosferatu, eine Symphonie des Grauens $c film $l Version restaurée $o 1995 $w 60mn $m Français
+532    $5 xxp $7 ba0yba0y $8 freger $a Der Golem wie er in die Welt kam $c film $l Version restaurée $o 2002 $m Anglais-français
+532    $5 xxp $7 ba0yba0y $8 freger $a M $c film $l Version restaurée $o 2003 $m Allemand ; sous-titrage en français
+532    $5 xxp $7 ba0yba0y $8 freger $a Das Cabinet des Dr. Caligari $c film $l Version teintée $o 1994 $m Allemand ; sous-titrage en français
+532    $5 xxp $7 ba0yba0y $8 freger $a Dr. Mabuse der Spieler $c film $l Version teintée $o 2000 $m Allemand ; sous-titrage en français
+532    $5 xxp $7 ba0yba0y $8 freger $a Faust, eine deutsche Volkssage $c film $l Version sépia $o 2002 $m Allemand ; sous-titrage en français
+640 6  $0 Date de première publication $f #2013#####
+801  0 $a FR $b FR-751131015 $c 20221029
+810    $a Les grands classiques du cinéma allemand. – [Sannois] : RDM vidéo [éditeur, distributeur], [DL 2013]. – [Image animée : vidéo]
+
+
+
+UMLRM0181 : Dracula has risen from the grave, film
+
+000    01031nx  a2200217   4500
+001    UMLRM0181
+100    $a 20221104afrey50      ba0
+101 1  $a fre $c eng 
+102    $a FR
+104    $a d1969     
+105    $a ba
+145 0  $a b $b xa2ae 
+147 0  $a g $e c $g d $h a
+152    $a RDA-FR
+154    $a xb
+232    $3 UMLRM0105 $7 ba0yba0y $8 fre $a Dracula has risen from the grave $c film $m Français
+371    $f Version doublée en français
+640 6  $a FR $f #19690606#
+801    $a FR $b FR-751131015 $c 20221104
+810    $a IMDB (Internet movie database) : https://www.imdb.com/title/tt0062909 (2022-11-04) $b Date de sortie du film en France
+810    $a Dracula et les femmes = Dracula has risen from the grave‎ / avec Christopher Lee, Rupert Davies ; [réalisation Freddie Francis] ; [scénario de John Elder d’après l’œuvre de Bram Stoker] ; [musique de James Bernard] ; une production Hammer film. – [Paris] : Warner home video France [éditeur] ; Paris : Warner home video France [distributeur], DL 1985. – [Image animée : video]
+
+
+
+UMLRM0184 : Shadow of the vampire, film
+
+000    01439nx  a2200241   4500
+001    UMLRM0184
+100    $a 20221109afrey50      ba0
+101 2  $a eng $a ger $j fre
+102    $a FR
+104    $a d2001     
+145    $a b $b xa2ae 
+147 1  $a h $e c $h c
+152    $a  RDA-FR
+154    $a xb
+232    $3 UMLRM0129 $7 ba0yba0y $8 freeng $a Shadow of the vampire $c film $m Anglais ; sous titrage en français
+371    $a Encodage du son : format multicanal (Dolby digital 5.1) $f Film en version anglaise avec sous-titrage en français
+432    $7 ba0yba0y $8 frefre $a L'ombre du vampire $c film $m Anglais ; sous titrage en français
+640 6  $0 Date de première publication $f #2001#####
+801  0 $a FR $b FR-751131015 $c 20221108
+810    $a L'ombre du vampire = Shadow of the vampire / E. Elias Merhige, [réalisateur] ; Steven Katz, scénario ; Dan Jones, [compositeur] ; John Malkovitch, Willem Dafoe, Cary Elwes... [et autres], [acteurs]. – Paris : Studio Canal+ [éditeur] ; Antony : Universal pictures vidéo France SA [distributeur], 2001 (DL). – [Image animée : vidéo]. – Référence commerciale : 1962412 (Studio Canal)
+810    $a Wikipedia : https://fr.wikipedia.org/wiki/L%27Ombre_du_vampire (2022-11-08)
+810    $a Ciné-ressources : catalogue collectif des bibliothèques et archives de cinéma : http://www.cineressources.net (2022-11-08)
+810    $a IMDB (Internet movie database) : https://www.imdb.com/title/tt0189998 (2022-11-08)
+
+
+
+UMLRM0187 : Stoker, Bram (1847-1912), Dracula
+
+000    01597cx  a2200301   4500
+001    UMLRM0187
+100    $a  20221110d2009 u y0frey50 ba
+101 1  $a fre $c eng
+102    $a FR
+104    $a d2009     
+127    $a 1550  
+145    $a h $b xxxa  
+152    $a  RDA-FR
+154    $a xb
+242  1 $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Français $n Parole énoncée
+502  1 $3 FRBNF14223639 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 6023 2891 $a Saint-Père $b Arnaud $4 550 $4 vre
+502  1 $3 FRBNF14179272 $7 ba0yba0y $8 frefre $a Fuchs $b Arnaud-Didier $4 550 $4 vre
+502  1 $3 FRBNF13938299 $7 ba0yba0y $8 frefre $a Hérisson $b Philippe $4 550 $4 vre
+502  1 $3 FRBNF14171340 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 7272 7189 $a Dessaux $b Alexis $f 1961-.... $4 550 $4 vre
+502  1 $3 FRBNF14179539 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 0112 3548 $a Gaber $b Floriane $f 1962-.... $4 550 $4 vre
+502  1 $3 FRBNF13939901 $7 ba0yba0y $8 frefre $a Leclerc $b Thierry $4 550 $4 vre
+502  1 $3 FRBNF14029412 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 0137 1437 $a Pitaressi $b Maria $4 550 $4 vre
+502  1 $3 FRBNF14173479 $7 ba0yba0y $8 frefre $a Duchiron $b Marie-Laetitia $4 550 $4 vre
+502  1 $3 FRBNF13938294 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 0146 0261 $a Rey $b Jean Claude $f 19..-.... $c acteur $4 550 $4 vre
+502  1 $3 FRBNF13930210 $7 ba0yba0y $8 frefre $a Val $b Pierre $4 550 $4 vre
+640 6  $0 Date de première publication $f #2009#####
+801  0 $a FR $b BnF $c 20221110
+810    $a Dracula : texte intégral / Bram Stoker ; interprété par Philippe Hérisson, Pierre Val, Jean-Claude Rey... [et autres]. –Paris : Livraphone, DL 2009. – [Enregistrement sonore]
+
+
+
+UMLRM0189 : Dracula, dead and loving it, film
+
+000    01306cx  a2200229   4500
+001    UMLRM0189
+005    20221004####.D
+100    $a 20221004afrey50      ba0 
+101 2  $a eng $j fre 
+102    $a FR 
+104    $a d2009      
+105    $a ba 
+127    $a 012700
+145    $a b $b xa2ae  
+147 1  $a g $e c $h c
+152    $a  RDA-FR 
+154    $a xb 
+232    $3 UMLRM0120 $7 ba0yba0y $8 freeng $a Dracula, dead and loving it $c film $m Anglais ; sous-titrage optionnel en français $o 2009
+371    $a Encodage du son : Dolby surround 2.0 $f Version remastérisée : nouveau master numérique haute définition $f Sous-titrage optionnel en français $f Copyright : Gaumont vidéo, 2009
+640 0  $0 Date de copyright $f #2009#####
+801  0 $a FR $b FR-751052119 $c 20221004
+810    $a  Dracula, mort et heureux de l'être = Dracula dead and loving it / un film de Mel Brooks ; Leslie Nielsen, Peter MacNicol, Steven Weber... [et autres], [acteurs] ; musique, Hummie Mann ; histoire de Rudy De Luca & Steve Haberman ; scénario de Mel Brooks & Rudy De Luca & Steve Haberman ; produit et réalisé par Mel Brooks. – Neuilly-sur-Seine : Gaumont vidéo [éditeur] ; Boulogne-Billancourt : Paramount home entertainment France [distributeur], 2009. – [Image animée : vidéo]. – Référence commerciale : FG 315 880 (EDV 1504)
+
+
+
+UMLRM0192 : Dracula, émission radiophonique, 1938
+
+000    00977nx  a2200205   4500
+001    UMLRM0192
+100    $a 20221114afrey50      ba0
+101 0  $a eng
+102    $a US
+104    $a d1938     
+145 0  $a h $b xxxa  
+145 0  $a d $b bxxa  
+147    $g d $h a
+152    $a RDA-FR
+154    $a xb
+232    $3 UMLRM0191 $7 ba0yba0y $8 freeng $a Dracula $c émission radiophonique $d 1938 $m Anglais $n Parole énoncée. Musique exécutée
+640 6  $a US $e CBS radio $f #19380711#
+801    $a FR $b FR-751131015 $c 20221114
+810    $a  Dracula : original radio adaptation as heard on the Mercury theatre on the air / starring Orson Welles ; based on the novel by Bram Stoker ; adapted for radio by Orson Welles and John Houseman ; performed by Orson Welles, Martin Gabel, George Coulouris... [et autres]. – Schiller park (Illinois) : Radio spirits, P 2001. – [Parole énoncée : audio]. – 7031 (Radio spirits)
+810    $a Wikipédia : https://en.wikipedia.org/wiki/Dracula_(radio_drama) (2022-11-14)
+
+
+
+UMLRM0196 : Finné, Jacques (1944-….), Bibliographie de Dracula
+
+000    00596nx  a2200181   4500
+001    UMLRM0196
+100    $a 20221116afrey50      ba0
+101 0  $a fre
+102    $a BE
+104    $a d1986     
+105    $a ba
+145 0  $a i $b axxe  
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0195 $7 ba0yba0y $8 frefre $a Finné, Jacques (1944-….) $t Bibliographie de Dracula $m Français $n Texte noté
+640 0  $0 Date de copyright $f #1986#####
+801  0 $a FR $b  FR-751045101 $c 20221116
+810    $a Bibliographie de Dracula / Jacques Finné. – Lausanne :  L’âge d'homme, cop. 1986. – [Texte noté : sans médiation]
+
+
+
+UMLRM0198 : Finné, Jacques (1944-….) - Marigny, Jean (1939-....), Dictionnaire des littératures vampiriques
+
+000    00731nx  a2200181   4500
+001    UMLRM0198
+100    $a 20221116afrey50      ba0
+101 0  $a fre
+102    $a FR
+104    $a d2020     
+105    $a ba
+145 0  $a i $b axxe  
+152    $a RDA-FR
+154    $a xb
+242  1 $3 UMLRM0149 $7 ba0yba0y $8 frefre $a Finné, Jacques (1944-….) $a Marigny, Jean (1939-....) $t Dictionnaire des littératures vampiriques $m Français $n Texte noté
+640 0  $0 Date de première publication $f #2020#####
+801  0 $a FR $b  FR-751045101 $c 20221116
+810    $a Dictionnaire des littératures vampiriques / Jacques Finné, Jean Marigny ; préface d'Alain Pozzuoli. – Dinan : Terre de brume, 2020. – [Texte noté : sans médiation] . – ISBN 978-2-84362-674-6

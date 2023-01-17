@@ -334,8 +334,21 @@ def get_type(xml_record, rectype):
             entity_type = equiv[f154a[1]]
         else:
             entity_type = "z"
-    else:
-        entity_type = rectype
+    elif rectype == "p":
+        # Fichier Autres entités
+        # p : personne, c : collectivité, l : label (marque)
+        # t : laps de temps, g : genre-forme
+        label_field = ""
+        tag2type = {"200": "p", "210": "c", "216": "l",
+                    "250": "t", "280": "g"}
+        for field in xml_record.xpath("*[@tag]"):
+            try:
+                if field.get("tag")[0] == "2":
+                    label_field = field.get("tag")
+            except TypeError:
+                print(etree.tostring(xml_record))
+                raise
+        entity_type = tag2type[label_field]
     if entity_type is None:
         print(etree.tostring(xml_record))
     return entity_type
@@ -343,7 +356,7 @@ def get_type(xml_record, rectype):
         
 def get_label(record):
     label = []
-    if record.type in "mipc":
+    if record.type in "mipclgt":
         label.append(sru.record2fieldvalue(record.xml, "200$a"))
         label.append(sru.record2fieldvalue(record.xml, "200$f"))
         label.append(sru.record2fieldvalue(record.xml, "252$a"))
@@ -351,6 +364,15 @@ def get_label(record):
         label.append(sru.record2fieldvalue(record.xml, "252$j"))
         label.append(sru.record2fieldvalue(record.xml, "214$c"))
         label.append(sru.record2fieldvalue(record.xml, "214$d"))
+        label.append(sru.record2fieldvalue(record.xml, "210$a"))
+        label.append(sru.record2fieldvalue(record.xml, "210$b"))
+        label.append(sru.record2fieldvalue(record.xml, "210$c"))
+        label.append(sru.record2fieldvalue(record.xml, "250$a"))
+        label.append(sru.record2fieldvalue(record.xml, "250$x"))
+        label.append(sru.record2fieldvalue(record.xml, "216$a"))
+        label.append(sru.record2fieldvalue(record.xml, "216$b"))
+        label.append(sru.record2fieldvalue(record.xml, "216$c"))
+        label.append(sru.record2fieldvalue(record.xml, "280$a"))
     elif record.type in "eox":
         for field in record.xml.xpath("*[@tag]"):
             tag = field.get("tag")
