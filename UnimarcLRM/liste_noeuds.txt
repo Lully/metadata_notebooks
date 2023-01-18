@@ -1,64 +1,64 @@
 Identifiant	Label	Type
-UMLRM0003	Nosferatu, Réalisation Friedrich W. Murnau, RDM vidéo - RDM vidéo, [DL 2012] - 2011	m
-UMLRM0006	Dracula, Bram Stoker, Pan books -  Imprimerie Firmin-Didot, 1992	m
-UMLRM0009	Nosferatu, fantôme de la nuit, un film de Werner Herzog,  Gaumont vidéo -  Gaumont vidéo, [DL 2010]	m
-UMLRM0012	"Nosferatu le vampire, Paola Palma, Dimitri Vezyroglou, Atlande, DL 2021	m
-UMLRM0015	Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra,  Opéra national de Paris, Opéra national de Paris, C 2005	m
-UMLRM0018	Dracula, by Bram Stoker, W. Rider and son, 1992	m
-UMLRM0021	Dracula, Bram Stoker, J'ai lu - mprimerie Brodard et Taupin, 2005	m
-UMLRM0024	Dracula, Bram Stoker, Gérard et Cie, 1963	m
-UMLRM0027	Dracula, Bram Stoker, Éd. J'ai lu - mprimerie Brodard et Taupin, 1992	m
-UMLRM0030	Dracula, Bram Stoker, Hachette - Imprimerie Brodard et Taupin, 1988	m
-UMLRM0033	Dracula, Bram Stoker, Magnard, 2014	m
-UMLRM0036	Dracula, d'après Bram Stoker, Sélection du "Reader's digest", 1998	m
-UMLRM0039	Dracula, Bram Stoker, Flammarion - Imprimerie Maury-Eurolivres, 2006	m
-UMLRM0042	Dracula, Bram Stoker, J'ai lu, 2012	m
-UMLRM0045	Dracula, Bram Stoker, Le camion blanc - Imprimerie Acort Europe, 2010	m
-UMLRM0048	Dracula, Bram Stoker, Flammarion, DL 2017	m
-UMLRM0051	Dracula, Bram Stoker, Pointdeux, DL 2013	m
-UMLRM0054	Dracula, Bram Stoker, le Livre de poche jeunesse, DL 2015	m
-UMLRM0057	Dracula, Brahm Stoker, l’Édition française illustrée, 1920	m
-UMLRM0060	Dracula, Brahm Stoker, Éditions J. Tallandier, 1932	m
-UMLRM0063	Dracula, Bram Stoker, les Éditions des Quatre-vents, 1946	m
-UMLRM0066	Drácula, Bram Stoker, Maxtor, DL 2017	m
-UMLRM0069	Dracula‎, Bram Stoker‎, l'École des loisirs‎ - Imprimerie CPI Firmin-Didot, DL 2019	m
-UMLRM0072	Bram Stoker, Barbara Belford, Weidenfeld and Nicolson, 1996	m
-UMLRM0077	Dracula - suivi de L'invité de Dracula, Bram Stoker, Pocket, 2011	m
-UMLRM0080	Bram Stoker's Dracula, Gary Oldman, Winona Ryder, Anthony Hopkins... [et autres], [acteurs], Sony pictures entertainment, 1993 - 1992	m
-UMLRM0083	"Dracula", ouvrage dirigé par Gilles Menegaldo et Dominique Sipière, Ellipses - Aubin imprimeur, 2005	m
-UMLRM0086	Dracula, Matei Cazacu, Tallandier - Normandie roto impression, 2011	m
-UMLRM0089	Le vampire au fil des siècles, Estelle Valls de Gomis, Cheminements - Imprimerie Darantière, DL 2005	m
-UMLRM0092	Nosferatu, Idol FX AB, Pan vision, Eidos - Mindscape, [2005] - 2005	m
-UMLRM0095	Nosferatu, Idol FX AB, Pan vision, Neo publishing, [2003] - 2003	m
-UMLRM0101	Nosferatu, [texte et dessins de] Druillet, Dargaud - Imprimerie Publiphotoffset, 1988	m
-UMLRM0104	Nosferatu, Druillet, Albin Michel, 2001	m
-UMLRM0107	Dracula has risen from the grave‎, starring Christopher Lee, Rupert Davies, Warner home video - Warner home video France, [1995]	m
-UMLRM0110	Dracula, Bram Stoker, Éditions Opta, 1968	m
-UMLRM0113	 Bram Stoker’s Dracula, William Hughes, Continuum, copyright 2009	m
-UMLRM0116	Dracula l'immortel, Dacre Stoker et Ian Holt, Michel Lafon, DL 2009	m
-UMLRM0119	Dracula l'immortel, scénario, Michel Dufranne, Michel Lafon - Casterman - Imprimerie Pollina, 2012	m
-UMLRM0122	Dracula, mort et heureux de l’être, un film de Mel Brooks, Gaumont vidéo - Paramount home entertainment, 2009	m
-UMLRM0128	Bram Stoker’s notes for “Dracula “, Bram Stoker, McFarland & Company Inc. Publishers, 2008	m
-UMLRM0131	L'ombre du vampire, E. Elias Merhige, [réalisateur], Studio Canal+ - Universal pictures vidéo France SA, [DL 2001]	m
-UMLRM0134	Max Schreck, Stefan Eickhoff, Belleville, Copyright 2009	m
-UMLRM0137	Dracula, un film de Guy Maddin, [réalisateur], ED distribution - ED distribution, [DL 2005]	m
-UMLRM0140	[Maquette de décor en volume pour "Nosferatu"], [Daniel Jeanneteau et Laure Deratte], [2001]	m
-UMLRM0158	Dracula, music by Philip Glass, [WEA Europe] - [distrib. Warner music France], [P 1999]	m
-UMLRM0160	Dracula, Tod Browning, [réalisateur], Universal StudioCanal vidéo - Universal StudioCanal vidéo, 2014 - 2014	m
-UMLRM0168	Guy Maddin, ED distribution - ED distribution, [DL 2012]	m
-UMLRM0171	Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin, [V. Gauriat], ED distribution - Imprimerie Karcher, [2003]	m
-UMLRM0173	Dracula, Bram Stoker, Flammarion - Imprimerie Maury-Eurolivres, 2004	m
-UMLRM0176	Les grands classiques du cinéma allemand, RDM vidéo - RDM vidéo, [DL 2013]	m
-UMLRM0177	Dracula, Bram Stoker, Dorling Kindersley, 1997	m
-UMLRM0178	Dracula, Bram Stoker, Hachette -  Imprimerie CPI Bussière, 2011	m
-UMLRM0179	Dracula, Bram Stoker, Hatier, DL 2013	m
-UMLRM0182	Dracula et les femmes, avec Christopher Lee, Rupert Davies, Warner home video France - Warner home video France, DL 1985	m
-UMLRM0185	L'ombre du vampire, E. Elias Merhige, [réalisateur], Studio Canal+ - Universal pictures vidéo France SA, [DL 2001]	m
-UMLRM0188	Dracula, Bram Stoker, Livraphone, [DL 2009]	m
-UMLRM0190	Mel Brooks, Gaumont vidéo - Paramount home entertainment, [2015]	m
-UMLRM0193	Dracula, starring Orson Welles, Radio spirits, P 2001	m
-UMLRM0197	Bibliographie de Dracula, Jacques Finné, L’âge d'homme, Copyright 1996	m
-UMLRM0199	Dictionnaire des littératures vampiriques, Jacques Finné, Jean Marigny, Terre de brume, 2020	m
+UMLRM0003	Nosferatu, Réalisation Friedrich W. Murnau, RDM vidéo - RDM vidéo, [DL 2012] - 2011, 1 DVD vidéo, monoface simple couche, 4/3, 24 im./s, PAL, toutes zones	m
+UMLRM0006	Dracula, Bram Stoker, Pan books -  Imprimerie Firmin-Didot, 1992, 1 volume (382 pages), couverture illustrée en couleur	m
+UMLRM0009	Nosferatu, fantôme de la nuit, un film de Werner Herzog,  Gaumont vidéo -  Gaumont vidéo, [DL 2010], 1 BD vidéo	m
+UMLRM0012	"Nosferatu le vampire, Paola Palma, Dimitri Vezyroglou, Atlande, DL 2021, 1 volume (221 pages)	m
+UMLRM0015	Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra,  Opéra national de Paris, Opéra national de Paris, C 2005, 1 volume (54 pages)	m
+UMLRM0018	Dracula, by Bram Stoker, W. Rider and son, 1992, 1 volume (VIII-404 pages)	m
+UMLRM0021	Dracula, Bram Stoker, J'ai lu - mprimerie Brodard et Taupin, 2005, 1 volume (574 pages), couverture illustrée en couleur	m
+UMLRM0024	Dracula, Bram Stoker, Gérard et Cie, 1963, 1 volume (569 pages), couverture illustrée en couleur	m
+UMLRM0027	Dracula, Bram Stoker, Éd. J'ai lu - mprimerie Brodard et Taupin, 1992, 1 volume (XXIV-505 pages), illustrations, couverture illustrée	m
+UMLRM0030	Dracula, Bram Stoker, Hachette - Imprimerie Brodard et Taupin, 1988, 1 volume (534 pages), couverture illustrée en couleur	m
+UMLRM0033	Dracula, Bram Stoker, Magnard, 2014, 1 volume (217 pages), couverture illustrée	m
+UMLRM0036	Dracula, d'après Bram Stoker, Sélection du "Reader's digest", 1998, 1 volume (64 pages), couverture illustrée en couleur	m
+UMLRM0039	Dracula, Bram Stoker, Flammarion - Imprimerie Maury-Eurolivres, 2006, 1 volume (222 pages), couverture illustrée	m
+UMLRM0042	Dracula, Bram Stoker, J'ai lu, 2012, 1 volume (679 pages), couverture illustrée en couleur	m
+UMLRM0045	Dracula, Bram Stoker, Le camion blanc - Imprimerie Acort Europe, 2010, 1 volume (741 pages), couverture illustrée en couleur	m
+UMLRM0048	Dracula, Bram Stoker, Flammarion, DL 2017, 1 volume (222 pages - [4] pages), couverture illustrée	m
+UMLRM0051	Dracula, Bram Stoker, Pointdeux, DL 2013, 1 volume (919 pages), couverture illustrée	m
+UMLRM0054	Dracula, Bram Stoker, le Livre de poche jeunesse, DL 2015, 1 volume (321 pages), couverture illustrée en couleur	m
+UMLRM0057	Dracula, Brahm Stoker, l’Édition française illustrée, 1920, 1 volume (263 pages), couverture illustrée	m
+UMLRM0060	Dracula, Brahm Stoker, Éditions J. Tallandier, 1932, 1 volume (96 pages – planches non numérotées), couverture illustrée en couleur	m
+UMLRM0063	Dracula, Bram Stoker, les Éditions des Quatre-vents, 1946, 1 volume (344 pages), couverture illustrée	m
+UMLRM0066	Drácula, Bram Stoker, Maxtor, DL 2017, 1 volume (540 pages), couverture illustrée en couleur	m
+UMLRM0069	Dracula, Bram Stoker, l'École des loisirs - Imprimerie CPI Firmin-Didot, DL 2019, 1 volume (232 pages), couverture illustrée	m
+UMLRM0072	Bram Stoker, Barbara Belford, Weidenfeld and Nicolson, 1996, 1 volume(XV-381 pages), couverture illustrée	m
+UMLRM0077	Dracula - suivi de L'invité de Dracula, Bram Stoker, Pocket, 2011, 1 volume (575 pages), couverture illustrée	m
+UMLRM0080	Bram Stoker's Dracula, Gary Oldman, Winona Ryder, Anthony Hopkins... [et autres], [acteurs], Sony pictures entertainment, 1993 - 1992, 2 LaserDiscs,  4/3, NTSC	m
+UMLRM0083	"Dracula", ouvrage dirigé par Gilles Menegaldo et Dominique Sipière, Ellipses - Aubin imprimeur, 2005, 1 volume (379 pages), couverture illustrée	m
+UMLRM0086	Dracula, Matei Cazacu, Tallandier - Normandie roto impression, 2011, 1 volume (497 pages), couverture illustrée en couleur	m
+UMLRM0089	Le vampire au fil des siècles, Estelle Valls de Gomis, Cheminements - Imprimerie Darantière, DL 2005, 1 volume (471 pages-[16] pages de planches.), couverture illustrée en couleur	m
+UMLRM0092	Nosferatu, Idol FX AB, Pan vision, Eidos - Mindscape, [2005] - 2005, 1 disque optique numérique (CD-ROM)	m
+UMLRM0095	Nosferatu, Idol FX AB, Pan vision, Neo publishing, [2003] - 2003, 1 disque optique numérique (CD-ROM)	m
+UMLRM0101	Nosferatu, [texte et dessins de] Druillet, Dargaud - Imprimerie Publiphotoffset, 1988, 1 volume (63 pages)	m
+UMLRM0104	Nosferatu, Druillet, Albin Michel, 2001, 1 volume (non paginé [55] pages), couverture illustrée	m
+UMLRM0107	Dracula has risen from the grave‎, starring Christopher Lee, Rupert Davies, Warner home video - Warner home video France, [1995], 1 cassette vidéo, VHS, NTSC	m
+UMLRM0110	Dracula, Bram Stoker, Éditions Opta, 1968, 1 volume (XX-413 pages), illustrations en noir et blanc, cartonnage illustré	m
+UMLRM0113	 Bram Stoker’s Dracula, William Hughes, Continuum, copyright 2009, 1 volume (VII-150 pages)	m
+UMLRM0116	Dracula l'immortel, Dacre Stoker et Ian Holt, Michel Lafon, DL 2009, 1 volume (505 pages), couverture illustrée en couleur	m
+UMLRM0119	Dracula l'immortel, scénario, Michel Dufranne, Michel Lafon - Casterman - Imprimerie Pollina, 2012, 1 volume (48 pages), couverture illustrée en couleur	m
+UMLRM0122	Dracula, mort et heureux de l’être, un film de Mel Brooks, Gaumont vidéo - Paramount home entertainment, 2009, 1 DVD vidéo, monoface double couche, 16/9 compatible 3/4, PAL, Dolby surround 2.0, zone 2	m
+UMLRM0128	Bram Stoker’s notes for “Dracula “, Bram Stoker, McFarland & Company Inc. Publishers, 2008, 1 volume (VII-331 pages)	m
+UMLRM0131	L'ombre du vampire, E. Elias Merhige, [réalisateur], Studio Canal+ - Universal pictures vidéo France SA, [DL 2001], 1 cassette vidéo, VHS, SECAM, surround (Dolby), zone 2	m
+UMLRM0134	Max Schreck, Stefan Eickhoff, Belleville, Copyright 2009, 1 volume. (575 pages), couverture illustrée	m
+UMLRM0137	Dracula, un film de Guy Maddin, [réalisateur], ED distribution - ED distribution, [DL 2005], 1 DVD vidéo, monoface simple couche, PAL, surround (Dolby), toutes zones	m
+UMLRM0140	[Maquette de décor en volume pour "Nosferatu"], [Daniel Jeanneteau et Laure Deratte], [2001], 1 maquette en volume	m
+UMLRM0158	Dracula, music by Philip Glass, [WEA Europe] - [distrib. Warner music France], [P 1999], 1 disque compact	m
+UMLRM0160	Dracula, Tod Browning, [réalisateur], Universal StudioCanal vidéo - Universal StudioCanal vidéo, 2014 - 2014, 1 BD vidéo	m
+UMLRM0168	Guy Maddin, ED distribution - ED distribution, [DL 2012], 4 DVD vidéo, monoface simple couche, PAL, toutes zones	m
+UMLRM0171	Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin, [V. Gauriat], ED distribution - Imprimerie Karcher, [2003], 1 feuille	m
+UMLRM0173	Dracula, Bram Stoker, Flammarion - Imprimerie Maury-Eurolivres, 2004, 1 volume (247 pages), couverture illustrée	m
+UMLRM0176	Les grands classiques du cinéma allemand, RDM vidéo - RDM vidéo, [DL 2013], 7 DVD vidéo, monoface double couche, 4/3, PAL, toutes zones	m
+UMLRM0177	Dracula, Bram Stoker, Dorling Kindersley, 1997, 1 volume (64 pages), couverture illustrée en couleur	m
+UMLRM0178	Dracula, Bram Stoker, Hachette -  Imprimerie CPI Bussière, 2011, 1 volume (321 pages), couverture illustrée en couleur	m
+UMLRM0179	Dracula, Bram Stoker, Hatier, DL 2013, 1 volume (317 pages), illustrations, couverture illustrée en couleur	m
+UMLRM0182	Dracula et les femmes, avec Christopher Lee, Rupert Davies, Warner home video France - Warner home video France, DL 1985, 1 cassette vidéo, VHS, SECAM	m
+UMLRM0185	L'ombre du vampire, E. Elias Merhige, [réalisateur], Studio Canal+ - Universal pictures vidéo France SA, [DL 2001], 1 DVD vidéo, monoface, 16/9 compatible 4/3, PAL, Dolby digital 5.1, zone 2	m
+UMLRM0188	Dracula, Bram Stoker, Livraphone, [DL 2009], 2 CD MP3	m
+UMLRM0190	Mel Brooks, Gaumont vidéo - Paramount home entertainment, [2015], 2 DVD vidéo, monoface double couche, 16/9 compatible 3/4, PAL, Dolby surround 2.0, toutes zones	m
+UMLRM0193	Dracula, starring Orson Welles, Radio spirits, P 2001, 1 CD audio	m
+UMLRM0197	Bibliographie de Dracula, Jacques Finné, L’âge d'homme, Copyright 1996, 1 volume(215 pages)	m
+UMLRM0199	Dictionnaire des littératures vampiriques, Jacques Finné, Jean Marigny, Terre de brume, 2020, 1 volume(332 pages)	m
 UMLRM0002	Nosferatu, eine Symphonie des Grauens, film	e
 UMLRM0005	Stoker, Bram (1847-1912), Dracula	e
 UMLRM0008	Nosferatu, Phantom der Nacht, film	e
@@ -343,3 +343,68 @@ FRBNF138935397	Dusapin, 1955-....	p
 FRBNF123630151	Falké, 1884-1947	p
 FRBNF121261182	Paul-Margueritte, 1886-1955	p
 FRBNF126302398	Paul-Margueritte, 1885-1971	p
+FRBNF118657734	Université Toulouse-Jean Jaurès	c
+FRBNF118897380	Aziza, 1937-....	p
+FRBNF119145772	Marigny, 1939-....	p
+FRBNF119172698	Murnau, 1888-1931	p
+FRBNF119317873	Nouvelles fantastiques	g
+FRBNF119318772	Dictionnaires	g
+FRBNF119336101	Thèses et écrits académiques	g
+FRBNF119346985	Ballet	g
+FRBNF119347724	Anthologies	g
+FRBNF119388870	Livres illustrés pour enfants	g
+FRBNF119487345	Vlad, 1430?-1476?	p
+FRBNF119491030		n
+FRBNF119498199		n
+FRBNF119524135	Littérature fantastique	g
+FRBNF119562602	Fac-similés	g
+FRBNF11976234X	15e siècle	t
+FRBNF119791686	Notes, esquisses, etc.	g
+FRBNF119966477	Dans la littérature	t
+FRBNF120861936	Cazacu, 1946-....	p
+FRBNF120868852	Browning, 1882-1962	p
+FRBNF121138614	Expressionnisme (cinéma)	t
+FRBNF121178391	Lang, 1890-1976	p
+FRBNF121216618	Lugosi, 1882-1956	p
+FRBNF121506653	Gallotta, 1950-....	p
+FRBNF121697023	Pozzuoli	p
+FRBNF121714679	Erdmann, 1882-1942	p
+FRBNF121791444	Sipière	p
+FRBNF122027652	Sendre-Haïdar	p
+FRBNF12209507X	Gaumont	c
+FRBNF122613366	Hart, 1960-....	p
+FRBNF122704428	Humphries	p
+FRBNF123453434	Ménégaldo, 1947-....	p
+FRBNF123733354	Coppola, 1939-....	p
+FRBNF125187886	Comédies (cinéma)	g
+FRBNF128234597	Lanone	p
+FRBNF135762495	Wiene, 1881-1938	p
+FRBNF135776299	Valls de Gomis, 1973-....	p
+FRBNF136162418	Hughes, 1964-....	p
+FRBNF137702881	Galeen, 1882-1949	p
+FRBNF138797188	Columbia pictures	c
+FRBNF138825673	Nonesuch	c
+FRBNF138918800	Brooks, 1926-....	p
+FRBNF138979696	Nielsen, 1926-2010	p
+FRBNF139044909	The Kronos quartet	c
+FRBNF139387797	Kilar, 1932-2013	p
+FRBNF139544832	Hopkins, 1937-....	p
+FRBNF139544896	Oldman, 1958-....	p
+FRBNF139617337	Mann	p
+FRBNF139993250	Ryder, 1971-....	p
+FRBNF140174771	MacNicol, 1954-....	p
+FRBNF140179836	Manners, 1900-1998	p
+FRBNF140217393	Weber, 1961-....	p
+FRBNF14048907X	De Luca, 19..-....	p
+FRBNF140489094	Haberman	p
+FRBNF140984049	Fort, 1900-1945	p
+FRBNF141633163	Chandler, 1906-1965	p
+FRBNF142253840	Schröder, 1891-1967	p
+FRBNF142378071	Wangenheim, 1895-1975	p
+FRBNF142777914	Castle Rock Entertainment	c
+FRBNF146279804	Recio, 1964-....	p
+FRBNF146547202	Bruguière, 1950-....	p
+FRBNF146717081	Bériot, 1963-....	p
+FRBNF151065289	Wegener, 1874-1948	p
+FRBNF167184042	Ziane-Bruneel, 1963-....	p
+FRBNF17068333X	Montmayeur	p

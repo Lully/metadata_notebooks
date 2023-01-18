@@ -3,7 +3,7 @@
 
 UMLRM0002 : Nosferatu, eine Symphonie des Grauens, film
 
-000    01357nx  a2200253   4500
+000    01358nx  f2200253   4500
 001    UMLRM0002
 100    $a 20220924afrey0103    ba0
 101 1  $a fre $c ger
@@ -28,7 +28,7 @@ UMLRM0002 : Nosferatu, eine Symphonie des Grauens, film
 
 UMLRM0005 : Stoker, Bram (1847-1912), Dracula
 
-000    01331cx  a2200253   4500
+000    01330cx  h2200253   4500
 001    UMLRM0005
 005    20220719######.D
 100    $a 20220713afrey50      ba0
@@ -53,7 +53,7 @@ UMLRM0005 : Stoker, Bram (1847-1912), Dracula
 
 UMLRM0008 : Nosferatu, Phantom der Nacht, film
 
-000    00857cx  a2200217   4500
+000    00857cx  f2200217   4500
 001    UMLRM0008
 005    20220725112526
 100    $a 20220721afrey50      ba0
@@ -75,7 +75,7 @@ UMLRM0008 : Nosferatu, Phantom der Nacht, film
 
 UMLRM0011 : Palma, Paola (1971-….) - Vezyroglou, Dimitri (1970-….), "Nosferatu le vampire"
 
-000    00692cx  a2200193   4500
+000    00692cx  h2200193   4500
 001    UMLRM0011
 005    20220927######.D
 100    $a 20220927afrey50      ba0
@@ -95,7 +95,7 @@ UMLRM0011 : Palma, Paola (1971-….) - Vezyroglou, Dimitri (1970-….), "Nosfera
 
 UMLRM0014 : Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra, programme, 2006-05
 
-000    01036cx  a2200229   4500
+000    01036cx  f2200229   4500
 001    UMLRM0014
 005    20220712.......D
 100    $a 20060703afrey50      ba0
@@ -118,7 +118,7 @@ UMLRM0014 : Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra, programme, 2006
 
 UMLRM0020 : Stoker, Bram (1847-1912), Dracula
 
-000    01299cx  a2200253   4500
+000    01299cx  h2200253   4500
 001    UMLRM0020
 005    20220905######.D
 100    $a 20220826afrey50      ba0
@@ -143,7 +143,7 @@ UMLRM0020 : Stoker, Bram (1847-1912), Dracula
 
 UMLRM0032 : Stoker, Bram (1847-1912), Choix, Dracula
 
-000    01077nx  a2200229   4500
+000    01076nx  h2200229   4500
 001    UMLRM0032
 100    $a 20221024afrey50      ba0
 101 2  $a fre $c eng
@@ -166,7 +166,7 @@ UMLRM0032 : Stoker, Bram (1847-1912), Choix, Dracula
 
 UMLRM0035 : Humphries, Tudor (1953-….), Dracula
 
-000    01062nx  a2200229   4500
+000    01062nx  h2200229   4500
 001    UMLRM0035
 100    $a 20221031afrey50      ba0
 101 1  $a fre $c eng
@@ -189,7 +189,7 @@ UMLRM0035 : Humphries, Tudor (1953-….), Dracula
 
 UMLRM0038 : Stoker, Bram (1847-1912), Choix, Dracula
 
-000    01128nx  a2200241   4500
+000    01132nx  h2200241   4500
 001    UMLRM0038
 100    $a 20221005afrey50      ba0
 101 2  $a fre $c eng
@@ -213,7 +213,7 @@ UMLRM0038 : Stoker, Bram (1847-1912), Choix, Dracula
 
 UMLRM0041 : Stoker, Bram (1847-1912), Dracula
 
-000    01110nx  a2200217   4500
+000    01110nx  h2200217   4500
 001    UMLRM0041
 100    $a 20220809afrey0103ba0
 101 1  $a fre $c ger
@@ -235,7 +235,7 @@ UMLRM0041 : Stoker, Bram (1847-1912), Dracula
 
 UMLRM0047 : Stoker, Bram (1847-1912), Choix, Dracula
 
-000    01150nx  a2200241   4500
+000    01155nx  h2200241   4500
 001    UMLRM0047
 100    $a 20221005afrey50      ba0
 101 2  $a fre $c eng
@@ -259,7 +259,7 @@ UMLRM0047 : Stoker, Bram (1847-1912), Choix, Dracula
 
 UMLRM0050 : Stoker, Bram (1847-1912), Dracula
 
-000    01514cx  a2200253   4500
+000    01513cx  h2200253   4500
 001    UMLRM0050
 005    20220930######.D
 100    $a 20220930afrey50      ba0
@@ -284,7 +284,7 @@ UMLRM0050 : Stoker, Bram (1847-1912), Dracula
 
 UMLRM0053 : Stoker, Bram (1847-1912), Dracula
 
-000    01137cx  a2200253   4500
+000    01137cx  h2200253   4500
 001    UMLRM0053
 005    20220920######.D
 100    $a 20220826afrey50      ba0
@@ -309,7 +309,7 @@ UMLRM0053 : Stoker, Bram (1847-1912), Dracula
 
 UMLRM0056 : Stoker, Bram (1847-1912), Dracula
 
-000    01593nx  a2200265   4500
+000    01592nx  h2200265   4500
 001    UMLRM0056
 100    $a 20221003afrey50      ba0
 101 1  $a fre $c eng
@@ -335,7 +335,7 @@ UMLRM0056 : Stoker, Bram (1847-1912), Dracula
 
 UMLRM0059 : Stoker, Bram (1847-1912), Dracula
 
-000    01500nx  a2200253   4500
+000    01499nx  h2200253   4500
 001    UMLRM0059
 100    $a 20221007afrey50      ba0
 101 1  $a fre $c eng
@@ -360,7 +360,7 @@ UMLRM0059 : Stoker, Bram (1847-1912), Dracula
 
 UMLRM0065 : Stoker, Bram (1847-1912), Dracula
 
-000    00825cx  a2200217   4500
+000    00824cx  h2200217   4500
 001    UMLRM0065
 005    20220929######.D
 100    $a 20220929afrey50      ba0
@@ -382,7 +382,7 @@ UMLRM0065 : Stoker, Bram (1847-1912), Dracula
 
 UMLRM0068 : Stoker, Bram (1847-1912), Dracula
 
-000    01270nx  a2200241   4500
+000    01270nx  h2200241   4500
 001    UMLRM0068
 100    $a 20220819afrey50      ba0
 101 1  $a fre $c eng
@@ -406,7 +406,7 @@ UMLRM0068 : Stoker, Bram (1847-1912), Dracula
 
 UMLRM0071 : Belford, Barbara, Bram Stoker : a biography of the author of "Dracula"
 
-000    00748cx  a2200217   4500
+000    00748cx  h2200217   4500
 001    UMLRM0071
 005    20220808######.D
 100    $a 20220808afrey50      ba0
@@ -428,7 +428,7 @@ UMLRM0071 : Belford, Barbara, Bram Stoker : a biography of the author of "Dracul
 
 UMLRM0076 : Stoker, Bram (1847-1912), Dracula’s guest
 
-000    01231cx  a2200241   4500
+000    01230cx  h2200241   4500
 001    UMLRM0076
 005    20221030######.D
 100    $a 20220905afrey50      ba0
@@ -452,7 +452,7 @@ UMLRM0076 : Stoker, Bram (1847-1912), Dracula’s guest
 
 UMLRM0079 : Bram Stoker's Dracula, film
 
-000    00947cx  a2200241   4500
+000    00946cx  f2200241   4500
 001    UMLRM0079
 005    20220721######.D
 100    $a 20220721afrey50      ba0
@@ -476,7 +476,7 @@ UMLRM0079 : Bram Stoker's Dracula, film
 
 UMLRM0082 : "Dracula" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola
 
-000    00759cx  a2200193   4500
+000    00756cx  f2200193   4500
 001    UMLRM0082
 005    20220926
 100    $a 20220926afrey50      ba0
@@ -496,7 +496,7 @@ UMLRM0082 : "Dracula" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola
 
 UMLRM0085 : Cazacu, Matei (1946-....), Dracula
 
-000    00633cx  a2200205   4500
+000    00633cx  h2200205   4500
 001    UMLRM0085
 005    20220908
 100    $a 20220908afrey50      ba0 
@@ -517,7 +517,7 @@ UMLRM0085 : Cazacu, Matei (1946-....), Dracula
 
 UMLRM0088 : Valls de Gomis, Estelle (1973-...), Le vampire au fil des siècles : enquête autour d'un mythe
 
-000    00677cx  a2200193   4500
+000    00679cx  h2200193   4500
 001    UMLRM0088
 005    20220809
 100    $a 20220809afrey50      ba0
@@ -538,7 +538,7 @@ UMLRM0088 : Valls de Gomis, Estelle (1973-...), Le vampire au fil des siècles 
 
 UMLRM0091 : Nosferatu, the wrath of Malachi, jeu vidéo
 
-000    01372nx  a2200265   4500
+000    01369nx  f2200265   4500
 001    UMLRM0091
 100    $a 202211043afrey50      ba0
 101 0  $a fre 
@@ -564,7 +564,7 @@ UMLRM0091 : Nosferatu, the wrath of Malachi, jeu vidéo
 
 UMLRM0100 : Druillet, Philippe (1944-....), Nosferatu
 
-000    00701cx  a2200217   4500
+000    00701cx  h2200217   4500
 001    UMLRM0100
 005    20220811######.D
 100    $a 20220811afrey50      ba0
@@ -586,7 +586,7 @@ UMLRM0100 : Druillet, Philippe (1944-....), Nosferatu
 
 UMLRM0106 : Dracula has risen from the grave, film
 
-000    01039nx  a2200217   4500
+000    01039nx  f2200217   4500
 001    UMLRM0106
 100    $a 20220830afrey50      ba0
 101 0  $a eng
@@ -608,7 +608,7 @@ UMLRM0106 : Dracula has risen from the grave, film
 
 UMLRM0112 : Hughes, William (1964-....), Bram Stoker’s Dracula : a reader’s guide
 
-000    00747cx  a2200205   4500
+000    00746cx  h2200205   4500
 001    UMLRM0112
 005    20220920######.D
 100    $a 20220920afrey50      ba0
@@ -629,7 +629,7 @@ UMLRM0112 : Hughes, William (1964-....), Bram Stoker’s Dracula : a reader’s 
 
 UMLRM0115 : Stoker, Dacre - Holt, Ian (1964-….), Dracula, the un-dead
 
-000    00847cx  a2200205   4500
+000    00847cx  h2200205   4500
 001    UMLRM0115
 005    202210171342##.D
 100    $a 20221017afrey50      ba0
@@ -650,7 +650,7 @@ UMLRM0115 : Stoker, Dacre - Holt, Ian (1964-….), Dracula, the un-dead
 
 UMLRM0118 : Dufranne, Michel (1970-....) - Kowalski, Piotr (1973-....), Dracula l’immortel
 
-000    00950cx  a2200229   4500
+000    00949cx  h2200229   4500
 001    UMLRM0118
 005    202208301048##.D
 100    $a 20220811afrey50      ba0
@@ -673,7 +673,7 @@ UMLRM0118 : Dufranne, Michel (1970-....) - Kowalski, Piotr (1973-....), Dracula 
 
 UMLRM0121 : Dracula, dead and loving it, film
 
-000    04852cx  a2200793   4500
+000    01367cx  f2200241   4500
 001    UMLRM0121
 005    20221004####.D
 100    $a 20221004afrey50      ba0 
@@ -697,7 +697,7 @@ UMLRM0121 : Dracula, dead and loving it, film
 
 UMLRM0127 : Stoker, Bram (1847-1912), Choix, Manuscrits
 
-000    01026cx  a2200218   4500
+000    01023cx  h2200217   4500
 001    UMLRM0127
 005    20220921######.D
 100    $a 20220921afrey50      ba0
@@ -719,7 +719,7 @@ UMLRM0127 : Stoker, Bram (1847-1912), Choix, Manuscrits
 
 UMLRM0130 : Shadow of the vampire, film
 
-000    01255nx  a2200241   4500
+000    01254nx  f2200241   4500
 001    UMLRM0130
 100    $a 20221021afrey50      ba0
 101 1  $a fre $c ger $c eng
@@ -743,7 +743,7 @@ UMLRM0130 : Shadow of the vampire, film
 
 UMLRM0133 : Eickhoff, Stefan, Max Schreck : Gespenstertheater
 
-000    00753cx  a2200241   4500
+000    00753cx  h2200241   4500
 001    UMLRM0133
 005    20221005140223.0
 100    $a 20221005afrey50      ba0
@@ -767,7 +767,7 @@ UMLRM0133 : Eickhoff, Stefan, Max Schreck : Gespenstertheater
 
 UMLRM0136 : Dracula : pages from a virgin's diary, film
 
-000    01315nx  a2200241   4500
+000    01314nx  f2200241   4500
 001    UMLRM0136
 100    $a 20221021afrey50      ba0
 101 2  $a eng $j fre
@@ -791,7 +791,7 @@ UMLRM0136 : Dracula : pages from a virgin's diary, film
 
 UMLRM0139 : Jeanneteau, Daniel (1963-....) - Deratte, Laure (19..-....), [Maquette de décor en volume pour "Nosferatu"]
 
-000    00682nx  a2200181   4500
+000    00681nx  h2200181   4500
 001    UMLRM0139
 100    $a 20221025afrey50      ba0
 101 0  $a zxx
@@ -810,7 +810,7 @@ UMLRM0139 : Jeanneteau, Daniel (1963-....) - Deratte, Laure (19..-....), [Maquet
 
 UMLRM0148 : Nosferatu, spectacle, 2001
 
-000    01395cx  a2200241   4500
+000    01393cx  f2200241   4500
 001    UMLRM0148
 005    20220712.......D
 100    $a 20050513afrey50      ba0
@@ -834,7 +834,7 @@ UMLRM0148 : Nosferatu, spectacle, 2001
 
 UMLRM0151 : Druillet, Philippe (1944-....), Illustrations pour "Dracula" de Bram Stoker
 
-000    00672nx  a2200181   4500
+000    00670nx  h2200181   4500
 001    UMLRM0151
 100    $a 20220927afrey50      ba0
 101 0  $a zxx
@@ -853,7 +853,7 @@ UMLRM0151 : Druillet, Philippe (1944-....), Illustrations pour "Dracula" de Bram
 
 UMLRM0153 : [Photographies extraites du film « Dracula » de Tod Browning], 1932
 
-000    00763nx  a2200193   4500
+000    00761nx  f2200193   4500
 001    UMLRM0153
 100    $a 20221008afrey50      ba0
 101 0  $a zxx
@@ -873,7 +873,7 @@ UMLRM0153 : [Photographies extraites du film « Dracula » de Tod Browning], 193
 
 UMLRM0157 : Glass, Philip (1937-....), Dracula
 
-000    01249nx  a2200265   4500
+000    01247nx  h2200265   4500
 001    UMLRM0157
 100    $a 20221013afrey50      ba0
 101    $a zxx
@@ -899,7 +899,7 @@ UMLRM0157 : Glass, Philip (1937-....), Dracula
 
 UMLRM0159 : Dracula, film, 1931
 
-000    01638nx  a2200241   4500
+000    01637nx  f2200241   4500
 001    UMLRM0159
 100    $a 20221013afrey50      ba0
 101 2  $a eng $a fre $a ita $a spa $a ger $c eng $j fre $j eng $j ita $j spa $j ger
@@ -923,7 +923,7 @@ UMLRM0159 : Dracula, film, 1931
 
 UMLRM0161 : Humphries, Tudor (1953-….), Dracula
 
-000    01206nx  a2200241   4500
+000    01205nx  h2200241   4500
 001    UMLRM0161
 100    $a 20221031afrey50      ba0
 101 0  $a eng
@@ -947,7 +947,7 @@ UMLRM0161 : Humphries, Tudor (1953-….), Dracula
 
 UMLRM0162 : Drácula, film, 1931
 
-000    01354nx  a2200241   4500
+000    01321nx  f2200241   4500
 001    UMLRM0162
 100    $a 20221013afrey50      ba0
 101 0  $a spa
@@ -971,7 +971,7 @@ UMLRM0162 : Drácula, film, 1931
 
 UMLRM0167 : Guy Maddin
 
-000    01170nx  a2200265   4500
+000    01170nx  f2200265   4500
 001    UMLRM0167
 100    $a 20221021afrey50      ba0
 101 2  $a eng $j fre
@@ -997,7 +997,7 @@ UMLRM0167 : Guy Maddin
 
 UMLRM0170 : Gauriat, Vincent, Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin
 
-000    00757nx  a2200193   4500
+000    00756nx  h2200193   4500
 001    UMLRM0170
 100    $a 20221024afrey50      ba0
 101 0  $a fre
@@ -1017,7 +1017,7 @@ UMLRM0170 : Gauriat, Vincent, Dracula, pages tirées du journal d’une vierge, 
 
 UMLRM0172 : Stoker, Bram (1847-1912), Choix, Dracula
 
-000    01068nx  a2200229   4500
+000    01072nx  h2200229   4500
 001    UMLRM0172
 100    $a 20221005afrey50      ba0
 101 2  $a fre $c eng
@@ -1040,7 +1040,7 @@ UMLRM0172 : Stoker, Bram (1847-1912), Choix, Dracula
 
 UMLRM0175 : Les grands classiques du cinéma allemand
 
-000    01561nx  a2200301   4500
+000    01561nx  f2200301   4500
 001    UMLRM0175
 100    $a 20221029afrey50      ba0
 101 2  $a ger $a fre $a eng $c ger $j fre
@@ -1069,7 +1069,7 @@ UMLRM0175 : Les grands classiques du cinéma allemand
 
 UMLRM0181 : Dracula has risen from the grave, film
 
-000    01031nx  a2200217   4500
+000    01029nx  f2200217   4500
 001    UMLRM0181
 100    $a 20221104afrey50      ba0
 101 1  $a fre $c eng 
@@ -1091,7 +1091,7 @@ UMLRM0181 : Dracula has risen from the grave, film
 
 UMLRM0184 : Shadow of the vampire, film
 
-000    01439nx  a2200241   4500
+000    01438nx  f2200241   4500
 001    UMLRM0184
 100    $a 20221109afrey50      ba0
 101 2  $a eng $a ger $j fre
@@ -1115,7 +1115,7 @@ UMLRM0184 : Shadow of the vampire, film
 
 UMLRM0187 : Stoker, Bram (1847-1912), Dracula
 
-000    01597cx  a2200301   4500
+000    01597cx  h2200301   4500
 001    UMLRM0187
 100    $a  20221110d2009 u y0frey50 ba
 101 1  $a fre $c eng
@@ -1144,7 +1144,7 @@ UMLRM0187 : Stoker, Bram (1847-1912), Dracula
 
 UMLRM0189 : Dracula, dead and loving it, film
 
-000    01306cx  a2200229   4500
+000    01303cx  f2200229   4500
 001    UMLRM0189
 005    20221004####.D
 100    $a 20221004afrey50      ba0 
@@ -1167,7 +1167,7 @@ UMLRM0189 : Dracula, dead and loving it, film
 
 UMLRM0192 : Dracula, émission radiophonique, 1938
 
-000    00977nx  a2200205   4500
+000    00977nx  f2200205   4500
 001    UMLRM0192
 100    $a 20221114afrey50      ba0
 101 0  $a eng
@@ -1188,7 +1188,7 @@ UMLRM0192 : Dracula, émission radiophonique, 1938
 
 UMLRM0196 : Finné, Jacques (1944-….), Bibliographie de Dracula
 
-000    00596nx  a2200181   4500
+000    00595nx  h2200181   4500
 001    UMLRM0196
 100    $a 20221116afrey50      ba0
 101 0  $a fre
@@ -1207,7 +1207,7 @@ UMLRM0196 : Finné, Jacques (1944-….), Bibliographie de Dracula
 
 UMLRM0198 : Finné, Jacques (1944-….) - Marigny, Jean (1939-....), Dictionnaire des littératures vampiriques
 
-000    00731nx  a2200181   4500
+000    00730nx  h2200181   4500
 001    UMLRM0198
 100    $a 20221116afrey50      ba0
 101 0  $a fre

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
   <marc:record>
-    <marc:leader>04287nx  a2200565   4500</marc:leader>
+    <marc:leader>04278nx  f2200565   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0001</marc:controlfield>
     <marc:datafield tag="033" ind1=" " ind2=" ">
       <marc:subfield code="a">https://data.bnf.fr/ark:/12148/cb11943761j</marc:subfield>
@@ -240,7 +240,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01357nx  a2200253   4500</marc:leader>
+    <marc:leader>01358nx  f2200253   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0002</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20220924afrey0103    ba0</marc:subfield>
@@ -327,7 +327,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>05455cx  a2200637   4500</marc:leader>
+    <marc:leader>05455cx  h2200637   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0004</marc:controlfield>
     <marc:controlfield tag="005">20220905######.D</marc:controlfield>
     <marc:datafield tag="033" ind1=" " ind2=" ">
@@ -631,7 +631,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01331cx  a2200253   4500</marc:leader>
+    <marc:leader>01330cx  h2200253   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0005</marc:controlfield>
     <marc:controlfield tag="005">20220719######.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -743,7 +743,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>04782cx  a2200517   4500</marc:leader>
+    <marc:leader>04781cx  f2200517   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0007</marc:controlfield>
     <marc:controlfield tag="005">20220721135821</marc:controlfield>
     <marc:datafield tag="033" ind1=" " ind2=" ">
@@ -945,7 +945,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>00857cx  a2200217   4500</marc:leader>
+    <marc:leader>00857cx  f2200217   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0008</marc:controlfield>
     <marc:controlfield tag="005">20220725112526</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -1009,7 +1009,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01239cx  a2200277   4500</marc:leader>
+    <marc:leader>01239cx  h2200277   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0010</marc:controlfield>
     <marc:controlfield tag="005">20220927######.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -1108,7 +1108,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>00692cx  a2200193   4500</marc:leader>
+    <marc:leader>00692cx  h2200193   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0011</marc:controlfield>
     <marc:controlfield tag="005">20220927######.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -1160,7 +1160,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01411cx  a2200301   4500</marc:leader>
+    <marc:leader>01408cx  f2200301   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0013</marc:controlfield>
     <marc:controlfield tag="005">20220712.......D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -1180,8 +1180,8 @@
     </marc:datafield>
     <marc:datafield tag="140" ind1=" " ind2=" ">
       <marc:subfield code="a">mi</marc:subfield>
-      <marc:subfield code="b">prosp</marc:subfield>
-      <marc:subfield code="2">BnF-FonctTexMix</marc:subfield>
+      <marc:subfield code="b">progr</marc:subfield>
+      <marc:subfield code="2">BnF-FonctIco</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="145" ind1="0" ind2=" ">
       <marc:subfield code="a">b</marc:subfield>
@@ -1256,7 +1256,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01036cx  a2200229   4500</marc:leader>
+    <marc:leader>01036cx  f2200229   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0014</marc:controlfield>
     <marc:controlfield tag="005">20220712.......D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -1317,7 +1317,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01299cx  a2200253   4500</marc:leader>
+    <marc:leader>01299cx  h2200253   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0020</marc:controlfield>
     <marc:controlfield tag="005">20220905######.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -1411,7 +1411,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>02040nx  a2200337   4500</marc:leader>
+    <marc:leader>02039nx  h2200337   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0031</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221024afrey50      ba0</marc:subfield>
@@ -1537,7 +1537,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01077nx  a2200229   4500</marc:leader>
+    <marc:leader>01076nx  h2200229   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0032</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221024afrey50      ba0</marc:subfield>
@@ -1620,7 +1620,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>02567nx  a2200373   4500</marc:leader>
+    <marc:leader>02567nx  h2200373   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0034</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221031afrey50      ba0</marc:subfield>
@@ -1749,7 +1749,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01062nx  a2200229   4500</marc:leader>
+    <marc:leader>01062nx  h2200229   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0035</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221031afrey50      ba0</marc:subfield>
@@ -1829,7 +1829,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01935nx  a2200349   4500</marc:leader>
+    <marc:leader>01934nx  h2200349   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0037</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221005afrey50      ba0</marc:subfield>
@@ -1959,7 +1959,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01128nx  a2200241   4500</marc:leader>
+    <marc:leader>01132nx  h2200241   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0038</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221005afrey50      ba0</marc:subfield>
@@ -2046,7 +2046,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01110nx  a2200217   4500</marc:leader>
+    <marc:leader>01110nx  h2200217   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0041</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20220809afrey0103ba0</marc:subfield>
@@ -2121,7 +2121,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01150nx  a2200241   4500</marc:leader>
+    <marc:leader>01155nx  h2200241   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0047</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221005afrey50      ba0</marc:subfield>
@@ -2209,7 +2209,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01514cx  a2200253   4500</marc:leader>
+    <marc:leader>01513cx  h2200253   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0050</marc:controlfield>
     <marc:controlfield tag="005">20220930######.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -2328,7 +2328,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01137cx  a2200253   4500</marc:leader>
+    <marc:leader>01137cx  h2200253   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0053</marc:controlfield>
     <marc:controlfield tag="005">20220920######.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -2415,7 +2415,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01593nx  a2200265   4500</marc:leader>
+    <marc:leader>01592nx  h2200265   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0056</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221003afrey50      ba0</marc:subfield>
@@ -2523,7 +2523,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01500nx  a2200253   4500</marc:leader>
+    <marc:leader>01499nx  h2200253   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0059</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221007afrey50      ba0</marc:subfield>
@@ -2621,7 +2621,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>00825cx  a2200217   4500</marc:leader>
+    <marc:leader>00824cx  h2200217   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0065</marc:controlfield>
     <marc:controlfield tag="005">20220929######.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -2691,7 +2691,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01270nx  a2200241   4500</marc:leader>
+    <marc:leader>01270nx  h2200241   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0068</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20220819afrey50      ba0</marc:subfield>
@@ -2781,7 +2781,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01202cx  a2200301   4500</marc:leader>
+    <marc:leader>01201cx  h2200301   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0070</marc:controlfield>
     <marc:controlfield tag="005">20220808######.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -2879,7 +2879,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>00748cx  a2200217   4500</marc:leader>
+    <marc:leader>00748cx  h2200217   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0071</marc:controlfield>
     <marc:controlfield tag="005">20220808######.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -2937,7 +2937,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>02257cx  a2200373   4500</marc:leader>
+    <marc:leader>02256cx  h2200373   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0075</marc:controlfield>
     <marc:controlfield tag="005">20221004######.D</marc:controlfield>
     <marc:datafield tag="035" ind1=" " ind2=" ">
@@ -3070,7 +3070,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01231cx  a2200241   4500</marc:leader>
+    <marc:leader>01230cx  h2200241   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0076</marc:controlfield>
     <marc:controlfield tag="005">20221030######.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -3155,7 +3155,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>04652cx  a2200541   4500</marc:leader>
+    <marc:leader>04650cx  f2200541   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0078</marc:controlfield>
     <marc:controlfield tag="005">20220705######.D</marc:controlfield>
     <marc:datafield tag="052" ind1=" " ind2=" ">
@@ -3392,7 +3392,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>00947cx  a2200241   4500</marc:leader>
+    <marc:leader>00946cx  f2200241   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0079</marc:controlfield>
     <marc:controlfield tag="005">20220721######.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -3460,7 +3460,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01635cx  a2200289   4500</marc:leader>
+    <marc:leader>01631cx  f2200289   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0081</marc:controlfield>
     <marc:controlfield tag="005">20220926</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -3558,7 +3558,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>00759cx  a2200193   4500</marc:leader>
+    <marc:leader>00756cx  f2200193   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0082</marc:controlfield>
     <marc:controlfield tag="005">20220926</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -3607,7 +3607,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01200cx  a2200301   4500</marc:leader>
+    <marc:leader>01205cx  h2200301   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0084</marc:controlfield>
     <marc:controlfield tag="005">20220908</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -3715,7 +3715,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>00633cx  a2200205   4500</marc:leader>
+    <marc:leader>00633cx  h2200205   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0085</marc:controlfield>
     <marc:controlfield tag="005">20220908</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -3770,7 +3770,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01710cx  a2200337   4500</marc:leader>
+    <marc:leader>01712cx  h2200337   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0087</marc:controlfield>
     <marc:controlfield tag="005">20220809</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -3796,7 +3796,7 @@
     <marc:datafield tag="140" ind1=" " ind2=" ">
       <marc:subfield code="a">te</marc:subfield>
       <marc:subfield code="b">v</marc:subfield>
-      <marc:subfield code="2">UM/B105pos4</marc:subfield>
+      <marc:subfield code="2">UM/B105pos4-7</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="145" ind1="0" ind2=" ">
       <marc:subfield code="a">i</marc:subfield>
@@ -3864,12 +3864,10 @@
       <marc:subfield code="2">rameauForme</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="676" ind1=" " ind2=" ">
-      <marc:subfield code="3">FRBNF13587353</marc:subfield>
       <marc:subfield code="a">398.45</marc:subfield>
       <marc:subfield code="v">23</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="676" ind1=" " ind2=" ">
-      <marc:subfield code="3">FRBNF14503804</marc:subfield>
       <marc:subfield code="a">809.393 75</marc:subfield>
       <marc:subfield code="v">23</marc:subfield>
     </marc:datafield>
@@ -3887,7 +3885,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>00677cx  a2200193   4500</marc:leader>
+    <marc:leader>00679cx  h2200193   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0088</marc:controlfield>
     <marc:controlfield tag="005">20220809</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -3941,7 +3939,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01989cx  a2200373   4500</marc:leader>
+    <marc:leader>01985cx  f2200373   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0090</marc:controlfield>
     <marc:controlfield tag="005">20220923112245.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -4071,7 +4069,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01372nx  a2200265   4500</marc:leader>
+    <marc:leader>01369nx  f2200265   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0091</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">202211043afrey50      ba0</marc:subfield>
@@ -4148,7 +4146,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>02122cx  a2200337   4500</marc:leader>
+    <marc:leader>02122cx  h2200337   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0099</marc:controlfield>
     <marc:controlfield tag="005">20220811.......D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -4263,7 +4261,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>00701cx  a2200217   4500</marc:leader>
+    <marc:leader>00701cx  h2200217   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0100</marc:controlfield>
     <marc:controlfield tag="005">20220811######.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -4321,7 +4319,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>03232nx  a2200529   4500</marc:leader>
+    <marc:leader>03226nx  f2200529   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0105</marc:controlfield>
     <marc:datafield tag="033" ind1=" " ind2=" ">
       <marc:subfield code="a">https://data.bnf.fr/ark:/12148/cb16472893n</marc:subfield>
@@ -4535,7 +4533,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01039nx  a2200217   4500</marc:leader>
+    <marc:leader>01039nx  f2200217   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0106</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20220830afrey50      ba0</marc:subfield>
@@ -4597,7 +4595,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01034nx  a2200253   4500</marc:leader>
+    <marc:leader>01033nx  h2200253   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0111</marc:controlfield>
     <marc:controlfield tag="005">20220920######D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -4678,7 +4676,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>00747cx  a2200205   4500</marc:leader>
+    <marc:leader>00746cx  h2200205   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0112</marc:controlfield>
     <marc:controlfield tag="005">20220920######.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -4733,7 +4731,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01812cx  a2200313   4500</marc:leader>
+    <marc:leader>01811cx  h2200313   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0114</marc:controlfield>
     <marc:controlfield tag="005">202210171342##.D</marc:controlfield>
     <marc:datafield tag="033" ind1=" " ind2=" ">
@@ -4854,7 +4852,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>00847cx  a2200205   4500</marc:leader>
+    <marc:leader>00847cx  h2200205   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0115</marc:controlfield>
     <marc:controlfield tag="005">202210171342##.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -4917,7 +4915,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01686cx  a2200313   4500</marc:leader>
+    <marc:leader>01657cx  h2200313   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0117</marc:controlfield>
     <marc:controlfield tag="005">202208301048##.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -5032,7 +5030,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>00950cx  a2200229   4500</marc:leader>
+    <marc:leader>00949cx  h2200229   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0118</marc:controlfield>
     <marc:controlfield tag="005">202208301048##.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -5095,7 +5093,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>04340cx  a2200589   4500</marc:leader>
+    <marc:leader>04316cx  f2200589   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0120</marc:controlfield>
     <marc:controlfield tag="005">20221004########</marc:controlfield>
     <marc:datafield tag="033" ind1=" " ind2=" ">
@@ -5353,7 +5351,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>04852cx  a2200793   4500</marc:leader>
+    <marc:leader>01367cx  f2200241   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0121</marc:controlfield>
     <marc:controlfield tag="005">20221004####.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -5428,7 +5426,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>02432nx  h2200361   4500</marc:leader>
+    <marc:leader>02427nx  h2200361   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0126</marc:controlfield>
     <marc:controlfield tag="005">20220921######.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -5564,7 +5562,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01026cx  a2200218   4500</marc:leader>
+    <marc:leader>01023cx  h2200217   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0127</marc:controlfield>
     <marc:controlfield tag="005">20220921######.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -5636,7 +5634,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>04596nx  a2200553   4500</marc:leader>
+    <marc:leader>04594nx  f2200553   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0129</marc:controlfield>
     <marc:datafield tag="033" ind1=" " ind2=" ">
       <marc:subfield code="a">https://www.wikidata.org/wiki/Q1324090</marc:subfield>
@@ -5861,7 +5859,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01255nx  a2200241   4500</marc:leader>
+    <marc:leader>01254nx  f2200241   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0130</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221021afrey50      ba0</marc:subfield>
@@ -5933,7 +5931,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01259cx  a2200349   4500</marc:leader>
+    <marc:leader>01259cx  h2200349   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0132</marc:controlfield>
     <marc:controlfield tag="005">20221005140223.0</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -6046,7 +6044,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>00753cx  a2200241   4500</marc:leader>
+    <marc:leader>00753cx  h2200241   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0133</marc:controlfield>
     <marc:controlfield tag="005">20221005140223.0</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -6112,7 +6110,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>04340nx  a2200517   4500</marc:leader>
+    <marc:leader>04336nx  f2200517   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0135</marc:controlfield>
     <marc:datafield tag="033" ind1=" " ind2=" ">
       <marc:subfield code="a">https://www.wikidata.org/wiki/Q1324090</marc:subfield>
@@ -6324,7 +6322,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01315nx  a2200241   4500</marc:leader>
+    <marc:leader>01314nx  f2200241   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0136</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221021afrey50      ba0</marc:subfield>
@@ -6399,7 +6397,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01546nx  a2200265   4500</marc:leader>
+    <marc:leader>01546nx  h2200265   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0138</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221025afrey50      ba0</marc:subfield>
@@ -6505,7 +6503,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>00682nx  a2200181   4500</marc:leader>
+    <marc:leader>00681nx  h2200181   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0139</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221025afrey50      ba0</marc:subfield>
@@ -6555,7 +6553,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>03510cx  a2200349   4500</marc:leader>
+    <marc:leader>03510cx  h2200349   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0141</marc:controlfield>
     <marc:controlfield tag="005">20220913</marc:controlfield>
     <marc:datafield tag="029" ind1=" " ind2=" ">
@@ -6585,7 +6583,7 @@
     <marc:datafield tag="140" ind1=" " ind2=" ">
       <marc:subfield code="a">te</marc:subfield>
       <marc:subfield code="b">m</marc:subfield>
-      <marc:subfield code="2">UMB105pos4</marc:subfield>
+      <marc:subfield code="2">UMB105pos4-7</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="145" ind1="0" ind2=" ">
       <marc:subfield code="a">i</marc:subfield>
@@ -6679,7 +6677,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01613cx  a2200289   4500</marc:leader>
+    <marc:leader>01613cx  h2200289   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0142</marc:controlfield>
     <marc:controlfield tag="005">20220725.......D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -6790,7 +6788,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01859cx  a2200337   4500</marc:leader>
+    <marc:leader>01857cx  h2200337   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0143</marc:controlfield>
     <marc:controlfield tag="005">20220725.......D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -6912,7 +6910,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01828cx  a2200337   4500</marc:leader>
+    <marc:leader>01827cx  h2200337   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0144</marc:controlfield>
     <marc:controlfield tag="005">20220725.......D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -7033,7 +7031,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01763cx  a2200313   4500</marc:leader>
+    <marc:leader>01762cx  h2200313   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0145</marc:controlfield>
     <marc:controlfield tag="005">20220725.......D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -7141,7 +7139,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01865cx  a2200313   4500</marc:leader>
+    <marc:leader>01864cx  h2200313   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0146</marc:controlfield>
     <marc:controlfield tag="005">20220725.......D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -7250,7 +7248,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>02168cx  a2200349   4500</marc:leader>
+    <marc:leader>02168cx  f2200349   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0147</marc:controlfield>
     <marc:controlfield tag="005">20220712.......D</marc:controlfield>
     <marc:datafield tag="033" ind1=" " ind2=" ">
@@ -7398,7 +7396,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01395cx  a2200241   4500</marc:leader>
+    <marc:leader>01393cx  f2200241   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0148</marc:controlfield>
     <marc:controlfield tag="005">20220712.......D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -7495,7 +7493,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01314nx  a2200277   4500</marc:leader>
+    <marc:leader>01303nx  h2200277   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0149</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221116afrey50      ba0</marc:subfield>
@@ -7598,7 +7596,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01098nx  a2200253   4500</marc:leader>
+    <marc:leader>01097nx  h2200253   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0150</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20220927afrey50      ba0</marc:subfield>
@@ -7683,7 +7681,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>00672nx  a2200181   4500</marc:leader>
+    <marc:leader>00670nx  h2200181   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0151</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20220927afrey50      ba0</marc:subfield>
@@ -7732,7 +7730,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01264nx  a2200253   4500</marc:leader>
+    <marc:leader>01265nx  f2200253   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0152</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221008afrey50      ba0</marc:subfield>
@@ -7816,7 +7814,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>00763nx  a2200193   4500</marc:leader>
+    <marc:leader>00761nx  f2200193   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0153</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221008afrey50      ba0</marc:subfield>
@@ -7869,7 +7867,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>03422cx  a2200541   4500</marc:leader>
+    <marc:leader>03422cx  f2200541   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0154</marc:controlfield>
     <marc:controlfield tag="005">20220322######.D</marc:controlfield>
     <marc:datafield tag="033" ind1=" " ind2=" ">
@@ -8108,7 +8106,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>02157cx  a2200337   4500</marc:leader>
+    <marc:leader>02037cx  h2200337   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0155</marc:controlfield>
     <marc:controlfield tag="005">20221012######.D</marc:controlfield>
     <marc:datafield tag="033" ind1=" " ind2=" ">
@@ -8244,7 +8242,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01661cx  a2200289   4500</marc:leader>
+    <marc:leader>01661cx  h2200289   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0156</marc:controlfield>
     <marc:controlfield tag="005">20180220######.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -8337,7 +8335,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01249nx  a2200265   4500</marc:leader>
+    <marc:leader>01247nx  h2200265   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0157</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221013afrey50      ba0</marc:subfield>
@@ -8428,7 +8426,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01638nx  a2200241   4500</marc:leader>
+    <marc:leader>01637nx  f2200241   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0159</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221013afrey50      ba0</marc:subfield>
@@ -8508,7 +8506,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01206nx  a2200241   4500</marc:leader>
+    <marc:leader>01205nx  h2200241   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0161</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221031afrey50      ba0</marc:subfield>
@@ -8582,7 +8580,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01354nx  a2200241   4500</marc:leader>
+    <marc:leader>01321nx  f2200241   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0162</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221013afrey50      ba0</marc:subfield>
@@ -8650,7 +8648,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01695nx  a2200349   4500</marc:leader>
+    <marc:leader>01684nx  f2200349   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0163</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221018afrey50      ba0</marc:subfield>
@@ -8674,7 +8672,6 @@
     <marc:datafield tag="140" ind1=" " ind2=" ">
       <marc:subfield code="a">ic</marc:subfield>
       <marc:subfield code="b">fffa</marc:subfield>
-      <marc:subfield code="2">BnF-</marc:subfield>
       <marc:subfield code="2">BnF-GenreFilm</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="145" ind1="0" ind2=" ">
@@ -8804,9 +8801,14 @@
       <marc:subfield code="d">Madrid</marc:subfield>
       <marc:subfield code="f">#19310320#</marc:subfield>
     </marc:datafield>
+    <marc:datafield tag="640" ind1="6" ind2=" ">
+      <marc:subfield code="0">Date de première sortie en salle</marc:subfield>
+      <marc:subfield code="a">US</marc:subfield>
+      <marc:subfield code="d">New</marc:subfield>
+    </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01782nx  a2200277   4500</marc:leader>
+    <marc:leader>01782nx  h2200277   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0164</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221021afrey50      ba0</marc:subfield>
@@ -8911,7 +8913,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01615nx  a2200289   4500</marc:leader>
+    <marc:leader>01613nx  h2200289   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0165</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221021afrey50      ba0</marc:subfield>
@@ -9017,7 +9019,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01079nx  a2200265   4500</marc:leader>
+    <marc:leader>01074nx  f2200265   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0166</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221021afrey50      ba0</marc:subfield>
@@ -9037,8 +9039,8 @@
     </marc:datafield>
     <marc:datafield tag="140" ind1=" " ind2=" ">
       <marc:subfield code="a">ic</marc:subfield>
-      <marc:subfield code="b">ff  </marc:subfield>
-      <marc:subfield code="2">BnF-GenreFilm</marc:subfield>
+      <marc:subfield code="b">fi</marc:subfield>
+      <marc:subfield code="2">BnF-ImAnim</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="145" ind1="0" ind2=" ">
       <marc:subfield code="a">b</marc:subfield>
@@ -9102,7 +9104,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01170nx  a2200265   4500</marc:leader>
+    <marc:leader>01170nx  f2200265   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0167</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221021afrey50      ba0</marc:subfield>
@@ -9201,7 +9203,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01337nx  a2200265   4500</marc:leader>
+    <marc:leader>01337nx  h2200265   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0169</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221024afrey50      ba0</marc:subfield>
@@ -9289,7 +9291,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>00757nx  a2200193   4500</marc:leader>
+    <marc:leader>00756nx  h2200193   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0170</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221024afrey50      ba0</marc:subfield>
@@ -9344,7 +9346,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01068nx  a2200229   4500</marc:leader>
+    <marc:leader>01072nx  h2200229   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0172</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221005afrey50      ba0</marc:subfield>
@@ -9428,7 +9430,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01510nx  a2200313   4500</marc:leader>
+    <marc:leader>01505nx  f2200313   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0174</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221029afrey50      ba0</marc:subfield>
@@ -9444,8 +9446,8 @@
     </marc:datafield>
     <marc:datafield tag="140" ind1=" " ind2=" ">
       <marc:subfield code="a">ic</marc:subfield>
-      <marc:subfield code="b">ff  </marc:subfield>
-      <marc:subfield code="2">BnF-GenreFilm</marc:subfield>
+      <marc:subfield code="b">fi</marc:subfield>
+      <marc:subfield code="2">BnF-ImAnim</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="145" ind1="0" ind2=" ">
       <marc:subfield code="a">b</marc:subfield>
@@ -9550,7 +9552,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01561nx  a2200301   4500</marc:leader>
+    <marc:leader>01561nx  f2200301   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0175</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221029afrey50      ba0</marc:subfield>
@@ -9686,7 +9688,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01519nx  a2200349   4500</marc:leader>
+    <marc:leader>01514nx  f2200349   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0180</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221104afrey50      ba0</marc:subfield>
@@ -9827,7 +9829,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01031nx  a2200217   4500</marc:leader>
+    <marc:leader>01029nx  f2200217   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0181</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221104afrey50      ba0</marc:subfield>
@@ -9890,7 +9892,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01439nx  a2200241   4500</marc:leader>
+    <marc:leader>01438nx  f2200241   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0184</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221109afrey50      ba0</marc:subfield>
@@ -9963,7 +9965,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>02174cx  a2200349   4500</marc:leader>
+    <marc:leader>02171cx  h2200349   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0186</marc:controlfield>
     <marc:controlfield tag="005">202208301048##.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -10111,7 +10113,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01597cx  a2200301   4500</marc:leader>
+    <marc:leader>01597cx  h2200301   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0187</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a"> 20221110d2009 u y0frey50 ba</marc:subfield>
@@ -10261,7 +10263,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01306cx  a2200229   4500</marc:leader>
+    <marc:leader>01303cx  f2200229   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0189</marc:controlfield>
     <marc:controlfield tag="005">20221004####.D</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
@@ -10327,7 +10329,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>02272nx  a2200361   4500</marc:leader>
+    <marc:leader>02307nx  f2200373   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0191</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221114afrey50      ba0</marc:subfield>
@@ -10351,6 +10353,11 @@
       <marc:subfield code="a">te</marc:subfield>
       <marc:subfield code="b">thrad</marc:subfield>
       <marc:subfield code="2">BnF-GenrLitt</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="140" ind1=" " ind2=" ">
+      <marc:subfield code="a">te</marc:subfield>
+      <marc:subfield code="b">er</marc:subfield>
+      <marc:subfield code="2">BnF-ImAnim</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="145" ind1="0" ind2=" ">
       <marc:subfield code="a">h</marc:subfield>
@@ -10485,7 +10492,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>00977nx  a2200205   4500</marc:leader>
+    <marc:leader>00977nx  f2200205   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0192</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221114afrey50      ba0</marc:subfield>
@@ -10545,7 +10552,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01860nx  a2200289   4500</marc:leader>
+    <marc:leader>01889nx  f2200301   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0194</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221114afrey50      ba0</marc:subfield>
@@ -10565,8 +10572,12 @@
     <marc:datafield tag="140" ind1=" " ind2=" ">
       <marc:subfield code="a">te</marc:subfield>
       <marc:subfield code="b">thrad</marc:subfield>
-      <marc:subfield code="2">BnF-</marc:subfield>
-      <marc:subfield code="2">BnF-GenreFilm</marc:subfield>
+      <marc:subfield code="2">BnF-GenreLitt</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="140" ind1=" " ind2=" ">
+      <marc:subfield code="a">te</marc:subfield>
+      <marc:subfield code="b">sr</marc:subfield>
+      <marc:subfield code="2">BnF-ImAnim</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="145" ind1="0" ind2=" ">
       <marc:subfield code="a">h</marc:subfield>
@@ -10654,7 +10665,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>01187nx  a2200289   4500</marc:leader>
+    <marc:leader>01177nx  h2200289   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0195</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221116afrey50      ba0</marc:subfield>
@@ -10758,7 +10769,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>00596nx  a2200181   4500</marc:leader>
+    <marc:leader>00595nx  h2200181   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0196</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221116afrey50      ba0</marc:subfield>
@@ -10808,7 +10819,7 @@
     </marc:datafield>
   </marc:record>
   <marc:record>
-    <marc:leader>00731nx  a2200181   4500</marc:leader>
+    <marc:leader>00730nx  h2200181   4500</marc:leader>
     <marc:controlfield tag="001">UMLRM0198</marc:controlfield>
     <marc:datafield tag="100" ind1=" " ind2=" ">
       <marc:subfield code="a">20221116afrey50      ba0</marc:subfield>

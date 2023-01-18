@@ -360,13 +360,15 @@ def get_type(xml_record, rectype):
             entity_type = equiv[f154a[1]]
         else:
             entity_type = "z"
+            print(etree.tostring(xml_record))
+            raise
     elif rectype == "p":
         # Fichier Autres entités
         # p : personne, c : collectivité, l : label (marque)
         # t : laps de temps, g : genre-forme
         label_field = ""
         tag2type = {"200": "p", "210": "c", "216": "l",
-                    "250": "t", "280": "g"}
+                    "215": "n", "250": "t", "280": "g"}
         for field in xml_record.xpath("*[@tag]"):
             try:
                 if field.get("tag")[0] == "2":
@@ -395,6 +397,9 @@ def get_label(record):
         label.append(sru.record2fieldvalue(record.xml, "210$c"))
         label.append(sru.record2fieldvalue(record.xml, "250$a"))
         label.append(sru.record2fieldvalue(record.xml, "250$x"))
+        label.append(sru.record2fieldvalue(record.xml, "215$a"))
+        label.append(sru.record2fieldvalue(record.xml, "215$b"))
+        label.append(sru.record2fieldvalue(record.xml, "215$c"))
         label.append(sru.record2fieldvalue(record.xml, "216$a"))
         label.append(sru.record2fieldvalue(record.xml, "216$b"))
         label.append(sru.record2fieldvalue(record.xml, "216$c"))
