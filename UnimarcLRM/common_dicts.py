@@ -28,8 +28,8 @@ tags_resp = {"o": {"501": "Lien aux mentions de responsabilité Personne depuis 
                    "712": "Lien de manifestation à une mention de responsabilité Collectivité"},
                    "716": "Lien de manifestation à une mention de marque"}
 
-tags_indexation = {"608": "genre-forme",
-                   "606": "sujet"}
+tags_subjects = {"genre-forme": ["608"],
+                   "sujet": ["606"]}
 
 # Pour chaque type d'entité, les zones à indexer
 tags_indexation = {"m": "200,214$a$c$d,225$a$c,307$a,320$a,327$a,330$a".split(","),

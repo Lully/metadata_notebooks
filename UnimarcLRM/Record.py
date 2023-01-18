@@ -79,6 +79,8 @@ Vers items : {str(self.toItems)}"
 class Oeuvre(Record):
     def __init__(self, xml_record, rectype):
         super().__init__(xml_record, rectype)
+        self.subjects = get_subjects(xml_record)
+        self.genreforme = get_genreforme(xml_record)
         self.detailed = construct_detailed_work(self)
 
     def __repr__(self):
@@ -89,6 +91,30 @@ Vers manifestations : {str(self.toManifs)}\n\
 Vers items : {str(self.toItems)}"
         return representation
 
+
+def get_subjects(xml_record):
+    subjects = {}
+    for tag in tags_subjects["sujet"]:
+        for field_occ in xml_record.xpath(f"*[@tag='{tag}']"):
+            indexid = sru.field2subfield(field_occ, "3")
+            try:
+                value = dict_entities[indexid].label
+            except KeyError:
+                value = ""
+            subjects[indexid] = value
+    return subjects
+
+def get_genreforme(xml_record):
+    gf = {}
+    for tag in tags_subjects["genre-forme"]:
+        for field_occ in xml_record.xpath(f"*[@tag='{tag}']"):
+            indexid = sru.field2subfield(field_occ, "3")
+            try:
+                value = dict_entities[indexid].label
+            except KeyError:
+                value = ""
+            gf[indexid] = value
+    return gf
 
 def construct_detailed_work(oeuvre):
     """Notice détaillée d'oeuvre :
