@@ -416,6 +416,8 @@ def get_label(record):
                     label.append(sru.field2subfield(field, "d"))
                 if record.type in "oe":
                     label.append(sru.field2subfield(field, "t"))
+                if record.type in "oe":
+                    label.append(sru.field2subfield(field, "n"))
                 else:
                     label.append("*"*20)
                     label.append("$a vide")

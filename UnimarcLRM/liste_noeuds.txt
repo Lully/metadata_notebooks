@@ -60,58 +60,58 @@ UMLRM0193	Dracula, starring Orson Welles, Radio spirits, P 2001, 1 CD audio	m
 UMLRM0197	Bibliographie de Dracula, Jacques Finné, L’âge d'homme, Copyright 1996, 1 volume(215 pages)	m
 UMLRM0199	Dictionnaire des littératures vampiriques, Jacques Finné, Jean Marigny, Terre de brume, 2020, 1 volume(332 pages)	m
 UMLRM0002	Nosferatu, eine Symphonie des Grauens, film	e
-UMLRM0005	Stoker, Bram (1847-1912), Dracula	e
+UMLRM0005	Stoker, Bram (1847-1912), Dracula, Texte noté	e
 UMLRM0008	Nosferatu, Phantom der Nacht, film	e
-UMLRM0011	Palma, Paola (1971-….) - Vezyroglou, Dimitri (1970-….), "Nosferatu le vampire"	e
-UMLRM0014	Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra, programme, 2006-05	e
-UMLRM0020	Stoker, Bram (1847-1912), Dracula	e
-UMLRM0032	Stoker, Bram (1847-1912), Choix, Dracula	e
-UMLRM0035	Humphries, Tudor (1953-….), Dracula	e
-UMLRM0038	Stoker, Bram (1847-1912), Choix, Dracula	e
-UMLRM0041	Stoker, Bram (1847-1912), Dracula	e
-UMLRM0047	Stoker, Bram (1847-1912), Choix, Dracula	e
-UMLRM0050	Stoker, Bram (1847-1912), Dracula	e
-UMLRM0053	Stoker, Bram (1847-1912), Dracula	e
-UMLRM0056	Stoker, Bram (1847-1912), Dracula	e
-UMLRM0059	Stoker, Bram (1847-1912), Dracula	e
-UMLRM0065	Stoker, Bram (1847-1912), Dracula	e
-UMLRM0068	Stoker, Bram (1847-1912), Dracula	e
-UMLRM0071	Belford, Barbara, Bram Stoker : a biography of the author of "Dracula"	e
-UMLRM0076	Stoker, Bram (1847-1912), Dracula’s guest	e
+UMLRM0011	Palma, Paola (1971-….) - Vezyroglou, Dimitri (1970-….), "Nosferatu le vampire", Texte noté	e
+UMLRM0014	Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra, programme, 2006-05, Texte noté. Image fixe	e
+UMLRM0020	Stoker, Bram (1847-1912), Dracula, Texte noté	e
+UMLRM0032	Stoker, Bram (1847-1912), Choix, Dracula, Texte noté	e
+UMLRM0035	Humphries, Tudor (1953-….), Dracula, Texte noté. Image fixe	e
+UMLRM0038	Stoker, Bram (1847-1912), Choix, Dracula, Texte noté	e
+UMLRM0041	Stoker, Bram (1847-1912), Dracula, Texte noté	e
+UMLRM0047	Stoker, Bram (1847-1912), Choix, Dracula, Texte noté	e
+UMLRM0050	Stoker, Bram (1847-1912), Dracula, Texte noté	e
+UMLRM0053	Stoker, Bram (1847-1912), Dracula, Texte noté	e
+UMLRM0056	Stoker, Bram (1847-1912), Dracula, Texte noté	e
+UMLRM0059	Stoker, Bram (1847-1912), Dracula, Texte noté	e
+UMLRM0065	Stoker, Bram (1847-1912), Dracula, Texte noté	e
+UMLRM0068	Stoker, Bram (1847-1912), Dracula, Texte noté	e
+UMLRM0071	Belford, Barbara, Bram Stoker : a biography of the author of "Dracula", Texte noté	e
+UMLRM0076	Stoker, Bram (1847-1912), Dracula’s guest, Texte noté	e
 UMLRM0079	Bram Stoker's Dracula, film	e
-UMLRM0082	"Dracula" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola	e
-UMLRM0085	Cazacu, Matei (1946-....), Dracula	e
-UMLRM0088	Valls de Gomis, Estelle (1973-...), Le vampire au fil des siècles : enquête autour d'un mythe	e
+UMLRM0082	"Dracula" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola, Texte noté	e
+UMLRM0085	Cazacu, Matei (1946-....), Dracula, Texte noté	e
+UMLRM0088	Valls de Gomis, Estelle (1973-...), Le vampire au fil des siècles : enquête autour d'un mythe, Texte noté	e
 UMLRM0091	Nosferatu, the wrath of Malachi, jeu vidéo	e
-UMLRM0100	Druillet, Philippe (1944-....), Nosferatu	e
+UMLRM0100	Druillet, Philippe (1944-....), Nosferatu, Texte noté. Image fixe	e
 UMLRM0106	Dracula has risen from the grave, film	e
-UMLRM0112	Hughes, William (1964-....), Bram Stoker’s Dracula : a reader’s guide	e
-UMLRM0115	Stoker, Dacre - Holt, Ian (1964-….), Dracula, the un-dead	e
-UMLRM0118	Dufranne, Michel (1970-....) - Kowalski, Piotr (1973-....), Dracula l’immortel	e
+UMLRM0112	Hughes, William (1964-....), Bram Stoker’s Dracula : a reader’s guide, Texte noté	e
+UMLRM0115	Stoker, Dacre - Holt, Ian (1964-….), Dracula, the un-dead, Texte noté	e
+UMLRM0118	Dufranne, Michel (1970-....) - Kowalski, Piotr (1973-....), Dracula l’immortel, Texte noté. Image fixe	e
 UMLRM0121	Dracula, dead and loving it, film	e
-UMLRM0127	Stoker, Bram (1847-1912), Choix, Manuscrits	e
+UMLRM0127	Stoker, Bram (1847-1912), Choix, Manuscrits, Texte noté	e
 UMLRM0130	Shadow of the vampire, film	e
-UMLRM0133	Eickhoff, Stefan, Max Schreck : Gespenstertheater	e
+UMLRM0133	Eickhoff, Stefan, Max Schreck : Gespenstertheater, Texte noté	e
 UMLRM0136	Dracula : pages from a virgin's diary, film	e
-UMLRM0139	Jeanneteau, Daniel (1963-....) - Deratte, Laure (19..-....), [Maquette de décor en volume pour "Nosferatu"]	e
+UMLRM0139	Jeanneteau, Daniel (1963-....) - Deratte, Laure (19..-....), [Maquette de décor en volume pour "Nosferatu"], Image fixe	e
 UMLRM0148	Nosferatu, spectacle, 2001	e
-UMLRM0151	Druillet, Philippe (1944-....), Illustrations pour "Dracula" de Bram Stoker	e
-UMLRM0153	[Photographies extraites du film « Dracula » de Tod Browning], 1932	e
-UMLRM0157	Glass, Philip (1937-....), Dracula	e
+UMLRM0151	Druillet, Philippe (1944-....), Illustrations pour "Dracula" de Bram Stoker, Image fixe	e
+UMLRM0153	[Photographies extraites du film « Dracula » de Tod Browning], 1932, Image fixe	e
+UMLRM0157	Glass, Philip (1937-....), Dracula, Musique exécutée	e
 UMLRM0159	Dracula, film, 1931	e
-UMLRM0161	Humphries, Tudor (1953-….), Dracula	e
+UMLRM0161	Humphries, Tudor (1953-….), Dracula, Texte noté. Image fixe	e
 UMLRM0162	Drácula, film, 1931	e
-UMLRM0167	Guy Maddin	e
-UMLRM0170	Gauriat, Vincent, Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin	e
-UMLRM0172	Stoker, Bram (1847-1912), Choix, Dracula	e
-UMLRM0175	Les grands classiques du cinéma allemand	e
+UMLRM0167	Guy Maddin, Image animée	e
+UMLRM0170	Gauriat, Vincent, Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin, Image fixe	e
+UMLRM0172	Stoker, Bram (1847-1912), Choix, Dracula, Texte noté	e
+UMLRM0175	Les grands classiques du cinéma allemand, Image animée	e
 UMLRM0181	Dracula has risen from the grave, film	e
 UMLRM0184	Shadow of the vampire, film	e
-UMLRM0187	Stoker, Bram (1847-1912), Dracula	e
+UMLRM0187	Stoker, Bram (1847-1912), Dracula, Parole énoncée	e
 UMLRM0189	Dracula, dead and loving it, film	e
-UMLRM0192	Dracula, émission radiophonique, 1938	e
-UMLRM0196	Finné, Jacques (1944-….), Bibliographie de Dracula	e
-UMLRM0198	Finné, Jacques (1944-….) - Marigny, Jean (1939-....), Dictionnaire des littératures vampiriques	e
+UMLRM0192	Dracula, émission radiophonique, 1938, Parole énoncée. Musique exécutée	e
+UMLRM0196	Finné, Jacques (1944-….), Bibliographie de Dracula, Texte noté	e
+UMLRM0198	Finné, Jacques (1944-….) - Marigny, Jean (1939-....), Dictionnaire des littératures vampiriques, Texte noté	e
 UMLRM0001	Nosferatu, eine Symphonie des Grauens, film	o
 UMLRM0004	Stoker, Bram (1847-1912), Dracula	o
 UMLRM0007	 Nosferatu, Phantom der Nacht, film	o
