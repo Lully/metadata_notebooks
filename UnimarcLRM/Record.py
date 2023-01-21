@@ -289,12 +289,21 @@ class Item(Record):
     def __init__(self, xml_record, rectype):
         super().__init__(xml_record, rectype)
         self.toManifs  = item2manif(self.xml)
+        self.localisation, self.cote = get_cote(xml_record)
     
     def __repr__(self):
         representation = self.repr
         representation += f"\n\nManif en lien : {self.toManifs}"
         return representation
         
+def get_cote(xml_record):
+    # récupérarion de la localisation et de la cote
+    # d'un item
+    localisation = sru.record2fieldvalue(xml_record, "801$b")
+    cote = " ".join([sru.record2fieldvalue(xml_record, "252$b"), sru.record2fieldvalue(xml_record, "252$j")])
+    return localisation, cote
+
+
 def get_stats_zones(xml_record):
     # Renvoie un dictionnaire listant les zones avec leur nombre d'occurrences
     stats_zones = defaultdict(int)

@@ -4,6 +4,7 @@ import os
 from unidecode import unidecode
 from common_dicts import *
 
+from random import choice
 
 def clean_str(string):
     string = unidecode(string.lower())
@@ -68,9 +69,42 @@ def write_html_full_body(file, recordid, record, query, i, dict_entities):
     file.write(generate_entete(query, i))
     file.write(f"\n<p>{record.detailed}</p>")
     file.write(f"\n<p class='recordid'>{recordid}</p>")
+
+    # ----------------------- #
+    #    Les filtres          #
+    # ----------------------- #
     filters = generate_work_filters(record)
-    file.write(f"\n<p class='filters'>{filters}</p>")
+    file.write(f"\n<div class='filters'><p>{filters}</p></div>")
+
+    # ------------------------#
+    #    Les exemplaires      #
+    # ------------------------#
+    div_items = generate_html_items(record, dict_entities)
+    file.write(f"\n<div class='iteùs'>{div_items}</div>")
+
     file.write("\n</body>\n")
+
+
+def generate_html_items(record, dict_entities):
+    dict_states = {"d": "Disponible", "e": "Emprunté"}
+    dict_class = {"d": "avail", "e": "unavail"}
+    list_items = []
+    for item in record.toItems:
+        if item:
+            state = choice(list(dict_states))
+            state_label = dict_states[state]
+            full_item = dict_entities[item]
+            expr = dict_entities[item].toExpressions
+            expr_labels = []
+            for e in expr:
+                expr_labels.append(expr[e])
+            expr_labels = " - ".join(expr_labels)
+            desc_item = f"{state_label} - {expr_labels} - {full_item.localisation} {full_item.cote}"
+            html_item = f"<p class='{dict_class[state]}'>{desc_item}</p>"
+            list_items.append(html_item)
+    div_items = "<h3>Liste des exemplaires</h3>\n"
+    div_items += "\n".join(list_items)
+    return div_items
 
 
 def generate_work_filters(record):

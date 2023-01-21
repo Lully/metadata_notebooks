@@ -8,3 +8,6 @@ body {font-family: Arial;
 input {font-style: italic;
 	   color: #a7a7a7;
       }
+
+.avail {background-color: #beff9f}
+.unavail {background-color: #ffe2d7}
