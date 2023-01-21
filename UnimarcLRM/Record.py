@@ -37,6 +37,8 @@ from common_dicts import *
 dic_id2type = {}
 dict_entities = {}
 
+ns = {"marc": "http://www.loc.gov/MARC21/slim"}
+
 class Record:
     def __init__(self, xml_record, rectype):
         self.xml = xml_record
@@ -82,6 +84,7 @@ class Oeuvre(Record):
         self.subjects = get_subjects(xml_record)
         self.genreforme = get_genreforme(xml_record)
         self.detailed = construct_detailed_work(self)
+        self.lang = None
 
     def __repr__(self):
         representation = self.detailed + "\n"*2 + self.repr

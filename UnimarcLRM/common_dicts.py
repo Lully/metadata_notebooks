@@ -44,3 +44,9 @@ tags_indexation = {"m": "200,214$a$c$d,225$a$c,307$a,320$a,327$a,330$a".split(",
                    "t": ["280"],
                    "n": ["215"]
                    }
+
+dict_lang2label = {"fre": "français",
+                   "ger": "allemand",
+                   "ita": "italien",
+                   "eng": "anglais",
+                   "spa": "espagnol"}

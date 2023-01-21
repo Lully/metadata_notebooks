@@ -1,6 +1,29 @@
 # coding: utf-8
 
 import os
+from unidecode import unidecode
+from common_dicts import *
+
+
+def clean_str(string):
+    string = unidecode(string.lower())
+    punct = "!:,;.?/%$\"'"
+    for char in punct:
+        string = string.replace("char", " ")
+    string = " ".join([el for el in string.split(" ") if el])
+    return string
+
+
+def search(keywords, oeuvres, dict_entities, index="all"):
+    keywords = clean_str(keywords).split(" ")
+    results_entities = {}
+    for o in oeuvres:
+        if index == "all":
+            for k in keywords:
+                if k in o.global_index:
+                    results_entities[o.id] = o
+    return results_entities
+
 
 def display_html_results(dict_results, dict_entities, query):
     # A partir d'un lot de notices d'oeuvres comme résultats d'une recherche
@@ -20,7 +43,7 @@ def generate_short_results_html(dict_results, dict_entities, query):
 
 def generate_full_results_html(dict_results, dict_entities, query):
     # Génération de toutes les pages HTML de notices détaillées
-    i = 0
+    i = 1
     for result in dict_results:
         file = open(f"results/full_results_{str(i)}.html", "w", encoding="utf-8")
         write_html_head(file, f"Notice détaillée {result}")
@@ -44,7 +67,26 @@ def write_html_full_body(file, recordid, record, query, i, dict_entities):
     file.write("\n<body>\n")
     file.write(generate_entete(query, i))
     file.write(f"\n<p>{record.detailed}</p>")
+    file.write(f"\n<p class='recordid'>{recordid}</p>")
+    filters = generate_work_filters(record)
+    file.write(f"\n<p class='filters'>{filters}</p>")
     file.write("\n</body>\n")
+
+
+def generate_work_filters(record):
+    # A partir d'une notice d'oeuvre, générer une liste de liens
+    # (<a href=''>) permettant de gérer des filtres
+    filter_form = "<input type='form' width='150px' value='Limiter les résultats'/>"
+    filters_lng = ""
+    for lang in record.lang:
+        try:
+            link = f'<a class="filters_lng" href="#">{dict_lang2label[lang]}</a>'
+        except KeyError:
+            link = f'<a class="filters_lng" href="#">{lang}</a>'
+        filters_lng += f" {link}"
+    filters_elements = [filter_form, filters_lng]
+    return " ".join(filters_elements)
+
 
 def generate_entete(query, no_resultat=0):
     entete = '\n<div class="entete">'
