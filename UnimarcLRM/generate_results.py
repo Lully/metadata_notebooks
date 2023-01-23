@@ -46,8 +46,8 @@ def generate_full_results_html(dict_results, dict_entities, query):
     # Génération de toutes les pages HTML de notices détaillées
     i = 1
     for result in dict_results:
-        file = open(f"results/full_results_{str(i)}.html", "w", encoding="utf-8")
-        write_html_head(file, f"Notice détaillée {result}")
+        file = open(f"results/full_results_{result}.html", "w", encoding="utf-8")
+        write_html_head(file, f"Notice détaillée {dict_results[result].label}")
         write_html_full_body(file, result, dict_results[result], query, i, dict_entities)
         write_html_footer(file)
         i += 1
@@ -59,7 +59,7 @@ def write_html_short_body(file, dict_results, query):
 
     i = 1
     for r in dict_results:
-        file.write(f"<p>{str(i)}. <a href='full_results_{str(i)}.html'>{dict_results[r].label}</a></p>")
+        file.write(f"<p>{str(i)}. <a href='full_results_{r}.html'>{dict_results[r].label}</a></p>")
         i += 1
     file.write("</body>")
 
