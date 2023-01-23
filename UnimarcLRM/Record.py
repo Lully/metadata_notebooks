@@ -86,6 +86,7 @@ class Oeuvre(Record):
         self.detailed = construct_detailed_work(self)
         self.exprResp = None  # Mentions de responsabilités aux niveau des expressions
         self.lang = None
+        self.exprContentType = None
 
     def __repr__(self):
         representation = self.detailed + "\n"*2 + self.repr
@@ -239,6 +240,7 @@ class Expression(Record):
     def __init__(self, xml_record, rectype):
         super().__init__(xml_record, rectype)
         self.toOeuvres  = expression2oeuvre(self.xml)
+        self.expressionContentType = get_expression_content_type(self.xml)
         self.detailed = construct_detailed_expression(self)
 
     def __repr__(self):
@@ -248,6 +250,32 @@ Vers Oeuvres : {str(self.toOeuvres)}\n\
 Vers manifestations : {str(self.toManifs)}\n\
 Vers items : {str(self.toItems)}"
         return representation
+
+
+def get_expression_content_type(xml_record):
+    expression_content_type = ""
+    f154a = sru.record2fieldvalue(xml_record, "154$a")        
+    if f154a and f154a[1] == "b":
+        for f242n in sru.record2fieldvalue(xml_record, "242$n").split("¤"):
+            if f242n:
+                if expression_content_type == "":
+                    expression_content_type = f242n
+        if expression_content_type == "":
+            for f232c in sru.record2fieldvalue(xml_record, "232$c").split("¤"):
+                if f232c:
+                    if expression_content_type == "":
+                        expression_content_type = f232c
+        if expression_content_type == "":
+            for f232n in sru.record2fieldvalue(xml_record, "232$n").split("¤"):
+                if f232n:
+                    if expression_content_type == "":
+                        expression_content_type = f232n
+        if expression_content_type == "":
+            for f542n in sru.record2fieldvalue(xml_record, "542$n").split("¤"):
+                if expression_content_type == "":
+                    expression_content_type = f542n
+    return expression_content_type
+
 
 def construct_detailed_expression(expression):
     """Notice détaillée d'oeuvre :

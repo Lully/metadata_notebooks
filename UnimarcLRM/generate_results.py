@@ -148,7 +148,12 @@ def generate_work_filters(record):
         except KeyError:
             link = f'<a class="filters_lng" href="#">{lang}</a>'
         filters_lng += f" {link}"
-    filters_elements = [filter_form, filters_lng]
+    filters_content_type = []
+    for expr_content_type in record.exprContentType:
+        link = f'<a class="filters_content_type" href="#">{expr_content_type}</a>'
+        filters_content_type.append(link)
+    filters_content_type = " ".join(filters_content_type)
+    filters_elements = [filter_form, filters_lng, filters_content_type]
     filters1 = f"<div class='filters1'>{' '.join(filters_elements)}</div>"
 
     # Deuxième ligne (mentions de responsabilités des expressions)
@@ -156,7 +161,7 @@ def generate_work_filters(record):
     for resp in record.exprResp:
         link = f'<a href="#">{resp}</a>'
         links_resp.append(link)
-    links_resp = " ".join(links_resp)
+    links_resp = " | ".join(links_resp)
     filters2 = f"<div class='filters2'>{links_resp}</div>"
     return "\n".join([filters1, filters2])
 

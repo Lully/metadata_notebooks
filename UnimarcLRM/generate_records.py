@@ -111,7 +111,17 @@ def enrich_oeuvres(dict_entities):
         if dict_entities[e].type == "o":
             dict_entities[e].lang = expr_lang2oeuvre(e, dict_entities[e], dict_entities)
             dict_entities[e].exprResp = expr_resp2oeuvre(e, dict_entities[e], dict_entities)
+            dict_entities[e].exprContentType = expr_content_type(e, dict_entities[e], dict_entities)
     return dict_entities
+
+
+def expr_content_type(oid, o_entity, dict_entities):
+    # Remonte au niveau de l'oeuvre la liste des types de contenu des expressions
+    liste_expressionsContentType = set()
+    for expr in o_entity.toExpressions:
+        exprContentType = dict_entities[expr].expressionContentType
+        liste_expressionsContentType.add(exprContentType)
+    return liste_expressionsContentType
 
 
 def expr_lang2oeuvre(oid, o_entity, dict_entities):
@@ -133,6 +143,8 @@ def expr_resp2oeuvre(oid, o_entity, dict_entities):
             for role in expression.resp[resp]:
                exprResp.append(f"{resp} ({role})")
     return exprResp 
+
+
 
 if __name__ == "__main__":
     list_files = ["UMA_Oeuvres_Expressions.xml",
