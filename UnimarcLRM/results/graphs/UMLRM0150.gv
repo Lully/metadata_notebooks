@@ -1,0 +1,9 @@
+// Notice UMLRM0150
+digraph UMLRM0150 {
+	size="10,10"
+	UMLRM0150 [label="Druillet, Philippe (1944-....), [Illustrations pour \"Dracula\" de Bram Stoker]"]
+	UMLRM0151 [label="Druillet, Philippe (1944-....), Illustrations pour \"Dracula\" de Bram Stoker, Image fixe"]
+	UMLRM0150 -> UMLRM0151 [label="Expression de"]
+	UMLRM0110 [label="Dracula, Bram Stoker, Éditions Opta, 1968, 1 volume (XX-413 pages), illustrations en noir et blanc, cartonnage illustré"]
+	UMLRM0151 -> UMLRM0110 [label="Manifestation de"]
+}

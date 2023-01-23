@@ -1,0 +1,10 @@
+// Notice UMLRM0126
+digraph UMLRM0126 {
+	rankdir=LR
+	size="20,20"
+	UMLRM0126 [label="Stoker, Bram (1847-1912), Choix, Manuscrits"]
+	UMLRM0127 [label="Stoker, Bram (1847-1912), Choix, Manuscrits, Texte noté"]
+	UMLRM0126 -> UMLRM0127 [label="Expression de"]
+	UMLRM0128 [label="Bram Stoker’s notes for “Dracula “, Bram Stoker, McFarland & Company Inc. Publishers, 2008, 1 volume (VII-331 pages)"]
+	UMLRM0127 -> UMLRM0128 [label="Manifestation de"]
+}

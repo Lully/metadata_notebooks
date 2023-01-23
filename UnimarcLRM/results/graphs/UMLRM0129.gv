@@ -1,0 +1,16 @@
+// Notice UMLRM0129
+digraph UMLRM0129 {
+	rankdir=LR
+	size="20,20"
+	UMLRM0129 [label="Shadow of the vampire, film"]
+	UMLRM0130 [label="Shadow of the vampire, film"]
+	UMLRM0129 -> UMLRM0130 [label="Expression de"]
+	UMLRM0131 [label="L'ombre du vampire, E. Elias Merhige, [réalisateur], Studio Canal+ - Universal pictures vidéo France SA, [DL 2001], 1 cassette vidéo, VHS, SECAM, surround (Dolby), zone 2"]
+	UMLRM0130 -> UMLRM0131 [label="Manifestation de"]
+	UMLRM0185 [label="L'ombre du vampire, E. Elias Merhige, [réalisateur], Studio Canal+ - Universal pictures vidéo France SA, [DL 2001], 1 DVD vidéo, monoface, 16/9 compatible 4/3, PAL, Dolby digital 5.1, zone 2"]
+	UMLRM0130 -> UMLRM0185 [label="Manifestation de"]
+	UMLRM0184 [label="Shadow of the vampire, film"]
+	UMLRM0129 -> UMLRM0184 [label="Expression de"]
+	UMLRM0185 [label="L'ombre du vampire, E. Elias Merhige, [réalisateur], Studio Canal+ - Universal pictures vidéo France SA, [DL 2001], 1 DVD vidéo, monoface, 16/9 compatible 4/3, PAL, Dolby digital 5.1, zone 2"]
+	UMLRM0184 -> UMLRM0185 [label="Manifestation de"]
+}

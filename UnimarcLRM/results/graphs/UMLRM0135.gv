@@ -1,0 +1,10 @@
+// Notice UMLRM0135
+digraph UMLRM0135 {
+	rankdir=LR
+	size="20,20"
+	UMLRM0135 [label="Dracula: pages from a virgin's diary, film"]
+	UMLRM0136 [label="Dracula : pages from a virgin's diary, film"]
+	UMLRM0135 -> UMLRM0136 [label="Expression de"]
+	UMLRM0137 [label="Dracula, un film de Guy Maddin, [réalisateur], ED distribution - ED distribution, [DL 2005], 1 DVD vidéo, monoface simple couche, PAL, surround (Dolby), toutes zones"]
+	UMLRM0136 -> UMLRM0137 [label="Manifestation de"]
+}

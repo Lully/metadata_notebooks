@@ -1,0 +1,12 @@
+// Notice UMLRM0156
+digraph UMLRM0156 {
+	rankdir=LR
+	size="20,20"
+	UMLRM0156 [label="Glass, Philip (1937-....), Dracula"]
+	UMLRM0157 [label="Glass, Philip (1937-....), Dracula, Musique exécutée"]
+	UMLRM0156 -> UMLRM0157 [label="Expression de"]
+	UMLRM0158 [label="Dracula, music by Philip Glass, [WEA Europe] - [distrib. Warner music France], [P 1999], 1 disque compact"]
+	UMLRM0157 -> UMLRM0158 [label="Manifestation de"]
+	UMLRM0160 [label="Dracula, Tod Browning, [réalisateur], Universal StudioCanal vidéo - Universal StudioCanal vidéo, 2014 - 2014, 1 BD vidéo"]
+	UMLRM0157 -> UMLRM0160 [label="Manifestation de"]
+}

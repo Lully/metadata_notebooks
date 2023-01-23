@@ -1,0 +1,10 @@
+// Notice UMLRM0075
+digraph UMLRM0075 {
+	rankdir=LR
+	size="20,20"
+	UMLRM0075 [label="Stoker, Bram (1847-1912), Dracula's guest"]
+	UMLRM0076 [label="Stoker, Bram (1847-1912), Dracula’s guest, Texte noté"]
+	UMLRM0075 -> UMLRM0076 [label="Expression de"]
+	UMLRM0077 [label="Dracula - suivi de L'invité de Dracula, Bram Stoker, Pocket, 2011, 1 volume (575 pages), couverture illustrée"]
+	UMLRM0076 -> UMLRM0077 [label="Manifestation de"]
+}

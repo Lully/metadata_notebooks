@@ -11,3 +11,13 @@ input {font-style: italic;
 
 .avail {background-color: #beff9f}
 .unavail {background-color: #ffe2d7}
+
+div.pro {padding-top: 50px;
+background-color: #efefef;
+color: #a7a7a7}
+
+.filters .filters2 {margin-top: 10px;
+					font-size: 0.9em;}
+					
+.filters .filters2 a {text-decoration: none;
+					  color: #801a00;}

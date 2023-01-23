@@ -1,0 +1,10 @@
+// Notice UMLRM0163
+digraph UMLRM0163 {
+	rankdir=LR
+	size="20,20"
+	UMLRM0163 [label="Drácula, film, 1931"]
+	UMLRM0162 [label="Drácula, film, 1931"]
+	UMLRM0163 -> UMLRM0162 [label="Expression de"]
+	UMLRM0160 [label="Dracula, Tod Browning, [réalisateur], Universal StudioCanal vidéo - Universal StudioCanal vidéo, 2014 - 2014, 1 BD vidéo"]
+	UMLRM0162 -> UMLRM0160 [label="Manifestation de"]
+}

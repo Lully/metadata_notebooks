@@ -1,0 +1,6 @@
+// Notice UMLRM0141
+digraph UMLRM0141 {
+	rankdir=LR
+	size="20,20"
+	UMLRM0141 [label="Valls de Gomis, Estelle (1973-...), Le vampire au fil des siècles : docimasie d'un mythe"]
+}

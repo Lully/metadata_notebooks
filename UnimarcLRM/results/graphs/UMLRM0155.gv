@@ -1,0 +1,6 @@
+// Notice UMLRM0155
+digraph UMLRM0155 {
+	rankdir=LR
+	size="20,20"
+	UMLRM0155 [label="Deane, Hamilton (1879-1958) - Balderston, John L. (1889-1954), Dracula"]
+}

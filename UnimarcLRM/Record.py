@@ -84,6 +84,7 @@ class Oeuvre(Record):
         self.subjects = get_subjects(xml_record)
         self.genreforme = get_genreforme(xml_record)
         self.detailed = construct_detailed_work(self)
+        self.exprResp = None  # Mentions de responsabilités aux niveau des expressions
         self.lang = None
 
     def __repr__(self):

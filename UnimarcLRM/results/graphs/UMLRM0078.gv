@@ -1,0 +1,10 @@
+// Notice UMLRM0078
+digraph UMLRM0078 {
+	rankdir=LR
+	size="20,20"
+	UMLRM0078 [label="Bram Stoker's Dracula, film"]
+	UMLRM0079 [label="Bram Stoker's Dracula, film"]
+	UMLRM0078 -> UMLRM0079 [label="Expression de"]
+	UMLRM0080 [label="Bram Stoker's Dracula, Gary Oldman, Winona Ryder, Anthony Hopkins... [et autres], [acteurs], Sony pictures entertainment, 1993 - 1992, 2 LaserDiscs,  4/3, NTSC"]
+	UMLRM0079 -> UMLRM0080 [label="Manifestation de"]
+}

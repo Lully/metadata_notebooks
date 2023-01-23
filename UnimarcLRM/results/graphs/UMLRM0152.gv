@@ -1,0 +1,10 @@
+// Notice UMLRM0152
+digraph UMLRM0152 {
+	rankdir=LR
+	size="20,20"
+	UMLRM0152 [label="[Photographies extraites du film \"Dracula\" de Tod Browning], 1932"]
+	UMLRM0153 [label="[Photographies extraites du film « Dracula » de Tod Browning], 1932, Image fixe"]
+	UMLRM0152 -> UMLRM0153 [label="Expression de"]
+	UMLRM0060 [label="Dracula, Brahm Stoker, Éditions J. Tallandier, 1932, 1 volume (96 pages – planches non numérotées), couverture illustrée en couleur"]
+	UMLRM0153 -> UMLRM0060 [label="Manifestation de"]
+}
