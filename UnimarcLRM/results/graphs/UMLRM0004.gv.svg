@@ -12,398 +12,398 @@
 <!-- UMLRM0004 -->
 <g id="node1" class="node">
 <title>UMLRM0004</title>
-<ellipse fill="none" stroke="black" cx="137.79" cy="-342" rx="137.58" ry="18"/>
-<text text-anchor="middle" x="137.79" y="-338.3" font-family="Times New Roman,serif" font-size="14.00">Stoker, Bram (1847&#45;1912), Dracula</text>
+<ellipse fill="none" stroke="black" cx="1761.97" cy="-342" rx="137.58" ry="18"/>
+<text text-anchor="middle" x="1761.97" y="-338.3" font-family="Times New Roman,serif" font-size="14.00">Stoker, Bram (1847&#45;1912), Dracula</text>
 </g>
 <!-- UMLRM0005 -->
 <g id="node2" class="node">
 <title>UMLRM0005</title>
-<ellipse fill="none" stroke="black" cx="589.81" cy="-990" rx="181.17" ry="18"/>
-<text text-anchor="middle" x="589.81" y="-986.3" font-family="Times New Roman,serif" font-size="14.00">Stoker, Bram (1847&#45;1912), Dracula, Texte noté</text>
+<ellipse fill="none" stroke="black" cx="1309.95" cy="-990" rx="181.17" ry="18"/>
+<text text-anchor="middle" x="1309.95" y="-986.3" font-family="Times New Roman,serif" font-size="14.00">Stoker, Bram (1847&#45;1912), Dracula, Texte noté</text>
 </g>
-<!-- UMLRM0004&#45;&gt;UMLRM0005 -->
+<!-- UMLRM0005&#45;&gt;UMLRM0004 -->
 <g id="edge1" class="edge">
-<title>UMLRM0004&#45;&gt;UMLRM0005</title>
-<path fill="none" stroke="black" d="M145.21,-360.3C169.49,-427.77 260.98,-666.97 391.58,-828 438.06,-885.31 507.52,-936.61 550.4,-965.47"/>
-<polygon fill="black" stroke="black" points="548.39,-968.33 558.66,-970.96 552.27,-962.51 548.39,-968.33"/>
-<text text-anchor="middle" x="333.58" y="-807.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
-</g>
-<!-- UMLRM0020 -->
-<g id="node5" class="node">
-<title>UMLRM0020</title>
-<ellipse fill="none" stroke="black" cx="589.81" cy="-801" rx="181.17" ry="18"/>
-<text text-anchor="middle" x="589.81" y="-797.3" font-family="Times New Roman,serif" font-size="14.00">Stoker, Bram (1847&#45;1912), Dracula, Texte noté</text>
-</g>
-<!-- UMLRM0004&#45;&gt;UMLRM0020 -->
-<g id="edge4" class="edge">
-<title>UMLRM0004&#45;&gt;UMLRM0020</title>
-<path fill="none" stroke="black" d="M152.32,-360.2C178.58,-395.25 238.68,-474.18 293.58,-537 334.94,-584.34 345.43,-596.31 391.58,-639 446.98,-690.26 515.98,-745.03 555.95,-775.94"/>
-<polygon fill="black" stroke="black" points="553.73,-778.65 563.78,-781.98 558,-773.1 553.73,-778.65"/>
-<text text-anchor="middle" x="333.58" y="-623.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
-</g>
-<!-- UMLRM0041 -->
-<g id="node11" class="node">
-<title>UMLRM0041</title>
-<ellipse fill="none" stroke="black" cx="589.81" cy="-612" rx="181.17" ry="18"/>
-<text text-anchor="middle" x="589.81" y="-608.3" font-family="Times New Roman,serif" font-size="14.00">Stoker, Bram (1847&#45;1912), Dracula, Texte noté</text>
-</g>
-<!-- UMLRM0004&#45;&gt;UMLRM0041 -->
-<g id="edge10" class="edge">
-<title>UMLRM0004&#45;&gt;UMLRM0041</title>
-<path fill="none" stroke="black" d="M159.17,-360.1C200.61,-396.22 298.63,-478.29 391.58,-531 434.34,-555.25 485.83,-576.14 525.47,-590.63"/>
-<polygon fill="black" stroke="black" points="524.04,-593.84 534.63,-593.94 526.41,-587.25 524.04,-593.84"/>
-<text text-anchor="middle" x="333.58" y="-521.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
-</g>
-<!-- UMLRM0050 -->
-<g id="node14" class="node">
-<title>UMLRM0050</title>
-<ellipse fill="none" stroke="black" cx="589.81" cy="-504" rx="181.17" ry="18"/>
-<text text-anchor="middle" x="589.81" y="-500.3" font-family="Times New Roman,serif" font-size="14.00">Stoker, Bram (1847&#45;1912), Dracula, Texte noté</text>
-</g>
-<!-- UMLRM0004&#45;&gt;UMLRM0050 -->
-<g id="edge13" class="edge">
-<title>UMLRM0004&#45;&gt;UMLRM0050</title>
-<path fill="none" stroke="black" d="M186.52,-359.18C269.12,-388.92 438.52,-449.9 528.9,-482.43"/>
-<polygon fill="black" stroke="black" points="527.5,-485.65 538.09,-485.74 529.87,-479.06 527.5,-485.65"/>
-<text text-anchor="middle" x="333.58" y="-426.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
-</g>
-<!-- UMLRM0053 -->
-<g id="node17" class="node">
-<title>UMLRM0053</title>
-<ellipse fill="none" stroke="black" cx="589.81" cy="-387" rx="181.17" ry="18"/>
-<text text-anchor="middle" x="589.81" y="-383.3" font-family="Times New Roman,serif" font-size="14.00">Stoker, Bram (1847&#45;1912), Dracula, Texte noté</text>
-</g>
-<!-- UMLRM0004&#45;&gt;UMLRM0053 -->
-<g id="edge16" class="edge">
-<title>UMLRM0004&#45;&gt;UMLRM0053</title>
-<path fill="none" stroke="black" d="M248.59,-352.98C308.85,-359.01 384.21,-366.54 448.67,-372.99"/>
-<polygon fill="black" stroke="black" points="447.94,-376.43 458.24,-373.94 448.64,-369.47 447.94,-376.43"/>
-<text text-anchor="middle" x="333.58" y="-367.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
-</g>
-<!-- UMLRM0056 -->
-<g id="node21" class="node">
-<title>UMLRM0056</title>
-<ellipse fill="none" stroke="black" cx="589.81" cy="-288" rx="181.17" ry="18"/>
-<text text-anchor="middle" x="589.81" y="-284.3" font-family="Times New Roman,serif" font-size="14.00">Stoker, Bram (1847&#45;1912), Dracula, Texte noté</text>
-</g>
-<!-- UMLRM0004&#45;&gt;UMLRM0056 -->
-<g id="edge20" class="edge">
-<title>UMLRM0004&#45;&gt;UMLRM0056</title>
-<path fill="none" stroke="black" d="M240.9,-329.75C306.14,-321.92 391.25,-311.71 460.96,-303.34"/>
-<polygon fill="black" stroke="black" points="460.99,-306.86 470.5,-302.2 460.16,-299.91 460.99,-306.86"/>
-<text text-anchor="middle" x="333.58" y="-325.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
-</g>
-<!-- UMLRM0059 -->
-<g id="node24" class="node">
-<title>UMLRM0059</title>
-<ellipse fill="none" stroke="black" cx="589.81" cy="-231" rx="181.17" ry="18"/>
-<text text-anchor="middle" x="589.81" y="-227.3" font-family="Times New Roman,serif" font-size="14.00">Stoker, Bram (1847&#45;1912), Dracula, Texte noté</text>
-</g>
-<!-- UMLRM0004&#45;&gt;UMLRM0059 -->
-<g id="edge23" class="edge">
-<title>UMLRM0004&#45;&gt;UMLRM0059</title>
-<path fill="none" stroke="black" d="M185.22,-324.66C235.45,-306.48 318.22,-278.22 391.58,-261 414.5,-255.62 439.16,-250.98 463.01,-247.07"/>
-<polygon fill="black" stroke="black" points="463.46,-250.54 472.78,-245.51 462.35,-243.63 463.46,-250.54"/>
-<text text-anchor="middle" x="333.58" y="-289.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
-</g>
-<!-- UMLRM0065 -->
-<g id="node26" class="node">
-<title>UMLRM0065</title>
-<ellipse fill="none" stroke="black" cx="589.81" cy="-170" rx="181.17" ry="18"/>
-<text text-anchor="middle" x="589.81" y="-166.3" font-family="Times New Roman,serif" font-size="14.00">Stoker, Bram (1847&#45;1912), Dracula, Texte noté</text>
-</g>
-<!-- UMLRM0004&#45;&gt;UMLRM0065 -->
-<g id="edge25" class="edge">
-<title>UMLRM0004&#45;&gt;UMLRM0065</title>
-<path fill="none" stroke="black" d="M165.53,-324.03C195.88,-304 247.2,-271.26 293.58,-247 335.72,-224.95 346.03,-217.7 391.58,-204 415.17,-196.91 440.81,-191.13 465.57,-186.5"/>
-<polygon fill="black" stroke="black" points="466.17,-189.94 475.39,-184.71 464.92,-183.06 466.17,-189.94"/>
-<text text-anchor="middle" x="333.58" y="-250.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
-</g>
-<!-- UMLRM0068 -->
-<g id="node28" class="node">
-<title>UMLRM0068</title>
-<ellipse fill="none" stroke="black" cx="589.81" cy="-103" rx="181.17" ry="18"/>
-<text text-anchor="middle" x="589.81" y="-99.3" font-family="Times New Roman,serif" font-size="14.00">Stoker, Bram (1847&#45;1912), Dracula, Texte noté</text>
-</g>
-<!-- UMLRM0004&#45;&gt;UMLRM0068 -->
-<g id="edge27" class="edge">
-<title>UMLRM0004&#45;&gt;UMLRM0068</title>
-<path fill="none" stroke="black" d="M153.96,-323.82C180.06,-293.38 236.2,-231.46 293.58,-191 345.62,-154.3 413.12,-132.7 470.45,-120.09"/>
-<polygon fill="black" stroke="black" points="470.86,-123.58 479.91,-118.08 469.41,-116.74 470.86,-123.58"/>
-<text text-anchor="middle" x="333.58" y="-194.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
-</g>
-<!-- UMLRM0187 -->
-<g id="node30" class="node">
-<title>UMLRM0187</title>
-<ellipse fill="none" stroke="black" cx="589.81" cy="-22" rx="198.47" ry="18"/>
-<text text-anchor="middle" x="589.81" y="-18.3" font-family="Times New Roman,serif" font-size="14.00">Stoker, Bram (1847&#45;1912), Dracula, Parole énoncée</text>
-</g>
-<!-- UMLRM0004&#45;&gt;UMLRM0187 -->
-<g id="edge29" class="edge">
-<title>UMLRM0004&#45;&gt;UMLRM0187</title>
-<path fill="none" stroke="black" d="M148.71,-323.73C170.63,-284.64 226.59,-191.63 293.58,-132 347.15,-84.31 423.3,-56.62 484.84,-40.94"/>
-<polygon fill="black" stroke="black" points="485.42,-44.41 494.29,-38.61 483.74,-37.61 485.42,-44.41"/>
-<text text-anchor="middle" x="333.58" y="-135.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
+<title>UMLRM0005&#45;&gt;UMLRM0004</title>
+<path fill="none" stroke="black" d="M1339.83,-971.8C1381.27,-944.57 1458.08,-889.78 1508.18,-828 1632.65,-674.52 1721.6,-450.02 1750.69,-370.9"/>
+<polygon fill="black" stroke="black" points="1753.89,-372.32 1754.02,-361.72 1747.32,-369.92 1753.89,-372.32"/>
+<text text-anchor="middle" x="1566.18" y="-807.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
 </g>
 <!-- UMLRM0006 -->
 <g id="node3" class="node">
 <title>UMLRM0006</title>
-<ellipse fill="none" stroke="black" cx="1408.4" cy="-1044" rx="449.52" ry="18"/>
-<text text-anchor="middle" x="1408.4" y="-1040.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, Pan books &#45; &#160;Imprimerie Firmin&#45;Didot, 1992, 1 volume (382 pages), couverture illustrée en couleur</text>
+<ellipse fill="none" stroke="black" cx="491.36" cy="-1044" rx="449.52" ry="18"/>
+<text text-anchor="middle" x="491.36" y="-1040.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, Pan books &#45; &#160;Imprimerie Firmin&#45;Didot, 1992, 1 volume (382 pages), couverture illustrée en couleur</text>
 </g>
-<!-- UMLRM0005&#45;&gt;UMLRM0006 -->
+<!-- UMLRM0006&#45;&gt;UMLRM0005 -->
 <g id="edge2" class="edge">
-<title>UMLRM0005&#45;&gt;UMLRM0006</title>
-<path fill="none" stroke="black" d="M725.69,-1002.24C752.31,-1004.56 780.05,-1006.92 806.04,-1009 904.31,-1016.88 1011.75,-1023.7 1108.28,-1029.18"/>
-<polygon fill="black" stroke="black" points="1108,-1032.67 1118.18,-1029.73 1108.39,-1025.68 1108,-1032.67"/>
-<text text-anchor="middle" x="852.54" y="-1018.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+<title>UMLRM0006&#45;&gt;UMLRM0005</title>
+<path fill="none" stroke="black" d="M780.06,-1029.82C879.48,-1024.24 991.55,-1017.19 1093.71,-1009 1116.05,-1007.21 1139.67,-1005.22 1162.78,-1003.22"/>
+<polygon fill="black" stroke="black" points="1162.9,-1006.73 1172.56,-1002.37 1162.29,-999.75 1162.9,-1006.73"/>
+<text text-anchor="middle" x="1047.21" y="-1018.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
 </g>
 <!-- UMLRM0018 -->
 <g id="node4" class="node">
 <title>UMLRM0018</title>
-<ellipse fill="none" stroke="black" cx="1408.4" cy="-990" rx="293.55" ry="18"/>
-<text text-anchor="middle" x="1408.4" y="-986.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, by Bram Stoker, W. Rider and son, 1992, 1 volume (VIII&#45;404 pages)</text>
+<ellipse fill="none" stroke="black" cx="491.36" cy="-990" rx="293.55" ry="18"/>
+<text text-anchor="middle" x="491.36" y="-986.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, by Bram Stoker, W. Rider and son, 1992, 1 volume (VIII&#45;404 pages)</text>
 </g>
-<!-- UMLRM0005&#45;&gt;UMLRM0018 -->
+<!-- UMLRM0018&#45;&gt;UMLRM0005 -->
 <g id="edge3" class="edge">
-<title>UMLRM0005&#45;&gt;UMLRM0018</title>
-<path fill="none" stroke="black" d="M771.28,-990C868.69,-990 991.55,-990 1103.26,-990"/>
-<polygon fill="black" stroke="black" points="1103.21,-993.5 1113.21,-990 1103.21,-986.5 1103.21,-993.5"/>
-<text text-anchor="middle" x="852.54" y="-993.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+<title>UMLRM0018&#45;&gt;UMLRM0005</title>
+<path fill="none" stroke="black" d="M785.15,-990C895.51,-990 1018.13,-990 1116.98,-990"/>
+<polygon fill="black" stroke="black" points="1116.79,-993.5 1126.79,-990 1116.79,-986.5 1116.79,-993.5"/>
+<text text-anchor="middle" x="1047.21" y="-993.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+</g>
+<!-- UMLRM0020 -->
+<g id="node5" class="node">
+<title>UMLRM0020</title>
+<ellipse fill="none" stroke="black" cx="1309.95" cy="-801" rx="181.17" ry="18"/>
+<text text-anchor="middle" x="1309.95" y="-797.3" font-family="Times New Roman,serif" font-size="14.00">Stoker, Bram (1847&#45;1912), Dracula, Texte noté</text>
+</g>
+<!-- UMLRM0020&#45;&gt;UMLRM0004 -->
+<g id="edge4" class="edge">
+<title>UMLRM0020&#45;&gt;UMLRM0004</title>
+<path fill="none" stroke="black" d="M1334.77,-782.9C1372.62,-753.83 1448.33,-694.37 1508.18,-639 1554.33,-596.31 1564.81,-584.34 1606.18,-537 1656.78,-479.09 1711.81,-407.48 1740.67,-369.19"/>
+<polygon fill="black" stroke="black" points="1743.31,-371.51 1746.52,-361.41 1737.71,-367.3 1743.31,-371.51"/>
+<text text-anchor="middle" x="1566.18" y="-623.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
 </g>
 <!-- UMLRM0021 -->
 <g id="node6" class="node">
 <title>UMLRM0021</title>
-<ellipse fill="none" stroke="black" cx="1408.4" cy="-936" rx="445.72" ry="18"/>
-<text text-anchor="middle" x="1408.4" y="-932.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, J&#39;ai lu &#45; mprimerie Brodard et Taupin, 2005, 1 volume (574 pages), couverture illustrée en couleur</text>
+<ellipse fill="none" stroke="black" cx="491.36" cy="-936" rx="445.72" ry="18"/>
+<text text-anchor="middle" x="491.36" y="-932.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, J&#39;ai lu &#45; mprimerie Brodard et Taupin, 2005, 1 volume (574 pages), couverture illustrée en couleur</text>
 </g>
-<!-- UMLRM0020&#45;&gt;UMLRM0021 -->
+<!-- UMLRM0021&#45;&gt;UMLRM0020 -->
 <g id="edge5" class="edge">
-<title>UMLRM0020&#45;&gt;UMLRM0021</title>
-<path fill="none" stroke="black" d="M632.86,-818.93C694.1,-844.11 811.97,-889.08 917.04,-909 951.49,-915.53 987.52,-920.66 1023.74,-924.67"/>
-<polygon fill="black" stroke="black" points="1023.16,-928.13 1033.48,-925.72 1023.91,-921.17 1023.16,-928.13"/>
-<text text-anchor="middle" x="852.54" y="-908.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+<title>UMLRM0021&#45;&gt;UMLRM0020</title>
+<path fill="none" stroke="black" d="M864.77,-925.88C904.76,-921.71 944.7,-916.21 982.71,-909 1082.04,-890.17 1192.8,-848.95 1256.35,-823.23"/>
+<polygon fill="black" stroke="black" points="1257.55,-826.52 1265.49,-819.5 1254.91,-820.04 1257.55,-826.52"/>
+<text text-anchor="middle" x="1047.21" y="-908.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
 </g>
 <!-- UMLRM0024 -->
 <g id="node7" class="node">
 <title>UMLRM0024</title>
-<ellipse fill="none" stroke="black" cx="1408.4" cy="-882" rx="361.24" ry="18"/>
-<text text-anchor="middle" x="1408.4" y="-878.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, Gérard et Cie, 1963, 1 volume (569 pages), couverture illustrée en couleur</text>
+<ellipse fill="none" stroke="black" cx="491.36" cy="-882" rx="361.24" ry="18"/>
+<text text-anchor="middle" x="491.36" y="-878.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, Gérard et Cie, 1963, 1 volume (569 pages), couverture illustrée en couleur</text>
 </g>
-<!-- UMLRM0020&#45;&gt;UMLRM0024 -->
+<!-- UMLRM0024&#45;&gt;UMLRM0020 -->
 <g id="edge6" class="edge">
-<title>UMLRM0020&#45;&gt;UMLRM0024</title>
-<path fill="none" stroke="black" d="M673.93,-817.33C739.66,-829.62 833.87,-845.85 917.04,-855 977.5,-861.65 1042.35,-866.69 1104.44,-870.5"/>
-<polygon fill="black" stroke="black" points="1103.88,-873.97 1114.08,-871.08 1104.31,-866.99 1103.88,-873.97"/>
-<text text-anchor="middle" x="852.54" y="-854.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+<title>UMLRM0024&#45;&gt;UMLRM0020</title>
+<path fill="none" stroke="black" d="M784.16,-871.17C849.6,-867.29 918.62,-862.05 982.71,-855 1061.34,-846.35 1149.83,-831.37 1214.79,-819.38"/>
+<polygon fill="black" stroke="black" points="1215.14,-822.88 1224.33,-817.61 1213.86,-815.99 1215.14,-822.88"/>
+<text text-anchor="middle" x="1047.21" y="-854.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
 </g>
 <!-- UMLRM0027 -->
 <g id="node8" class="node">
 <title>UMLRM0027</title>
-<ellipse fill="none" stroke="black" cx="1408.4" cy="-828" rx="491.21" ry="18"/>
-<text text-anchor="middle" x="1408.4" y="-824.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, Éd. J&#39;ai lu &#45; mprimerie Brodard et Taupin, 1992, 1 volume (XXIV&#45;505 pages), illustrations, couverture illustrée</text>
+<ellipse fill="none" stroke="black" cx="491.36" cy="-828" rx="491.21" ry="18"/>
+<text text-anchor="middle" x="491.36" y="-824.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, Éd. J&#39;ai lu &#45; mprimerie Brodard et Taupin, 1992, 1 volume (XXIV&#45;505 pages), illustrations, couverture illustrée</text>
 </g>
-<!-- UMLRM0020&#45;&gt;UMLRM0027 -->
+<!-- UMLRM0027&#45;&gt;UMLRM0020 -->
 <g id="edge7" class="edge">
-<title>UMLRM0020&#45;&gt;UMLRM0027</title>
-<path fill="none" stroke="black" d="M762.49,-806.68C839.92,-809.24 934.69,-812.37 1027.49,-815.44"/>
-<polygon fill="black" stroke="black" points="1027.17,-818.93 1037.28,-815.76 1027.41,-811.93 1027.17,-818.93"/>
-<text text-anchor="middle" x="852.54" y="-813.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+<title>UMLRM0027&#45;&gt;UMLRM0020</title>
+<path fill="none" stroke="black" d="M860.93,-815.81C952.82,-812.78 1047.41,-809.65 1125.86,-807.05"/>
+<polygon fill="black" stroke="black" points="1125.93,-810.55 1135.81,-806.72 1125.7,-803.56 1125.93,-810.55"/>
+<text text-anchor="middle" x="1047.21" y="-813.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
 </g>
 <!-- UMLRM0030 -->
 <g id="node9" class="node">
 <title>UMLRM0030</title>
-<ellipse fill="none" stroke="black" cx="1408.4" cy="-774" rx="460.32" ry="18"/>
-<text text-anchor="middle" x="1408.4" y="-770.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, Hachette &#45; Imprimerie Brodard et Taupin, 1988, 1 volume (534 pages), couverture illustrée en couleur</text>
+<ellipse fill="none" stroke="black" cx="491.36" cy="-774" rx="460.32" ry="18"/>
+<text text-anchor="middle" x="491.36" y="-770.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, Hachette &#45; Imprimerie Brodard et Taupin, 1988, 1 volume (534 pages), couverture illustrée en couleur</text>
 </g>
-<!-- UMLRM0020&#45;&gt;UMLRM0030 -->
+<!-- UMLRM0030&#45;&gt;UMLRM0020 -->
 <g id="edge8" class="edge">
-<title>UMLRM0020&#45;&gt;UMLRM0030</title>
-<path fill="none" stroke="black" d="M746.84,-791.73C766.76,-790.72 786.88,-789.77 806.04,-789 864.86,-786.63 926.93,-784.57 987.97,-782.81"/>
-<polygon fill="black" stroke="black" points="987.94,-786.31 997.84,-782.53 987.74,-779.32 987.94,-786.31"/>
-<text text-anchor="middle" x="852.54" y="-792.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+<title>UMLRM0030&#45;&gt;UMLRM0020</title>
+<path fill="none" stroke="black" d="M900.4,-782.48C965.08,-784.32 1031.23,-786.48 1093.71,-789 1109.28,-789.63 1125.48,-790.37 1141.7,-791.17"/>
+<polygon fill="black" stroke="black" points="1141.24,-794.65 1151.4,-791.66 1141.59,-787.66 1141.24,-794.65"/>
+<text text-anchor="middle" x="1047.21" y="-792.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
 </g>
 <!-- UMLRM0110 -->
 <g id="node10" class="node">
 <title>UMLRM0110</title>
-<ellipse fill="none" stroke="black" cx="1408.4" cy="-720" rx="439.22" ry="18"/>
-<text text-anchor="middle" x="1408.4" y="-716.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, Éditions Opta, 1968, 1 volume (XX&#45;413 pages), illustrations en noir et blanc, cartonnage illustré</text>
+<ellipse fill="none" stroke="black" cx="491.36" cy="-720" rx="439.22" ry="18"/>
+<text text-anchor="middle" x="491.36" y="-716.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, Éditions Opta, 1968, 1 volume (XX&#45;413 pages), illustrations en noir et blanc, cartonnage illustré</text>
 </g>
-<!-- UMLRM0020&#45;&gt;UMLRM0110 -->
+<!-- UMLRM0110&#45;&gt;UMLRM0020 -->
 <g id="edge9" class="edge">
-<title>UMLRM0020&#45;&gt;UMLRM0110</title>
-<path fill="none" stroke="black" d="M673.93,-784.67C739.66,-772.38 833.87,-756.15 917.04,-747 968.17,-741.38 1022.44,-736.91 1075.52,-733.35"/>
-<polygon fill="black" stroke="black" points="1075.57,-736.86 1085.32,-732.71 1075.11,-729.87 1075.57,-736.86"/>
-<text text-anchor="middle" x="852.54" y="-764.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+<title>UMLRM0110&#45;&gt;UMLRM0020</title>
+<path fill="none" stroke="black" d="M812.92,-732.61C869.58,-736.27 927.94,-740.98 982.71,-747 1061.34,-755.65 1149.83,-770.63 1214.79,-782.62"/>
+<polygon fill="black" stroke="black" points="1213.86,-786.01 1224.33,-784.39 1215.14,-779.12 1213.86,-786.01"/>
+<text text-anchor="middle" x="1047.21" y="-764.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+</g>
+<!-- UMLRM0041 -->
+<g id="node11" class="node">
+<title>UMLRM0041</title>
+<ellipse fill="none" stroke="black" cx="1309.95" cy="-612" rx="181.17" ry="18"/>
+<text text-anchor="middle" x="1309.95" y="-608.3" font-family="Times New Roman,serif" font-size="14.00">Stoker, Bram (1847&#45;1912), Dracula, Texte noté</text>
+</g>
+<!-- UMLRM0041&#45;&gt;UMLRM0004 -->
+<g id="edge10" class="edge">
+<title>UMLRM0041&#45;&gt;UMLRM0004</title>
+<path fill="none" stroke="black" d="M1363.7,-594.45C1404.41,-579.95 1461.49,-557.48 1508.18,-531 1595.14,-481.69 1686.53,-406.68 1731.88,-367.64"/>
+<polygon fill="black" stroke="black" points="1734.17,-370.29 1739.44,-361.09 1729.59,-364.99 1734.17,-370.29"/>
+<text text-anchor="middle" x="1566.18" y="-521.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
 </g>
 <!-- UMLRM0042 -->
 <g id="node12" class="node">
 <title>UMLRM0042</title>
-<ellipse fill="none" stroke="black" cx="1408.4" cy="-666" rx="332.54" ry="18"/>
-<text text-anchor="middle" x="1408.4" y="-662.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, J&#39;ai lu, 2012, 1 volume (679 pages), couverture illustrée en couleur</text>
+<ellipse fill="none" stroke="black" cx="491.36" cy="-666" rx="332.54" ry="18"/>
+<text text-anchor="middle" x="491.36" y="-662.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, J&#39;ai lu, 2012, 1 volume (679 pages), couverture illustrée en couleur</text>
 </g>
-<!-- UMLRM0041&#45;&gt;UMLRM0042 -->
+<!-- UMLRM0042&#45;&gt;UMLRM0041 -->
 <g id="edge11" class="edge">
-<title>UMLRM0041&#45;&gt;UMLRM0042</title>
-<path fill="none" stroke="black" d="M725.69,-624.24C752.31,-626.56 780.05,-628.92 806.04,-631 917.18,-639.91 1040.05,-647.47 1145.6,-653.26"/>
-<polygon fill="black" stroke="black" points="1145.38,-656.75 1155.56,-653.8 1145.76,-649.76 1145.38,-656.75"/>
-<text text-anchor="middle" x="852.54" y="-640.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+<title>UMLRM0042&#45;&gt;UMLRM0041</title>
+<path fill="none" stroke="black" d="M742.68,-653.88C850.73,-648.02 978.52,-640.23 1093.71,-631 1116.05,-629.21 1139.67,-627.22 1162.78,-625.22"/>
+<polygon fill="black" stroke="black" points="1162.9,-628.73 1172.56,-624.37 1162.29,-621.75 1162.9,-628.73"/>
+<text text-anchor="middle" x="1047.21" y="-640.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
 </g>
 <!-- UMLRM0045 -->
 <g id="node13" class="node">
 <title>UMLRM0045</title>
-<ellipse fill="none" stroke="black" cx="1408.4" cy="-612" rx="471.42" ry="18"/>
-<text text-anchor="middle" x="1408.4" y="-608.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, Le camion blanc &#45; Imprimerie Acort Europe, 2010, 1 volume (741 pages), couverture illustrée en couleur</text>
+<ellipse fill="none" stroke="black" cx="491.36" cy="-612" rx="471.42" ry="18"/>
+<text text-anchor="middle" x="491.36" y="-608.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, Le camion blanc &#45; Imprimerie Acort Europe, 2010, 1 volume (741 pages), couverture illustrée en couleur</text>
 </g>
-<!-- UMLRM0041&#45;&gt;UMLRM0045 -->
+<!-- UMLRM0045&#45;&gt;UMLRM0041 -->
 <g id="edge12" class="edge">
-<title>UMLRM0041&#45;&gt;UMLRM0045</title>
-<path fill="none" stroke="black" d="M771.28,-612C818.08,-612 870.75,-612 925.25,-612"/>
-<polygon fill="black" stroke="black" points="925.02,-615.5 935.02,-612 925.02,-608.5 925.02,-615.5"/>
-<text text-anchor="middle" x="852.54" y="-615.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+<title>UMLRM0045&#45;&gt;UMLRM0041</title>
+<path fill="none" stroke="black" d="M963.23,-612C1017.32,-612 1069.9,-612 1117.07,-612"/>
+<polygon fill="black" stroke="black" points="1116.79,-615.5 1126.79,-612 1116.79,-608.5 1116.79,-615.5"/>
+<text text-anchor="middle" x="1047.21" y="-615.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+</g>
+<!-- UMLRM0050 -->
+<g id="node14" class="node">
+<title>UMLRM0050</title>
+<ellipse fill="none" stroke="black" cx="1309.95" cy="-504" rx="181.17" ry="18"/>
+<text text-anchor="middle" x="1309.95" y="-500.3" font-family="Times New Roman,serif" font-size="14.00">Stoker, Bram (1847&#45;1912), Dracula, Texte noté</text>
+</g>
+<!-- UMLRM0050&#45;&gt;UMLRM0004 -->
+<g id="edge13" class="edge">
+<title>UMLRM0050&#45;&gt;UMLRM0004</title>
+<path fill="none" stroke="black" d="M1359.96,-486.35C1443.39,-456.32 1612.63,-395.4 1702.24,-363.14"/>
+<polygon fill="black" stroke="black" points="1703.38,-366.45 1711.61,-359.77 1701.01,-359.86 1703.38,-366.45"/>
+<text text-anchor="middle" x="1566.18" y="-426.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
 </g>
 <!-- UMLRM0051 -->
 <g id="node15" class="node">
 <title>UMLRM0051</title>
-<ellipse fill="none" stroke="black" cx="1408.4" cy="-558" rx="323.04" ry="18"/>
-<text text-anchor="middle" x="1408.4" y="-554.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, Pointdeux, DL 2013, 1 volume (919 pages), couverture illustrée</text>
+<ellipse fill="none" stroke="black" cx="491.36" cy="-558" rx="323.04" ry="18"/>
+<text text-anchor="middle" x="491.36" y="-554.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, Pointdeux, DL 2013, 1 volume (919 pages), couverture illustrée</text>
 </g>
-<!-- UMLRM0050&#45;&gt;UMLRM0051 -->
+<!-- UMLRM0051&#45;&gt;UMLRM0050 -->
 <g id="edge14" class="edge">
-<title>UMLRM0050&#45;&gt;UMLRM0051</title>
-<path fill="none" stroke="black" d="M725.69,-516.24C752.31,-518.56 780.05,-520.92 806.04,-523 918.68,-532.03 1043.36,-539.67 1149.86,-545.49"/>
-<polygon fill="black" stroke="black" points="1149.41,-548.97 1159.58,-546.02 1149.79,-541.98 1149.41,-548.97"/>
-<text text-anchor="middle" x="852.54" y="-532.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+<title>UMLRM0051&#45;&gt;UMLRM0050</title>
+<path fill="none" stroke="black" d="M738.66,-546.1C847.55,-540.21 977.09,-532.35 1093.71,-523 1116.05,-521.21 1139.67,-519.22 1162.78,-517.22"/>
+<polygon fill="black" stroke="black" points="1162.9,-520.73 1172.56,-516.37 1162.29,-513.75 1162.9,-520.73"/>
+<text text-anchor="middle" x="1047.21" y="-532.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
 </g>
 <!-- UMLRM0077 -->
 <g id="node16" class="node">
 <title>UMLRM0077</title>
-<ellipse fill="none" stroke="black" cx="1408.4" cy="-504" rx="403.73" ry="18"/>
-<text text-anchor="middle" x="1408.4" y="-500.3" font-family="Times New Roman,serif" font-size="14.00">Dracula &#45; suivi de L&#39;invité de Dracula, Bram Stoker, Pocket, 2011, 1 volume (575 pages), couverture illustrée</text>
+<ellipse fill="none" stroke="black" cx="491.36" cy="-504" rx="403.73" ry="18"/>
+<text text-anchor="middle" x="491.36" y="-500.3" font-family="Times New Roman,serif" font-size="14.00">Dracula &#45; suivi de L&#39;invité de Dracula, Bram Stoker, Pocket, 2011, 1 volume (575 pages), couverture illustrée</text>
 </g>
-<!-- UMLRM0050&#45;&gt;UMLRM0077 -->
+<!-- UMLRM0077&#45;&gt;UMLRM0050 -->
 <g id="edge15" class="edge">
-<title>UMLRM0050&#45;&gt;UMLRM0077</title>
-<path fill="none" stroke="black" d="M771.28,-504C837.2,-504 914.78,-504 992.68,-504"/>
-<polygon fill="black" stroke="black" points="992.65,-507.5 1002.65,-504 992.65,-500.5 992.65,-507.5"/>
-<text text-anchor="middle" x="852.54" y="-507.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+<title>UMLRM0077&#45;&gt;UMLRM0050</title>
+<path fill="none" stroke="black" d="M895.57,-504C972.81,-504 1050.29,-504 1116.95,-504"/>
+<polygon fill="black" stroke="black" points="1116.9,-507.5 1126.9,-504 1116.9,-500.5 1116.9,-507.5"/>
+<text text-anchor="middle" x="1047.21" y="-507.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+</g>
+<!-- UMLRM0053 -->
+<g id="node17" class="node">
+<title>UMLRM0053</title>
+<ellipse fill="none" stroke="black" cx="1309.95" cy="-387" rx="181.17" ry="18"/>
+<text text-anchor="middle" x="1309.95" y="-383.3" font-family="Times New Roman,serif" font-size="14.00">Stoker, Bram (1847&#45;1912), Dracula, Texte noté</text>
+</g>
+<!-- UMLRM0053&#45;&gt;UMLRM0004 -->
+<g id="edge16" class="edge">
+<title>UMLRM0053&#45;&gt;UMLRM0004</title>
+<path fill="none" stroke="black" d="M1439.9,-374.1C1502.74,-367.82 1577.88,-360.31 1639.67,-354.13"/>
+<polygon fill="black" stroke="black" points="1639.94,-357.62 1649.54,-353.14 1639.24,-350.65 1639.94,-357.62"/>
+<text text-anchor="middle" x="1566.18" y="-367.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
 </g>
 <!-- UMLRM0054 -->
 <g id="node18" class="node">
 <title>UMLRM0054</title>
-<ellipse fill="none" stroke="black" cx="1408.4" cy="-450" rx="422.43" ry="18"/>
-<text text-anchor="middle" x="1408.4" y="-446.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, le Livre de poche jeunesse, DL 2015, 1 volume (321 pages), couverture illustrée en couleur</text>
+<ellipse fill="none" stroke="black" cx="491.36" cy="-450" rx="422.43" ry="18"/>
+<text text-anchor="middle" x="491.36" y="-446.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, le Livre de poche jeunesse, DL 2015, 1 volume (321 pages), couverture illustrée en couleur</text>
 </g>
-<!-- UMLRM0053&#45;&gt;UMLRM0054 -->
+<!-- UMLRM0054&#45;&gt;UMLRM0053 -->
 <g id="edge17" class="edge">
-<title>UMLRM0053&#45;&gt;UMLRM0054</title>
-<path fill="none" stroke="black" d="M705.4,-401.2C767.88,-408.55 846.62,-417.18 917.04,-423 977.86,-428.03 1043,-432.35 1105.3,-435.98"/>
-<polygon fill="black" stroke="black" points="1104.79,-439.45 1114.98,-436.54 1105.19,-432.47 1104.79,-439.45"/>
-<text text-anchor="middle" x="852.54" y="-423.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+<title>UMLRM0054&#45;&gt;UMLRM0053</title>
+<path fill="none" stroke="black" d="M783.27,-436.62C848.91,-432.87 918.24,-428.33 982.71,-423 1049,-417.52 1122.67,-409.55 1183.21,-402.51"/>
+<polygon fill="black" stroke="black" points="1183.32,-406.02 1192.85,-401.38 1182.51,-399.06 1183.32,-406.02"/>
+<text text-anchor="middle" x="1047.21" y="-423.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
 </g>
 <!-- UMLRM0178 -->
 <g id="node19" class="node">
 <title>UMLRM0178</title>
-<ellipse fill="none" stroke="black" cx="1408.4" cy="-396" rx="443.82" ry="18"/>
-<text text-anchor="middle" x="1408.4" y="-392.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, Hachette &#45; &#160;Imprimerie CPI Bussière, 2011, 1 volume (321 pages), couverture illustrée en couleur</text>
+<ellipse fill="none" stroke="black" cx="491.36" cy="-396" rx="443.82" ry="18"/>
+<text text-anchor="middle" x="491.36" y="-392.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, Hachette &#45; &#160;Imprimerie CPI Bussière, 2011, 1 volume (321 pages), couverture illustrée en couleur</text>
 </g>
-<!-- UMLRM0053&#45;&gt;UMLRM0178 -->
+<!-- UMLRM0178&#45;&gt;UMLRM0053 -->
 <g id="edge18" class="edge">
-<title>UMLRM0053&#45;&gt;UMLRM0178</title>
-<path fill="none" stroke="black" d="M770.26,-388.98C829.43,-389.63 898.06,-390.39 967.92,-391.16"/>
-<polygon fill="black" stroke="black" points="967.59,-394.65 977.63,-391.26 967.67,-387.65 967.59,-394.65"/>
-<text text-anchor="middle" x="852.54" y="-393.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+<title>UMLRM0178&#45;&gt;UMLRM0053</title>
+<path fill="none" stroke="black" d="M920.68,-391.28C989.99,-390.52 1058.53,-389.76 1118.28,-389.1"/>
+<polygon fill="black" stroke="black" points="1118.25,-392.6 1128.21,-388.99 1118.17,-385.6 1118.25,-392.6"/>
+<text text-anchor="middle" x="1047.21" y="-393.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
 </g>
 <!-- UMLRM0179 -->
 <g id="node20" class="node">
 <title>UMLRM0179</title>
-<ellipse fill="none" stroke="black" cx="1408.4" cy="-342" rx="393.73" ry="18"/>
-<text text-anchor="middle" x="1408.4" y="-338.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, Hatier, DL 2013, 1 volume (317 pages), illustrations, couverture illustrée en couleur</text>
+<ellipse fill="none" stroke="black" cx="491.36" cy="-342" rx="393.73" ry="18"/>
+<text text-anchor="middle" x="491.36" y="-338.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, Hatier, DL 2013, 1 volume (317 pages), illustrations, couverture illustrée en couleur</text>
 </g>
-<!-- UMLRM0053&#45;&gt;UMLRM0179 -->
+<!-- UMLRM0179&#45;&gt;UMLRM0053 -->
 <g id="edge19" class="edge">
-<title>UMLRM0053&#45;&gt;UMLRM0179</title>
-<path fill="none" stroke="black" d="M730.27,-375.32C755.48,-373.4 781.54,-371.54 806.04,-370 900.64,-364.06 1003.68,-358.82 1097.31,-354.52"/>
-<polygon fill="black" stroke="black" points="1097.34,-358.02 1107.17,-354.07 1097.02,-351.03 1097.34,-358.02"/>
-<text text-anchor="middle" x="852.54" y="-373.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+<title>UMLRM0179&#45;&gt;UMLRM0053</title>
+<path fill="none" stroke="black" d="M791.07,-354C887.68,-358.39 995.27,-363.82 1093.71,-370 1114.58,-371.31 1136.57,-372.86 1158.2,-374.47"/>
+<polygon fill="black" stroke="black" points="1157.73,-377.95 1167.97,-375.21 1158.26,-370.97 1157.73,-377.95"/>
+<text text-anchor="middle" x="1047.21" y="-373.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+</g>
+<!-- UMLRM0056 -->
+<g id="node21" class="node">
+<title>UMLRM0056</title>
+<ellipse fill="none" stroke="black" cx="1309.95" cy="-288" rx="181.17" ry="18"/>
+<text text-anchor="middle" x="1309.95" y="-284.3" font-family="Times New Roman,serif" font-size="14.00">Stoker, Bram (1847&#45;1912), Dracula, Texte noté</text>
+</g>
+<!-- UMLRM0056&#45;&gt;UMLRM0004 -->
+<g id="edge20" class="edge">
+<title>UMLRM0056&#45;&gt;UMLRM0004</title>
+<path fill="none" stroke="black" d="M1428.01,-302.05C1495.85,-310.19 1580.85,-320.39 1647.98,-328.44"/>
+<polygon fill="black" stroke="black" points="1647.17,-331.87 1657.52,-329.59 1648.01,-324.92 1647.17,-331.87"/>
+<text text-anchor="middle" x="1566.18" y="-325.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
 </g>
 <!-- UMLRM0057 -->
 <g id="node22" class="node">
 <title>UMLRM0057</title>
-<ellipse fill="none" stroke="black" cx="1408.4" cy="-288" rx="372.33" ry="18"/>
-<text text-anchor="middle" x="1408.4" y="-284.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Brahm Stoker, l’Édition française illustrée, 1920, 1 volume (263 pages), couverture illustrée</text>
+<ellipse fill="none" stroke="black" cx="491.36" cy="-288" rx="372.33" ry="18"/>
+<text text-anchor="middle" x="491.36" y="-284.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Brahm Stoker, l’Édition française illustrée, 1920, 1 volume (263 pages), couverture illustrée</text>
 </g>
-<!-- UMLRM0056&#45;&gt;UMLRM0057 -->
+<!-- UMLRM0057&#45;&gt;UMLRM0056 -->
 <g id="edge21" class="edge">
-<title>UMLRM0056&#45;&gt;UMLRM0057</title>
-<path fill="none" stroke="black" d="M771.28,-288C846.17,-288 936.1,-288 1024.44,-288"/>
-<polygon fill="black" stroke="black" points="1024.25,-291.5 1034.25,-288 1024.25,-284.5 1024.25,-291.5"/>
-<text text-anchor="middle" x="852.54" y="-291.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+<title>UMLRM0057&#45;&gt;UMLRM0056</title>
+<path fill="none" stroke="black" d="M863.91,-288C951.52,-288 1041.4,-288 1117.25,-288"/>
+<polygon fill="black" stroke="black" points="1116.82,-291.5 1126.82,-288 1116.82,-284.5 1116.82,-291.5"/>
+<text text-anchor="middle" x="1047.21" y="-291.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
 </g>
 <!-- UMLRM0063 -->
 <g id="node23" class="node">
 <title>UMLRM0063</title>
-<ellipse fill="none" stroke="black" cx="1408.4" cy="-234" rx="378.03" ry="18"/>
-<text text-anchor="middle" x="1408.4" y="-230.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, les Éditions des Quatre&#45;vents, 1946, 1 volume (344 pages), couverture illustrée</text>
+<ellipse fill="none" stroke="black" cx="491.36" cy="-234" rx="378.03" ry="18"/>
+<text text-anchor="middle" x="491.36" y="-230.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, les Éditions des Quatre&#45;vents, 1946, 1 volume (344 pages), couverture illustrée</text>
 </g>
-<!-- UMLRM0056&#45;&gt;UMLRM0063 -->
+<!-- UMLRM0063&#45;&gt;UMLRM0056 -->
 <g id="edge22" class="edge">
-<title>UMLRM0056&#45;&gt;UMLRM0063</title>
-<path fill="none" stroke="black" d="M725.69,-275.76C752.31,-273.44 780.05,-271.08 806.04,-269 911.42,-260.55 1027.34,-253.32 1129.04,-247.66"/>
-<polygon fill="black" stroke="black" points="1129.12,-251.16 1138.91,-247.11 1128.73,-244.17 1129.12,-251.16"/>
-<text text-anchor="middle" x="852.54" y="-272.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+<title>UMLRM0063&#45;&gt;UMLRM0056</title>
+<path fill="none" stroke="black" d="M759.33,-247.03C863.71,-252.78 984.39,-260.24 1093.71,-269 1116.05,-270.79 1139.67,-272.78 1162.78,-274.78"/>
+<polygon fill="black" stroke="black" points="1162.29,-278.25 1172.56,-275.63 1162.9,-271.27 1162.29,-278.25"/>
+<text text-anchor="middle" x="1047.21" y="-272.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+</g>
+<!-- UMLRM0059 -->
+<g id="node24" class="node">
+<title>UMLRM0059</title>
+<ellipse fill="none" stroke="black" cx="1309.95" cy="-231" rx="181.17" ry="18"/>
+<text text-anchor="middle" x="1309.95" y="-227.3" font-family="Times New Roman,serif" font-size="14.00">Stoker, Bram (1847&#45;1912), Dracula, Texte noté</text>
+</g>
+<!-- UMLRM0059&#45;&gt;UMLRM0004 -->
+<g id="edge23" class="edge">
+<title>UMLRM0059&#45;&gt;UMLRM0004</title>
+<path fill="none" stroke="black" d="M1425.48,-245.27C1452.74,-249.53 1481.62,-254.77 1508.18,-261 1576.52,-277.04 1653.03,-302.67 1703.79,-320.8"/>
+<polygon fill="black" stroke="black" points="1702.52,-324.06 1713.11,-324.15 1704.89,-317.47 1702.52,-324.06"/>
+<text text-anchor="middle" x="1566.18" y="-289.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
 </g>
 <!-- UMLRM0060 -->
 <g id="node25" class="node">
 <title>UMLRM0060</title>
-<ellipse fill="none" stroke="black" cx="1408.4" cy="-180" rx="490.11" ry="18"/>
-<text text-anchor="middle" x="1408.4" y="-176.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Brahm Stoker, Éditions J. Tallandier, 1932, 1 volume (96 pages – planches non numérotées), couverture illustrée en couleur</text>
+<ellipse fill="none" stroke="black" cx="491.36" cy="-180" rx="490.11" ry="18"/>
+<text text-anchor="middle" x="491.36" y="-176.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Brahm Stoker, Éditions J. Tallandier, 1932, 1 volume (96 pages – planches non numérotées), couverture illustrée en couleur</text>
 </g>
-<!-- UMLRM0059&#45;&gt;UMLRM0060 -->
+<!-- UMLRM0060&#45;&gt;UMLRM0059 -->
 <g id="edge24" class="edge">
-<title>UMLRM0059&#45;&gt;UMLRM0060</title>
-<path fill="none" stroke="black" d="M676.89,-214.81C716.14,-208.1 763.29,-200.96 806.04,-197 849.51,-192.97 894.83,-189.8 940.22,-187.32"/>
-<polygon fill="black" stroke="black" points="940.13,-190.83 949.93,-186.8 939.76,-183.84 940.13,-190.83"/>
-<text text-anchor="middle" x="852.54" y="-200.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+<title>UMLRM0060&#45;&gt;UMLRM0059</title>
+<path fill="none" stroke="black" d="M948.31,-186.72C997.44,-189.28 1046.65,-192.64 1093.71,-197 1132.46,-200.59 1174.82,-206.79 1211.63,-212.91"/>
+<polygon fill="black" stroke="black" points="1210.93,-216.34 1221.37,-214.56 1212.09,-209.44 1210.93,-216.34"/>
+<text text-anchor="middle" x="1047.21" y="-200.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+</g>
+<!-- UMLRM0065 -->
+<g id="node26" class="node">
+<title>UMLRM0065</title>
+<ellipse fill="none" stroke="black" cx="1309.95" cy="-170" rx="181.17" ry="18"/>
+<text text-anchor="middle" x="1309.95" y="-166.3" font-family="Times New Roman,serif" font-size="14.00">Stoker, Bram (1847&#45;1912), Dracula, Texte noté</text>
+</g>
+<!-- UMLRM0065&#45;&gt;UMLRM0004 -->
+<g id="edge25" class="edge">
+<title>UMLRM0065&#45;&gt;UMLRM0004</title>
+<path fill="none" stroke="black" d="M1422.88,-184.44C1451.03,-189.4 1480.98,-195.82 1508.18,-204 1553.73,-217.7 1564.03,-224.95 1606.18,-247 1648.03,-268.89 1693.9,-297.69 1724.75,-317.82"/>
+<polygon fill="black" stroke="black" points="1722.67,-320.64 1732.95,-323.2 1726.51,-314.78 1722.67,-320.64"/>
+<text text-anchor="middle" x="1566.18" y="-250.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
 </g>
 <!-- UMLRM0066 -->
 <g id="node27" class="node">
 <title>UMLRM0066</title>
-<ellipse fill="none" stroke="black" cx="1408.4" cy="-126" rx="352.84" ry="18"/>
-<text text-anchor="middle" x="1408.4" y="-122.3" font-family="Times New Roman,serif" font-size="14.00">Drácula, Bram Stoker, Maxtor, DL 2017, 1 volume (540 pages), couverture illustrée en couleur</text>
+<ellipse fill="none" stroke="black" cx="491.36" cy="-126" rx="352.84" ry="18"/>
+<text text-anchor="middle" x="491.36" y="-122.3" font-family="Times New Roman,serif" font-size="14.00">Drácula, Bram Stoker, Maxtor, DL 2017, 1 volume (540 pages), couverture illustrée en couleur</text>
 </g>
-<!-- UMLRM0065&#45;&gt;UMLRM0066 -->
+<!-- UMLRM0066&#45;&gt;UMLRM0065 -->
 <g id="edge26" class="edge">
-<title>UMLRM0065&#45;&gt;UMLRM0066</title>
-<path fill="none" stroke="black" d="M694.6,-154.92C729.9,-150.35 769.62,-145.79 806.04,-143 885.61,-136.9 971.25,-132.93 1052.25,-130.35"/>
-<polygon fill="black" stroke="black" points="1052.25,-133.85 1062.13,-130.05 1052.03,-126.86 1052.25,-133.85"/>
-<text text-anchor="middle" x="852.54" y="-146.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+<title>UMLRM0066&#45;&gt;UMLRM0065</title>
+<path fill="none" stroke="black" d="M836.11,-130C920.43,-132.56 1010.4,-136.61 1093.71,-143 1126.29,-145.5 1161.52,-149.4 1193.84,-153.48"/>
+<polygon fill="black" stroke="black" points="1193.29,-156.93 1203.65,-154.73 1194.17,-149.99 1193.29,-156.93"/>
+<text text-anchor="middle" x="1047.21" y="-146.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+</g>
+<!-- UMLRM0068 -->
+<g id="node28" class="node">
+<title>UMLRM0068</title>
+<ellipse fill="none" stroke="black" cx="1309.95" cy="-103" rx="181.17" ry="18"/>
+<text text-anchor="middle" x="1309.95" y="-99.3" font-family="Times New Roman,serif" font-size="14.00">Stoker, Bram (1847&#45;1912), Dracula, Texte noté</text>
+</g>
+<!-- UMLRM0068&#45;&gt;UMLRM0004 -->
+<g id="edge27" class="edge">
+<title>UMLRM0068&#45;&gt;UMLRM0004</title>
+<path fill="none" stroke="black" d="M1418.36,-117.77C1477.86,-129.98 1550.78,-151.93 1606.18,-191 1658.62,-227.98 1710.04,-282.9 1738.42,-315.31"/>
+<polygon fill="black" stroke="black" points="1735.61,-317.41 1744.8,-322.68 1740.9,-312.83 1735.61,-317.41"/>
+<text text-anchor="middle" x="1566.18" y="-194.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
 </g>
 <!-- UMLRM0069 -->
 <g id="node29" class="node">
 <title>UMLRM0069</title>
-<ellipse fill="none" stroke="black" cx="1408.4" cy="-72" rx="462.52" ry="18"/>
-<text text-anchor="middle" x="1408.4" y="-68.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, l&#39;École des loisirs &#45; Imprimerie CPI Firmin&#45;Didot, DL 2019, 1 volume (232 pages), couverture illustrée</text>
+<ellipse fill="none" stroke="black" cx="491.36" cy="-72" rx="462.52" ry="18"/>
+<text text-anchor="middle" x="491.36" y="-68.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, l&#39;École des loisirs &#45; Imprimerie CPI Firmin&#45;Didot, DL 2019, 1 volume (232 pages), couverture illustrée</text>
 </g>
-<!-- UMLRM0068&#45;&gt;UMLRM0069 -->
+<!-- UMLRM0069&#45;&gt;UMLRM0068 -->
 <g id="edge28" class="edge">
-<title>UMLRM0068&#45;&gt;UMLRM0069</title>
-<path fill="none" stroke="black" d="M739.84,-92.59C762.03,-91.25 784.63,-90 806.04,-89 867.55,-86.13 932.63,-83.68 996.37,-81.61"/>
-<polygon fill="black" stroke="black" points="996.44,-85.11 1006.32,-81.29 996.21,-78.11 996.44,-85.11"/>
-<text text-anchor="middle" x="852.54" y="-92.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+<title>UMLRM0069&#45;&gt;UMLRM0068</title>
+<path fill="none" stroke="black" d="M891.92,-81.24C959.3,-83.39 1028.51,-85.96 1093.71,-89 1111.45,-89.83 1129.99,-90.83 1148.45,-91.91"/>
+<polygon fill="black" stroke="black" points="1148.21,-95.4 1158.4,-92.5 1148.63,-88.41 1148.21,-95.4"/>
+<text text-anchor="middle" x="1047.21" y="-92.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+</g>
+<!-- UMLRM0187 -->
+<g id="node30" class="node">
+<title>UMLRM0187</title>
+<ellipse fill="none" stroke="black" cx="1309.95" cy="-22" rx="198.47" ry="18"/>
+<text text-anchor="middle" x="1309.95" y="-18.3" font-family="Times New Roman,serif" font-size="14.00">Stoker, Bram (1847&#45;1912), Dracula, Parole énoncée</text>
+</g>
+<!-- UMLRM0187&#45;&gt;UMLRM0004 -->
+<g id="edge29" class="edge">
+<title>UMLRM0187&#45;&gt;UMLRM0004</title>
+<path fill="none" stroke="black" d="M1403.99,-38.25C1467.23,-53.36 1549.39,-81.45 1606.18,-132 1668.06,-187.09 1720.53,-270.67 1745.45,-313.9"/>
+<polygon fill="black" stroke="black" points="1742.31,-315.45 1750.3,-322.41 1748.39,-311.99 1742.31,-315.45"/>
+<text text-anchor="middle" x="1566.18" y="-135.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
 </g>
 <!-- UMLRM0188 -->
 <g id="node31" class="node">
 <title>UMLRM0188</title>
-<ellipse fill="none" stroke="black" cx="1408.4" cy="-18" rx="221.76" ry="18"/>
-<text text-anchor="middle" x="1408.4" y="-14.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, Livraphone, [DL 2009], 2 CD MP3</text>
+<ellipse fill="none" stroke="black" cx="491.36" cy="-18" rx="221.76" ry="18"/>
+<text text-anchor="middle" x="491.36" y="-14.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Bram Stoker, Livraphone, [DL 2009], 2 CD MP3</text>
 </g>
-<!-- UMLRM0187&#45;&gt;UMLRM0188 -->
+<!-- UMLRM0188&#45;&gt;UMLRM0187 -->
 <g id="edge30" class="edge">
-<title>UMLRM0187&#45;&gt;UMLRM0188</title>
-<path fill="none" stroke="black" d="M788.48,-21.03C905.09,-20.46 1053.25,-19.73 1175.38,-19.14"/>
-<polygon fill="black" stroke="black" points="1175.24,-22.64 1185.23,-19.09 1175.21,-15.64 1175.24,-22.64"/>
-<text text-anchor="middle" x="852.54" y="-23.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+<title>UMLRM0188&#45;&gt;UMLRM0187</title>
+<path fill="none" stroke="black" d="M713.07,-19.08C833.41,-19.67 981.54,-20.4 1100,-20.98"/>
+<polygon fill="black" stroke="black" points="1099.84,-24.48 1109.86,-21.02 1099.87,-17.48 1099.84,-24.48"/>
+<text text-anchor="middle" x="1047.21" y="-23.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
 </g>
 </g>
 </svg>

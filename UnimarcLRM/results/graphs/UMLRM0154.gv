@@ -4,7 +4,7 @@ digraph UMLRM0154 {
 	size="20,20"
 	UMLRM0154 [label="Dracula, film, 1931"]
 	UMLRM0159 [label="Dracula, film, 1931"]
-	UMLRM0154 -> UMLRM0159 [label="Expression de"]
+	UMLRM0159 -> UMLRM0154 [label="Expression de"]
 	UMLRM0160 [label="Dracula, Tod Browning, [réalisateur], Universal StudioCanal vidéo - Universal StudioCanal vidéo, 2014 - 2014, 1 BD vidéo"]
-	UMLRM0159 -> UMLRM0160 [label="Manifestation de"]
+	UMLRM0160 -> UMLRM0159 [label="Manifestation de"]
 }

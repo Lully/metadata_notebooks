@@ -1,0 +1,10 @@
+// Notice UMLRM0010
+digraph UMLRM0010 {
+	rankdir=LR
+	size="20,20"
+	UMLRM0010 [label="Palma, Paola (1971-….) - Vezyroglou, Dimitri (1970-….), \"Nosferatu le vampire\""]
+	UMLRM0011 [label="Palma, Paola (1971-….) - Vezyroglou, Dimitri (1970-….), \"Nosferatu le vampire\", Texte noté"]
+	UMLRM0011 -> UMLRM0010 [label="Expression de"]
+	UMLRM0012 [label="\"Nosferatu le vampire, Paola Palma, Dimitri Vezyroglou, Atlande, DL 2021, 1 volume (221 pages)"]
+	UMLRM0012 -> UMLRM0011 [label="Manifestation de"]
+}

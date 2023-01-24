@@ -1,0 +1,10 @@
+// Notice UMLRM0138
+digraph UMLRM0138 {
+	rankdir=LR
+	size="20,20"
+	UMLRM0138 [label="Jeanneteau, Daniel (1963-....) - Deratte, Laure (19..-....), [Maquette de décor en volume pour \"Nosferatu\"]"]
+	UMLRM0139 [label="Jeanneteau, Daniel (1963-....) - Deratte, Laure (19..-....), [Maquette de décor en volume pour \"Nosferatu\"], Image fixe"]
+	UMLRM0139 -> UMLRM0138 [label="Expression de"]
+	UMLRM0140 [label="[Maquette de décor en volume pour \"Nosferatu\"], [Daniel Jeanneteau et Laure Deratte], [2001], 1 maquette en volume"]
+	UMLRM0140 -> UMLRM0139 [label="Manifestation de"]
+}

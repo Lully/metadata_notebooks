@@ -1,13 +1,14 @@
 // Notice UMLRM0034
 digraph UMLRM0034 {
-	size="10,10"
+	rankdir=LR
+	size="20,20"
 	UMLRM0034 [label="Humphries, Tudor (1953-….), Dracula"]
 	UMLRM0035 [label="Humphries, Tudor (1953-….), Dracula, Texte noté. Image fixe"]
-	UMLRM0034 -> UMLRM0035 [label="Expression de"]
+	UMLRM0035 -> UMLRM0034 [label="Expression de"]
 	UMLRM0036 [label="Dracula, d'après Bram Stoker, Sélection du \"Reader's digest\", 1998, 1 volume (64 pages), couverture illustrée en couleur"]
-	UMLRM0035 -> UMLRM0036 [label="Manifestation de"]
+	UMLRM0036 -> UMLRM0035 [label="Manifestation de"]
 	UMLRM0161 [label="Humphries, Tudor (1953-….), Dracula, Texte noté. Image fixe"]
-	UMLRM0034 -> UMLRM0161 [label="Expression de"]
+	UMLRM0161 -> UMLRM0034 [label="Expression de"]
 	UMLRM0177 [label="Dracula, Bram Stoker, Dorling Kindersley, 1997, 1 volume (64 pages), couverture illustrée en couleur"]
-	UMLRM0161 -> UMLRM0177 [label="Manifestation de"]
+	UMLRM0177 -> UMLRM0161 [label="Manifestation de"]
 }

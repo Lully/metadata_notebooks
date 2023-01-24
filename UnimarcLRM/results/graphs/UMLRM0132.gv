@@ -1,0 +1,10 @@
+// Notice UMLRM0132
+digraph UMLRM0132 {
+	rankdir=LR
+	size="20,20"
+	UMLRM0132 [label="Eickhoff, Stefan, Max Schreck : Gespenstertheater"]
+	UMLRM0133 [label="Eickhoff, Stefan, Max Schreck : Gespenstertheater, Texte noté"]
+	UMLRM0133 -> UMLRM0132 [label="Expression de"]
+	UMLRM0134 [label="Max Schreck, Stefan Eickhoff, Belleville, Copyright 2009, 1 volume. (575 pages), couverture illustrée"]
+	UMLRM0134 -> UMLRM0133 [label="Manifestation de"]
+}

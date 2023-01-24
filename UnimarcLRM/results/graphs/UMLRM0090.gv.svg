@@ -12,47 +12,47 @@
 <!-- UMLRM0090 -->
 <g id="node1" class="node">
 <title>UMLRM0090</title>
-<ellipse fill="none" stroke="black" cx="163.14" cy="-45" rx="163.27" ry="18"/>
-<text text-anchor="middle" x="163.14" y="-41.3" font-family="Times New Roman,serif" font-size="14.00">Nosferatu, the wrath of Malachi, jeu vidéo</text>
+<ellipse fill="none" stroke="black" cx="1563.73" cy="-45" rx="163.27" ry="18"/>
+<text text-anchor="middle" x="1563.73" y="-41.3" font-family="Times New Roman,serif" font-size="14.00">Nosferatu, the wrath of Malachi, jeu vidéo</text>
 </g>
 <!-- UMLRM0091 -->
 <g id="node2" class="node">
 <title>UMLRM0091</title>
-<ellipse fill="none" stroke="black" cx="605.41" cy="-45" rx="163.27" ry="18"/>
-<text text-anchor="middle" x="605.41" y="-41.3" font-family="Times New Roman,serif" font-size="14.00">Nosferatu, the wrath of Malachi, jeu vidéo</text>
+<ellipse fill="none" stroke="black" cx="1121.46" cy="-45" rx="163.27" ry="18"/>
+<text text-anchor="middle" x="1121.46" y="-41.3" font-family="Times New Roman,serif" font-size="14.00">Nosferatu, the wrath of Malachi, jeu vidéo</text>
 </g>
-<!-- UMLRM0090&#45;&gt;UMLRM0091 -->
+<!-- UMLRM0091&#45;&gt;UMLRM0090 -->
 <g id="edge1" class="edge">
-<title>UMLRM0090&#45;&gt;UMLRM0091</title>
-<path fill="none" stroke="black" d="M326.83,-45C360.5,-45 396.1,-45 430.16,-45"/>
-<polygon fill="black" stroke="black" points="430.14,-48.5 440.14,-45 430.14,-41.5 430.14,-48.5"/>
-<text text-anchor="middle" x="384.27" y="-48.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
+<title>UMLRM0091&#45;&gt;UMLRM0090</title>
+<path fill="none" stroke="black" d="M1285.15,-45C1318.82,-45 1354.42,-45 1388.49,-45"/>
+<polygon fill="black" stroke="black" points="1388.46,-48.5 1398.46,-45 1388.46,-41.5 1388.46,-48.5"/>
+<text text-anchor="middle" x="1342.6" y="-48.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
 </g>
 <!-- UMLRM0092 -->
 <g id="node3" class="node">
 <title>UMLRM0092</title>
-<ellipse fill="none" stroke="black" cx="1312.21" cy="-72" rx="414.83" ry="18"/>
-<text text-anchor="middle" x="1312.21" y="-68.3" font-family="Times New Roman,serif" font-size="14.00">Nosferatu, Idol FX AB, Pan vision, Eidos &#45; Mindscape, [2005] &#45; 2005, 1 disque optique numérique (CD&#45;ROM)</text>
+<ellipse fill="none" stroke="black" cx="414.66" cy="-72" rx="414.83" ry="18"/>
+<text text-anchor="middle" x="414.66" y="-68.3" font-family="Times New Roman,serif" font-size="14.00">Nosferatu, Idol FX AB, Pan vision, Eidos &#45; Mindscape, [2005] &#45; 2005, 1 disque optique numérique (CD&#45;ROM)</text>
 </g>
-<!-- UMLRM0091&#45;&gt;UMLRM0092 -->
+<!-- UMLRM0092&#45;&gt;UMLRM0091 -->
 <g id="edge2" class="edge">
-<title>UMLRM0091&#45;&gt;UMLRM0092</title>
-<path fill="none" stroke="black" d="M760.21,-50.89C826.74,-53.44 907.31,-56.53 986.04,-59.54"/>
-<polygon fill="black" stroke="black" points="985.5,-63.03 995.63,-59.91 985.77,-56.03 985.5,-63.03"/>
-<text text-anchor="middle" x="833.04" y="-58.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+<title>UMLRM0092&#45;&gt;UMLRM0091</title>
+<path fill="none" stroke="black" d="M729.93,-59.96C807.65,-56.98 887.87,-53.91 955.23,-51.33"/>
+<polygon fill="black" stroke="black" points="954.99,-54.84 964.85,-50.96 954.72,-47.85 954.99,-54.84"/>
+<text text-anchor="middle" x="893.83" y="-58.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
 </g>
 <!-- UMLRM0095 -->
 <g id="node4" class="node">
 <title>UMLRM0095</title>
-<ellipse fill="none" stroke="black" cx="1312.21" cy="-18" rx="400.23" ry="18"/>
-<text text-anchor="middle" x="1312.21" y="-14.3" font-family="Times New Roman,serif" font-size="14.00">Nosferatu, Idol FX AB, Pan vision, Neo publishing, [2003] &#45; 2003, 1 disque optique numérique (CD&#45;ROM)</text>
+<ellipse fill="none" stroke="black" cx="414.66" cy="-18" rx="400.23" ry="18"/>
+<text text-anchor="middle" x="414.66" y="-14.3" font-family="Times New Roman,serif" font-size="14.00">Nosferatu, Idol FX AB, Pan vision, Neo publishing, [2003] &#45; 2003, 1 disque optique numérique (CD&#45;ROM)</text>
 </g>
-<!-- UMLRM0091&#45;&gt;UMLRM0095 -->
+<!-- UMLRM0095&#45;&gt;UMLRM0091 -->
 <g id="edge3" class="edge">
-<title>UMLRM0091&#45;&gt;UMLRM0095</title>
-<path fill="none" stroke="black" d="M744.56,-35.26C758.73,-34.42 772.92,-33.65 786.54,-33 837.32,-30.58 890.87,-28.51 943.59,-26.74"/>
-<polygon fill="black" stroke="black" points="943.44,-30.25 953.31,-26.42 943.2,-23.25 943.44,-30.25"/>
-<text text-anchor="middle" x="833.04" y="-36.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+<title>UMLRM0095&#45;&gt;UMLRM0091</title>
+<path fill="none" stroke="black" d="M772.04,-26.37C828.36,-28.21 885.94,-30.41 940.33,-33 950.33,-33.48 960.64,-34.02 971.02,-34.61"/>
+<polygon fill="black" stroke="black" points="970.62,-38.09 980.8,-35.17 971.02,-31.1 970.62,-38.09"/>
+<text text-anchor="middle" x="893.83" y="-36.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
 </g>
 </g>
 </svg>

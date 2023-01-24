@@ -1,0 +1,6 @@
+// Notice UMLRM0142
+digraph UMLRM0142 {
+	rankdir=LR
+	size="20,20"
+	UMLRM0142 [label="Gallotta, Jean-Claude (1950-....), Nosferatu"]
+}

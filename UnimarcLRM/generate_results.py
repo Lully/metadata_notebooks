@@ -77,7 +77,7 @@ def write_html_full_body(file, recordid, record, query, i, dict_entities):
     #    Les filtres          #
     # ----------------------- #
     filters = generate_work_filters(record)
-    file.write(f"\n<div class='filters'><p>{filters}</p></div>")
+    file.write(f"\n<div class='filters'>{filters}</div>")
 
     # ------------------------#
     #    Les exemplaires      #
@@ -140,6 +140,7 @@ def generate_work_filters(record):
     # (<a href=''>) permettant de gérer des filtres
     
     # Première ligne de filtres (moteur de recherche, langues, dates)
+    header = "<h3>Filtres</h3>"
     filter_form = "<input type='form' width='150px' value='Limiter les résultats'/>"
     filters_lng = ""
     for lang in record.lang:
@@ -163,7 +164,7 @@ def generate_work_filters(record):
         links_resp.append(link)
     links_resp = " | ".join(links_resp)
     filters2 = f"<div class='filters2'>{links_resp}</div>"
-    return "\n".join([filters1, filters2])
+    return "\n".join([header, filters1, filters2])
 
 
 def generate_entete(query, no_resultat=0):

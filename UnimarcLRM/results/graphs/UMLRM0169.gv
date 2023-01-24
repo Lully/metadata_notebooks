@@ -1,0 +1,10 @@
+// Notice UMLRM0169
+digraph UMLRM0169 {
+	rankdir=LR
+	size="20,20"
+	UMLRM0169 [label="Gauriat, Vincent, Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin"]
+	UMLRM0170 [label="Gauriat, Vincent, Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin, Image fixe"]
+	UMLRM0170 -> UMLRM0169 [label="Expression de"]
+	UMLRM0171 [label="Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin, [V. Gauriat], ED distribution - Imprimerie Karcher, [2003], 1 feuille"]
+	UMLRM0171 -> UMLRM0170 [label="Manifestation de"]
+}

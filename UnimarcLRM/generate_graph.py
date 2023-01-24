@@ -18,11 +18,11 @@ def generate_graph_from_oeuvre(oeuvre, dict_entities, size):
     for expr in oeuvre.toExpressions:
         if expr:
             dot.node(expr, dict_entities[expr].label)
-            dot.edge(oeuvre.id, expr, label="Expression de")
+            dot.edge(expr, oeuvre.id, label="Expression de")
         for manif in dict_entities[expr].toManifs:
             if manif:
                 dot.node(manif, dict_entities[manif].label)
-                dot.edge(expr, manif, label="Manifestation de")
+                dot.edge(manif, expr, label="Manifestation de")
     dot.render(directory='results/graphs').replace('\\', '/')
  
     return dot

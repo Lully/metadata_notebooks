@@ -4,11 +4,11 @@ digraph UMLRM0105 {
 	size="20,20"
 	UMLRM0105 [label="Dracula has risen from the grave, film"]
 	UMLRM0106 [label="Dracula has risen from the grave, film"]
-	UMLRM0105 -> UMLRM0106 [label="Expression de"]
+	UMLRM0106 -> UMLRM0105 [label="Expression de"]
 	UMLRM0107 [label="Dracula has risen from the grave‎, starring Christopher Lee, Rupert Davies, Warner home video - Warner home video France, [1995], 1 cassette vidéo, VHS, NTSC"]
-	UMLRM0106 -> UMLRM0107 [label="Manifestation de"]
+	UMLRM0107 -> UMLRM0106 [label="Manifestation de"]
 	UMLRM0181 [label="Dracula has risen from the grave, film"]
-	UMLRM0105 -> UMLRM0181 [label="Expression de"]
+	UMLRM0181 -> UMLRM0105 [label="Expression de"]
 	UMLRM0182 [label="Dracula et les femmes, avec Christopher Lee, Rupert Davies, Warner home video France - Warner home video France, DL 1985, 1 cassette vidéo, VHS, SECAM"]
-	UMLRM0181 -> UMLRM0182 [label="Manifestation de"]
+	UMLRM0182 -> UMLRM0181 [label="Manifestation de"]
 }

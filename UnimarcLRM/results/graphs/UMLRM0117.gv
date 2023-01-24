@@ -1,0 +1,10 @@
+// Notice UMLRM0117
+digraph UMLRM0117 {
+	rankdir=LR
+	size="20,20"
+	UMLRM0117 [label="Dufranne, Michel (1970-....) - Kowalski, Piotr (1973-....), Dracula l’immortel"]
+	UMLRM0118 [label="Dufranne, Michel (1970-....) - Kowalski, Piotr (1973-....), Dracula l’immortel, Texte noté. Image fixe"]
+	UMLRM0118 -> UMLRM0117 [label="Expression de"]
+	UMLRM0119 [label="Dracula l'immortel, scénario, Michel Dufranne, Michel Lafon - Casterman - Imprimerie Pollina, 2012, 1 volume (48 pages), couverture illustrée en couleur"]
+	UMLRM0119 -> UMLRM0118 [label="Manifestation de"]
+}

@@ -1,0 +1,8 @@
+// Notice UMLRM0147
+digraph UMLRM0147 {
+	rankdir=LR
+	size="20,20"
+	UMLRM0147 [label="Nosferatu, spectacle, 2001"]
+	UMLRM0148 [label="Nosferatu, spectacle, 2001"]
+	UMLRM0148 -> UMLRM0147 [label="Expression de"]
+}

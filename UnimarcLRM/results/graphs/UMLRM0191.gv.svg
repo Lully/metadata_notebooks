@@ -12,34 +12,34 @@
 <!-- UMLRM0191 -->
 <g id="node1" class="node">
 <title>UMLRM0191</title>
-<ellipse fill="none" stroke="black" cx="152.09" cy="-18" rx="152.17" ry="18"/>
-<text text-anchor="middle" x="152.09" y="-14.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, émission radiophonique, 1938</text>
+<ellipse fill="none" stroke="black" cx="1462.99" cy="-18" rx="152.17" ry="18"/>
+<text text-anchor="middle" x="1462.99" y="-14.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, émission radiophonique, 1938</text>
 </g>
 <!-- UMLRM0192 -->
 <g id="node2" class="node">
 <title>UMLRM0192</title>
-<ellipse fill="none" stroke="black" cx="702.25" cy="-18" rx="282.15" ry="18"/>
-<text text-anchor="middle" x="702.25" y="-14.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, émission radiophonique, 1938, Parole énoncée. Musique exécutée</text>
+<ellipse fill="none" stroke="black" cx="912.83" cy="-18" rx="282.15" ry="18"/>
+<text text-anchor="middle" x="912.83" y="-14.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, émission radiophonique, 1938, Parole énoncée. Musique exécutée</text>
 </g>
-<!-- UMLRM0191&#45;&gt;UMLRM0192 -->
+<!-- UMLRM0192&#45;&gt;UMLRM0191 -->
 <g id="edge1" class="edge">
-<title>UMLRM0191&#45;&gt;UMLRM0192</title>
-<path fill="none" stroke="black" d="M304.69,-18C337.21,-18 372.63,-18 408.47,-18"/>
-<polygon fill="black" stroke="black" points="408.1,-21.5 418.1,-18 408.1,-14.5 408.1,-21.5"/>
-<text text-anchor="middle" x="362.17" y="-21.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
+<title>UMLRM0192&#45;&gt;UMLRM0191</title>
+<path fill="none" stroke="black" d="M1195.14,-18C1230.92,-18 1266.53,-18 1299.54,-18"/>
+<polygon fill="black" stroke="black" points="1299.12,-21.5 1309.12,-18 1299.12,-14.5 1299.12,-21.5"/>
+<text text-anchor="middle" x="1252.91" y="-21.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
 </g>
 <!-- UMLRM0193 -->
 <g id="node3" class="node">
 <title>UMLRM0193</title>
-<ellipse fill="none" stroke="black" cx="1364.2" cy="-18" rx="250.76" ry="18"/>
-<text text-anchor="middle" x="1364.2" y="-14.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, starring Orson Welles, Radio spirits, P 2001, 1 CD audio</text>
+<ellipse fill="none" stroke="black" cx="250.88" cy="-18" rx="250.76" ry="18"/>
+<text text-anchor="middle" x="250.88" y="-14.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, starring Orson Welles, Radio spirits, P 2001, 1 CD audio</text>
 </g>
-<!-- UMLRM0192&#45;&gt;UMLRM0193 -->
+<!-- UMLRM0193&#45;&gt;UMLRM0192 -->
 <g id="edge2" class="edge">
-<title>UMLRM0192&#45;&gt;UMLRM0193</title>
-<path fill="none" stroke="black" d="M984.56,-18C1023.41,-18 1063.18,-18 1101.65,-18"/>
-<polygon fill="black" stroke="black" points="1101.49,-21.5 1111.49,-18 1101.49,-14.5 1101.49,-21.5"/>
-<text text-anchor="middle" x="1048.82" y="-21.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+<title>UMLRM0193&#45;&gt;UMLRM0192</title>
+<path fill="none" stroke="black" d="M501.85,-18C540.12,-18 579.91,-18 619,-18"/>
+<polygon fill="black" stroke="black" points="618.77,-21.5 628.77,-18 618.77,-14.5 618.77,-21.5"/>
+<text text-anchor="middle" x="566.26" y="-21.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
 </g>
 </g>
 </svg>

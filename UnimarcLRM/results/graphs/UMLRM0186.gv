@@ -1,0 +1,6 @@
+// Notice UMLRM0186
+digraph UMLRM0186 {
+	rankdir=LR
+	size="20,20"
+	UMLRM0186 [label="Dufranne, Michel (1970-....) - Kowalski, Piotr (1973-....), Dracula l’immortel"]
+}

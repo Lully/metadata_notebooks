@@ -1,0 +1,10 @@
+// Notice UMLRM0149
+digraph UMLRM0149 {
+	rankdir=LR
+	size="20,20"
+	UMLRM0149 [label="Finné, Jacques (1944-….) - Marigny, Jean (1939-....), Dictionnaire des littératures vampiriques"]
+	UMLRM0198 [label="Finné, Jacques (1944-….) - Marigny, Jean (1939-....), Dictionnaire des littératures vampiriques, Texte noté"]
+	UMLRM0198 -> UMLRM0149 [label="Expression de"]
+	UMLRM0199 [label="Dictionnaire des littératures vampiriques, Jacques Finné, Jean Marigny, Terre de brume, 2020, 1 volume(332 pages)"]
+	UMLRM0199 -> UMLRM0198 [label="Manifestation de"]
+}

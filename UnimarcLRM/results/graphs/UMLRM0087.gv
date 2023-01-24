@@ -1,0 +1,10 @@
+// Notice UMLRM0087
+digraph UMLRM0087 {
+	rankdir=LR
+	size="20,20"
+	UMLRM0087 [label="Valls de Gomis, Estelle (1973-...), Le vampire au fil des siècles : enquête autour d'un mythe"]
+	UMLRM0088 [label="Valls de Gomis, Estelle (1973-...), Le vampire au fil des siècles : enquête autour d'un mythe, Texte noté"]
+	UMLRM0088 -> UMLRM0087 [label="Expression de"]
+	UMLRM0089 [label="Le vampire au fil des siècles, Estelle Valls de Gomis, Cheminements - Imprimerie Darantière, DL 2005, 1 volume (471 pages-[16] pages de planches.), couverture illustrée en couleur"]
+	UMLRM0089 -> UMLRM0088 [label="Manifestation de"]
+}

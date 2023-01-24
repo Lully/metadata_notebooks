@@ -1,0 +1,6 @@
+// Notice UMLRM0145
+digraph UMLRM0145 {
+	rankdir=LR
+	size="20,20"
+	UMLRM0145 [label="Dusapin, Pascal (1955-....), Watt"]
+}

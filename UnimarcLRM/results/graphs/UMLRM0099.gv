@@ -1,11 +1,12 @@
 // Notice UMLRM0099
 digraph UMLRM0099 {
-	size="10,10"
+	rankdir=LR
+	size="20,20"
 	UMLRM0099 [label="Druillet, Philippe (1944-....), Nosferatu"]
 	UMLRM0100 [label="Druillet, Philippe (1944-....), Nosferatu, Texte noté. Image fixe"]
-	UMLRM0099 -> UMLRM0100 [label="Expression de"]
+	UMLRM0100 -> UMLRM0099 [label="Expression de"]
 	UMLRM0101 [label="Nosferatu, [texte et dessins de] Druillet, Dargaud - Imprimerie Publiphotoffset, 1988, 1 volume (63 pages)"]
-	UMLRM0100 -> UMLRM0101 [label="Manifestation de"]
+	UMLRM0101 -> UMLRM0100 [label="Manifestation de"]
 	UMLRM0104 [label="Nosferatu, Druillet, Albin Michel, 2001, 1 volume (non paginé [55] pages), couverture illustrée"]
-	UMLRM0100 -> UMLRM0104 [label="Manifestation de"]
+	UMLRM0104 -> UMLRM0100 [label="Manifestation de"]
 }

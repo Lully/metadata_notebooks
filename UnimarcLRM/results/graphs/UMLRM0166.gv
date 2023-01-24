@@ -1,0 +1,10 @@
+// Notice UMLRM0166
+digraph UMLRM0166 {
+	rankdir=LR
+	size="20,20"
+	UMLRM0166 [label="Guy Maddin"]
+	UMLRM0167 [label="Guy Maddin, Image animée"]
+	UMLRM0167 -> UMLRM0166 [label="Expression de"]
+	UMLRM0168 [label="Guy Maddin, ED distribution - ED distribution, [DL 2012], 4 DVD vidéo, monoface simple couche, PAL, toutes zones"]
+	UMLRM0168 -> UMLRM0167 [label="Manifestation de"]
+}
