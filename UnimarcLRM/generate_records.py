@@ -128,10 +128,8 @@ def expr_lang2oeuvre(oid, o_entity, dict_entities):
     # renvoi d'un set de langues à partir de la langue des expressions
     lang = set()
     for expr in o_entity.toExpressions:
-        language = [sru.record2fieldvalue(dict_entities[expr].xml, "101$a"), sru.record2fieldvalue(dict_entities[expr].xml, "101$c")]
-        language = "¤".join(language)
-        language = [el for el in language.split("¤") if el]
-        for l in language:
+        languages = get_expression_language(dict_entities[expr].xml)
+        for l in languages:
             lang.add(l)
     return lang
 

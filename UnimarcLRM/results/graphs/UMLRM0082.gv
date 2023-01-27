@@ -1,0 +1,6 @@
+// Notice UMLRM0082
+digraph UMLRM0082 {
+	rankdir=LR
+	size="20,20"
+	UMLRM0082 [label="\"Dracula\" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola, Texte noté"]
+}

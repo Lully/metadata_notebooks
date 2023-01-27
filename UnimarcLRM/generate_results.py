@@ -30,17 +30,17 @@ def search(keywords, oeuvres, dict_entities, index="all"):
     return results_entities
 
 
-def display_html_results(dict_results, dict_entities, query):
+def display_html_results(dict_results, dict_entities, query, type_entity):
     # A partir d'un lot de notices d'oeuvres comme résultats d'une recherche
     # cette fonction génère 
     #       une page "results/short_results.html"  avec la liste des résultats (abrégés)
     #       et une page "results/full_results_0.html" qui pour chaque résultat génère une page HTML numérotée 
-    short_html = generate_short_results_html(dict_results, dict_entities, query) # renvoie le code HTML
+    short_html = generate_short_results_html(dict_results, dict_entities, query, type_entity) # renvoie le code HTML
     full_html = generate_full_results_html(dict_results, dict_entities, query)   # renvoie une liste de code HTML
 
 
-def generate_short_results_html(dict_results, dict_entities, query):
-    file = open("results/short_results.html", "w", encoding="utf-8")
+def generate_short_results_html(dict_results, dict_entities, query, type_entity):
+    file = open(f"results/short_results_{type_entity}.html", "w", encoding="utf-8")
     write_html_head(file, "Liste de résultats")
     write_html_short_body(file, dict_results, query)
     write_html_footer(file)

@@ -1,0 +1,6 @@
+// Notice UMLRM0106
+digraph UMLRM0106 {
+	rankdir=LR
+	size="20,20"
+	UMLRM0106 [label="Dracula has risen from the grave, film"]
+}

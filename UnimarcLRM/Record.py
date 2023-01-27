@@ -239,8 +239,11 @@ def zones2recorddescription(xml_record, list_tags):
 class Expression(Record):
     def __init__(self, xml_record, rectype):
         super().__init__(xml_record, rectype)
+        self.lang = get_expression_language(xml_record)
         self.toOeuvres  = expression2oeuvre(self.xml)
         self.expressionContentType = get_expression_content_type(self.xml)
+        self.exprContentType = self.expressionContentType
+        self.exprResp = get_exprResp(self)
         self.detailed = construct_detailed_expression(self)
 
     def __repr__(self):
@@ -251,6 +254,23 @@ Vers manifestations : {str(self.toManifs)}\n\
 Vers items : {str(self.toItems)}"
         return representation
 
+
+def get_exprResp(expression):
+    exprResp = []
+    for resp in expression.resp:
+        for role in expression.resp[resp]:
+            exprResp.append(f"{resp} ({role})")
+    return exprResp
+
+
+def get_expression_language(xml_record):
+    # Récupérer la langue de l'expression
+    languages = [sru.record2fieldvalue(xml_record, "101$a"), 
+                 sru.record2fieldvalue(xml_record, "101$c")]
+    languages = "¤".join(languages)
+    languages = [el for el in languages.split("¤") if el]
+    return list(set(languages))
+            
 
 def get_expression_content_type(xml_record):
     expression_content_type = ""

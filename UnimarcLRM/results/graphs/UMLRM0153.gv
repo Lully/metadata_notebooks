@@ -1,0 +1,6 @@
+// Notice UMLRM0153
+digraph UMLRM0153 {
+	rankdir=LR
+	size="20,20"
+	UMLRM0153 [label="[Photographies extraites du film « Dracula » de Tod Browning], 1932, Image fixe"]
+}
