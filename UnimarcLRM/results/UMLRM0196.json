@@ -39,7 +39,7 @@
     "linked_resp_index": [
         "finne"
     ],
-    "global_index": " bibliographie de dracula jacques finne finne jacques 1944 bibliographie de dracula bibliographie de dracula jacques finne lausanne l'age homme cop 1986 texte note sans mediation lausanne l'age homme copyright 1996 finne contemporains finne jacques 1944 bibliographie de dracula francais texte note",
+    "global_index": " finne jacques 1944 bibliographie de dracula francais texte note finne jacques 1944 bibliographie de dracula finne contemporains bibliographie de dracula jacques finne bibliographie de dracula jacques finne lausanne l'age homme cop 1986 texte note sans mediation lausanne l'age homme copyright 1996",
     "type": "e",
     "label": "Finn\u00e9, Jacques (1944-\u2026.), Bibliographie de Dracula, Fran\u00e7ais, Texte not\u00e9",
     "splitted_label": "Finn\u00e9, Jacques\n(1944-\u2026.),\nBibliographie de\nDracula, Fran\u00e7ais,\nTexte not\u00e9",
@@ -73,7 +73,7 @@
     "toItems": {
         "UMLRM1055": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1055"
     },
-    "repr": "id : UMLRM0196\ntype initial : oe ; type : e\nlabel : Finn\u00e9, Jacques (1944-\u2026.), Bibliographie de Dracula, Fran\u00e7ais, Texte not\u00e9\n\nNotice : \n000    00595nx  h2200181   4500\n001    UMLRM0196\n100    $a 20221116afrey50      ba0\n101 0  $a fre\n102    $a BE\n104    $a d1986\n105    $a ba\n145 0  $a i $b axxe\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0195 $7 ba0yba0y $8 frefre $a Finn\u00e9, Jacques (1944-\u2026.) $t Bibliographie de Dracula $m Fran\u00e7ais $n Texte not\u00e9\n640 0  $0 Date de copyright $f #1986#####\n801  0 $a FR $b FR-751045101 $c 20221116\n810    $a Bibliographie de Dracula / Jacques Finn\u00e9. \u2013 Lausanne :  L\u2019\u00e2ge d'homme, cop. 1986. \u2013 [Texte not\u00e9 : sans m\u00e9diation] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a53180>\nIndexation :  bibliographie de dracula jacques finne lausanne l'age homme cop 1986 texte note sans mediation finne jacques 1944 bibliographie de dracula",
+    "repr": "id : UMLRM0196\ntype initial : oe ; type : e\nlabel : Finn\u00e9, Jacques (1944-\u2026.), Bibliographie de Dracula, Fran\u00e7ais, Texte not\u00e9\n\nNotice : \n000    00595nx  h2200181   4500\n001    UMLRM0196\n100    $a 20221116afrey50      ba0\n101 0  $a fre\n102    $a BE\n104    $a d1986\n105    $a ba\n145 0  $a i $b axxe\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0195 $7 ba0yba0y $8 frefre $a Finn\u00e9, Jacques (1944-\u2026.) $t Bibliographie de Dracula $m Fran\u00e7ais $n Texte not\u00e9\n640 0  $0 Date de copyright $f #1986#####\n801  0 $a FR $b FR-751045101 $c 20221116\n810    $a Bibliographie de Dracula / Jacques Finn\u00e9. \u2013 Lausanne :  L\u2019\u00e2ge d'homme, cop. 1986. \u2013 [Texte not\u00e9 : sans m\u00e9diation] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b7976280>\nIndexation :  finne jacques 1944 bibliographie de dracula bibliographie de dracula jacques finne lausanne l'age homme cop 1986 texte note sans mediation",
     "lang": [
         "fre"
     ],

@@ -307,7 +307,7 @@ def write_html_footer(file):
         
 def delete_html_results():
     for filename in os.listdir("results"):
-        if ".html" in filename:
+        if ".html" in filename and "form" not in filename:
             os.remove(f"results/{filename}")
-    for filename  in os.listdir("results/graphs"):
+    for filename in os.listdir("results/graphs"):
             os.remove(f"results/graphs/{filename}")
