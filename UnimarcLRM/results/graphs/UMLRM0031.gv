@@ -1,10 +1,25 @@
 // Notice UMLRM0031
 digraph UMLRM0031 {
-	rankdir=LR
+	node [align=left shape=rect]
 	size="20,20"
-	UMLRM0031 [label="Stoker, Bram (1847-1912), Choix, Dracula"]
-	UMLRM0032 [label="Stoker, Bram (1847-1912), Choix, Dracula, Texte noté"]
+	rankdir=BT
+	UMLRM0031 [label="Stoker, Bram
+(1847-1912), Choix,
+Dracula" color=red]
+	UMLRM0032 [label="Stoker, Bram
+(1847-1912), Choix,
+Dracula, Français,
+Molitor, Texte noté"]
 	UMLRM0032 -> UMLRM0031 [label="Expression de"]
-	UMLRM0033 [label="Dracula, Bram Stoker, Magnard, 2014, 1 volume (217 pages), couverture illustrée"]
+	UMLRM0033 [label="Dracula,
+Bram
+Stoker,
+Magnard,
+2014, 1
+volume
+(217
+pages),
+couverture
+illustrée"]
 	UMLRM0033 -> UMLRM0032 [label="Manifestation de"]
 }

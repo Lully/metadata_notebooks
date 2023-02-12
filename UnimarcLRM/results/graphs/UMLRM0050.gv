@@ -1,0 +1,39 @@
+// Notice UMLRM0050
+digraph UMLRM0050 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0050 [label="Stoker, Bram
+(1847-1912),
+Dracula, Français,
+Finné, Texte noté" color=red]
+	UMLRM0004 [label="Stoker, Bram
+(1847-1912), Dracula"]
+	UMLRM0050 -> UMLRM0004 [label="Expression de"]
+	UMLRM0051 [label="Dracula,
+Bram
+Stoker,
+Pointdeux,
+DL 2013, 1
+volume
+(919
+pages),
+couverture
+illustrée"]
+	UMLRM0051 -> UMLRM0050 [label="Manifestation de"]
+	UMLRM0077 [label="Dracula -
+suivi de
+L'invité
+de
+Dracula,
+Bram
+Stoker,
+Pocket,
+2011, 1
+volume
+(575
+pages),
+couverture
+illustrée"]
+	UMLRM0077 -> UMLRM0050 [label="Manifestation de"]
+}

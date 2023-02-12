@@ -1,0 +1,87 @@
+// Notice UMLRM0020
+digraph UMLRM0020 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0020 [label="Stoker, Bram
+(1847-1912),
+Dracula, Français,
+Molitor, Texte noté" color=red]
+	UMLRM0004 [label="Stoker, Bram
+(1847-1912), Dracula"]
+	UMLRM0020 -> UMLRM0004 [label="Expression de"]
+	UMLRM0021 [label="Dracula,
+Bram
+Stoker,
+J'ai lu -
+mprimerie
+Brodard et
+Taupin,
+2005, 1
+volume
+(574
+pages),
+couverture
+illustrée
+en couleur"]
+	UMLRM0021 -> UMLRM0020 [label="Manifestation de"]
+	UMLRM0024 [label="Dracula,
+Bram
+Stoker,
+Gérard et
+Cie, 1963,
+1 volume
+(569
+pages),
+couverture
+illustrée
+en couleur"]
+	UMLRM0024 -> UMLRM0020 [label="Manifestation de"]
+	UMLRM0027 [label="Dracula,
+Bram
+Stoker,
+Éd. J'ai
+lu -
+mprimerie
+Brodard et
+Taupin,
+1992, 1
+volume
+(XXIV-505
+pages), il
+lustration
+s,
+couverture
+illustrée"]
+	UMLRM0027 -> UMLRM0020 [label="Manifestation de"]
+	UMLRM0030 [label="Dracula,
+Bram
+Stoker,
+Hachette -
+Imprimerie
+Brodard et
+Taupin,
+1988, 1
+volume
+(534
+pages),
+couverture
+illustrée
+en couleur"]
+	UMLRM0030 -> UMLRM0020 [label="Manifestation de"]
+	UMLRM0110 [label="Dracula,
+Bram
+Stoker,
+Éditions
+Opta,
+1968, 1
+volume
+(XX-413
+pages), il
+lustration
+s en noir
+et blanc,
+cartonnage
+illustré"]
+	UMLRM0110 -> UMLRM0020 [label="Manifestation de"]
+}

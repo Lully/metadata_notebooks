@@ -1,0 +1,38 @@
+// Notice UMLRM0005
+digraph UMLRM0005 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0005 [label="Stoker, Bram
+(1847-1912),
+Dracula, Anglais,
+Texte noté" color=red]
+	UMLRM0004 [label="Stoker, Bram
+(1847-1912), Dracula"]
+	UMLRM0005 -> UMLRM0004 [label="Expression de"]
+	UMLRM0006 [label="Dracula,
+Bram
+Stoker,
+Pan books
+-
+Imprimerie
+Firmin-
+Didot,
+1992, 1
+volume
+(382
+pages),
+couverture
+illustrée
+en couleur"]
+	UMLRM0006 -> UMLRM0005 [label="Manifestation de"]
+	UMLRM0018 [label="Dracula,
+by Bram
+Stoker, W.
+Rider and
+son, 1992,
+1 volume
+(VIII-404
+pages)"]
+	UMLRM0018 -> UMLRM0005 [label="Manifestation de"]
+}

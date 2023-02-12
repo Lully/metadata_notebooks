@@ -1,0 +1,29 @@
+// Notice UMLRM0059
+digraph UMLRM0059 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0059 [label="Stoker, Bram
+(1847-1912),
+Dracula, Français,
+Paul-Margueritte,
+Texte noté" color=red]
+	UMLRM0004 [label="Stoker, Bram
+(1847-1912), Dracula"]
+	UMLRM0059 -> UMLRM0004 [label="Expression de"]
+	UMLRM0060 [label="Dracula,
+Brahm
+Stoker,
+Éditions
+J. Talland
+ier, 1932,
+1 volume
+(96 pages
+– planches
+non numéro
+tées),
+couverture
+illustrée
+en couleur"]
+	UMLRM0060 -> UMLRM0059 [label="Manifestation de"]
+}

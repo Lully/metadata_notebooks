@@ -1,6 +1,8 @@
 // Notice UMLRM0180
 digraph UMLRM0180 {
-	rankdir=LR
+	node [align=left shape=rect]
 	size="20,20"
-	UMLRM0180 [label="Dracula, film ; série"]
+	rankdir=BT
+	UMLRM0180 [label="Dracula, film ;
+série" color=red]
 }

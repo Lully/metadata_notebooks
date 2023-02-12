@@ -1,0 +1,36 @@
+// Notice UMLRM0184
+digraph UMLRM0184 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0184 [label="Shadow of the
+vampire, film,
+Anglais ; sous
+titrage en français" color=red]
+	UMLRM0129 [label="Shadow of the
+vampire, film"]
+	UMLRM0184 -> UMLRM0129 [label="Expression de"]
+	UMLRM0185 [label="L'ombre du
+vampire,
+E. Elias
+Merhige, [
+réalisateu
+r], Studio
+Canal+ -
+Universal
+pictures
+vidéo
+France SA,
+[DL 2001],
+1 DVD
+vidéo,
+monoface,
+16/9
+compatible
+4/3, PAL,
+Dolby
+digital
+5.1, zone
+2"]
+	UMLRM0185 -> UMLRM0184 [label="Manifestation de"]
+}

@@ -1,6 +1,31 @@
 // Notice UMLRM0106
 digraph UMLRM0106 {
-	rankdir=LR
+	node [align=left shape=rect]
 	size="20,20"
-	UMLRM0106 [label="Dracula has risen from the grave, film"]
+	rankdir=BT
+	UMLRM0106 [label="Dracula has risen
+from the grave,
+film, Anglais" color=red]
+	UMLRM0105 [label="Dracula has risen
+from the grave, film"]
+	UMLRM0106 -> UMLRM0105 [label="Expression de"]
+	UMLRM0107 [label="Dracula
+has risen
+from the
+grave‎,
+starring C
+hristopher
+Lee,
+Rupert
+Davies,
+Warner
+home video
+- Warner
+home video
+France,
+[1995], 1
+cassette
+vidéo,
+VHS, NTSC"]
+	UMLRM0107 -> UMLRM0106 [label="Manifestation de"]
 }

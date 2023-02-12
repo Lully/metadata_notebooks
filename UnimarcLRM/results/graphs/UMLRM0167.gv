@@ -1,0 +1,27 @@
+// Notice UMLRM0167
+digraph UMLRM0167 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0167 [label="Guy Maddin, Anglais
+; sous-titrage en
+français, Image
+animée" color=red]
+	UMLRM0166 [label="Guy Maddin"]
+	UMLRM0167 -> UMLRM0166 [label="Expression de"]
+	UMLRM0168 [label="Guy
+Maddin, ED
+distributi
+on - ED di
+stribution
+, [DL
+2012], 4
+DVD vidéo,
+monoface
+simple
+couche,
+PAL,
+toutes
+zones"]
+	UMLRM0168 -> UMLRM0167 [label="Manifestation de"]
+}

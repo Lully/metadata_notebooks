@@ -1,6 +1,60 @@
 // Notice UMLRM0189
 digraph UMLRM0189 {
-	rankdir=LR
+	node [align=left shape=rect]
 	size="20,20"
-	UMLRM0189 [label="Dracula, dead and loving it, film"]
+	rankdir=BT
+	UMLRM0189 [label="Dracula, dead and
+loving it, film,
+Anglais ; sous-
+titrage optionnel en
+français" color=red]
+	UMLRM0120 [label="Dracula, dead and
+loving it, film"]
+	UMLRM0189 -> UMLRM0120 [label="Expression de"]
+	UMLRM0122 [label="Dracula,
+mort et
+heureux de
+l’être, un
+film de
+Mel
+Brooks,
+Gaumont
+vidéo -
+Paramount
+home enter
+tainment,
+2009, 1
+DVD vidéo,
+monoface
+double
+couche,
+16/9
+compatible
+3/4, PAL,
+Dolby
+surround
+2.0, zone
+2"]
+	UMLRM0122 -> UMLRM0189 [label="Manifestation de"]
+	UMLRM0190 [label="Mel
+Brooks,
+Gaumont
+vidéo -
+Paramount
+home enter
+tainment,
+[2015], 2
+DVD vidéo,
+monoface
+double
+couche,
+16/9
+compatible
+3/4, PAL,
+Dolby
+surround
+2.0,
+toutes
+zones"]
+	UMLRM0190 -> UMLRM0189 [label="Manifestation de"]
 }

@@ -1,0 +1,57 @@
+// Notice UMLRM0053
+digraph UMLRM0053 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0053 [label="Stoker, Bram
+(1847-1912),
+Dracula, Français,
+Chicheportiche,
+Texte noté" color=red]
+	UMLRM0004 [label="Stoker, Bram
+(1847-1912), Dracula"]
+	UMLRM0053 -> UMLRM0004 [label="Expression de"]
+	UMLRM0054 [label="Dracula,
+Bram
+Stoker, le
+Livre de
+poche
+jeunesse,
+DL 2015, 1
+volume
+(321
+pages),
+couverture
+illustrée
+en couleur"]
+	UMLRM0054 -> UMLRM0053 [label="Manifestation de"]
+	UMLRM0178 [label="Dracula,
+Bram
+Stoker,
+Hachette -
+Imprimerie
+CPI
+Bussière,
+2011, 1
+volume
+(321
+pages),
+couverture
+illustrée
+en couleur"]
+	UMLRM0178 -> UMLRM0053 [label="Manifestation de"]
+	UMLRM0179 [label="Dracula,
+Bram
+Stoker,
+Hatier, DL
+2013, 1
+volume
+(317
+pages), il
+lustration
+s,
+couverture
+illustrée
+en couleur"]
+	UMLRM0179 -> UMLRM0053 [label="Manifestation de"]
+}

@@ -2,7 +2,8 @@
 <head>
 <meta charset='UTF-8'>
 <title>Notice détaillée Dracula, film, 1931</title>
-<link rel='stylesheet' href='../styles.css'/><style type='text/css'>body {font-family: Arial;
+<link rel='stylesheet' href='../styles.css'/><style type='text/css'>
+body {font-family: Arial;
 	  color: #050505}
 
 
@@ -13,14 +14,36 @@
 input {font-style: italic;
 	   color: #a7a7a7;
       }
+	  
+/* ---------------------------
 
-.avail {background-color: #beff9f}
-.unavail {background-color: #ffe2d7}
+          Notice détaillée 
+		  
+------------------------------*/
 
-div.pro {padding-top: 50px;
-background-color: #efefef;
-color: #a7a7a7}
+/* Métadonnées */
+div.detailed {float: left;
+			  width: 80%;
+			  padding-right: 20px;}
+p.detailed.label {font-weight: bold;
+					 color: #05513c;
+					}
 
+div.rebonds {float: right;
+			width: 15%;
+			background-color: #efefef;
+			padding: 5px;
+			border-radius: 5px;}
+span.rebond {padding-left: 8px;
+			 }
+span.rebond a {text-decoration: none;
+			   font-weight: normal;
+			   color: #27735e;
+			  }
+
+/* Filtres */
+.filters {width: 100%;
+		  float: left;}
 .filters a {text-decoration:none;}
 .filters a:hover {text-decoration: underline;}
 
@@ -31,64 +54,132 @@ color: #a7a7a7}
 a.filters_content_type {color: #660066;
 						font-weight: bold;}
 a.filters_lng {color: #000099;
-			   font-weight: bold;}</style></head>
+			   font-weight: bold;}
+			   
+div.ui-rangeslider {width: 40%;}
+.ui-slider-track .ui-btn.ui-slider-handle {font-size: 0.6em;}
+
+
+/* Liste des exemplaires*/
+.items {width: 100%;
+		  float: left;}
+
+
+.avail {background-color: #beff9f}
+.unavail {background-color: #ffe2d7}
+
+
+/* Métadonnées professionnelles*/
+div.pro {padding-top: 50px;
+		background-color: #efefef;
+		color: #a7a7a7;
+		width: 100%;
+		float: left;}
+
+.marc_record {font-family: Courier New;
+			  color: #080808;
+			  font-size: 0.9em;}
+
+
+/*------- Liste de résultats ------------*/
+
+a.short_result_work {text-decoration: none;
+					 font-weight: bold;
+					 color: #05513c;}
+
+a.short_result_expression {text-decoration: none;
+					       font-weight: bold;
+					       color: #014c56;}
+
+a.link2work {color: #5a918a;
+			 text-decoration: none}
+
+.short_result_details {margin-left: 20px;
+					   font-size: 0.8em;}</style></head>
 <body>
 
 <div class="entete">
-<p>Rappel de la recherche : <strong>dracula</strong></p>
-<p class='back'><a href='short_results.html'>Retour à la liste des résultats</a></p><h1>Résultat 16</h1></div>
-<p>Dracula. film. 1931
-Dates de tournage : 29/09/1930.  : 22/01/1932. Date de copyright : 1931</p>
+<p>Rappel de la recherche : <strong></strong></p>
+<p class='back'><a href='short_results_o.html'>Retour à la liste des résultats</a></p><h1>Résultat 37</h1></div><div class='full_record'>
+<p class='detailed label'>Dracula, film, 1931</p>
+<div class='detailed'><p class='detailed'>Description : Adapté de la pièce de théâtre de Hamilton Deane et John L. Balderston "Dracula". En 1999, création d’une nouvelle bande sonore écrite par Philip Glass et interprétée par le Kronos quartet.<br/><br/><br/>Dates de tournage : 29/09/1930<br/> : 22/01/1932<br/>Date de copyright : 1931</p></div>
+<div class='rebonds'><p class='rebonds'><strong>Voir aussi</strong></br><span class='rebond'><a href='full_results_UMLRM0152.html'>A pour selection [oeuvre] [Photographies extraites du film "Dracula" de Tod Browning] Tallandier 1932</a></span><br/><span class='rebond'><a href='full_results_UMLRM0163.html'>A pour remake Drácula film 1931 espagnol</a></span><br/><span class='rebond'><a href='full_results_UMLRM0120.html'>A pour parodie Dracula, dead and loving it film</a></span><br/><span class='rebond'><a href='full_results_UMLRM0155.html'>Est une adaptation dans un autre mode de création de [œuvre] Deane, Hamilton (1879-1958) Balderston, John L. (1889-1954) Dracula</a></span><br/><span class='rebond'><a href='full_results_UMLRM0004.html'>Stoker Bram (1847-1912) Dracula</a></span><br/><span class='rebond'><a href='full_results_UMLRM0156.html'>A pour complément Glass, Philip (1937-....) Dracula</a></span></p></div></div>
 <div class='filters'><h3>Filtres</h3>
-<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/>  <a class="filters_lng" href="#">anglais</a> <a class="filters_lng" href="#">espagnol</a> <a class="filters_lng" href="#">allemand</a> <a class="filters_lng" href="#">français</a> <a class="filters_lng" href="#">italien</a> <a class="filters_content_type" href="#">film</a></div>
+<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/>  <a class="filters_lng" href="#">italien</a> <a class="filters_lng" href="#">allemand</a> <a class="filters_lng" href="#">français</a> <a class="filters_lng" href="#">espagnol</a> <a class="filters_lng" href="#">anglais</a> <a class="filters_content_type" href="#">film</a> <div class='yearRange'><p>Filtre par année</p></div></div>
 <div class='filters2'></div></div>
 <div class='items'><h3>Liste des exemplaires</h3>
-<p class='unavail'>Emprunté - Dracula, film, 1931 - Drácula, film, 1931 - Glass, Philip (1937-....), Dracula, Musique exécutée - Bibliothèque municipale de Célesteville MEZZANINE COTE_UMLRM1047</p></div>
+<p class='unavail'>Emprunté - Dracula, film, 1931, Versions multiples (5 langues ; sous-titrage en 5 langues) - Drácula, film, 1931 - Glass, Philip (1937-....), Dracula, Kronos quartet, Musique exécutée - Bibliothèque municipale de Célesteville MEZZANINE COTE_UMLRM1047</p></div>
 
 <div class='pro'>
 <hr/>
 <h3>Infos professionnelles</h3>
-<div class='recordid'><p class='recordid'>UMLRM0154</p><//div>
+<div class='recordid'><p class='recordid'>UMLRM0154 - o</p><//div>
 
-<div class="graph"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440pt" height="43pt" viewBox="0.00 0.00 1440.00 42.77">
-<g id="graph0" class="graph" transform="scale(0.972059 0.972059) rotate(0) translate(4 40)">
+<div class="graph"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="164pt" height="447pt" viewBox="0.00 0.00 164.00 447.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 443)">
 <title>UMLRM0154</title>
-<polygon fill="white" stroke="none" points="-4,4 -4,-40 1477.39,-40 1477.39,4 -4,4"/>
+<polygon fill="white" stroke="none" points="-4,4 -4,-443 160,-443 160,4 -4,4"/>
 <!-- UMLRM0154 -->
 <g id="node1" class="node">
 <title>UMLRM0154</title>
-<ellipse fill="none" stroke="black" cx="1394.1" cy="-18" rx="79.09" ry="18"/>
-<text text-anchor="middle" x="1394.1" y="-14.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, film, 1931</text>
+<polygon fill="none" stroke="red" points="124,-439 2,-439 2,-403 124,-403 124,-439"/>
+<text text-anchor="middle" x="63" y="-417.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, film, 1931</text>
 </g>
 <!-- UMLRM0159 -->
 <g id="node2" class="node">
 <title>UMLRM0159</title>
-<ellipse fill="none" stroke="black" cx="1119.51" cy="-18" rx="79.09" ry="18"/>
-<text text-anchor="middle" x="1119.51" y="-14.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, film, 1931</text>
+<polygon fill="none" stroke="black" points="126,-352 0,-352 0,-269 126,-269 126,-352"/>
+<text text-anchor="middle" x="63" y="-336.8" font-family="Times New Roman,serif" font-size="14.00">Dracula, film, 1931,</text>
+<text text-anchor="middle" x="63" y="-321.8" font-family="Times New Roman,serif" font-size="14.00">Versions multiples</text>
+<text text-anchor="middle" x="63" y="-306.8" font-family="Times New Roman,serif" font-size="14.00">(5 langues ; sous-</text>
+<text text-anchor="middle" x="63" y="-291.8" font-family="Times New Roman,serif" font-size="14.00">titrage en 5</text>
+<text text-anchor="middle" x="63" y="-276.8" font-family="Times New Roman,serif" font-size="14.00">langues)</text>
 </g>
 <!-- UMLRM0159&#45;&gt;UMLRM0154 -->
 <g id="edge1" class="edge">
 <title>UMLRM0159-&gt;UMLRM0154</title>
-<path fill="none" stroke="black" d="M1198.99,-18C1231.63,-18 1269.7,-18 1303.44,-18"/>
-<polygon fill="black" stroke="black" points="1303.19,-21.5 1313.19,-18 1303.19,-14.5 1303.19,-21.5"/>
-<text text-anchor="middle" x="1256.81" y="-21.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
+<path fill="none" stroke="black" d="M63,-352.21C63,-365.29 63,-379.49 63,-391.5"/>
+<polygon fill="black" stroke="black" points="59.5,-391.14 63,-401.14 66.5,-391.14 59.5,-391.14"/>
+<text text-anchor="middle" x="103" y="-373.8" font-family="Times New Roman,serif" font-size="14.00">Expression de</text>
 </g>
 <!-- UMLRM0160 -->
 <g id="node3" class="node">
 <title>UMLRM0160</title>
-<ellipse fill="none" stroke="black" cx="455.61" cy="-18" rx="455.72" ry="18"/>
-<text text-anchor="middle" x="455.61" y="-14.3" font-family="Times New Roman,serif" font-size="14.00">Dracula, Tod Browning, [r&#233;alisateur], Universal StudioCanal vid&#233;o - Universal StudioCanal vid&#233;o, 2014 - 2014, 1 BD vid&#233;o</text>
+<polygon fill="none" stroke="black" points="104,-218 22,-218 22,0 104,0 104,-218"/>
+<text text-anchor="middle" x="63" y="-202.8" font-family="Times New Roman,serif" font-size="14.00">Dracula,</text>
+<text text-anchor="middle" x="63" y="-187.8" font-family="Times New Roman,serif" font-size="14.00">Tod</text>
+<text text-anchor="middle" x="63" y="-172.8" font-family="Times New Roman,serif" font-size="14.00">Browning, </text>
+<text text-anchor="middle" x="63" y="-157.8" font-family="Times New Roman,serif" font-size="14.00">[r&#233;alisate</text>
+<text text-anchor="middle" x="63" y="-142.8" font-family="Times New Roman,serif" font-size="14.00">ur],</text>
+<text text-anchor="middle" x="63" y="-127.8" font-family="Times New Roman,serif" font-size="14.00">Universal </text>
+<text text-anchor="middle" x="63" y="-112.8" font-family="Times New Roman,serif" font-size="14.00">StudioCana</text>
+<text text-anchor="middle" x="63" y="-97.8" font-family="Times New Roman,serif" font-size="14.00">l vid&#233;o -</text>
+<text text-anchor="middle" x="63" y="-82.8" font-family="Times New Roman,serif" font-size="14.00">Universal </text>
+<text text-anchor="middle" x="63" y="-67.8" font-family="Times New Roman,serif" font-size="14.00">StudioCana</text>
+<text text-anchor="middle" x="63" y="-52.8" font-family="Times New Roman,serif" font-size="14.00">l vid&#233;o,</text>
+<text text-anchor="middle" x="63" y="-37.8" font-family="Times New Roman,serif" font-size="14.00">2014 -</text>
+<text text-anchor="middle" x="63" y="-22.8" font-family="Times New Roman,serif" font-size="14.00">2014, 1 BD</text>
+<text text-anchor="middle" x="63" y="-7.8" font-family="Times New Roman,serif" font-size="14.00">vid&#233;o</text>
 </g>
 <!-- UMLRM0160&#45;&gt;UMLRM0159 -->
 <g id="edge2" class="edge">
 <title>UMLRM0160-&gt;UMLRM0159</title>
-<path fill="none" stroke="black" d="M911.8,-18C955.43,-18 995.69,-18 1028.86,-18"/>
-<polygon fill="black" stroke="black" points="1028.78,-21.5 1038.78,-18 1028.78,-14.5 1028.78,-21.5"/>
-<text text-anchor="middle" x="975.72" y="-21.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
+<path fill="none" stroke="black" d="M63,-218.22C63,-231.82 63,-245.22 63,-257.38"/>
+<polygon fill="black" stroke="black" points="59.5,-257.11 63,-267.11 66.5,-257.11 59.5,-257.11"/>
+<text text-anchor="middle" x="109.5" y="-239.8" font-family="Times New Roman,serif" font-size="14.00">Manifestation de</text>
 </g>
 </g>
 </svg></div>
-
+<div class="indexed_metas">
+<table class="indexed_metas_table">
+<tr><th>self_index</th><td>['http catalogue bnf fr ark 12148 cb164600587$?https www wikidata org wiki q279378', '0000 0000 edb1 0000 0000 0000', 'dracula', "adapte de la piece de theatre de hamilton deane et john balderston dracula $?en 1999 creation d'une nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet", '', 'http catalogue bnf fr ark 12148 cb164600587$?https www wikidata org wiki q279378', '0000 0000 edb1 0000 0000 0000', 'dracula', "adapte de la piece de theatre de hamilton deane et john balderston dracula $?en 1999 creation d'une nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet", '']</td></tr>
+<tr><th>linked_entities_index</th><td>["dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs", 'paris universal studiocanal video 2014$? paris universal studiocanal video 2014', '', '', '', 'contient aussi dracula version espagnole introduction la version espagnole par lupita tovar kohner dracula la genese lugosi le prince des tenebres dracula nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet sur les traces des monstres anecdotes interactives archives dracula dracula la restauration', '', "dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs", 'paris universal studiocanal video 2014$? paris universal studiocanal video 2014', '', '', '', 'contient aussi dracula version espagnole introduction la version espagnole par lupita tovar kohner dracula la genese lugosi le prince des tenebres dracula nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet sur les traces des monstres anecdotes interactives archives dracula dracula la restauration', '', 'dracula', '', 'surround dolby digital', 'dracula tod browning realisateur scenario de garrett fort d\'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs paris universal studiocanal video editeur distributeur 2014 images animees video 830 098 edv 764 $?imdb internet movie database https www imdb com title tt0021814 2022 10 18 $?servin javier tale of two draculas the history preservation restoration and legacy of universal studios\' english and spanish language "dracula" https jservin85 wordpress com preservation and restoration restoration of dracula 2022 11 13', 'dracula', '', 'surround dolby digital', 'dracula tod browning realisateur scenario de garrett fort d\'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs paris universal studiocanal video editeur distributeur 2014 images animees video 830 098 edv 764 $?imdb internet movie database https www imdb com title tt0021814 2022 10 18 $?servin javier tale of two draculas the history preservation restoration and legacy of universal studios\' english and spanish language "dracula" https jservin85 wordpress com preservation and restoration restoration of dracula 2022 11 13']</td></tr>
+<tr><th>resp_index</th><td>['browning tod', 'deane hamilton', 'fort garrett', 'lugosi bela', 'manners david', 'chandler helen', 'browning tod', 'deane hamilton', 'fort garrett', 'lugosi bela', 'manners david', 'chandler helen']</td></tr>
+<tr><th>linked_resp_index</th><td>[]</td></tr>
+<tr><th>global_index</th><td> fort garrett contient aussi dracula version espagnole introduction la version espagnole par lupita tovar kohner dracula la genese lugosi le prince des tenebres dracula nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet sur les traces des monstres anecdotes interactives archives dracula dracula la restauration deane hamilton lugosi bela dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs 0000 0000 edb1 0000 0000 0000 chandler helen browning tod dracula surround dolby digital adapte de la piece de theatre de hamilton deane et john balderston dracula $?en 1999 creation d'une nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs paris universal studiocanal video editeur distributeur 2014 images animees video 830 098 edv 764 $?imdb internet movie database https www imdb com title tt0021814 2022 10 18 $?servin javier tale of two draculas the history preservation restoration and legacy of universal studios' english and spanish language "dracula" https jservin85 wordpress com preservation and restoration restoration of dracula 2022 11 13 http catalogue bnf fr ark 12148 cb164600587$?https www wikidata org wiki q279378 paris universal studiocanal video 2014$? paris universal studiocanal video 2014 manners david</td></tr>
+</table>
+</div>
+<p class="marc_record"><br/>000    03422cx  f2200541   4500<br/>001    UMLRM0154<br/>005    20220322######.D<br/>033    $a http://catalogue.bnf.fr/ark:/12148/cb164600587<br/>033    $a https://www.wikidata.org/wiki/Q279378<br/>052    $a 0000-0000-EDB1-0000-2-0000-0000-V<br/>100    $a 20221008afrey50      ba0<br/>101 0  $a eng<br/>102    $a US<br/>104    $a d1931<br/>125 0  $a m<br/>127 0  $a 011500<br/>140    $a ic $b fffa $2 BnF- $2 BnF-GenreFilm<br/>145 0  $a b $b xa2ae<br/>147 0  $a a $e b $h a<br/>152    $a RDA-FR<br/>154    $a xa<br/>231    $a Dracula $c film $d 1931 $7 ba0yba0y $8 fre###<br/>370    $c Adapté de la pièce de théâtre de Hamilton Deane et John L. Balderston "Dracula" $c En 1999, création d’une nouvelle bande sonore écrite par Philip Glass et interprétée par le Kronos quartet.<br/>431    $a Dracula le vampire $c film<br/>441    $3 12086885 $7 ba0yba0y $8 fre### $a Browning, Tod (1882-1962) $t Dracula<br/>441    $3 12086885 $7 ba0yba0y $8 frefre $a Browning, Tod (1882-1962) $t Dracula le vampire<br/>501  1 $3 12086885 $7 ba0yba0y $8 fre### $o ISNI 0000 0000 8156 0851 $a Browning $b Tod $f 1882-1962 $4 300<br/>501  1 $3 14091523 $7 ba0yba0y $8 fre### $o ISNI 0000 0000 2128 3813 $a Deane $b Hamilton $f 1879-1958 $4 690<br/>501  1 $3 14098404 $7 ba0yba0y $8 fre### $o ISNI 0000 0000 6310 1360 $a Fort $b Garrett $f 1900-1945 $4 690<br/>501  1 $3 12121661 $7 ba0yba0y $8 fre### $o ISNI 0000 0001 2276 8254 $a Lugosi $b Bela $f 1882-1956 $4 005<br/>501  1 $3 14017983 $7 ba0yba0y $8 fre### $o ISNI 0000 0001 2125 0170 $a Manners $b David $f 1900-1998 $4 005<br/>501  1 $3 14163316 $7 ba0yba0y $8 fre### $o ISNI 0000 0000 2480 0695 $a Chandler $b Helen $f 1906-1965 $4 005<br/>531    $5 xxr $p A pour selection [oeuvre] $3 UMLRM0152 $7 ba0yba0y $8 frefre $a [Photographies extraites du film "Dracula" de Tod Browning] $k Tallandier $d 1932<br/>531    $5 xxc $p A pour remake $3 UMLRM0163 $7 ba0yba0y $8 frespa $a Drácula $c film $d 1931 $f espagnol<br/>531    $5 xxc $p A pour parodie $3 UMLRM0120 $7 ba0yba0y $8 freeng $a Dracula, dead and loving it $c film<br/>541  1 $5 xxa $p Est une adaptation dans un autre mode de création de [œuvre] $3 UMLRM0155 $7 ba0yba0y $8 fre### $a Deane, Hamilton (1879-1958) $a Balderston, John L. (1889-1954) $t Dracula<br/>541  1 $5 xxl $3 UMLRM0004 $7 ba0yba0y $8 fre### $a Stoker $b Bram (1847-1912) $t Dracula<br/>541  1 $5 xxf $p A pour complément $3 UMLRM0156 $7 ba0yba0y $8 fre### $a Glass, Philip (1937-....) $t Dracula<br/>608    $3 11980577 $a Films d’horreur $2 rameauGenre<br/>640 5  $0 Dates de tournage $f #19300929# $i #19301115#<br/>640 6  $a FR $f #19320122#<br/>640 0  $0 Date de copyright $f #1931#####<br/>801    $a FR $b FR-751131015 $c 20220322<br/>810    $a Dracula / Tod Browning, réalisateur ; d’après Bram Stoker, Hamilton Deane, John L. Balderston ; Hamilton Deane, Garrett Fort, scenario ; Bela Lugosi, David Manners, Helen Chandler... [et autres], acteurs. – [Paris] : Universal StudioCanal vidéo [éditeur et distributeur], 2014. – [Images animées : vidéo]<br/>810    $a Registre des visas et de la classification du CNC : https://www.cnc.fr/professionnels/visas-et-classification/32273 (2022-03-22)<br/>810    $a Wikipédia : https://fr.wikipedia.org/wiki/Dracula_(film,_1931) (2022-03-22)<br/>810    $a IMDB (Internet movie database) - https://www.imdb.com/title/tt0021814 (2022-03-22)<br/>810    $a  Ciné-ressources : http://www.cineressources.net/ (2022-1009). Sous : Dracula (1930) Tod Browning $b Dates de tournage</p>
 </div>
 
 </body>

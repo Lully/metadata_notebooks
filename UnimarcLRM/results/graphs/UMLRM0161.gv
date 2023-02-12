@@ -1,0 +1,25 @@
+// Notice UMLRM0161
+digraph UMLRM0161 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0161 [label="Humphries, Tudor
+(1953-….), Dracula,
+Anglais, Texte noté.
+Image fixe" color=red]
+	UMLRM0034 [label="Humphries, Tudor
+(1953-….), Dracula"]
+	UMLRM0161 -> UMLRM0034 [label="Expression de"]
+	UMLRM0177 [label="Dracula,
+Bram
+Stoker,
+Dorling Ki
+ndersley,
+1997, 1
+volume (64
+pages),
+couverture
+illustrée
+en couleur"]
+	UMLRM0177 -> UMLRM0161 [label="Manifestation de"]
+}

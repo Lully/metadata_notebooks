@@ -1,6 +1,8 @@
 // Notice UMLRM0144
 digraph UMLRM0144 {
-	rankdir=LR
+	node [align=left shape=rect]
 	size="20,20"
-	UMLRM0144 [label="Dusapin, Pascal (1955-....), Apex"]
+	rankdir=BT
+	UMLRM0144 [label="Dusapin, Pascal
+(1955-....), Apex" color=red]
 }

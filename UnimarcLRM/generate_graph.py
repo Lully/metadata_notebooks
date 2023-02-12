@@ -6,23 +6,40 @@ explain = """Génération de graphes en SVG
 import os
 import graphviz
 
-def generate_graph_from_oeuvre(oeuvre, dict_entities, size):
+def generate_graph_from_oeuvre(entity, dict_entities, size, shape="rect"):
     # A partir d'une manifestation, renvoie un graphe GraphViz
-    dot = graphviz.Digraph(oeuvre.id, comment=f'Notice {oeuvre.id}')  
-    dot.attr(rankdir='LR')
+    dot = graphviz.Digraph(entity.id, comment=f'Notice {entity.id}')  
+    # dot.attr(rankdir='LR')
     dot.attr(size=size)
+    dot.attr(rankdir="BT")
+    dot.node_attr['shape'] = shape
+    
+    #dot.node_attr['color'] = "red"
+    dot.node_attr['align'] = "left"
+    #dot.node_attr['width'] = "300px"
     # Add nodes and edges to the graph object using its node() and edge() or edges() methods:
-    dot.node(oeuvre.id, oeuvre.label)
+    dot.node(entity.id, entity.splitted_label, color="red")
     dot.format = "svg"
     liste_edges = []
-    for expr in oeuvre.toExpressions:
-        if expr:
-            dot.node(expr, dict_entities[expr].label)
-            dot.edge(expr, oeuvre.id, label="Expression de")
-        for manif in dict_entities[expr].toManifs:
+    if entity.type == "o":
+        for expr in entity.toExpressions:
+            if expr:
+                dot.node(expr, dict_entities[expr].splitted_label)
+                dot.edge(expr, entity.id, label="Expression de")
+            for manif in dict_entities[expr].toManifs:
+                if manif:
+                    dot.node(manif, dict_entities[manif].splitted_label)
+                    dot.edge(manif, expr, label="Manifestation de")
+    elif entity.type == "e":
+        for oeuvre in entity.toOeuvres:
+            if oeuvre:
+                dot.node(oeuvre, dict_entities[oeuvre].splitted_label)
+                dot.edge(entity.id, oeuvre, label="Expression de")
+        for manif in entity.toManifs:
             if manif:
-                dot.node(manif, dict_entities[manif].label)
-                dot.edge(manif, expr, label="Manifestation de")
+                dot.node(manif, dict_entities[manif].splitted_label)
+                dot.edge(manif, entity.id, label="Manifestation de")
+
     dot.render(directory='results/graphs').replace('\\', '/')
  
     return dot

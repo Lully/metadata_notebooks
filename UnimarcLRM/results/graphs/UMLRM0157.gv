@@ -1,0 +1,43 @@
+// Notice UMLRM0157
+digraph UMLRM0157 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0157 [label="Glass, Philip
+(1937-....),
+Dracula, Kronos
+quartet, Musique
+exécutée" color=red]
+	UMLRM0156 [label="Glass, Philip
+(1937-....), Dracula"]
+	UMLRM0157 -> UMLRM0156 [label="Expression de"]
+	UMLRM0158 [label="Dracula,
+music by
+Philip
+Glass,
+[WEA
+Europe] -
+[distrib.
+Warner
+music
+France],
+[P 1999],
+1 disque
+compact"]
+	UMLRM0158 -> UMLRM0157 [label="Manifestation de"]
+	UMLRM0160 [label="Dracula,
+Tod
+Browning, 
+[réalisate
+ur],
+Universal 
+StudioCana
+l vidéo -
+Universal 
+StudioCana
+l vidéo,
+2014 -
+2014, 1 BD
+vidéo"]
+	UMLRM0160 -> UMLRM0157 [label="Manifestation de"]
+}

@@ -1,0 +1,28 @@
+// Notice UMLRM0133
+digraph UMLRM0133 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0133 [label="Eickhoff, Stefan,
+Max Schreck :
+Gespenstertheater,
+Allemand, Texte noté" color=red]
+	UMLRM0132 [label="Eickhoff, Stefan,
+Max Schreck :
+Gespenstertheater"]
+	UMLRM0133 -> UMLRM0132 [label="Expression de"]
+	UMLRM0134 [label="Max
+Schreck,
+Stefan
+Eickhoff, 
+Belleville
+,
+Copyright
+2009, 1
+volume.
+(575
+pages),
+couverture
+illustrée"]
+	UMLRM0134 -> UMLRM0133 [label="Manifestation de"]
+}

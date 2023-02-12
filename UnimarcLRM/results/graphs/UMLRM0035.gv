@@ -1,0 +1,28 @@
+// Notice UMLRM0035
+digraph UMLRM0035 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0035 [label="Humphries, Tudor
+(1953-….), Dracula,
+Français, Texte
+noté. Image fixe" color=red]
+	UMLRM0034 [label="Humphries, Tudor
+(1953-….), Dracula"]
+	UMLRM0035 -> UMLRM0034 [label="Expression de"]
+	UMLRM0036 [label="Dracula,
+d'après
+Bram
+Stoker,
+Sélection
+du
+\"Reader's
+digest\",
+1998, 1
+volume (64
+pages),
+couverture
+illustrée
+en couleur"]
+	UMLRM0036 -> UMLRM0035 [label="Manifestation de"]
+}

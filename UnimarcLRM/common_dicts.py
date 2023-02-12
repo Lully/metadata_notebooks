@@ -34,7 +34,7 @@ tags_subjects = {"genre-forme": ["608"],
 
 # Pour chaque type d'entité, les zones à indexer
 tags_indexation = {"m": "200,214$a$c$d,225$a$c,307$a,320$a,327$a,330$a".split(","),
-                   "e": "232$a,371$a".split(","),
+                   "e": "232$a$t,242$a$t,371$a,810$a".split(","),
                    "o": "033$a,052$a,231$a,370$a$c,378$a".split(","),
                    "i": "252$a$b$j".split(","),
                    "p": ["200"],

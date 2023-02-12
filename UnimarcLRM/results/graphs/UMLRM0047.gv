@@ -1,0 +1,26 @@
+// Notice UMLRM0047
+digraph UMLRM0047 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0047 [label="Stoker, Bram
+(1847-1912), Choix,
+Dracula, Français,
+Finné, Texte noté" color=red]
+	UMLRM0037 [label="Stoker, Bram
+(1847-1912), Choix,
+Dracula"]
+	UMLRM0047 -> UMLRM0037 [label="Expression de"]
+	UMLRM0048 [label="Dracula,
+Bram
+Stoker, Fl
+ammarion,
+DL 2017, 1
+volume
+(222 pages
+- [4]
+pages),
+couverture
+illustrée"]
+	UMLRM0048 -> UMLRM0047 [label="Manifestation de"]
+}

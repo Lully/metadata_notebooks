@@ -1,6 +1,8 @@
 // Notice UMLRM0145
 digraph UMLRM0145 {
-	rankdir=LR
+	node [align=left shape=rect]
 	size="20,20"
-	UMLRM0145 [label="Dusapin, Pascal (1955-....), Watt"]
+	rankdir=BT
+	UMLRM0145 [label="Dusapin, Pascal
+(1955-....), Watt" color=red]
 }

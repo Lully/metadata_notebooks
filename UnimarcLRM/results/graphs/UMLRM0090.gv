@@ -1,12 +1,39 @@
 // Notice UMLRM0090
 digraph UMLRM0090 {
-	rankdir=LR
+	node [align=left shape=rect]
 	size="20,20"
-	UMLRM0090 [label="Nosferatu, the wrath of Malachi, jeu vidéo"]
-	UMLRM0091 [label="Nosferatu, the wrath of Malachi, jeu vidéo"]
+	rankdir=BT
+	UMLRM0090 [label="Nosferatu, the wrath
+of Malachi, jeu
+vidéo" color=red]
+	UMLRM0091 [label="Nosferatu, the wrath
+of Malachi, jeu
+vidéo, Français, PC"]
 	UMLRM0091 -> UMLRM0090 [label="Expression de"]
-	UMLRM0092 [label="Nosferatu, Idol FX AB, Pan vision, Eidos - Mindscape, [2005] - 2005, 1 disque optique numérique (CD-ROM)"]
+	UMLRM0092 [label="Nosferatu,
+Idol FX
+AB, Pan
+vision,
+Eidos -
+Mindscape,
+[2005] -
+2005, 1
+disque
+optique
+numérique
+(CD-ROM)"]
 	UMLRM0092 -> UMLRM0091 [label="Manifestation de"]
-	UMLRM0095 [label="Nosferatu, Idol FX AB, Pan vision, Neo publishing, [2003] - 2003, 1 disque optique numérique (CD-ROM)"]
+	UMLRM0095 [label="Nosferatu,
+Idol FX
+AB, Pan
+vision,
+Neo publis
+hing,
+[2003] -
+2003, 1
+disque
+optique
+numérique
+(CD-ROM)"]
 	UMLRM0095 -> UMLRM0091 [label="Manifestation de"]
 }

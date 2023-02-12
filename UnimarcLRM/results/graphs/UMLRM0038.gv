@@ -1,0 +1,29 @@
+// Notice UMLRM0038
+digraph UMLRM0038 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0038 [label="Stoker, Bram
+(1847-1912), Choix,
+Dracula, Français,
+Finné, Texte noté" color=red]
+	UMLRM0037 [label="Stoker, Bram
+(1847-1912), Choix,
+Dracula"]
+	UMLRM0038 -> UMLRM0037 [label="Expression de"]
+	UMLRM0039 [label="Dracula,
+Bram
+Stoker,
+Flammarion
+-
+Imprimerie
+Maury-Euro
+livres,
+2006, 1
+volume
+(222
+pages),
+couverture
+illustrée"]
+	UMLRM0039 -> UMLRM0038 [label="Manifestation de"]
+}

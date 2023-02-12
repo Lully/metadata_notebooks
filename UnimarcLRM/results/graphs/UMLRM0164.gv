@@ -1,6 +1,8 @@
 // Notice UMLRM0164
 digraph UMLRM0164 {
-	rankdir=LR
+	node [align=left shape=rect]
 	size="20,20"
-	UMLRM0164 [label="Godden, Mark, Dracula"]
+	rankdir=BT
+	UMLRM0164 [label="Godden, Mark,
+Dracula" color=red]
 }

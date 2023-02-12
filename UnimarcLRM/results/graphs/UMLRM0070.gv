@@ -1,10 +1,29 @@
 // Notice UMLRM0070
 digraph UMLRM0070 {
-	rankdir=LR
+	node [align=left shape=rect]
 	size="20,20"
-	UMLRM0070 [label="Belford, Barbara, Bram Stoker : a biography of the author of \"Dracula"]
-	UMLRM0071 [label="Belford, Barbara, Bram Stoker : a biography of the author of \"Dracula\", Texte noté"]
+	rankdir=BT
+	UMLRM0070 [label="Belford, Barbara,
+Bram Stoker : a
+biography of the
+author of \"Dracula" color=red]
+	UMLRM0071 [label="Belford, Barbara,
+Bram Stoker : a
+biography of the
+author of \"Dracula\",
+Anglais, Texte noté"]
 	UMLRM0071 -> UMLRM0070 [label="Expression de"]
-	UMLRM0072 [label="Bram Stoker, Barbara Belford, Weidenfeld and Nicolson, 1996, 1 volume(XV-381 pages), couverture illustrée"]
+	UMLRM0072 [label="Bram
+Stoker,
+Barbara
+Belford,
+Weidenfeld
+and
+Nicolson,
+1996, 1 vo
+lume(XV-38
+1 pages),
+couverture
+illustrée"]
 	UMLRM0072 -> UMLRM0071 [label="Manifestation de"]
 }

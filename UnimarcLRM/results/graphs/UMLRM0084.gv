@@ -1,10 +1,29 @@
 // Notice UMLRM0084
 digraph UMLRM0084 {
-	rankdir=LR
+	node [align=left shape=rect]
 	size="20,20"
-	UMLRM0084 [label="Cazacu, Matei (1946-....), Dracula"]
-	UMLRM0085 [label="Cazacu, Matei (1946-....), Dracula, Texte noté"]
+	rankdir=BT
+	UMLRM0084 [label="Cazacu, Matei
+(1946-....), Dracula" color=red]
+	UMLRM0085 [label="Cazacu, Matei
+(1946-....),
+Dracula, Français,
+Texte noté"]
 	UMLRM0085 -> UMLRM0084 [label="Expression de"]
-	UMLRM0086 [label="Dracula, Matei Cazacu, Tallandier - Normandie roto impression, 2011, 1 volume (497 pages), couverture illustrée en couleur"]
+	UMLRM0086 [label="Dracula,
+Matei
+Cazacu,
+Tallandier
+-
+Normandie
+roto impre
+ssion,
+2011, 1
+volume
+(497
+pages),
+couverture
+illustrée
+en couleur"]
 	UMLRM0086 -> UMLRM0085 [label="Manifestation de"]
 }

@@ -30,6 +30,7 @@ from string import ascii_lowercase
 import re
 from string import punctuation
 from unidecode import unidecode
+from textwrap import wrap
 
 import SRUextraction as sru # import du fichier https://github.com/Lully/bnf-sru/blob/master/SRUextraction.py
 from common_dicts import *
@@ -45,16 +46,19 @@ class Record:
         self.init_type = rectype
         self.id = sru.record2fieldvalue(self.xml, "001")
         self.txt = sru.xml2seq(self.xml)
+        self.self_index, self.linked_entities_index, self.resp_index, self.linked_resp_index, self.global_index = [[], [], [], [], []]
         self.type = get_type(xml_record, rectype)
         self.label = get_label(self)
+        self.splitted_label = split_label(self.label, self.type)
         self.stats_zones = get_stats_zones(xml_record)
         self.resp = get_responsabilites(xml_record, self.type)
         self.respIds = get_respids(xml_record, self.type)
         self.toOeuvres = defaultdict(str)
         self.toExpressions = defaultdict(str)
         self.toManifs = defaultdict(str)
+        self.manifsYears = None
         self.toItems = defaultdict(str)
-        self.self_index, self.linked_entities_index, self.resp_index, self.linked_resp_index, self.global_index = construct_indexation(self)
+        self = construct_indexation(self, {})
         dic_id2type[self.id] = self.type
         self.repr = f"id : {self.id}\ntype initial : {self.init_type} ; type : {self.type}\n\
 label : {self.label}\n\nNotice : {self.txt} \n\nXML : {self.xml}\n\
@@ -83,7 +87,8 @@ class Oeuvre(Record):
         super().__init__(xml_record, rectype)
         self.subjects = get_subjects(xml_record)
         self.genreforme = get_genreforme(xml_record)
-        self.detailed = construct_detailed_work(self)
+        self.detailed = construct_detailed_record(self, ["231", "241"], ["370", "378"], ["640"])
+        self.rebonds = get_rebonds(self, ["531", "541", "515"])
         self.exprResp = None  # Mentions de responsabilités aux niveau des expressions
         self.lang = None
         self.exprContentType = None
@@ -121,43 +126,6 @@ def get_genreforme(xml_record):
             gf[indexid] = value
     return gf
 
-def construct_detailed_work(oeuvre):
-    """Notice détaillée d'oeuvre :
-231$a. 231$c (231$d) - 231$m
-Description : 531$p + label(531$3). 541 $p + label(541$3)
-Autres infos : 640$0 : [640$f à normaliser] (640$d)"""
-    row = []
-    first_line = ""
-    if sru.record2fieldvalue(oeuvre.xml, "231"):
-        first_line = sru.record2fieldvalue(oeuvre.xml, "231$a")
-        for subfield in "cdm":
-            subf = f"231${subfield}"
-            if sru.record2fieldvalue(oeuvre.xml, subf):
-                first_line += f". {sru.record2fieldvalue(oeuvre.xml, subf)}"
-    elif sru.record2fieldvalue(oeuvre.xml, "241"):
-        first_line = sru.record2fieldvalue(oeuvre.xml, "241$a")
-        for subfield in "cdm":
-            subf = f"241${subfield}"
-            if sru.record2fieldvalue(oeuvre.xml, subf):
-                first_line += f". {sru.record2fieldvalue(oeuvre.xml, subf)}"
-    row.append(first_line)
-    description = zones2recorddescription(oeuvre.xml, ["531", "541"])
-    if description:
-        row.append(f"Description : {description}")
-    autres_infos = []
-    for f640 in oeuvre.xml.xpath("*[@tag='640']"):
-        val = sru.field2subfield(f640, "0")
-        if sru.field2subfield(f640, "f"):
-            val += f" : {normalize_date(sru.field2subfield(f640, 'f'))}"
-        if sru.field2subfield(f640, "d"):
-            val += f" ({sru.field2subfield(f640, 'd')})"
-        autres_infos.append(val)
-    autres_infos = ". ".join(autres_infos)
-    row.append(autres_infos)
-    if sru.field2subfield(oeuvre.xml, "370$c"):
-        row.append(sru.field2subfield(oeuvre.xml, "370$c"))
-    row = "\n".join(row)
-    return row
                 
 def normalize_date(date):
     reg1 = "#(\d\d\d\d)(\d\d)(\d\d)#"
@@ -170,6 +138,17 @@ def normalize_date(date):
     return new_date
 
 
+def split_label(label, entity_type):
+    # renvoie un label avec sauts de ligne
+    # pour faciliter l'affichage dans le graphe
+    if entity_type == "m":
+        nb = 10
+    else:
+        nb = 20
+    splitted_label = "\n".join(wrap(label, nb))
+    # print(splitted_label)
+    return splitted_label
+
 def clean_string(string):
     # renvoie une version nettoyée (sans ponctuation ni majuscules)
     string = string.lower()
@@ -180,59 +159,93 @@ def clean_string(string):
     return string
 
 
-def construct_indexation(record):
+def construct_indexation(record, dict_entities):
     # construction de l'indexation
-    global_index = []
-    self_index = []             # Métadonnées dans l'entité même
-    linked_entities_index = []  # métadonnées des entités OEMI en lien
-    resp_index = []             # métadonnées pour les mentions de responsabilité
-    linked_resp_index = []      # métadonnées des mentions de responsabilités en lien 
+    """global_index = record.global_index
+    self_index = record.self_index             # Métadonnées dans l'entité même
+    linked_entities_index = record.linked_entities_index  # métadonnées des entités OEMI en lien
+    resp_index = record.resp_index          # métadonnées pour les mentions de responsabilité
+    linked_resp_index = record.linked_resp_index      # métadonnées des mentions de responsabilités en lien
+    """ 
     tags = tags_indexation[record.type]
     for tag in tags:
         current_value = sru.record2fieldvalue(record.xml, tag)
         current_value = re.sub(" ?$. ", " ", current_value)
         current_value = clean_string(current_value)
-        self_index.append(current_value)
+        record.self_index.append(current_value)
     for dico in [record.toOeuvres, record.toExpressions, record.toManifs, record.toItems]:
         values = []
         if type(dico) == dict:
             for key in dico:
                 values.append(clean_string(dico[key]))
-        linked_entities_index.extend(values)
+        record.linked_entities_index.extend(values)
     for resp_label in record.resp:
-        resp_index.append(clean_string(resp_label))
-    if record.type == "m":
-        for expr in record.toExpressions:
-            expr_rec = dict_entities[expr]
-            for resp_label in expr_rec.resp:
-                linked_resp_index.append(clean_string(resp_label))
-        for oeuvre in record.toOeuvres:
-            oeuvre_rec = dict_entities[oeuvre]
-            for resp_label in oeuvre_rec.resp:
-                linked_resp_index.append(clean_string(resp_label))
-    
-    global_index = self_index + linked_entities_index + resp_index + linked_resp_index
-    global_index = " ".join(global_index)
-    return self_index, linked_entities_index, resp_index, linked_resp_index, global_index
+        record.resp_index.append(clean_string(resp_label))
+    if dict_entities:
+        if record.type == "m":
+            for expr in record.toExpressions:
+                if expr:
+                    expr_rec = dict_entities[expr]
+                    for resp_label in expr_rec.resp:
+                        record.linked_resp_index.append(clean_string(resp_label))
+            for oeuvre in record.toOeuvres:
+                oeuvre_rec = dict_entities[oeuvre]
+                for resp_label in oeuvre_rec.resp:
+                    record.linked_resp_index.append(clean_string(resp_label))
+        elif record.type == "e":
+            for manif in record.toManifs:
+                manif_rec = dict_entities[manif]
+                for resp_label in manif_rec.resp:
+                    record.linked_resp_index.append(clean_string(resp_label))
+                for el in manif_rec.self_index:
+                    record.linked_entities_index.append(el)
+            for oeuvre in record.toOeuvres:
+                oeuvre_rec = dict_entities[oeuvre]
+                for resp_label in oeuvre_rec.resp:
+                    record.linked_resp_index.append(clean_string(resp_label))
+                for el in oeuvre_rec.self_index:
+                    record.linked_entities_index.append(el)
+        elif record.type == "o":
+            for manif in record.toManifs:
+                manif_rec = dict_entities[manif]
+                for resp_label in manif_rec.resp:
+                    record.linked_resp_index.append(clean_string(resp_label))
+                for el in manif_rec.self_index:
+                    record.linked_entities_index.append(el)
+            for expr in record.toExpressions:
+                if expr:
+                    expr_rec = dict_entities[expr]
+                    for resp_label in expr_rec.resp:
+                        record.linked_resp_index.append(clean_string(resp_label))
+                    for el in expr_rec.self_index:
+                        record.linked_entities_index.append(el)
+    record.global_index = record.self_index + record.linked_entities_index + record.resp_index + record.linked_resp_index
+    record.global_index = " ".join(set(record.global_index))
+    return record
 
 
 def zones2recorddescription(xml_record, list_tags):
     description = []
     for tag in list_tags:
         for field in xml_record.xpath(f"*[@tag='{tag}']"):
+            subf_p = sru.field2subfield(field, "p")
             desc = []
-            if sru.field2subfield(field, "$f"):
-                desc.append(sru.field2subfield(field, "$f"))
-            if sru.field2subfield(field, "$p"):
-                desc.append(sru.field2subfield(field, "$p"))
-            if sru.field2subfield(field, "$3"):
-                try:
-                    desc.append(dict_entities[sru.field2subfield(field, "$3")].label)
-                except KeyError:
-                    print(sru.field2subfield(field, "$3"))
-            desc = " ".join(desc)
+            for subf in "atcf":
+                desc.append(sru.field2subfield(field, subf))
+            try:
+                desc.append(dict_entities[sru.field2subfield(field, "3")].label)
+            except KeyError:
+                pass
+                # print(sru.field2subfield(field, "3"))
+            desc = [el for el in desc if el]
+            desc = ", ".join(desc)
+            if subf_p:
+                desc = f"{subf_p} {desc}"
+            """print(tag, field, desc)
+            print(etree.tostring(field))"""
             description.append(desc)  
-    description = ". ".join([el for el in description if el])
+    description = ".\n".join([el for el in description if el])
+    description = description.replace("¤", ". ")
     return description     
 
 
@@ -244,7 +257,10 @@ class Expression(Record):
         self.expressionContentType = get_expression_content_type(self.xml)
         self.exprContentType = self.expressionContentType
         self.exprResp = get_exprResp(self)
-        self.detailed = construct_detailed_expression(self)
+        self.detailed = construct_detailed_record(self, ["232", "242"], ["371"], ["640"])
+        self.rebonds = get_rebonds(self, ["531", "541", "515"])
+        self.other_expressions = None
+
 
     def __repr__(self):
         representation = self.repr
@@ -297,41 +313,44 @@ def get_expression_content_type(xml_record):
     return expression_content_type
 
 
-def construct_detailed_expression(expression):
+def construct_detailed_record(record, accesspoint_tag, description_tags, 
+                              others_infos_tags):
     """Notice détaillée d'oeuvre :
 231$a. 231$c (231$d) - 231$m
 Description : 531$p + label(531$3). 541 $p + label(541$3)
 Autres infos : 640$0 : [640$f à normaliser] (640$d)"""
     row = []
-    first_line = ""
-    if sru.record2fieldvalue(expression.xml, "232"):
-        first_line = sru.record2fieldvalue(expression.xml, "232$a")
-        for subfield in "cdmt":
-            subf = f"242${subfield}"
-            if sru.record2fieldvalue(expression.xml, subf):
-                first_line += f". {sru.record2fieldvalue(expression.xml, subf.replace('¤', ', '))}"
-    elif sru.record2fieldvalue(expression.xml, "242"):
-        first_line = sru.record2fieldvalue(expression.xml, "242$a")
-        for subfield in "cdmt":
-            subf = f"242${subfield}"
-            if sru.record2fieldvalue(expression.xml, subf):
-                first_line += f". {sru.record2fieldvalue(expression.xml, subf.replace('¤', ', '))}"
-    row.append(first_line)
-    description = zones2recorddescription(expression.xml, ["371"])
+    first_line = []
+
+    for tag in accesspoint_tag:
+        for field_occ in record.xml.xpath(f"*[@tag='{tag}']"):
+            for subf in field_occ.xpath("*"):
+                code = subf.get("code")
+                if code in ascii_lowercase.replace("o", ""):
+                    first_line.append(subf.text.replace("¤", ", "))
+    first_line = ". ".join(first_line)
+    # row.append(first_line)
+    description = zones2recorddescription(record.xml, description_tags)
     if description:
         row.append(f"Description : {description}")
     autres_infos = []
-    for f640 in expression.xml.xpath("*[@tag='640']"):
-        val = sru.field2subfield(f640, "0")
-        if sru.field2subfield(f640, "f"):
-            val += f" : {normalize_date(sru.field2subfield(f640, 'f'))}"
-        if sru.field2subfield(f640, "d"):
-            val += f" ({sru.field2subfield(f640, 'd')})"
-        autres_infos.append(val)
-    autres_infos = ". ".join(autres_infos)
+    for tag in others_infos_tags:
+        for field_occ in record.xml.xpath(f"*[@tag='{tag}']"):
+            val = sru.field2subfield(field_occ, "0")
+            if sru.field2subfield(field_occ, "f"):
+                val += f" : {normalize_date(sru.field2subfield(field_occ, 'f'))}"
+            if sru.field2subfield(field_occ, "d"):
+                val += f" ({sru.field2subfield(field_occ, 'd')})"
+            autres_infos.append(val)
+    autres_infos = "\n".join(autres_infos)
+    row.append("\n")
     row.append(autres_infos)
+    if sru.field2subfield(record.xml, "370$c"):
+        row.append(sru.field2subfield(record.xml, "370$c"))
+
     row = "\n".join(row)
     return row
+
 
 
 class Item(Record):
@@ -352,6 +371,24 @@ def get_cote(xml_record):
     cote = " ".join([sru.record2fieldvalue(xml_record, "252$b"), sru.record2fieldvalue(xml_record, "252$j")])
     return localisation, cote
 
+
+def get_rebonds(record, rebonds_tags):
+    rebonds = []
+    for tag in rebonds_tags:
+        for field_occ in record.xml.xpath(f"*[@tag='{tag}']"):
+            link = f"full_results_{sru.field2subfield(field_occ, '3')}.html"
+            text = []
+            for subf in field_occ.xpath("*"):
+                code = subf.get("code")
+                if code in ascii_lowercase:
+                    text.append(subf.text)
+            text = " ".join(text)
+            if link:
+                rebonds.append(f"<span class='rebond'><a href='{link}'>{text}</a></span>")
+            else:
+                rebonds.append(f"<span class='rebond'>{text}</span>")
+    rebonds = "\n".join(rebonds)
+    return rebonds
 
 def get_stats_zones(xml_record):
     # Renvoie un dictionnaire listant les zones avec leur nombre d'occurrences
@@ -477,6 +514,10 @@ def get_label(record):
                     label.append(sru.field2subfield(field, "d"))
                 if record.type in "oe":
                     label.append(sru.field2subfield(field, "t"))
+                if record.type in "oe":
+                    label.append(sru.field2subfield(field, "m"))
+                if record.type in "oe":
+                    label.append(sru.field2subfield(field, "w"))
                 if record.type in "oe":
                     label.append(sru.field2subfield(field, "n"))
                 else:

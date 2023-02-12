@@ -1,0 +1,41 @@
+// Notice UMLRM0041
+digraph UMLRM0041 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0041 [label="Stoker, Bram
+(1847-1912),
+Dracula, Français,
+Sirgent, Texte noté" color=red]
+	UMLRM0004 [label="Stoker, Bram
+(1847-1912), Dracula"]
+	UMLRM0041 -> UMLRM0004 [label="Expression de"]
+	UMLRM0042 [label="Dracula,
+Bram
+Stoker,
+J'ai lu,
+2012, 1
+volume
+(679
+pages),
+couverture
+illustrée
+en couleur"]
+	UMLRM0042 -> UMLRM0041 [label="Manifestation de"]
+	UMLRM0045 [label="Dracula,
+Bram
+Stoker, Le
+camion
+blanc -
+Imprimerie
+Acort
+Europe,
+2010, 1
+volume
+(741
+pages),
+couverture
+illustrée
+en couleur"]
+	UMLRM0045 -> UMLRM0041 [label="Manifestation de"]
+}

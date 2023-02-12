@@ -1,6 +1,31 @@
 // Notice UMLRM0181
 digraph UMLRM0181 {
-	rankdir=LR
+	node [align=left shape=rect]
 	size="20,20"
-	UMLRM0181 [label="Dracula has risen from the grave, film"]
+	rankdir=BT
+	UMLRM0181 [label="Dracula has risen
+from the grave,
+film, Français" color=red]
+	UMLRM0105 [label="Dracula has risen
+from the grave, film"]
+	UMLRM0181 -> UMLRM0105 [label="Expression de"]
+	UMLRM0182 [label="Dracula et
+les
+femmes,
+avec Chris
+topher
+Lee,
+Rupert
+Davies,
+Warner
+home video
+France -
+Warner
+home video
+France, DL
+1985, 1
+cassette
+vidéo,
+VHS, SECAM"]
+	UMLRM0182 -> UMLRM0181 [label="Manifestation de"]
 }

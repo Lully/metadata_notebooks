@@ -1,6 +1,23 @@
 // Notice UMLRM0192
 digraph UMLRM0192 {
-	rankdir=LR
+	node [align=left shape=rect]
 	size="20,20"
-	UMLRM0192 [label="Dracula, émission radiophonique, 1938, Parole énoncée. Musique exécutée"]
+	rankdir=BT
+	UMLRM0192 [label="Dracula, émission
+radiophonique, 1938,
+Anglais, Parole
+énoncée. Musique
+exécutée" color=red]
+	UMLRM0191 [label="Dracula, émission
+radiophonique, 1938"]
+	UMLRM0192 -> UMLRM0191 [label="Expression de"]
+	UMLRM0193 [label="Dracula,
+starring
+Orson
+Welles,
+Radio
+spirits, P
+2001, 1 CD
+audio"]
+	UMLRM0193 -> UMLRM0192 [label="Manifestation de"]
 }

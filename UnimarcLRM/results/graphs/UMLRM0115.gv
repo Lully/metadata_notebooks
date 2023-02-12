@@ -1,0 +1,30 @@
+// Notice UMLRM0115
+digraph UMLRM0115 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0115 [label="Stoker, Dacre -
+Holt, Ian (1964-….),
+Dracula, the un-
+dead, Français,
+Texte noté" color=red]
+	UMLRM0114 [label="Stoker, Dacre -
+Holt, Ian (1964-….),
+Dracula, the un-dead"]
+	UMLRM0115 -> UMLRM0114 [label="Expression de"]
+	UMLRM0116 [label="Dracula l'
+immortel,
+Dacre
+Stoker et
+Ian Holt,
+Michel
+Lafon, DL
+2009, 1
+volume
+(505
+pages),
+couverture
+illustrée
+en couleur"]
+	UMLRM0116 -> UMLRM0115 [label="Manifestation de"]
+}

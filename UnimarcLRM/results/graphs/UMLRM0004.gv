@@ -1,66 +1,337 @@
 // Notice UMLRM0004
 digraph UMLRM0004 {
-	rankdir=LR
+	node [align=left shape=rect]
 	size="20,20"
-	UMLRM0004 [label="Stoker, Bram (1847-1912), Dracula"]
-	UMLRM0005 [label="Stoker, Bram (1847-1912), Dracula, Texte noté"]
+	rankdir=BT
+	UMLRM0004 [label="Stoker, Bram
+(1847-1912), Dracula" color=red]
+	UMLRM0005 [label="Stoker, Bram
+(1847-1912),
+Dracula, Anglais,
+Texte noté"]
 	UMLRM0005 -> UMLRM0004 [label="Expression de"]
-	UMLRM0006 [label="Dracula, Bram Stoker, Pan books -  Imprimerie Firmin-Didot, 1992, 1 volume (382 pages), couverture illustrée en couleur"]
+	UMLRM0006 [label="Dracula,
+Bram
+Stoker,
+Pan books
+-
+Imprimerie
+Firmin-
+Didot,
+1992, 1
+volume
+(382
+pages),
+couverture
+illustrée
+en couleur"]
 	UMLRM0006 -> UMLRM0005 [label="Manifestation de"]
-	UMLRM0018 [label="Dracula, by Bram Stoker, W. Rider and son, 1992, 1 volume (VIII-404 pages)"]
+	UMLRM0018 [label="Dracula,
+by Bram
+Stoker, W.
+Rider and
+son, 1992,
+1 volume
+(VIII-404
+pages)"]
 	UMLRM0018 -> UMLRM0005 [label="Manifestation de"]
-	UMLRM0020 [label="Stoker, Bram (1847-1912), Dracula, Texte noté"]
+	UMLRM0020 [label="Stoker, Bram
+(1847-1912),
+Dracula, Français,
+Molitor, Texte noté"]
 	UMLRM0020 -> UMLRM0004 [label="Expression de"]
-	UMLRM0021 [label="Dracula, Bram Stoker, J'ai lu - mprimerie Brodard et Taupin, 2005, 1 volume (574 pages), couverture illustrée en couleur"]
+	UMLRM0021 [label="Dracula,
+Bram
+Stoker,
+J'ai lu -
+mprimerie
+Brodard et
+Taupin,
+2005, 1
+volume
+(574
+pages),
+couverture
+illustrée
+en couleur"]
 	UMLRM0021 -> UMLRM0020 [label="Manifestation de"]
-	UMLRM0024 [label="Dracula, Bram Stoker, Gérard et Cie, 1963, 1 volume (569 pages), couverture illustrée en couleur"]
+	UMLRM0024 [label="Dracula,
+Bram
+Stoker,
+Gérard et
+Cie, 1963,
+1 volume
+(569
+pages),
+couverture
+illustrée
+en couleur"]
 	UMLRM0024 -> UMLRM0020 [label="Manifestation de"]
-	UMLRM0027 [label="Dracula, Bram Stoker, Éd. J'ai lu - mprimerie Brodard et Taupin, 1992, 1 volume (XXIV-505 pages), illustrations, couverture illustrée"]
+	UMLRM0027 [label="Dracula,
+Bram
+Stoker,
+Éd. J'ai
+lu -
+mprimerie
+Brodard et
+Taupin,
+1992, 1
+volume
+(XXIV-505
+pages), il
+lustration
+s,
+couverture
+illustrée"]
 	UMLRM0027 -> UMLRM0020 [label="Manifestation de"]
-	UMLRM0030 [label="Dracula, Bram Stoker, Hachette - Imprimerie Brodard et Taupin, 1988, 1 volume (534 pages), couverture illustrée en couleur"]
+	UMLRM0030 [label="Dracula,
+Bram
+Stoker,
+Hachette -
+Imprimerie
+Brodard et
+Taupin,
+1988, 1
+volume
+(534
+pages),
+couverture
+illustrée
+en couleur"]
 	UMLRM0030 -> UMLRM0020 [label="Manifestation de"]
-	UMLRM0110 [label="Dracula, Bram Stoker, Éditions Opta, 1968, 1 volume (XX-413 pages), illustrations en noir et blanc, cartonnage illustré"]
+	UMLRM0110 [label="Dracula,
+Bram
+Stoker,
+Éditions
+Opta,
+1968, 1
+volume
+(XX-413
+pages), il
+lustration
+s en noir
+et blanc,
+cartonnage
+illustré"]
 	UMLRM0110 -> UMLRM0020 [label="Manifestation de"]
-	UMLRM0041 [label="Stoker, Bram (1847-1912), Dracula, Texte noté"]
+	UMLRM0041 [label="Stoker, Bram
+(1847-1912),
+Dracula, Français,
+Sirgent, Texte noté"]
 	UMLRM0041 -> UMLRM0004 [label="Expression de"]
-	UMLRM0042 [label="Dracula, Bram Stoker, J'ai lu, 2012, 1 volume (679 pages), couverture illustrée en couleur"]
+	UMLRM0042 [label="Dracula,
+Bram
+Stoker,
+J'ai lu,
+2012, 1
+volume
+(679
+pages),
+couverture
+illustrée
+en couleur"]
 	UMLRM0042 -> UMLRM0041 [label="Manifestation de"]
-	UMLRM0045 [label="Dracula, Bram Stoker, Le camion blanc - Imprimerie Acort Europe, 2010, 1 volume (741 pages), couverture illustrée en couleur"]
+	UMLRM0045 [label="Dracula,
+Bram
+Stoker, Le
+camion
+blanc -
+Imprimerie
+Acort
+Europe,
+2010, 1
+volume
+(741
+pages),
+couverture
+illustrée
+en couleur"]
 	UMLRM0045 -> UMLRM0041 [label="Manifestation de"]
-	UMLRM0050 [label="Stoker, Bram (1847-1912), Dracula, Texte noté"]
+	UMLRM0050 [label="Stoker, Bram
+(1847-1912),
+Dracula, Français,
+Finné, Texte noté"]
 	UMLRM0050 -> UMLRM0004 [label="Expression de"]
-	UMLRM0051 [label="Dracula, Bram Stoker, Pointdeux, DL 2013, 1 volume (919 pages), couverture illustrée"]
+	UMLRM0051 [label="Dracula,
+Bram
+Stoker,
+Pointdeux,
+DL 2013, 1
+volume
+(919
+pages),
+couverture
+illustrée"]
 	UMLRM0051 -> UMLRM0050 [label="Manifestation de"]
-	UMLRM0077 [label="Dracula - suivi de L'invité de Dracula, Bram Stoker, Pocket, 2011, 1 volume (575 pages), couverture illustrée"]
+	UMLRM0077 [label="Dracula -
+suivi de
+L'invité
+de
+Dracula,
+Bram
+Stoker,
+Pocket,
+2011, 1
+volume
+(575
+pages),
+couverture
+illustrée"]
 	UMLRM0077 -> UMLRM0050 [label="Manifestation de"]
-	UMLRM0053 [label="Stoker, Bram (1847-1912), Dracula, Texte noté"]
+	UMLRM0053 [label="Stoker, Bram
+(1847-1912),
+Dracula, Français,
+Chicheportiche,
+Texte noté"]
 	UMLRM0053 -> UMLRM0004 [label="Expression de"]
-	UMLRM0054 [label="Dracula, Bram Stoker, le Livre de poche jeunesse, DL 2015, 1 volume (321 pages), couverture illustrée en couleur"]
+	UMLRM0054 [label="Dracula,
+Bram
+Stoker, le
+Livre de
+poche
+jeunesse,
+DL 2015, 1
+volume
+(321
+pages),
+couverture
+illustrée
+en couleur"]
 	UMLRM0054 -> UMLRM0053 [label="Manifestation de"]
-	UMLRM0178 [label="Dracula, Bram Stoker, Hachette -  Imprimerie CPI Bussière, 2011, 1 volume (321 pages), couverture illustrée en couleur"]
+	UMLRM0178 [label="Dracula,
+Bram
+Stoker,
+Hachette -
+Imprimerie
+CPI
+Bussière,
+2011, 1
+volume
+(321
+pages),
+couverture
+illustrée
+en couleur"]
 	UMLRM0178 -> UMLRM0053 [label="Manifestation de"]
-	UMLRM0179 [label="Dracula, Bram Stoker, Hatier, DL 2013, 1 volume (317 pages), illustrations, couverture illustrée en couleur"]
+	UMLRM0179 [label="Dracula,
+Bram
+Stoker,
+Hatier, DL
+2013, 1
+volume
+(317
+pages), il
+lustration
+s,
+couverture
+illustrée
+en couleur"]
 	UMLRM0179 -> UMLRM0053 [label="Manifestation de"]
-	UMLRM0056 [label="Stoker, Bram (1847-1912), Dracula, Texte noté"]
+	UMLRM0056 [label="Stoker, Bram
+(1847-1912),
+Dracula, Français,
+Paul-Margueritte,
+Texte noté"]
 	UMLRM0056 -> UMLRM0004 [label="Expression de"]
-	UMLRM0057 [label="Dracula, Brahm Stoker, l’Édition française illustrée, 1920, 1 volume (263 pages), couverture illustrée"]
+	UMLRM0057 [label="Dracula,
+Brahm
+Stoker,
+l’Édition
+française
+illustrée,
+1920, 1
+volume
+(263
+pages),
+couverture
+illustrée"]
 	UMLRM0057 -> UMLRM0056 [label="Manifestation de"]
-	UMLRM0063 [label="Dracula, Bram Stoker, les Éditions des Quatre-vents, 1946, 1 volume (344 pages), couverture illustrée"]
+	UMLRM0063 [label="Dracula,
+Bram
+Stoker,
+les
+Éditions
+des
+Quatre-
+vents,
+1946, 1
+volume
+(344
+pages),
+couverture
+illustrée"]
 	UMLRM0063 -> UMLRM0056 [label="Manifestation de"]
-	UMLRM0059 [label="Stoker, Bram (1847-1912), Dracula, Texte noté"]
+	UMLRM0059 [label="Stoker, Bram
+(1847-1912),
+Dracula, Français,
+Paul-Margueritte,
+Texte noté"]
 	UMLRM0059 -> UMLRM0004 [label="Expression de"]
-	UMLRM0060 [label="Dracula, Brahm Stoker, Éditions J. Tallandier, 1932, 1 volume (96 pages – planches non numérotées), couverture illustrée en couleur"]
+	UMLRM0060 [label="Dracula,
+Brahm
+Stoker,
+Éditions
+J. Talland
+ier, 1932,
+1 volume
+(96 pages
+– planches
+non numéro
+tées),
+couverture
+illustrée
+en couleur"]
 	UMLRM0060 -> UMLRM0059 [label="Manifestation de"]
-	UMLRM0065 [label="Stoker, Bram (1847-1912), Dracula, Texte noté"]
+	UMLRM0065 [label="Stoker, Bram
+(1847-1912),
+Dracula, Espagnol,
+Texte noté"]
 	UMLRM0065 -> UMLRM0004 [label="Expression de"]
-	UMLRM0066 [label="Drácula, Bram Stoker, Maxtor, DL 2017, 1 volume (540 pages), couverture illustrée en couleur"]
+	UMLRM0066 [label="Drácula,
+Bram
+Stoker,
+Maxtor, DL
+2017, 1
+volume
+(540
+pages),
+couverture
+illustrée
+en couleur"]
 	UMLRM0066 -> UMLRM0065 [label="Manifestation de"]
-	UMLRM0068 [label="Stoker, Bram (1847-1912), Dracula, Texte noté"]
+	UMLRM0068 [label="Stoker, Bram
+(1847-1912),
+Dracula, Français,
+Molitor - Moissard,
+Texte noté"]
 	UMLRM0068 -> UMLRM0004 [label="Expression de"]
-	UMLRM0069 [label="Dracula, Bram Stoker, l'École des loisirs - Imprimerie CPI Firmin-Didot, DL 2019, 1 volume (232 pages), couverture illustrée"]
+	UMLRM0069 [label="Dracula,
+Bram
+Stoker,
+l'École
+des
+loisirs -
+Imprimerie
+CPI
+Firmin-
+Didot, DL
+2019, 1
+volume
+(232
+pages),
+couverture
+illustrée"]
 	UMLRM0069 -> UMLRM0068 [label="Manifestation de"]
-	UMLRM0187 [label="Stoker, Bram (1847-1912), Dracula, Parole énoncée"]
+	UMLRM0187 [label="Stoker, Bram
+(1847-1912),
+Dracula, Français,
+Parole énoncée"]
 	UMLRM0187 -> UMLRM0004 [label="Expression de"]
-	UMLRM0188 [label="Dracula, Bram Stoker, Livraphone, [DL 2009], 2 CD MP3"]
+	UMLRM0188 [label="Dracula,
+Bram
+Stoker, Li
+vraphone,
+[DL 2009],
+2 CD MP3"]
 	UMLRM0188 -> UMLRM0187 [label="Manifestation de"]
 }

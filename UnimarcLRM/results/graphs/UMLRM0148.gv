@@ -1,0 +1,11 @@
+// Notice UMLRM0148
+digraph UMLRM0148 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0148 [label="Nosferatu,
+spectacle, 2001" color=red]
+	UMLRM0147 [label="Nosferatu,
+spectacle, 2001"]
+	UMLRM0148 -> UMLRM0147 [label="Expression de"]
+}

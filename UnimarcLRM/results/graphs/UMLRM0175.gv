@@ -1,0 +1,33 @@
+// Notice UMLRM0175
+digraph UMLRM0175 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0175 [label="Les grands
+classiques du cinéma
+allemand, Anglais,
+allemand, français ;
+sous-titrage en
+français, Image
+animée" color=red]
+	UMLRM0174 [label="Les grands
+classiques du cinéma
+allemand"]
+	UMLRM0175 -> UMLRM0174 [label="Expression de"]
+	UMLRM0176 [label="Les grands
+classiques
+du cinéma
+allemand,
+RDM vidéo
+- RDM
+vidéo, [DL
+2013], 7
+DVD vidéo,
+monoface
+double
+couche,
+4/3, PAL,
+toutes
+zones"]
+	UMLRM0176 -> UMLRM0175 [label="Manifestation de"]
+}

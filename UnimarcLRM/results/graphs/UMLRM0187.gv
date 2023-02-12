@@ -1,0 +1,20 @@
+// Notice UMLRM0187
+digraph UMLRM0187 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0187 [label="Stoker, Bram
+(1847-1912),
+Dracula, Français,
+Parole énoncée" color=red]
+	UMLRM0004 [label="Stoker, Bram
+(1847-1912), Dracula"]
+	UMLRM0187 -> UMLRM0004 [label="Expression de"]
+	UMLRM0188 [label="Dracula,
+Bram
+Stoker, Li
+vraphone,
+[DL 2009],
+2 CD MP3"]
+	UMLRM0188 -> UMLRM0187 [label="Manifestation de"]
+}

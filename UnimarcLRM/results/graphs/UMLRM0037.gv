@@ -1,18 +1,66 @@
 // Notice UMLRM0037
 digraph UMLRM0037 {
-	rankdir=LR
+	node [align=left shape=rect]
 	size="20,20"
-	UMLRM0037 [label="Stoker, Bram (1847-1912), Choix, Dracula"]
-	UMLRM0038 [label="Stoker, Bram (1847-1912), Choix, Dracula, Texte noté"]
+	rankdir=BT
+	UMLRM0037 [label="Stoker, Bram
+(1847-1912), Choix,
+Dracula" color=red]
+	UMLRM0038 [label="Stoker, Bram
+(1847-1912), Choix,
+Dracula, Français,
+Finné, Texte noté"]
 	UMLRM0038 -> UMLRM0037 [label="Expression de"]
-	UMLRM0039 [label="Dracula, Bram Stoker, Flammarion - Imprimerie Maury-Eurolivres, 2006, 1 volume (222 pages), couverture illustrée"]
+	UMLRM0039 [label="Dracula,
+Bram
+Stoker,
+Flammarion
+-
+Imprimerie
+Maury-Euro
+livres,
+2006, 1
+volume
+(222
+pages),
+couverture
+illustrée"]
 	UMLRM0039 -> UMLRM0038 [label="Manifestation de"]
-	UMLRM0047 [label="Stoker, Bram (1847-1912), Choix, Dracula, Texte noté"]
+	UMLRM0047 [label="Stoker, Bram
+(1847-1912), Choix,
+Dracula, Français,
+Finné, Texte noté"]
 	UMLRM0047 -> UMLRM0037 [label="Expression de"]
-	UMLRM0048 [label="Dracula, Bram Stoker, Flammarion, DL 2017, 1 volume (222 pages - [4] pages), couverture illustrée"]
+	UMLRM0048 [label="Dracula,
+Bram
+Stoker, Fl
+ammarion,
+DL 2017, 1
+volume
+(222 pages
+- [4]
+pages),
+couverture
+illustrée"]
 	UMLRM0048 -> UMLRM0047 [label="Manifestation de"]
-	UMLRM0172 [label="Stoker, Bram (1847-1912), Choix, Dracula, Texte noté"]
+	UMLRM0172 [label="Stoker, Bram
+(1847-1912), Choix,
+Dracula, Français,
+Finné, Texte noté"]
 	UMLRM0172 -> UMLRM0037 [label="Expression de"]
-	UMLRM0173 [label="Dracula, Bram Stoker, Flammarion - Imprimerie Maury-Eurolivres, 2004, 1 volume (247 pages), couverture illustrée"]
+	UMLRM0173 [label="Dracula,
+Bram
+Stoker,
+Flammarion
+-
+Imprimerie
+Maury-Euro
+livres,
+2004, 1
+volume
+(247
+pages),
+couverture
+illustrée"]
 	UMLRM0173 -> UMLRM0172 [label="Manifestation de"]
 }

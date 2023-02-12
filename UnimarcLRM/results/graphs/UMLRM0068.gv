@@ -1,0 +1,31 @@
+// Notice UMLRM0068
+digraph UMLRM0068 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0068 [label="Stoker, Bram
+(1847-1912),
+Dracula, Français,
+Molitor - Moissard,
+Texte noté" color=red]
+	UMLRM0004 [label="Stoker, Bram
+(1847-1912), Dracula"]
+	UMLRM0068 -> UMLRM0004 [label="Expression de"]
+	UMLRM0069 [label="Dracula,
+Bram
+Stoker,
+l'École
+des
+loisirs -
+Imprimerie
+CPI
+Firmin-
+Didot, DL
+2019, 1
+volume
+(232
+pages),
+couverture
+illustrée"]
+	UMLRM0069 -> UMLRM0068 [label="Manifestation de"]
+}

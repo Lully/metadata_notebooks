@@ -1,0 +1,25 @@
+// Notice UMLRM0065
+digraph UMLRM0065 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0065 [label="Stoker, Bram
+(1847-1912),
+Dracula, Espagnol,
+Texte noté" color=red]
+	UMLRM0004 [label="Stoker, Bram
+(1847-1912), Dracula"]
+	UMLRM0065 -> UMLRM0004 [label="Expression de"]
+	UMLRM0066 [label="Drácula,
+Bram
+Stoker,
+Maxtor, DL
+2017, 1
+volume
+(540
+pages),
+couverture
+illustrée
+en couleur"]
+	UMLRM0066 -> UMLRM0065 [label="Manifestation de"]
+}

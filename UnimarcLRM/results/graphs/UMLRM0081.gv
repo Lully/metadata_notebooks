@@ -1,10 +1,34 @@
 // Notice UMLRM0081
 digraph UMLRM0081 {
-	rankdir=LR
+	node [align=left shape=rect]
 	size="20,20"
-	UMLRM0081 [label="\"Dracula\" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola"]
-	UMLRM0082 [label="\"Dracula\" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola, Texte noté"]
+	rankdir=BT
+	UMLRM0081 [label="\"Dracula\" : l'oeuvre
+de Bram Stoker et le
+film de Francis F.
+Coppola" color=red]
+	UMLRM0082 [label="\"Dracula\" : l'oeuvre
+de Bram Stoker et le
+film de Francis F.
+Coppola, Français-
+Anglais, Texte noté"]
 	UMLRM0082 -> UMLRM0081 [label="Expression de"]
-	UMLRM0083 [label="\"Dracula\", ouvrage dirigé par Gilles Menegaldo et Dominique Sipière, Ellipses - Aubin imprimeur, 2005, 1 volume (379 pages), couverture illustrée"]
+	UMLRM0083 [label="\"Dracula\",
+ouvrage
+dirigé par
+Gilles
+Menegaldo
+et
+Dominique
+Sipière,
+Ellipses -
+Aubin
+imprimeur,
+2005, 1
+volume
+(379
+pages),
+couverture
+illustrée"]
 	UMLRM0083 -> UMLRM0082 [label="Manifestation de"]
 }

@@ -1,0 +1,28 @@
+// Notice UMLRM0196
+digraph UMLRM0196 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0196 [label="Finné, Jacques
+(1944-….),
+Bibliographie de
+Dracula, Français,
+Texte noté" color=red]
+	UMLRM0195 [label="Finné, Jacques
+(1944-….),
+Bibliographie de
+Dracula"]
+	UMLRM0196 -> UMLRM0195 [label="Expression de"]
+	UMLRM0197 [label="Bibliograp
+hie de
+Dracula,
+Jacques
+Finné,
+L’âge
+d'homme,
+Copyright
+1996, 1
+volume(215
+pages)"]
+	UMLRM0197 -> UMLRM0196 [label="Manifestation de"]
+}

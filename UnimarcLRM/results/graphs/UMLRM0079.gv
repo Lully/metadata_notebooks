@@ -1,6 +1,32 @@
 // Notice UMLRM0079
 digraph UMLRM0079 {
-	rankdir=LR
+	node [align=left shape=rect]
 	size="20,20"
-	UMLRM0079 [label="Bram Stoker's Dracula, film"]
+	rankdir=BT
+	UMLRM0079 [label="Bram Stoker's
+Dracula, film,
+Anglais" color=red]
+	UMLRM0078 [label="Bram Stoker's
+Dracula, film"]
+	UMLRM0079 -> UMLRM0078 [label="Expression de"]
+	UMLRM0080 [label="Bram
+Stoker's
+Dracula,
+Gary
+Oldman,
+Winona
+Ryder,
+Anthony
+Hopkins...
+[et
+autres],
+[acteurs],
+Sony
+pictures e
+ntertainme
+nt, 1993 -
+1992, 2 La
+serDiscs,
+4/3, NTSC"]
+	UMLRM0080 -> UMLRM0079 [label="Manifestation de"]
 }

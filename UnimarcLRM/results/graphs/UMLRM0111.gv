@@ -1,10 +1,28 @@
 // Notice UMLRM0111
 digraph UMLRM0111 {
-	rankdir=LR
+	node [align=left shape=rect]
 	size="20,20"
-	UMLRM0111 [label="Hughes, William (1964-....), Bram Stoker’s Dracula : a reader’s guide"]
-	UMLRM0112 [label="Hughes, William (1964-....), Bram Stoker’s Dracula : a reader’s guide, Texte noté"]
+	rankdir=BT
+	UMLRM0111 [label="Hughes, William
+(1964-....), Bram
+Stoker’s Dracula : a
+reader’s guide" color=red]
+	UMLRM0112 [label="Hughes, William
+(1964-....), Bram
+Stoker’s Dracula : a
+reader’s guide,
+Anglais, Texte noté"]
 	UMLRM0112 -> UMLRM0111 [label="Expression de"]
-	UMLRM0113 [label=" Bram Stoker’s Dracula, William Hughes, Continuum, copyright 2009, 1 volume (VII-150 pages)"]
+	UMLRM0113 [label=" Bram
+Stoker’s
+Dracula,
+William
+Hughes,
+Continuum,
+copyright
+2009, 1
+volume
+(VII-150
+pages)"]
 	UMLRM0113 -> UMLRM0112 [label="Manifestation de"]
 }

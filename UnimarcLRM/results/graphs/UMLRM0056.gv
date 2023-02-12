@@ -1,0 +1,42 @@
+// Notice UMLRM0056
+digraph UMLRM0056 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0056 [label="Stoker, Bram
+(1847-1912),
+Dracula, Français,
+Paul-Margueritte,
+Texte noté" color=red]
+	UMLRM0004 [label="Stoker, Bram
+(1847-1912), Dracula"]
+	UMLRM0056 -> UMLRM0004 [label="Expression de"]
+	UMLRM0057 [label="Dracula,
+Brahm
+Stoker,
+l’Édition
+française
+illustrée,
+1920, 1
+volume
+(263
+pages),
+couverture
+illustrée"]
+	UMLRM0057 -> UMLRM0056 [label="Manifestation de"]
+	UMLRM0063 [label="Dracula,
+Bram
+Stoker,
+les
+Éditions
+des
+Quatre-
+vents,
+1946, 1
+volume
+(344
+pages),
+couverture
+illustrée"]
+	UMLRM0063 -> UMLRM0056 [label="Manifestation de"]
+}

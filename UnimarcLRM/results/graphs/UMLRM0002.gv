@@ -1,0 +1,34 @@
+// Notice UMLRM0002
+digraph UMLRM0002 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0002 [label="Nosferatu, eine
+Symphonie des
+Grauens, film,
+Français, 60mn" color=red]
+	UMLRM0001 [label="Nosferatu, eine
+Symphonie des
+Grauens, film"]
+	UMLRM0002 -> UMLRM0001 [label="Expression de"]
+	UMLRM0003 [label="Nosferatu,
+Réalisatio
+n
+Friedrich
+W. Murnau,
+RDM vidéo
+- RDM
+vidéo, [DL
+2012] -
+2011, 1
+DVD vidéo,
+monoface
+simple
+couche,
+4/3, 24
+im./s,
+PAL,
+toutes
+zones"]
+	UMLRM0003 -> UMLRM0002 [label="Manifestation de"]
+}

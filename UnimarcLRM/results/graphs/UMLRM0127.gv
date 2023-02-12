@@ -1,0 +1,29 @@
+// Notice UMLRM0127
+digraph UMLRM0127 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0127 [label="Stoker, Bram
+(1847-1912), Choix,
+Manuscrits, Anglais,
+Texte noté" color=red]
+	UMLRM0126 [label="Stoker, Bram
+(1847-1912), Choix,
+Manuscrits"]
+	UMLRM0127 -> UMLRM0126 [label="Expression de"]
+	UMLRM0128 [label="Bram
+Stoker’s
+notes for
+“Dracula
+“, Bram
+Stoker,
+McFarland
+& Company
+Inc. Publi
+shers,
+2008, 1
+volume
+(VII-331
+pages)"]
+	UMLRM0128 -> UMLRM0127 [label="Manifestation de"]
+}

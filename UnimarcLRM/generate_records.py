@@ -41,6 +41,7 @@ def generate_dict_entities(oeuvres_expressions_filename,
         dict_entities[entity.id] = entity
     dict_entities = add_suppl_links(dict_entities, oeuvres, expressions, manifs, items)
     dict_entities = enrich_oeuvres(dict_entities)
+    dict_entities = enrich_expressions(dict_entities)
     return dict_entities
 
 
@@ -112,8 +113,27 @@ def enrich_oeuvres(dict_entities):
             dict_entities[e].lang = expr_lang2oeuvre(e, dict_entities[e], dict_entities)
             dict_entities[e].exprResp = expr_resp2oeuvre(e, dict_entities[e], dict_entities)
             dict_entities[e].exprContentType = expr_content_type(e, dict_entities[e], dict_entities)
+        if dict_entities[e].type in "oe":
+            dict_entities[e].manifsYears = get_manif_years(e, dict_entities)
+        dict_entities[e] = construct_indexation(dict_entities[e], dict_entities)
     return dict_entities
 
+
+def enrich_expressions(dict_entities):
+    # Pour chaque expression, ajouter la liste des liens vers
+    # les autres expressions de la même oeuvre
+    return []
+
+
+def get_manif_years(eid, dict_entities):
+    liste_years = []
+    for manif in dict_entities[eid].toManifs:
+        date = sru.record2fieldvalue(dict_entities[manif].xml, "100$a")[9:13]
+        if re.match(r"\d+", date):
+            date = int(date)
+            liste_years.append(date)
+
+    return sorted(liste_years)
 
 def expr_content_type(oid, o_entity, dict_entities):
     # Remonte au niveau de l'oeuvre la liste des types de contenu des expressions

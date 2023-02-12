@@ -1,6 +1,35 @@
 // Notice UMLRM0136
 digraph UMLRM0136 {
-	rankdir=LR
+	node [align=left shape=rect]
 	size="20,20"
-	UMLRM0136 [label="Dracula : pages from a virgin's diary, film"]
+	rankdir=BT
+	UMLRM0136 [label="Dracula : pages from
+a virgin's diary,
+film, Anglais ;
+sous-titrage en
+français" color=red]
+	UMLRM0135 [label="Dracula: pages from
+a virgin's diary,
+film"]
+	UMLRM0136 -> UMLRM0135 [label="Expression de"]
+	UMLRM0137 [label="Dracula,
+un film de
+Guy
+Maddin, [r
+éalisateur
+], ED dist
+ribution -
+ED distrib
+ution, [DL
+2005], 1
+DVD vidéo,
+monoface
+simple
+couche,
+PAL,
+surround
+(Dolby),
+toutes
+zones"]
+	UMLRM0137 -> UMLRM0136 [label="Manifestation de"]
 }

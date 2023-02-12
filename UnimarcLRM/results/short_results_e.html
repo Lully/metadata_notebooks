@@ -2,7 +2,8 @@
 <head>
 <meta charset='UTF-8'>
 <title>Liste de résultats</title>
-<link rel='stylesheet' href='../styles.css'/><style type='text/css'>body {font-family: Arial;
+<link rel='stylesheet' href='../styles.css'/><style type='text/css'>
+body {font-family: Arial;
 	  color: #050505}
 
 
@@ -13,14 +14,36 @@
 input {font-style: italic;
 	   color: #a7a7a7;
       }
+	  
+/* ---------------------------
 
-.avail {background-color: #beff9f}
-.unavail {background-color: #ffe2d7}
+          Notice détaillée 
+		  
+------------------------------*/
 
-div.pro {padding-top: 50px;
-background-color: #efefef;
-color: #a7a7a7}
+/* Métadonnées */
+div.detailed {float: left;
+			  width: 80%;
+			  padding-right: 20px;}
+p.detailed.label {font-weight: bold;
+					 color: #05513c;
+					}
 
+div.rebonds {float: right;
+			width: 15%;
+			background-color: #efefef;
+			padding: 5px;
+			border-radius: 5px;}
+span.rebond {padding-left: 8px;
+			 }
+span.rebond a {text-decoration: none;
+			   font-weight: normal;
+			   color: #27735e;
+			  }
+
+/* Filtres */
+.filters {width: 100%;
+		  float: left;}
 .filters a {text-decoration:none;}
 .filters a:hover {text-decoration: underline;}
 
@@ -31,6 +54,47 @@ color: #a7a7a7}
 a.filters_content_type {color: #660066;
 						font-weight: bold;}
 a.filters_lng {color: #000099;
-			   font-weight: bold;}</style></head><body>
+			   font-weight: bold;}
+			   
+div.ui-rangeslider {width: 40%;}
+.ui-slider-track .ui-btn.ui-slider-handle {font-size: 0.6em;}
+
+
+/* Liste des exemplaires*/
+.items {width: 100%;
+		  float: left;}
+
+
+.avail {background-color: #beff9f}
+.unavail {background-color: #ffe2d7}
+
+
+/* Métadonnées professionnelles*/
+div.pro {padding-top: 50px;
+		background-color: #efefef;
+		color: #a7a7a7;
+		width: 100%;
+		float: left;}
+
+.marc_record {font-family: Courier New;
+			  color: #080808;
+			  font-size: 0.9em;}
+
+
+/*------- Liste de résultats ------------*/
+
+a.short_result_work {text-decoration: none;
+					 font-weight: bold;
+					 color: #05513c;}
+
+a.short_result_expression {text-decoration: none;
+					       font-weight: bold;
+					       color: #014c56;}
+
+a.link2work {color: #5a918a;
+			 text-decoration: none}
+
+.short_result_details {margin-left: 20px;
+					   font-size: 0.8em;}</style></head><body>
 <div class="entete">
-<p>Rappel de la recherche : <strong>dracula</strong></p><h1>Liste des résultats</h1></div><p>1. <a href='full_results_UMLRM0079.html'>Bram Stoker's Dracula, film</a></p><p>2. <a href='full_results_UMLRM0082.html'>"Dracula" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola, Texte noté</a></p><p>3. <a href='full_results_UMLRM0106.html'>Dracula has risen from the grave, film</a></p><p>4. <a href='full_results_UMLRM0121.html'>Dracula, dead and loving it, film</a></p><p>5. <a href='full_results_UMLRM0136.html'>Dracula : pages from a virgin's diary, film</a></p><p>6. <a href='full_results_UMLRM0153.html'>[Photographies extraites du film « Dracula » de Tod Browning], 1932, Image fixe</a></p><p>7. <a href='full_results_UMLRM0159.html'>Dracula, film, 1931</a></p><p>8. <a href='full_results_UMLRM0162.html'>Drácula, film, 1931</a></p><p>9. <a href='full_results_UMLRM0181.html'>Dracula has risen from the grave, film</a></p><p>10. <a href='full_results_UMLRM0189.html'>Dracula, dead and loving it, film</a></p><p>11. <a href='full_results_UMLRM0192.html'>Dracula, émission radiophonique, 1938, Parole énoncée. Musique exécutée</a></p></body></html>
+<p>Rappel de la recherche : <strong></strong></p><h1>Liste des résultats par versions</h1><p class="alt_list"><a href="short_results_o.html">Regrouper les résultats par oeuvres</a></p></div><p>1. <a class='short_result_expression' href='full_results_UMLRM0002.html'>Nosferatu, eine Symphonie des Grauens, film, Français, 60mn</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0001.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>2. <a class='short_result_expression' href='full_results_UMLRM0005.html'>Stoker, Bram (1847-1912), Dracula, Anglais, Texte noté</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0004.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>3. <a class='short_result_expression' href='full_results_UMLRM0008.html'>Nosferatu, Phantom der Nacht, film, français</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0007.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>4. <a class='short_result_expression' href='full_results_UMLRM0011.html'>Palma, Paola (1971-….) - Vezyroglou, Dimitri (1970-….), "Nosferatu le vampire", Français, Texte noté</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0010.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>5. <a class='short_result_expression' href='full_results_UMLRM0014.html'>Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra, programme, 2006-05, Texte noté. Image fixe</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0013.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>6. <a class='short_result_expression' href='full_results_UMLRM0020.html'>Stoker, Bram (1847-1912), Dracula, Français, Molitor, Texte noté</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0004.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>7. <a class='short_result_expression' href='full_results_UMLRM0032.html'>Stoker, Bram (1847-1912), Choix, Dracula, Français, Molitor, Texte noté</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0031.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>8. <a class='short_result_expression' href='full_results_UMLRM0035.html'>Humphries, Tudor (1953-….), Dracula, Français, Texte noté. Image fixe</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0034.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>9. <a class='short_result_expression' href='full_results_UMLRM0038.html'>Stoker, Bram (1847-1912), Choix, Dracula, Français, Finné, Texte noté</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0037.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>10. <a class='short_result_expression' href='full_results_UMLRM0041.html'>Stoker, Bram (1847-1912), Dracula, Français, Sirgent, Texte noté</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0004.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>11. <a class='short_result_expression' href='full_results_UMLRM0047.html'>Stoker, Bram (1847-1912), Choix, Dracula, Français, Finné, Texte noté</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0037.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>12. <a class='short_result_expression' href='full_results_UMLRM0050.html'>Stoker, Bram (1847-1912), Dracula, Français, Finné, Texte noté</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0004.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>13. <a class='short_result_expression' href='full_results_UMLRM0053.html'>Stoker, Bram (1847-1912), Dracula, Français, Chicheportiche, Texte noté</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0004.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>14. <a class='short_result_expression' href='full_results_UMLRM0056.html'>Stoker, Bram (1847-1912), Dracula, Français, Paul-Margueritte, Texte noté</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0004.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>15. <a class='short_result_expression' href='full_results_UMLRM0059.html'>Stoker, Bram (1847-1912), Dracula, Français, Paul-Margueritte, Texte noté</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0004.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>16. <a class='short_result_expression' href='full_results_UMLRM0065.html'>Stoker, Bram (1847-1912), Dracula, Espagnol, Texte noté</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0004.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>17. <a class='short_result_expression' href='full_results_UMLRM0068.html'>Stoker, Bram (1847-1912), Dracula, Français, Molitor - Moissard, Texte noté</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0004.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>18. <a class='short_result_expression' href='full_results_UMLRM0071.html'>Belford, Barbara, Bram Stoker : a biography of the author of "Dracula", Anglais, Texte noté</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0070.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>19. <a class='short_result_expression' href='full_results_UMLRM0076.html'>Stoker, Bram (1847-1912), Dracula’s guest, Français, Finné, Texte noté</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0075.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>20. <a class='short_result_expression' href='full_results_UMLRM0079.html'>Bram Stoker's Dracula, film, Anglais</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0078.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>21. <a class='short_result_expression' href='full_results_UMLRM0082.html'>"Dracula" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola, Français-Anglais, Texte noté</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0081.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>22. <a class='short_result_expression' href='full_results_UMLRM0085.html'>Cazacu, Matei (1946-....), Dracula, Français, Texte noté</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0084.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>23. <a class='short_result_expression' href='full_results_UMLRM0088.html'>Valls de Gomis, Estelle (1973-...), Le vampire au fil des siècles : enquête autour d'un mythe, Français, Texte noté</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0087.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>24. <a class='short_result_expression' href='full_results_UMLRM0091.html'>Nosferatu, the wrath of Malachi, jeu vidéo, Français, PC</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0090.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>25. <a class='short_result_expression' href='full_results_UMLRM0100.html'>Druillet, Philippe (1944-....), Nosferatu, Français, Texte noté. Image fixe</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0099.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>26. <a class='short_result_expression' href='full_results_UMLRM0106.html'>Dracula has risen from the grave, film, Anglais</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0105.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>27. <a class='short_result_expression' href='full_results_UMLRM0112.html'>Hughes, William (1964-....), Bram Stoker’s Dracula : a reader’s guide, Anglais, Texte noté</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0111.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>28. <a class='short_result_expression' href='full_results_UMLRM0115.html'>Stoker, Dacre - Holt, Ian (1964-….), Dracula, the un-dead, Français, Texte noté</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0114.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>29. <a class='short_result_expression' href='full_results_UMLRM0118.html'>Dufranne, Michel (1970-....) - Kowalski, Piotr (1973-....), Dracula l’immortel, Français, Texte noté. Image fixe</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0117.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>30. <a class='short_result_expression' href='full_results_UMLRM0121.html'>Dracula, dead and loving it, film, Français</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0120.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>31. <a class='short_result_expression' href='full_results_UMLRM0127.html'>Stoker, Bram (1847-1912), Choix, Manuscrits, Anglais, Texte noté</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0126.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>32. <a class='short_result_expression' href='full_results_UMLRM0130.html'>Shadow of the vampire, film, Français</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0129.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>33. <a class='short_result_expression' href='full_results_UMLRM0133.html'>Eickhoff, Stefan, Max Schreck : Gespenstertheater, Allemand, Texte noté</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0132.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>34. <a class='short_result_expression' href='full_results_UMLRM0136.html'>Dracula : pages from a virgin's diary, film, Anglais ; sous-titrage en français</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0135.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>35. <a class='short_result_expression' href='full_results_UMLRM0139.html'>Jeanneteau, Daniel (1963-....) - Deratte, Laure (19..-....), [Maquette de décor en volume pour "Nosferatu"], Image fixe</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0138.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>36. <a class='short_result_expression' href='full_results_UMLRM0148.html'>Nosferatu, spectacle, 2001</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0147.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>37. <a class='short_result_expression' href='full_results_UMLRM0151.html'>Druillet, Philippe (1944-....), Illustrations pour "Dracula" de Bram Stoker, Image fixe</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0150.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>38. <a class='short_result_expression' href='full_results_UMLRM0153.html'>[Photographies extraites du film « Dracula » de Tod Browning], 1932, Image fixe</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0152.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>39. <a class='short_result_expression' href='full_results_UMLRM0157.html'>Glass, Philip (1937-....), Dracula, Kronos quartet, Musique exécutée</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0156.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>40. <a class='short_result_expression' href='full_results_UMLRM0159.html'>Dracula, film, 1931, Versions multiples (5 langues ; sous-titrage en 5 langues)</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0154.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>41. <a class='short_result_expression' href='full_results_UMLRM0161.html'>Humphries, Tudor (1953-….), Dracula, Anglais, Texte noté. Image fixe</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0034.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>42. <a class='short_result_expression' href='full_results_UMLRM0162.html'>Drácula, film, 1931</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0163.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>43. <a class='short_result_expression' href='full_results_UMLRM0167.html'>Guy Maddin, Anglais ; sous-titrage en français, Image animée</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0166.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>44. <a class='short_result_expression' href='full_results_UMLRM0170.html'>Gauriat, Vincent, Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin, Image fixe</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0169.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>45. <a class='short_result_expression' href='full_results_UMLRM0172.html'>Stoker, Bram (1847-1912), Choix, Dracula, Français, Finné, Texte noté</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0037.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>46. <a class='short_result_expression' href='full_results_UMLRM0175.html'>Les grands classiques du cinéma allemand, Anglais, allemand, français ; sous-titrage en français, Image animée</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0174.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>47. <a class='short_result_expression' href='full_results_UMLRM0181.html'>Dracula has risen from the grave, film, Français</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0105.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>48. <a class='short_result_expression' href='full_results_UMLRM0184.html'>Shadow of the vampire, film, Anglais ; sous titrage en français</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0129.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>49. <a class='short_result_expression' href='full_results_UMLRM0187.html'>Stoker, Bram (1847-1912), Dracula, Français, Parole énoncée</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0004.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>50. <a class='short_result_expression' href='full_results_UMLRM0189.html'>Dracula, dead and loving it, film, Anglais ; sous-titrage optionnel en français</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0120.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>51. <a class='short_result_expression' href='full_results_UMLRM0192.html'>Dracula, émission radiophonique, 1938, Anglais, Parole énoncée. Musique exécutée</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0191.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>52. <a class='short_result_expression' href='full_results_UMLRM0196.html'>Finné, Jacques (1944-….), Bibliographie de Dracula, Français, Texte noté</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0195.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p><p>53. <a class='short_result_expression' href='full_results_UMLRM0198.html'>Finné, Jacques (1944-….) - Marigny, Jean (1939-....), Dictionnaire des littératures vampiriques, Français, Texte noté</a><br/><span class="short_result_details"><a class="link2work" href="full_results_UMLRM0149.html">Voir l'oeuvre et toutes ses versions</a><br/></span></p></body></html>

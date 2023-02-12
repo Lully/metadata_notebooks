@@ -1,6 +1,9 @@
 // Notice UMLRM0194
 digraph UMLRM0194 {
-	rankdir=LR
+	node [align=left shape=rect]
 	size="20,20"
-	UMLRM0194 [label="The Mercury theatre on the air, série radiophonique"]
+	rankdir=BT
+	UMLRM0194 [label="The Mercury theatre
+on the air, série
+radiophonique" color=red]
 }

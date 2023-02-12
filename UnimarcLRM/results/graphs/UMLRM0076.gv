@@ -1,0 +1,30 @@
+// Notice UMLRM0076
+digraph UMLRM0076 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0076 [label="Stoker, Bram
+(1847-1912),
+Dracula’s guest,
+Français, Finné,
+Texte noté" color=red]
+	UMLRM0075 [label="Stoker, Bram
+(1847-1912),
+Dracula's guest"]
+	UMLRM0076 -> UMLRM0075 [label="Expression de"]
+	UMLRM0077 [label="Dracula -
+suivi de
+L'invité
+de
+Dracula,
+Bram
+Stoker,
+Pocket,
+2011, 1
+volume
+(575
+pages),
+couverture
+illustrée"]
+	UMLRM0077 -> UMLRM0076 [label="Manifestation de"]
+}

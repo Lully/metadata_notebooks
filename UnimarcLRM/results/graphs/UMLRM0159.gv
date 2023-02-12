@@ -1,6 +1,28 @@
 // Notice UMLRM0159
 digraph UMLRM0159 {
-	rankdir=LR
+	node [align=left shape=rect]
 	size="20,20"
-	UMLRM0159 [label="Dracula, film, 1931"]
+	rankdir=BT
+	UMLRM0159 [label="Dracula, film, 1931,
+Versions multiples
+(5 langues ; sous-
+titrage en 5
+langues)" color=red]
+	UMLRM0154 [label="Dracula, film, 1931"]
+	UMLRM0159 -> UMLRM0154 [label="Expression de"]
+	UMLRM0160 [label="Dracula,
+Tod
+Browning, 
+[réalisate
+ur],
+Universal 
+StudioCana
+l vidéo -
+Universal 
+StudioCana
+l vidéo,
+2014 -
+2014, 1 BD
+vidéo"]
+	UMLRM0160 -> UMLRM0159 [label="Manifestation de"]
 }

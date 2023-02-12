@@ -1,10 +1,33 @@
 // Notice UMLRM0013
 digraph UMLRM0013 {
-	rankdir=LR
+	node [align=left shape=rect]
 	size="20,20"
-	UMLRM0013 [label="Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra, programme, 2006-05"]
-	UMLRM0014 [label="Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra, programme, 2006-05, Texte noté. Image fixe"]
+	rankdir=BT
+	UMLRM0013 [label="Jean-Claude
+Gallotta, Nosferatu,
+ballet de l'Opéra,
+programme, 2006-05" color=red]
+	UMLRM0014 [label="Jean-Claude
+Gallotta, Nosferatu,
+ballet de l'Opéra,
+programme, 2006-05,
+Texte noté. Image
+fixe"]
 	UMLRM0014 -> UMLRM0013 [label="Expression de"]
-	UMLRM0015 [label="Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra,  Opéra national de Paris, Opéra national de Paris, C 2005, 1 volume (54 pages)"]
+	UMLRM0015 [label="Jean-
+Claude
+Gallotta,
+Nosferatu,
+ballet de
+l'Opéra,
+Opéra
+national
+de Paris,
+Opéra
+national
+de Paris,
+C 2005, 1
+volume (54
+pages)"]
 	UMLRM0015 -> UMLRM0014 [label="Manifestation de"]
 }

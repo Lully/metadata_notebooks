@@ -1,0 +1,25 @@
+// Notice UMLRM0008
+digraph UMLRM0008 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0008 [label="Nosferatu, Phantom
+der Nacht, film,
+français" color=red]
+	UMLRM0007 [label=" Nosferatu, Phantom
+der Nacht, film"]
+	UMLRM0008 -> UMLRM0007 [label="Expression de"]
+	UMLRM0009 [label="Nosferatu,
+fantôme de
+la nuit,
+un film de
+Werner
+Herzog,
+Gaumont
+vidéo -
+Gaumont
+vidéo, [DL
+2010], 1
+BD vidéo"]
+	UMLRM0009 -> UMLRM0008 [label="Manifestation de"]
+}
