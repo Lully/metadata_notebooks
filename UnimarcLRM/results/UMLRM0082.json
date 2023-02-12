@@ -1,0 +1,89 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>00756cx  f2200193   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0082</marc:controlfield>\n    <marc:controlfield tag=\"005\">20220926</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20220926afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">fre</marc:subfield>\n      <marc:subfield code=\"a\">eng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d2005</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"105\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">ba</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">i</marc:subfield>\n      <marc:subfield code=\"b\">axxe</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xb</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"232\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">UMLRM0081</marc:subfield>\n      <marc:subfield code=\"a\">\"Dracula\" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola</marc:subfield>\n      <marc:subfield code=\"m\">Fran&#231;ais-Anglais</marc:subfield>\n      <marc:subfield code=\"n\">Texte not&#233;</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de premi&#232;re publication</marc:subfield>\n      <marc:subfield code=\"f\">#2005#####</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751045101</marc:subfield>\n      <marc:subfield code=\"c\">20220926</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">. \"Dracula\" [Texte imprim&#233;] : l'oeuvre de Bram Stoker et le film de Francis F. Coppola / ouvrage dirig&#233; par Gilles Menegaldo et Dominique Sipi&#232;re. &#8211; Paris : Ellipses, 2005.&#8211; [Texte not&#233; : sans m&#233;diation]. &#8211; ISBN 2-7298-2533-9</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0082",
+    "txt": "\n000    00756cx  f2200193   4500\n001    UMLRM0082\n005    20220926\n100    $a 20220926afrey50      ba0\n101 0  $a fre $a eng\n102    $a FR\n104    $a d2005\n105    $a ba\n145 0  $a i $b axxe\n152    $a RDA-FR\n154    $a xb\n232    $3 UMLRM0081 $a \"Dracula\" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola $m Fran\u00e7ais-Anglais $n Texte not\u00e9\n640 6  $0 Date de premi\u00e8re publication $f #2005#####\n801  0 $a FR $b FR-751045101 $c 20220926\n810    $a . \"Dracula\" [Texte imprim\u00e9] : l'oeuvre de Bram Stoker et le film de Francis F. Coppola / ouvrage dirig\u00e9 par Gilles Menegaldo et Dominique Sipi\u00e8re. \u2013 Paris : Ellipses, 2005.\u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 2-7298-2533-9",
+    "self_index": [
+        "dracula oeuvre de bram stoker et le film de francis coppola",
+        "",
+        "",
+        "dracula texte imprime oeuvre de bram stoker et le film de francis coppola ouvrage dirige par gilles menegaldo et dominique sipiere paris ellipses 2005 texte note sans mediation isbn 7298 2533",
+        "dracula oeuvre de bram stoker et le film de francis coppola",
+        "",
+        "",
+        "dracula texte imprime oeuvre de bram stoker et le film de francis coppola ouvrage dirige par gilles menegaldo et dominique sipiere paris ellipses 2005 texte note sans mediation isbn 7298 2533"
+    ],
+    "linked_entities_index": [
+        "dracula oeuvre de bram stoker et le film de francis coppola francais anglais texte note",
+        "dracula oeuvre de bram stoker et le film de francis coppola ouvrage dirige par gilles menegaldo et dominique sipiere",
+        "paris ellipses$? 86 liguge aubin imprimeur 2005",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "dracula oeuvre de bram stoker et le film de francis coppola ouvrage dirige par gilles menegaldo et dominique sipiere",
+        "paris ellipses$? 86 liguge aubin imprimeur 2005",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "dracula oeuvre de bram stoker et le film de francis coppola",
+        "textes en francais et en anglais$?bibliographie pages et en notes",
+        "presente des contributions proposant des eclairages divers sur ces deux oeuvres etudiees de maniere autonome ou en regard une de autre ainsi que des approches critiques differenciees et complementaires entre les deux auteurs les deux oeuvres et les deux epoques celles de la fin des xixe et xxe siecles"
+    ],
+    "resp_index": [],
+    "linked_resp_index": [
+        "menegaldo gilles",
+        "sipiere dominique"
+    ],
+    "global_index": " presente des contributions proposant des eclairages divers sur ces deux oeuvres etudiees de maniere autonome ou en regard une de autre ainsi que des approches critiques differenciees et complementaires entre les deux auteurs les deux oeuvres et les deux epoques celles de la fin des xixe et xxe siecles dracula oeuvre de bram stoker et le film de francis coppola ouvrage dirige par gilles menegaldo et dominique sipiere dracula texte imprime oeuvre de bram stoker et le film de francis coppola ouvrage dirige par gilles menegaldo et dominique sipiere paris ellipses 2005 texte note sans mediation isbn 7298 2533 menegaldo gilles dracula oeuvre de bram stoker et le film de francis coppola sipiere dominique paris ellipses$? 86 liguge aubin imprimeur 2005 textes en francais et en anglais$?bibliographie pages et en notes dracula oeuvre de bram stoker et le film de francis coppola francais anglais texte note",
+    "type": "e",
+    "label": "\"Dracula\" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola, Fran\u00e7ais-Anglais, Texte not\u00e9",
+    "splitted_label": "\"Dracula\" : l'oeuvre\nde Bram Stoker et le\nfilm de Francis F.\nCoppola, Fran\u00e7ais-\nAnglais, Texte not\u00e9",
+    "stats_zones": {
+        "001": 1,
+        "005": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "105": 1,
+        "145": 1,
+        "152": 1,
+        "154": 1,
+        "232": 1,
+        "640": 1,
+        "801": 1,
+        "810": 1
+    },
+    "resp": {},
+    "respIds": [],
+    "toOeuvres": {
+        "UMLRM0081": "\"Dracula\" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola, Fran\u00e7ais-Anglais, Texte not\u00e9"
+    },
+    "toExpressions": {},
+    "toManifs": {
+        "UMLRM0083": "\"Dracula\", ouvrage dirig\u00e9 par Gilles Menegaldo et Dominique Sipi\u00e8re, Ellipses - Aubin imprimeur, 2005, 1 volume (379 pages), couverture illustr\u00e9e"
+    },
+    "manifsYears": [
+        2005
+    ],
+    "toItems": {
+        "UMLRM1026": "BM_CELESTEVILLE > MEZZANINE > COTE_UMLRM1026"
+    },
+    "repr": "id : UMLRM0082\ntype initial : oe ; type : e\nlabel : \"Dracula\" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola, Fran\u00e7ais-Anglais, Texte not\u00e9\n\nNotice : \n000    00756cx  f2200193   4500\n001    UMLRM0082\n005    20220926\n100    $a 20220926afrey50      ba0\n101 0  $a fre $a eng\n102    $a FR\n104    $a d2005\n105    $a ba\n145 0  $a i $b axxe\n152    $a RDA-FR\n154    $a xb\n232    $3 UMLRM0081 $a \"Dracula\" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola $m Fran\u00e7ais-Anglais $n Texte not\u00e9\n640 6  $0 Date de premi\u00e8re publication $f #2005#####\n801  0 $a FR $b FR-751045101 $c 20220926\n810    $a . \"Dracula\" [Texte imprim\u00e9] : l'oeuvre de Bram Stoker et le film de Francis F. Coppola / ouvrage dirig\u00e9 par Gilles Menegaldo et Dominique Sipi\u00e8re. \u2013 Paris : Ellipses, 2005.\u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 2-7298-2533-9 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a54fc0>\nIndexation :  dracula texte imprime oeuvre de bram stoker et le film de francis coppola ouvrage dirige par gilles menegaldo et dominique sipiere paris ellipses 2005 texte note sans mediation isbn 7298 2533 dracula oeuvre de bram stoker et le film de francis coppola",
+    "lang": [
+        "eng",
+        "fre"
+    ],
+    "expressionContentType": "Texte not\u00e9",
+    "exprContentType": "Texte not\u00e9",
+    "exprResp": [],
+    "detailed": "\n\nDate de premi\u00e8re publication : 2005",
+    "rebonds": "",
+    "other_expressions": null
+}

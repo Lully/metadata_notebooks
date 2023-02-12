@@ -1,0 +1,93 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>01561nx  f2200301   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0175</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20221029afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"2\" ind2=\" \">\n      <marc:subfield code=\"a\">ger</marc:subfield>\n      <marc:subfield code=\"a\">fre</marc:subfield>\n      <marc:subfield code=\"a\">eng</marc:subfield>\n      <marc:subfield code=\"c\">ger</marc:subfield>\n      <marc:subfield code=\"j\">fre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d2013</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"127\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">1130</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">b</marc:subfield>\n      <marc:subfield code=\"b\">xa2ae</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"147\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">a</marc:subfield>\n      <marc:subfield code=\"e\">d</marc:subfield>\n      <marc:subfield code=\"h\">a</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"147\" ind1=\"1\" ind2=\" \">\n      <marc:subfield code=\"a\">h</marc:subfield>\n      <marc:subfield code=\"e\">c</marc:subfield>\n      <marc:subfield code=\"h\">b</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"147\" ind1=\"1\" ind2=\" \">\n      <marc:subfield code=\"a\">g</marc:subfield>\n      <marc:subfield code=\"e\">d</marc:subfield>\n      <marc:subfield code=\"h\">u</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"147\" ind1=\"1\" ind2=\" \">\n      <marc:subfield code=\"a\">e</marc:subfield>\n      <marc:subfield code=\"e\">d</marc:subfield>\n      <marc:subfield code=\"h\">b</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\"> RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xb</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"232\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">UMLRM0174</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"a\">Les grands classiques du cin&#233;ma allemand</marc:subfield>\n      <marc:subfield code=\"k\">RDM vid&#233;o</marc:subfield>\n      <marc:subfield code=\"m\">Anglais, allemand, fran&#231;ais ; sous-titrage en fran&#231;ais</marc:subfield>\n      <marc:subfield code=\"n\">Image anim&#233;e</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"532\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxp</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0002</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freger</marc:subfield>\n      <marc:subfield code=\"t\">Nosferatu, eine Symphonie des Grauens</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"l\">Version restaur&#233;e</marc:subfield>\n      <marc:subfield code=\"o\">1995</marc:subfield>\n      <marc:subfield code=\"w\">60mn</marc:subfield>\n      <marc:subfield code=\"m\">Fran&#231;ais</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"532\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxp</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freger</marc:subfield>\n      <marc:subfield code=\"a\">Der Golem wie er in die Welt kam</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"l\">Version restaur&#233;e</marc:subfield>\n      <marc:subfield code=\"o\">2002</marc:subfield>\n      <marc:subfield code=\"m\">Anglais-fran&#231;ais</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"532\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxp</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freger</marc:subfield>\n      <marc:subfield code=\"a\">M</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"l\">Version restaur&#233;e</marc:subfield>\n      <marc:subfield code=\"o\">2003</marc:subfield>\n      <marc:subfield code=\"m\">Allemand ; sous-titrage en fran&#231;ais</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"532\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxp</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freger</marc:subfield>\n      <marc:subfield code=\"a\">Das Cabinet des Dr. Caligari</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"l\">Version teint&#233;e</marc:subfield>\n      <marc:subfield code=\"o\">1994</marc:subfield>\n      <marc:subfield code=\"m\">Allemand ; sous-titrage en fran&#231;ais</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"532\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxp</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freger</marc:subfield>\n      <marc:subfield code=\"a\">Dr. Mabuse der Spieler</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"l\">Version teint&#233;e</marc:subfield>\n      <marc:subfield code=\"o\">2000</marc:subfield>\n      <marc:subfield code=\"m\">Allemand ; sous-titrage en fran&#231;ais</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"532\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxp</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freger</marc:subfield>\n      <marc:subfield code=\"a\">Faust, eine deutsche Volkssage</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"l\">Version s&#233;pia</marc:subfield>\n      <marc:subfield code=\"o\">2002</marc:subfield>\n      <marc:subfield code=\"m\">Allemand ; sous-titrage en fran&#231;ais</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de premi&#232;re publication</marc:subfield>\n      <marc:subfield code=\"f\">#2013#####</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751131015</marc:subfield>\n      <marc:subfield code=\"c\">20221029</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Les grands classiques du cin&#233;ma allemand. &#8211; [Sannois] : RDM vid&#233;o [&#233;diteur, distributeur], [DL 2013]. &#8211; [Image anim&#233;e : vid&#233;o]</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0175",
+    "txt": "\n000    01561nx  f2200301   4500\n001    UMLRM0175\n100    $a 20221029afrey50      ba0\n101 2  $a ger $a fre $a eng $c ger $j fre\n102    $a FR\n104    $a d2013\n127    $a 1130\n145    $a b $b xa2ae\n147    $a a $e d $h a\n147 1  $a h $e c $h b\n147 1  $a g $e d $h u\n147 1  $a e $e d $h b\n152    $a  RDA-FR\n154    $a xb\n232    $3 UMLRM0174 $7 ba0yba0y $8 frefre $a Les grands classiques du cin\u00e9ma allemand $k RDM vid\u00e9o $m Anglais, allemand, fran\u00e7ais ; sous-titrage en fran\u00e7ais $n Image anim\u00e9e\n532    $5 xxp $3 UMLRM0002 $7 ba0yba0y $8 freger $t Nosferatu, eine Symphonie des Grauens $c film $l Version restaur\u00e9e $o 1995 $w 60mn $m Fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freger $a Der Golem wie er in die Welt kam $c film $l Version restaur\u00e9e $o 2002 $m Anglais-fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freger $a M $c film $l Version restaur\u00e9e $o 2003 $m Allemand ; sous-titrage en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freger $a Das Cabinet des Dr. Caligari $c film $l Version teint\u00e9e $o 1994 $m Allemand ; sous-titrage en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freger $a Dr. Mabuse der Spieler $c film $l Version teint\u00e9e $o 2000 $m Allemand ; sous-titrage en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freger $a Faust, eine deutsche Volkssage $c film $l Version s\u00e9pia $o 2002 $m Allemand ; sous-titrage en fran\u00e7ais\n640 6  $0 Date de premi\u00e8re publication $f #2013#####\n801  0 $a FR $b FR-751131015 $c 20221029\n810    $a Les grands classiques du cin\u00e9ma allemand. \u2013 [Sannois] : RDM vid\u00e9o [\u00e9diteur, distributeur], [DL 2013]. \u2013 [Image anim\u00e9e : vid\u00e9o]",
+    "self_index": [
+        "les grands classiques du cinema allemand",
+        "",
+        "",
+        "les grands classiques du cinema allemand sannois rdm video editeur distributeur dl 2013 image animee video",
+        "les grands classiques du cinema allemand",
+        "",
+        "",
+        "les grands classiques du cinema allemand sannois rdm video editeur distributeur dl 2013 image animee video"
+    ],
+    "linked_entities_index": [
+        "les grands classiques du cinema allemand rdm video anglais allemand francais sous titrage en francais image animee",
+        "les grands classiques du cinema allemand",
+        "sannois rdm video dl 2013 sannois rdm video",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "les grands classiques du cinema allemand",
+        "sannois rdm video dl 2013 sannois rdm video",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "les grands classiques du cinema allemand",
+        "coffret reunissant films appartenant au cinema expressionniste allemand et dont ont fait l'objet de publications separees chez le meme editeur",
+        ""
+    ],
+    "resp_index": [],
+    "linked_resp_index": [
+        "rdm video",
+        "murnau friedrich wilhelm",
+        "lang fritz",
+        "wegener paul",
+        "wiene robert",
+        "rdm video"
+    ],
+    "global_index": " rdm video coffret reunissant films appartenant au cinema expressionniste allemand et dont ont fait l'objet de publications separees chez le meme editeur wiene robert les grands classiques du cinema allemand rdm video anglais allemand francais sous titrage en francais image animee sannois rdm video dl 2013 sannois rdm video lang fritz les grands classiques du cinema allemand sannois rdm video editeur distributeur dl 2013 image animee video murnau friedrich wilhelm les grands classiques du cinema allemand wegener paul",
+    "type": "e",
+    "label": "Les grands classiques du cin\u00e9ma allemand, Anglais, allemand, fran\u00e7ais ; sous-titrage en fran\u00e7ais, Image anim\u00e9e",
+    "splitted_label": "Les grands\nclassiques du cin\u00e9ma\nallemand, Anglais,\nallemand, fran\u00e7ais ;\nsous-titrage en\nfran\u00e7ais, Image\nanim\u00e9e",
+    "stats_zones": {
+        "001": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "127": 1,
+        "145": 1,
+        "147": 4,
+        "152": 1,
+        "154": 1,
+        "232": 1,
+        "532": 6,
+        "640": 1,
+        "801": 1,
+        "810": 1
+    },
+    "resp": {},
+    "respIds": [],
+    "toOeuvres": {
+        "UMLRM0174": "Les grands classiques du cin\u00e9ma allemand, RDM vid\u00e9o, Anglais, allemand, fran\u00e7ais ; sous-titrage en fran\u00e7ais, Image anim\u00e9e"
+    },
+    "toExpressions": {},
+    "toManifs": {
+        "UMLRM0176": "Les grands classiques du cin\u00e9ma allemand, RDM vid\u00e9o - RDM vid\u00e9o, [DL 2013], 7 DVD vid\u00e9o, monoface double couche, 4/3, PAL, toutes zones"
+    },
+    "manifsYears": [
+        2013
+    ],
+    "toItems": {},
+    "repr": "id : UMLRM0175\ntype initial : oe ; type : e\nlabel : Les grands classiques du cin\u00e9ma allemand, Anglais, allemand, fran\u00e7ais ; sous-titrage en fran\u00e7ais, Image anim\u00e9e\n\nNotice : \n000    01561nx  f2200301   4500\n001    UMLRM0175\n100    $a 20221029afrey50      ba0\n101 2  $a ger $a fre $a eng $c ger $j fre\n102    $a FR\n104    $a d2013\n127    $a 1130\n145    $a b $b xa2ae\n147    $a a $e d $h a\n147 1  $a h $e c $h b\n147 1  $a g $e d $h u\n147 1  $a e $e d $h b\n152    $a  RDA-FR\n154    $a xb\n232    $3 UMLRM0174 $7 ba0yba0y $8 frefre $a Les grands classiques du cin\u00e9ma allemand $k RDM vid\u00e9o $m Anglais, allemand, fran\u00e7ais ; sous-titrage en fran\u00e7ais $n Image anim\u00e9e\n532    $5 xxp $3 UMLRM0002 $7 ba0yba0y $8 freger $t Nosferatu, eine Symphonie des Grauens $c film $l Version restaur\u00e9e $o 1995 $w 60mn $m Fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freger $a Der Golem wie er in die Welt kam $c film $l Version restaur\u00e9e $o 2002 $m Anglais-fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freger $a M $c film $l Version restaur\u00e9e $o 2003 $m Allemand ; sous-titrage en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freger $a Das Cabinet des Dr. Caligari $c film $l Version teint\u00e9e $o 1994 $m Allemand ; sous-titrage en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freger $a Dr. Mabuse der Spieler $c film $l Version teint\u00e9e $o 2000 $m Allemand ; sous-titrage en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freger $a Faust, eine deutsche Volkssage $c film $l Version s\u00e9pia $o 2002 $m Allemand ; sous-titrage en fran\u00e7ais\n640 6  $0 Date de premi\u00e8re publication $f #2013#####\n801  0 $a FR $b FR-751131015 $c 20221029\n810    $a Les grands classiques du cin\u00e9ma allemand. \u2013 [Sannois] : RDM vid\u00e9o [\u00e9diteur, distributeur], [DL 2013]. \u2013 [Image anim\u00e9e : vid\u00e9o] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a56e80>\nIndexation :  les grands classiques du cinema allemand sannois rdm video editeur distributeur dl 2013 image animee video les grands classiques du cinema allemand",
+    "lang": [
+        "ger",
+        "fre",
+        "eng"
+    ],
+    "expressionContentType": "Image anim\u00e9e",
+    "exprContentType": "Image anim\u00e9e",
+    "exprResp": [],
+    "detailed": "\n\nDate de premi\u00e8re publication : 2013",
+    "rebonds": "",
+    "other_expressions": null
+}

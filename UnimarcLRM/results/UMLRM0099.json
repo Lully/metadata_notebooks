@@ -1,0 +1,128 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>02122cx  h2200337   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0099</marc:controlfield>\n    <marc:controlfield tag=\"005\">20220811.......D</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20220811afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">fre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d1988</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"125\" ind1=\"0\" ind2=\"0\">\n      <marc:subfield code=\"a\">e</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"125\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">m</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">mi</marc:subfield>\n      <marc:subfield code=\"b\">bdfta</marc:subfield>\n      <marc:subfield code=\"2\">BnF-FormeOeuvreMixte</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">b</marc:subfield>\n      <marc:subfield code=\"b\">xb2e</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">i</marc:subfield>\n      <marc:subfield code=\"b\">axxe</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"147\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">a</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xa</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"241\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">11900673</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 2125 5326</marc:subfield>\n      <marc:subfield code=\"a\">Druillet, Philippe (1944-....)</marc:subfield>\n      <marc:subfield code=\"t\">Nosferatu</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"370\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"c\">D'apr&#232;s le roman de Bram Stoker et le film de F.-W. Murnau</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"378\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Les temps ont chang&#233;. Comment &#233;tait-ce, autrefois ? Comment &#233;tait-ce, la vie ? Nous avons d&#251; changer, nous, ceux de la surface. Mutation, nourriture... C'est peut-&#234;tre pour cela que nous sommes devenus des vampires...</marc:subfield>\n      <marc:subfield code=\"b\">Babelio</marc:subfield>\n      <marc:subfield code=\"z\">fre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"378\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Dernier survivant de sa tribu, Nosferatu ne sait pas vraiment s&#8217;il est ou non un vampire. Depuis que la plan&#232;te a &#233;t&#233; d&#233;vast&#233;e par un myst&#233;rieux cataclysme, qui a fini par faire dispara&#238;tre la quasi totalit&#233; de la vie, il doit cependant consommer de la chair fra&#238;che pour survivre. D&#233;clamant ci-et-l&#224; du Baudelaire, du th&#233;&#226;tre et se laissant parfois aller &#224; un humour enfantin, la cr&#233;ature solitaire tente tant bien que mal de ne pas sombrer dans la folie, et de trouver une &#233;chappatoire &#224; sa condition.</marc:subfield>\n      <marc:subfield code=\"b\">Vampirisme.com</marc:subfield>\n      <marc:subfield code=\"z\">fre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">11900673</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 2125 5326</marc:subfield>\n      <marc:subfield code=\"a\">Druillet</marc:subfield>\n      <marc:subfield code=\"b\">Philippe</marc:subfield>\n      <marc:subfield code=\"f\">1944-....</marc:subfield>\n      <marc:subfield code=\"4\">070</marc:subfield>\n      <marc:subfield code=\"4\">440</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"531\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxl</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0001</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freger</marc:subfield>\n      <marc:subfield code=\"t\">Nosferatu : eine Symphonie des Grauens</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"541\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"5\">xxl</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0004</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Stoker</marc:subfield>\n      <marc:subfield code=\"b\">Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"608\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">11931019</marc:subfield>\n      <marc:subfield code=\"a\">Bandes dessin&#233;es</marc:subfield>\n      <marc:subfield code=\"2\">rameauForme</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de premi&#232;re publication</marc:subfield>\n      <marc:subfield code=\"f\">#1988#####</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751045101</marc:subfield>\n      <marc:subfield code=\"c\">20220811</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Vampirisme.com : https://www.vampirisme.com/livre/druillet-philippe-nosferatu(2022-09-18)</marc:subfield>\n      <marc:subfield code=\"b\">R&#233;sum&#233;</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Nosferatu/Philippe Druillet. - Paris ; Barcelone ; Bruxelles : Dargaud, 1988. - [Texte not&#233;. Image fixe : sans m&#233;diation]. - ISBN 2-205-03763-3</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0099",
+    "txt": "\n000    02122cx  h2200337   4500\n001    UMLRM0099\n005    20220811.......D\n100    $a 20220811afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d1988\n125 00 $a e\n125 0  $a m\n140    $a mi $b bdfta $2 BnF-FormeOeuvreMixte\n145 0  $a b $b xb2e\n145 0  $a i $b axxe\n147 0  $a a\n152    $a RDA-FR\n154    $a xa\n241  1 $3 11900673 $o ISNI 0000 0001 2125 5326 $a Druillet, Philippe (1944-....) $t Nosferatu $7 ba0yba0y $8 frefre\n370    $c D'apr\u00e8s le roman de Bram Stoker et le film de F.-W. Murnau\n378    $a Les temps ont chang\u00e9. Comment \u00e9tait-ce, autrefois ? Comment \u00e9tait-ce, la vie ? Nous avons d\u00fb changer, nous, ceux de la surface. Mutation, nourriture... C'est peut-\u00eatre pour cela que nous sommes devenus des vampires... $b Babelio $z fre\n378    $a Dernier survivant de sa tribu, Nosferatu ne sait pas vraiment s\u2019il est ou non un vampire. Depuis que la plan\u00e8te a \u00e9t\u00e9 d\u00e9vast\u00e9e par un myst\u00e9rieux cataclysme, qui a fini par faire dispara\u00eetre la quasi totalit\u00e9 de la vie, il doit cependant consommer de la chair fra\u00eeche pour survivre. D\u00e9clamant ci-et-l\u00e0 du Baudelaire, du th\u00e9\u00e2tre et se laissant parfois aller \u00e0 un humour enfantin, la cr\u00e9ature solitaire tente tant bien que mal de ne pas sombrer dans la folie, et de trouver une \u00e9chappatoire \u00e0 sa condition. $b Vampirisme.com $z fre\n501  1 $3 11900673 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2125 5326 $a Druillet $b Philippe $f 1944-.... $4 070 $4 440\n531    $5 xxl $3 UMLRM0001 $7 ba0yba0y $8 freger $t Nosferatu : eine Symphonie des Grauens $c film\n541  1 $5 xxl $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker $b Bram (1847-1912) $t Dracula\n608    $3 11931019 $a Bandes dessin\u00e9es $2 rameauForme\n640 6  $0 Date de premi\u00e8re publication $f #1988#####\n801  0 $a FR $b FR-751045101 $c 20220811\n810    $a Vampirisme.com : https://www.vampirisme.com/livre/druillet-philippe-nosferatu(2022-09-18) $b R\u00e9sum\u00e9\n810    $a Nosferatu/Philippe Druillet. - Paris ; Barcelone ; Bruxelles : Dargaud, 1988. - [Texte not\u00e9. Image fixe : sans m\u00e9diation]. - ISBN 2-205-03763-3",
+    "self_index": [
+        "",
+        "",
+        "",
+        "apres le roman de bram stoker et le film de murnau",
+        "les temps ont change comment etait ce autrefois comment etait ce la vie nous avons du changer nous ceux de la surface mutation nourriture est peut etre pour cela que nous sommes devenus des vampires $?dernier survivant de sa tribu nosferatu ne sait pas vraiment s'il est ou non un vampire depuis que la planete ete devastee par un mysterieux cataclysme qui fini par faire disparaitre la quasi totalite de la vie il doit cependant consommer de la chair fraiche pour survivre declamant ci et la du baudelaire du theatre et se laissant parfois aller un humour enfantin la creature solitaire tente tant bien que mal de ne pas sombrer dans la folie et de trouver une echappatoire sa condition",
+        "",
+        "",
+        "",
+        "apres le roman de bram stoker et le film de murnau",
+        "les temps ont change comment etait ce autrefois comment etait ce la vie nous avons du changer nous ceux de la surface mutation nourriture est peut etre pour cela que nous sommes devenus des vampires $?dernier survivant de sa tribu nosferatu ne sait pas vraiment s'il est ou non un vampire depuis que la planete ete devastee par un mysterieux cataclysme qui fini par faire disparaitre la quasi totalite de la vie il doit cependant consommer de la chair fraiche pour survivre declamant ci et la du baudelaire du theatre et se laissant parfois aller un humour enfantin la creature solitaire tente tant bien que mal de ne pas sombrer dans la folie et de trouver une echappatoire sa condition"
+    ],
+    "linked_entities_index": [
+        "nosferatu 1977 1978 texte et dessins de druillet",
+        "paris$?bruxelles dargaud 1988$? paris imprimerie publiphotoffset",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "nosferatu 1977 1978 texte et dessins de druillet",
+        "paris$?bruxelles dargaud 1988$? paris imprimerie publiphotoffset",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "nosferatu druillet",
+        "paris albin michel 2001$? 37 tours",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "nosferatu druillet",
+        "paris albin michel 2001$? 37 tours",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "druillet philippe 1944 nosferatu",
+        "",
+        "nosferatu philippe druillet paris barcelone bruxelles dargaud 1988 texte note image fixe sans mediation isbn 205 03763",
+        "",
+        "druillet philippe 1944 nosferatu",
+        "",
+        "nosferatu philippe druillet paris barcelone bruxelles dargaud 1988 texte note image fixe sans mediation isbn 205 03763"
+    ],
+    "resp_index": [
+        "druillet philippe",
+        "druillet philippe"
+    ],
+    "linked_resp_index": [],
+    "global_index": " les temps ont change comment etait ce autrefois comment etait ce la vie nous avons du changer nous ceux de la surface mutation nourriture est peut etre pour cela que nous sommes devenus des vampires $?dernier survivant de sa tribu nosferatu ne sait pas vraiment s'il est ou non un vampire depuis que la planete ete devastee par un mysterieux cataclysme qui fini par faire disparaitre la quasi totalite de la vie il doit cependant consommer de la chair fraiche pour survivre declamant ci et la du baudelaire du theatre et se laissant parfois aller un humour enfantin la creature solitaire tente tant bien que mal de ne pas sombrer dans la folie et de trouver une echappatoire sa condition paris$?bruxelles dargaud 1988$? paris imprimerie publiphotoffset nosferatu philippe druillet paris barcelone bruxelles dargaud 1988 texte note image fixe sans mediation isbn 205 03763 apres le roman de bram stoker et le film de murnau nosferatu druillet nosferatu 1977 1978 texte et dessins de druillet druillet philippe paris albin michel 2001$? 37 tours druillet philippe 1944 nosferatu",
+    "type": "o",
+    "label": "Druillet, Philippe (1944-....), Nosferatu",
+    "splitted_label": "Druillet, Philippe\n(1944-....),\nNosferatu",
+    "stats_zones": {
+        "001": 1,
+        "005": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "125": 2,
+        "140": 1,
+        "145": 2,
+        "147": 1,
+        "152": 1,
+        "154": 1,
+        "241": 1,
+        "370": 1,
+        "378": 2,
+        "501": 1,
+        "531": 1,
+        "541": 1,
+        "608": 1,
+        "640": 1,
+        "801": 1,
+        "810": 2
+    },
+    "resp": {
+        "Druillet, Philippe": [
+            "Auteur",
+            "Illustrateur"
+        ]
+    },
+    "respIds": [
+        "11900673"
+    ],
+    "toOeuvres": {},
+    "toExpressions": {
+        "UMLRM0100": "Druillet, Philippe (1944-....), Nosferatu, Fran\u00e7ais, Texte not\u00e9. Image fixe"
+    },
+    "toManifs": {
+        "UMLRM0101": "Nosferatu, [texte et dessins de] Druillet, Dargaud - Imprimerie Publiphotoffset, 1988, 1 volume (63 pages)",
+        "UMLRM0104": "Nosferatu, Druillet, Albin Michel, 2001, 1 volume (non pagin\u00e9 [55] pages), couverture illustr\u00e9e"
+    },
+    "manifsYears": [
+        1988,
+        2001
+    ],
+    "toItems": {
+        "UMLRM1032": "BM_CELESTEVILLE > JEUNESSE > COTE_UMLRM1032",
+        "UMLRM1033": "BM_CELESTEVILLE > JEUNESSE > COTE_UMLRM1033"
+    },
+    "repr": "id : UMLRM0099\ntype initial : oe ; type : o\nlabel : Druillet, Philippe (1944-....), Nosferatu\n\nNotice : \n000    02122cx  h2200337   4500\n001    UMLRM0099\n005    20220811.......D\n100    $a 20220811afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d1988\n125 00 $a e\n125 0  $a m\n140    $a mi $b bdfta $2 BnF-FormeOeuvreMixte\n145 0  $a b $b xb2e\n145 0  $a i $b axxe\n147 0  $a a\n152    $a RDA-FR\n154    $a xa\n241  1 $3 11900673 $o ISNI 0000 0001 2125 5326 $a Druillet, Philippe (1944-....) $t Nosferatu $7 ba0yba0y $8 frefre\n370    $c D'apr\u00e8s le roman de Bram Stoker et le film de F.-W. Murnau\n378    $a Les temps ont chang\u00e9. Comment \u00e9tait-ce, autrefois ? Comment \u00e9tait-ce, la vie ? Nous avons d\u00fb changer, nous, ceux de la surface. Mutation, nourriture... C'est peut-\u00eatre pour cela que nous sommes devenus des vampires... $b Babelio $z fre\n378    $a Dernier survivant de sa tribu, Nosferatu ne sait pas vraiment s\u2019il est ou non un vampire. Depuis que la plan\u00e8te a \u00e9t\u00e9 d\u00e9vast\u00e9e par un myst\u00e9rieux cataclysme, qui a fini par faire dispara\u00eetre la quasi totalit\u00e9 de la vie, il doit cependant consommer de la chair fra\u00eeche pour survivre. D\u00e9clamant ci-et-l\u00e0 du Baudelaire, du th\u00e9\u00e2tre et se laissant parfois aller \u00e0 un humour enfantin, la cr\u00e9ature solitaire tente tant bien que mal de ne pas sombrer dans la folie, et de trouver une \u00e9chappatoire \u00e0 sa condition. $b Vampirisme.com $z fre\n501  1 $3 11900673 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2125 5326 $a Druillet $b Philippe $f 1944-.... $4 070 $4 440\n531    $5 xxl $3 UMLRM0001 $7 ba0yba0y $8 freger $t Nosferatu : eine Symphonie des Grauens $c film\n541  1 $5 xxl $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker $b Bram (1847-1912) $t Dracula\n608    $3 11931019 $a Bandes dessin\u00e9es $2 rameauForme\n640 6  $0 Date de premi\u00e8re publication $f #1988#####\n801  0 $a FR $b FR-751045101 $c 20220811\n810    $a Vampirisme.com : https://www.vampirisme.com/livre/druillet-philippe-nosferatu(2022-09-18) $b R\u00e9sum\u00e9\n810    $a Nosferatu/Philippe Druillet. - Paris ; Barcelone ; Bruxelles : Dargaud, 1988. - [Texte not\u00e9. Image fixe : sans m\u00e9diation]. - ISBN 2-205-03763-3 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a561c0>\nIndexation :  les temps ont change comment etait ce autrefois comment etait ce la vie nous avons du changer nous ceux de la surface mutation nourriture est peut etre pour cela que nous sommes devenus des vampires $?dernier survivant de sa tribu nosferatu ne sait pas vraiment s'il est ou non un vampire depuis que la planete ete devastee par un mysterieux cataclysme qui fini par faire disparaitre la quasi totalite de la vie il doit cependant consommer de la chair fraiche pour survivre declamant ci et la du baudelaire du theatre et se laissant parfois aller un humour enfantin la creature solitaire tente tant bien que mal de ne pas sombrer dans la folie et de trouver une echappatoire sa condition druillet philippe apres le roman de bram stoker et le film de murnau",
+    "subjects": {},
+    "genreforme": {
+        "11931019": ""
+    },
+    "detailed": "Description : D'apr\u00e8s le roman de Bram Stoker et le film de F.-W. Murnau.\nLes temps ont chang\u00e9. Comment \u00e9tait-ce, autrefois ? Comment \u00e9tait-ce, la vie ? Nous avons d\u00fb changer, nous, ceux de la surface. Mutation, nourriture... C'est peut-\u00eatre pour cela que nous sommes devenus des vampires....\nDernier survivant de sa tribu, Nosferatu ne sait pas vraiment s\u2019il est ou non un vampire. Depuis que la plan\u00e8te a \u00e9t\u00e9 d\u00e9vast\u00e9e par un myst\u00e9rieux cataclysme, qui a fini par faire dispara\u00eetre la quasi totalit\u00e9 de la vie, il doit cependant consommer de la chair fra\u00eeche pour survivre. D\u00e9clamant ci-et-l\u00e0 du Baudelaire, du th\u00e9\u00e2tre et se laissant parfois aller \u00e0 un humour enfantin, la cr\u00e9ature solitaire tente tant bien que mal de ne pas sombrer dans la folie, et de trouver une \u00e9chappatoire \u00e0 sa condition.\n\n\nDate de premi\u00e8re publication : 1988",
+    "rebonds": "<span class='rebond'><a href='full_results_UMLRM0001.html'>Nosferatu : eine Symphonie des Grauens film</a></span>\n<span class='rebond'><a href='full_results_UMLRM0004.html'>Stoker Bram (1847-1912) Dracula</a></span>",
+    "exprResp": [],
+    "lang": [
+        "fre"
+    ],
+    "exprContentType": [
+        "Texte not\u00e9. Image fixe"
+    ]
+}

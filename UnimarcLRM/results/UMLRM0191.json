@@ -1,0 +1,140 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>02307nx  f2200373   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0191</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20221114afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">eng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">US</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d1938</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"125\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">m</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"127\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">010000</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">te</marc:subfield>\n      <marc:subfield code=\"b\">thrad</marc:subfield>\n      <marc:subfield code=\"2\">BnF-GenrLitt</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">te</marc:subfield>\n      <marc:subfield code=\"b\">er</marc:subfield>\n      <marc:subfield code=\"2\">BnF-ImAnim</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">h</marc:subfield>\n      <marc:subfield code=\"b\">xxxa</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">d</marc:subfield>\n      <marc:subfield code=\"b\">bxxa</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xa</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"231\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Dracula</marc:subfield>\n      <marc:subfield code=\"c\">&#233;mission radiophonique</marc:subfield>\n      <marc:subfield code=\"d\">1938</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"370\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"c\">Adaptation &#224; la radio du roman de Bram Stoker par Orson Welles et John Houseman, telle que diffus&#233;e le lundi 11 juillet 1938 dans la s&#233;rie radiophonique \"The Mercury theatre on the air\", dont elle constitue le premier &#233;pisode.</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">13939725</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0000 8154 3111</marc:subfield>\n      <marc:subfield code=\"a\">Houseman</marc:subfield>\n      <marc:subfield code=\"b\">John</marc:subfield>\n      <marc:subfield code=\"f\">1902-1988</marc:subfield>\n      <marc:subfield code=\"4\">010</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">11929051</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 2096 8527</marc:subfield>\n      <marc:subfield code=\"a\">Welles</marc:subfield>\n      <marc:subfield code=\"b\">Orson</marc:subfield>\n      <marc:subfield code=\"f\">1915-1985</marc:subfield>\n      <marc:subfield code=\"4\">010</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">13939727</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0000 5185 6942</marc:subfield>\n      <marc:subfield code=\"a\">Coulouris</marc:subfield>\n      <marc:subfield code=\"b\">George</marc:subfield>\n      <marc:subfield code=\"f\">1903-1989</marc:subfield>\n      <marc:subfield code=\"4\">550</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">14048104</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">fre###</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 1584 4474</marc:subfield>\n      <marc:subfield code=\"a\">Gabel</marc:subfield>\n      <marc:subfield code=\"b\">Martin</marc:subfield>\n      <marc:subfield code=\"f\">1912-1986</marc:subfield>\n      <marc:subfield code=\"4\">550</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">11929051</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 2096 8527</marc:subfield>\n      <marc:subfield code=\"a\">Welles</marc:subfield>\n      <marc:subfield code=\"b\">Orson</marc:subfield>\n      <marc:subfield code=\"f\">1915-1985</marc:subfield>\n      <marc:subfield code=\"4\">550</marc:subfield>\n      <marc:subfield code=\"4\">300</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">13895169</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">fre###</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 2121 0662</marc:subfield>\n      <marc:subfield code=\"a\">Herrmann</marc:subfield>\n      <marc:subfield code=\"b\">Bernard</marc:subfield>\n      <marc:subfield code=\"f\">1911-1975</marc:subfield>\n      <marc:subfield code=\"4\">230</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"511\" ind1=\"0\" ind2=\"2\">\n      <marc:subfield code=\"3\">11941628</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Columbia broadcasting system</marc:subfield>\n      <marc:subfield code=\"4\">665</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"531\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxd</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0194</marc:subfield>\n      <marc:subfield code=\"a\">The Mercury theatre on the air</marc:subfield>\n      <marc:subfield code=\"c\">s&#233;rie radiophonique</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"541\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"5\">xxa</marc:subfield>\n      <marc:subfield code=\"p\">Est une adaptation dans un autre mode de cr&#233;ation de [&#339;uvre]</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0004</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">fre###</marc:subfield>\n      <marc:subfield code=\"a\">Stoker</marc:subfield>\n      <marc:subfield code=\"b\">Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"608\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">11975086</marc:subfield>\n      <marc:subfield code=\"a\">Th&#233;&#226;tre radiophonique</marc:subfield>\n      <marc:subfield code=\"2\">rameauGenre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"a\">US</marc:subfield>\n      <marc:subfield code=\"e\">CBS radio</marc:subfield>\n      <marc:subfield code=\"f\">#19380711#</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751131015</marc:subfield>\n      <marc:subfield code=\"c\">20221114</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\"> Dracula : original radio adaptation as heard on the Mercury theatre on the air / starring Orson Welles ; based on the novel by Bram Stoker ; adapted for radio by Orson Welles and John Houseman ; performed by Orson Welles, Martin Gabel, George Coulouris... [et autres]. &#8211; Schiller park (Illinois) : Radio spirits, P 2001. &#8211; [Parole &#233;nonc&#233;e : audio]. &#8211; 7031 (Radio spirits)</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Wikip&#233;dia : https://en.wikipedia.org/wiki/Dracula_(radio_drama) (2022-11-14)</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0191",
+    "txt": "\n000    02307nx  f2200373   4500\n001    UMLRM0191\n100    $a 20221114afrey50      ba0\n101 0  $a eng\n102    $a US\n104    $a d1938\n125 0  $a m\n127 0  $a 010000\n140    $a te $b thrad $2 BnF-GenrLitt\n140    $a te $b er $2 BnF-ImAnim\n145 0  $a h $b xxxa\n145 0  $a d $b bxxa\n152    $a RDA-FR\n154    $a xa\n231    $a Dracula $c \u00e9mission radiophonique $d 1938 $7 ba0yba0y $8 freeng\n370    $c Adaptation \u00e0 la radio du roman de Bram Stoker par Orson Welles et John Houseman, telle que diffus\u00e9e le lundi 11 juillet 1938 dans la s\u00e9rie radiophonique \"The Mercury theatre on the air\", dont elle constitue le premier \u00e9pisode.\n501  1 $3 13939725 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 8154 3111 $a Houseman $b John $f 1902-1988 $4 010\n501  1 $3 11929051 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2096 8527 $a Welles $b Orson $f 1915-1985 $4 010\n501  1 $3 13939727 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 5185 6942 $a Coulouris $b George $f 1903-1989 $4 550\n501  1 $3 14048104 $7 ba0yba0y $8 fre### $o ISNI 0000 0001 1584 4474 $a Gabel $b Martin $f 1912-1986 $4 550\n501  1 $3 11929051 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2096 8527 $a Welles $b Orson $f 1915-1985 $4 550 $4 300\n501  1 $3 13895169 $7 ba0yba0y $8 fre### $o ISNI 0000 0001 2121 0662 $a Herrmann $b Bernard $f 1911-1975 $4 230\n511 02 $3 11941628 $7 ba0yba0y $8 freeng $a Columbia broadcasting system $4 665\n531    $5 xxd $3 UMLRM0194 $a The Mercury theatre on the air $c s\u00e9rie radiophonique $7 ba0yba0y $8 freeng\n541  1 $5 xxa $p Est une adaptation dans un autre mode de cr\u00e9ation de [\u0153uvre] $3 UMLRM0004 $7 ba0yba0y $8 fre### $a Stoker $b Bram (1847-1912) $t Dracula\n608    $3 11975086 $a Th\u00e9\u00e2tre radiophonique $2 rameauGenre\n640 6  $a US $e CBS radio $f #19380711#\n801    $a FR $b FR-751131015 $c 20221114\n810    $a  Dracula : original radio adaptation as heard on the Mercury theatre on the air / starring Orson Welles ; based on the novel by Bram Stoker ; adapted for radio by Orson Welles and John Houseman ; performed by Orson Welles, Martin Gabel, George Coulouris... [et autres]. \u2013 Schiller park (Illinois) : Radio spirits, P 2001. \u2013 [Parole \u00e9nonc\u00e9e : audio]. \u2013 7031 (Radio spirits)\n810    $a Wikip\u00e9dia : https://en.wikipedia.org/wiki/Dracula_(radio_drama) (2022-11-14)",
+    "self_index": [
+        "",
+        "",
+        "dracula",
+        "adaptation la radio du roman de bram stoker par orson welles et john houseman telle que diffusee le lundi 11 juillet 1938 dans la serie radiophonique the mercury theatre on the air dont elle constitue le premier episode",
+        "",
+        "",
+        "",
+        "dracula",
+        "adaptation la radio du roman de bram stoker par orson welles et john houseman telle que diffusee le lundi 11 juillet 1938 dans la serie radiophonique the mercury theatre on the air dont elle constitue le premier episode",
+        ""
+    ],
+    "linked_entities_index": [
+        "dracula original radio adaptation as heard on the mercury theatre on the air starring orson welles based on the novel by bram stoker adapted for radio by orson welles and john houseman performed by orson welles martin gabel george coulouris et autres",
+        "schiller park illinois radio spirits 2001",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "dracula original radio adaptation as heard on the mercury theatre on the air starring orson welles based on the novel by bram stoker adapted for radio by orson welles and john houseman performed by orson welles martin gabel george coulouris et autres",
+        "schiller park illinois radio spirits 2001",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "dracula",
+        "",
+        "",
+        "dracula original radio adaptation as heard on the mercury theatre on the air starring orson welles based on the novel by bram stoker adapted for radio by orson welles and john houseman performed by orson welles martin gabel george coulouris et autres schiller park illinois radio spirits 2001 parole enoncee audio 7031 radio spirits $?wikipedia https en wikipedia org wiki dracula radio drama 2022 11 14",
+        "dracula",
+        "",
+        "",
+        "dracula original radio adaptation as heard on the mercury theatre on the air starring orson welles based on the novel by bram stoker adapted for radio by orson welles and john houseman performed by orson welles martin gabel george coulouris et autres schiller park illinois radio spirits 2001 parole enoncee audio 7031 radio spirits $?wikipedia https en wikipedia org wiki dracula radio drama 2022 11 14"
+    ],
+    "resp_index": [
+        "houseman john",
+        "welles orson",
+        "coulouris george",
+        "gabel martin",
+        "herrmann bernard",
+        "columbia broadcasting system",
+        "houseman john",
+        "welles orson",
+        "coulouris george",
+        "gabel martin",
+        "herrmann bernard",
+        "columbia broadcasting system"
+    ],
+    "linked_resp_index": [],
+    "global_index": " houseman john coulouris george dracula original radio adaptation as heard on the mercury theatre on the air starring orson welles based on the novel by bram stoker adapted for radio by orson welles and john houseman performed by orson welles martin gabel george coulouris et autres schiller park illinois radio spirits 2001 parole enoncee audio 7031 radio spirits $?wikipedia https en wikipedia org wiki dracula radio drama 2022 11 14 schiller park illinois radio spirits 2001 adaptation la radio du roman de bram stoker par orson welles et john houseman telle que diffusee le lundi 11 juillet 1938 dans la serie radiophonique the mercury theatre on the air dont elle constitue le premier episode gabel martin dracula columbia broadcasting system herrmann bernard welles orson dracula original radio adaptation as heard on the mercury theatre on the air starring orson welles based on the novel by bram stoker adapted for radio by orson welles and john houseman performed by orson welles martin gabel george coulouris et autres",
+    "type": "o",
+    "label": "Dracula, \u00e9mission radiophonique, 1938",
+    "splitted_label": "Dracula, \u00e9mission\nradiophonique, 1938",
+    "stats_zones": {
+        "001": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "125": 1,
+        "127": 1,
+        "140": 2,
+        "145": 2,
+        "152": 1,
+        "154": 1,
+        "231": 1,
+        "370": 1,
+        "501": 6,
+        "511": 1,
+        "531": 1,
+        "541": 1,
+        "608": 1,
+        "640": 1,
+        "801": 1,
+        "810": 2
+    },
+    "resp": {
+        "Houseman, John": [
+            "Adaptateur"
+        ],
+        "Welles, Orson": [
+            "Narrateur",
+            "Metteur en sc\u00e8ne ou r\u00e9alisateur"
+        ],
+        "Coulouris, George": [
+            "Narrateur"
+        ],
+        "Gabel, Martin": [
+            "Narrateur"
+        ],
+        "Herrmann, Bernard": [
+            "Compositeur"
+        ],
+        "Columbia broadcasting system": [
+            "Producteur de phonogramme"
+        ]
+    },
+    "respIds": [
+        "13939727",
+        "11941628",
+        "13895169",
+        "11929051",
+        "14048104",
+        "13939725"
+    ],
+    "toOeuvres": {},
+    "toExpressions": {
+        "UMLRM0192": "Dracula, \u00e9mission radiophonique, 1938, Anglais, Parole \u00e9nonc\u00e9e. Musique ex\u00e9cut\u00e9e"
+    },
+    "toManifs": {
+        "UMLRM0193": "Dracula, starring Orson Welles, Radio spirits, P 2001, 1 CD audio"
+    },
+    "manifsYears": [
+        2001
+    ],
+    "toItems": {
+        "UMLRM1054": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1054"
+    },
+    "repr": "id : UMLRM0191\ntype initial : oe ; type : o\nlabel : Dracula, \u00e9mission radiophonique, 1938\n\nNotice : \n000    02307nx  f2200373   4500\n001    UMLRM0191\n100    $a 20221114afrey50      ba0\n101 0  $a eng\n102    $a US\n104    $a d1938\n125 0  $a m\n127 0  $a 010000\n140    $a te $b thrad $2 BnF-GenrLitt\n140    $a te $b er $2 BnF-ImAnim\n145 0  $a h $b xxxa\n145 0  $a d $b bxxa\n152    $a RDA-FR\n154    $a xa\n231    $a Dracula $c \u00e9mission radiophonique $d 1938 $7 ba0yba0y $8 freeng\n370    $c Adaptation \u00e0 la radio du roman de Bram Stoker par Orson Welles et John Houseman, telle que diffus\u00e9e le lundi 11 juillet 1938 dans la s\u00e9rie radiophonique \"The Mercury theatre on the air\", dont elle constitue le premier \u00e9pisode.\n501  1 $3 13939725 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 8154 3111 $a Houseman $b John $f 1902-1988 $4 010\n501  1 $3 11929051 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2096 8527 $a Welles $b Orson $f 1915-1985 $4 010\n501  1 $3 13939727 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 5185 6942 $a Coulouris $b George $f 1903-1989 $4 550\n501  1 $3 14048104 $7 ba0yba0y $8 fre### $o ISNI 0000 0001 1584 4474 $a Gabel $b Martin $f 1912-1986 $4 550\n501  1 $3 11929051 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2096 8527 $a Welles $b Orson $f 1915-1985 $4 550 $4 300\n501  1 $3 13895169 $7 ba0yba0y $8 fre### $o ISNI 0000 0001 2121 0662 $a Herrmann $b Bernard $f 1911-1975 $4 230\n511 02 $3 11941628 $7 ba0yba0y $8 freeng $a Columbia broadcasting system $4 665\n531    $5 xxd $3 UMLRM0194 $a The Mercury theatre on the air $c s\u00e9rie radiophonique $7 ba0yba0y $8 freeng\n541  1 $5 xxa $p Est une adaptation dans un autre mode de cr\u00e9ation de [\u0153uvre] $3 UMLRM0004 $7 ba0yba0y $8 fre### $a Stoker $b Bram (1847-1912) $t Dracula\n608    $3 11975086 $a Th\u00e9\u00e2tre radiophonique $2 rameauGenre\n640 6  $a US $e CBS radio $f #19380711#\n801    $a FR $b FR-751131015 $c 20221114\n810    $a  Dracula : original radio adaptation as heard on the Mercury theatre on the air / starring Orson Welles ; based on the novel by Bram Stoker ; adapted for radio by Orson Welles and John Houseman ; performed by Orson Welles, Martin Gabel, George Coulouris... [et autres]. \u2013 Schiller park (Illinois) : Radio spirits, P 2001. \u2013 [Parole \u00e9nonc\u00e9e : audio]. \u2013 7031 (Radio spirits)\n810    $a Wikip\u00e9dia : https://en.wikipedia.org/wiki/Dracula_(radio_drama) (2022-11-14) \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a53080>\nIndexation :  houseman john coulouris george adaptation la radio du roman de bram stoker par orson welles et john houseman telle que diffusee le lundi 11 juillet 1938 dans la serie radiophonique the mercury theatre on the air dont elle constitue le premier episode gabel martin dracula columbia broadcasting system herrmann bernard welles orson",
+    "subjects": {},
+    "genreforme": {
+        "11975086": ""
+    },
+    "detailed": "Description : Adaptation \u00e0 la radio du roman de Bram Stoker par Orson Welles et John Houseman, telle que diffus\u00e9e le lundi 11 juillet 1938 dans la s\u00e9rie radiophonique \"The Mercury theatre on the air\", dont elle constitue le premier \u00e9pisode.\n\n\n : 11/07/1938",
+    "rebonds": "<span class='rebond'><a href='full_results_UMLRM0194.html'>The Mercury theatre on the air s\u00e9rie radiophonique</a></span>\n<span class='rebond'><a href='full_results_UMLRM0004.html'>Est une adaptation dans un autre mode de cr\u00e9ation de [\u0153uvre] Stoker Bram (1847-1912) Dracula</a></span>",
+    "exprResp": [],
+    "lang": [
+        "eng"
+    ],
+    "exprContentType": [
+        "\u00e9mission radiophonique"
+    ]
+}

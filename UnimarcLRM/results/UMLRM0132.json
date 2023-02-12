@@ -1,0 +1,110 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>01259cx  h2200349   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0132</marc:controlfield>\n    <marc:controlfield tag=\"005\">20221005140223.0</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20221005afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">ger</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">DE</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d2009</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"125\" ind1=\"0\" ind2=\"0\">\n      <marc:subfield code=\"a\">m</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">te</marc:subfield>\n      <marc:subfield code=\"b\">biogr</marc:subfield>\n      <marc:subfield code=\"2\">BnF-FonctTexMix</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">te</marc:subfield>\n      <marc:subfield code=\"b\">b</marc:subfield>\n      <marc:subfield code=\"2\">UM/B105pos12</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">i</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">b1</marc:subfield>\n      <marc:subfield code=\"b\">xb2e</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"c\">txt</marc:subfield>\n      <marc:subfield code=\"2\">rdacontent</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"c\">sti</marc:subfield>\n      <marc:subfield code=\"2\">rdacontent</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"147\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">a</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xa</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"241\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">16537622</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0000 6325 9782</marc:subfield>\n      <marc:subfield code=\"a\">Eickhoff, Stefan</marc:subfield>\n      <marc:subfield code=\"t\">Max Schreck : Gespenstertheater</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freger</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"333\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Public motiv&#233;</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"370\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Illustrations (60 pages environ)</marc:subfield>\n      <marc:subfield code=\"a\">Bibliographie (4 pages)</marc:subfield>\n      <marc:subfield code=\"a\">Index</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">16537622</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freger</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0000 6325 9782</marc:subfield>\n      <marc:subfield code=\"a\">Eickhoff</marc:subfield>\n      <marc:subfield code=\"b\">Stefan</marc:subfield>\n      <marc:subfield code=\"4\">070</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"600\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">15121209</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0000 6314 1223</marc:subfield>\n      <marc:subfield code=\"a\">Schreck</marc:subfield>\n      <marc:subfield code=\"b\">Max</marc:subfield>\n      <marc:subfield code=\"f\">1879-1936</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"608\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">11935764</marc:subfield>\n      <marc:subfield code=\"a\">Biographie</marc:subfield>\n      <marc:subfield code=\"2\">rameau-Genre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de copyright</marc:subfield>\n      <marc:subfield code=\"f\">#2009#####</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"676\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">791.430 28092</marc:subfield>\n      <marc:subfield code=\"v\">23</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"676\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">792.028092</marc:subfield>\n      <marc:subfield code=\"v\">23</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751045101</marc:subfield>\n      <marc:subfield code=\"c\">20221005</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Max Schreck : Gespenstertheater / Stefan Eickhoff. &#8211; M&#252;nchen : Belleville, cop. 2009. &#8211; [Texte not&#233; : sans m&#233;diation]. &#8211; ISBN 9783936298543</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0132",
+    "txt": "\n000    01259cx  h2200349   4500\n001    UMLRM0132\n005    20221005140223.0\n100    $a 20221005afrey50      ba0\n101 0  $a ger\n102    $a DE\n104    $a d2009\n125 00 $a m\n140    $a te $b biogr $2 BnF-FonctTexMix\n140    $a te $b b $2 UM/B105pos12\n145 0  $a i\n145 0  $a b1 $b xb2e\n145 0  $c txt $2 rdacontent\n145 0  $c sti $2 rdacontent\n147 0  $a a\n152    $a RDA-FR\n154    $a xa\n241  1 $3 16537622 $o ISNI 0000 0000 6325 9782 $a Eickhoff, Stefan $t Max Schreck : Gespenstertheater $7 ba0yba0y $8 freger\n333    $a Public motiv\u00e9\n370    $a Illustrations (60 pages environ) $a Bibliographie (4 pages) $a Index\n501  1 $3 16537622 $7 ba0yba0y $8 freger $o ISNI 0000 0000 6325 9782 $a Eickhoff $b Stefan $4 070\n600  1 $3 15121209 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 6314 1223 $a Schreck $b Max $f 1879-1936\n608    $3 11935764 $a Biographie $2 rameau-Genre\n640 0  $0 Date de copyright $f #2009#####\n676    $a 791.430 28092 $v 23\n676    $a 792.028092 $v 23\n801  0 $a FR $b FR-751045101 $c 20221005\n810    $a Max Schreck : Gespenstertheater / Stefan Eickhoff. \u2013 M\u00fcnchen : Belleville, cop. 2009. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 9783936298543",
+    "self_index": [
+        "",
+        "",
+        "",
+        "illustrations 60 pages environ $?bibliographie pages $?index",
+        "",
+        "",
+        "",
+        "",
+        "illustrations 60 pages environ $?bibliographie pages $?index",
+        ""
+    ],
+    "linked_entities_index": [
+        "max schreck gespenstertheater stefan eickhoff",
+        "munchen belleville copyright 2009",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "max schreck gespenstertheater stefan eickhoff",
+        "munchen belleville copyright 2009",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "eickhoff stefan max schreck gespenstertheater",
+        "",
+        "max schreck gespenstertheater stefan eickhoff munchen belleville cop 2009 texte note sans mediation isbn 9783936298543",
+        "",
+        "eickhoff stefan max schreck gespenstertheater",
+        "",
+        "max schreck gespenstertheater stefan eickhoff munchen belleville cop 2009 texte note sans mediation isbn 9783936298543"
+    ],
+    "resp_index": [
+        "eickhoff stefan",
+        "eickhoff stefan"
+    ],
+    "linked_resp_index": [],
+    "global_index": " max schreck gespenstertheater stefan eickhoff munchen belleville cop 2009 texte note sans mediation isbn 9783936298543 illustrations 60 pages environ $?bibliographie pages $?index eickhoff stefan munchen belleville copyright 2009 eickhoff stefan max schreck gespenstertheater max schreck gespenstertheater stefan eickhoff",
+    "type": "o",
+    "label": "Eickhoff, Stefan, Max Schreck : Gespenstertheater",
+    "splitted_label": "Eickhoff, Stefan,\nMax Schreck :\nGespenstertheater",
+    "stats_zones": {
+        "001": 1,
+        "005": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "125": 1,
+        "140": 2,
+        "145": 4,
+        "147": 1,
+        "152": 1,
+        "154": 1,
+        "241": 1,
+        "333": 1,
+        "370": 1,
+        "501": 1,
+        "600": 1,
+        "608": 1,
+        "640": 1,
+        "676": 2,
+        "801": 1,
+        "810": 1
+    },
+    "resp": {
+        "Eickhoff, Stefan": [
+            "Auteur"
+        ]
+    },
+    "respIds": [
+        "16537622"
+    ],
+    "toOeuvres": {},
+    "toExpressions": {
+        "UMLRM0133": "Eickhoff, Stefan, Max Schreck : Gespenstertheater, Allemand, Texte not\u00e9"
+    },
+    "toManifs": {
+        "UMLRM0134": "Max Schreck, Stefan Eickhoff, Belleville, Copyright 2009, 1 volume. (575 pages), couverture illustr\u00e9e"
+    },
+    "manifsYears": [
+        2009
+    ],
+    "toItems": {
+        "UMLRM1043": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1043"
+    },
+    "repr": "id : UMLRM0132\ntype initial : oe ; type : o\nlabel : Eickhoff, Stefan, Max Schreck : Gespenstertheater\n\nNotice : \n000    01259cx  h2200349   4500\n001    UMLRM0132\n005    20221005140223.0\n100    $a 20221005afrey50      ba0\n101 0  $a ger\n102    $a DE\n104    $a d2009\n125 00 $a m\n140    $a te $b biogr $2 BnF-FonctTexMix\n140    $a te $b b $2 UM/B105pos12\n145 0  $a i\n145 0  $a b1 $b xb2e\n145 0  $c txt $2 rdacontent\n145 0  $c sti $2 rdacontent\n147 0  $a a\n152    $a RDA-FR\n154    $a xa\n241  1 $3 16537622 $o ISNI 0000 0000 6325 9782 $a Eickhoff, Stefan $t Max Schreck : Gespenstertheater $7 ba0yba0y $8 freger\n333    $a Public motiv\u00e9\n370    $a Illustrations (60 pages environ) $a Bibliographie (4 pages) $a Index\n501  1 $3 16537622 $7 ba0yba0y $8 freger $o ISNI 0000 0000 6325 9782 $a Eickhoff $b Stefan $4 070\n600  1 $3 15121209 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 6314 1223 $a Schreck $b Max $f 1879-1936\n608    $3 11935764 $a Biographie $2 rameau-Genre\n640 0  $0 Date de copyright $f #2009#####\n676    $a 791.430 28092 $v 23\n676    $a 792.028092 $v 23\n801  0 $a FR $b FR-751045101 $c 20221005\n810    $a Max Schreck : Gespenstertheater / Stefan Eickhoff. \u2013 M\u00fcnchen : Belleville, cop. 2009. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 9783936298543 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a565c0>\nIndexation :  eickhoff stefan illustrations 60 pages environ $?bibliographie pages $?index",
+    "subjects": {},
+    "genreforme": {
+        "11935764": ""
+    },
+    "detailed": "Description : Illustrations (60 pages environ). Bibliographie (4 pages). Index\n\n\nDate de copyright : 2009",
+    "rebonds": "",
+    "exprResp": [],
+    "lang": [
+        "ger"
+    ],
+    "exprContentType": [
+        "Texte not\u00e9"
+    ]
+}

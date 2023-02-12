@@ -1,0 +1,69 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>01514nx  f2200349   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0180</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20221104afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">eng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">GB</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d1958     </marc:subfield>\n      <marc:subfield code=\"b\">d1974</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"125\" ind1=\"0\" ind2=\"0\">\n      <marc:subfield code=\"a\">m</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">ic</marc:subfield>\n      <marc:subfield code=\"b\">ffho</marc:subfield>\n      <marc:subfield code=\"2\">BnF-GenreFilm</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">ic</marc:subfield>\n      <marc:subfield code=\"b\">fffa</marc:subfield>\n      <marc:subfield code=\"2\">BnF-GenreFilm</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">b</marc:subfield>\n      <marc:subfield code=\"b\">xa2ae</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"147\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">g</marc:subfield>\n      <marc:subfield code=\"e\">c</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xa</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"231\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Dracula</marc:subfield>\n      <marc:subfield code=\"c\">film ; s&#233;rie</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"370\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">S&#233;rie de longs m&#233;trages fantastiques et d&#8217;horreur produits par la soci&#233;t&#233; Hammer entre 1958 et 1974</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"511\" ind1=\"0\" ind2=\"2\">\n      <marc:subfield code=\"3\">13167642</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 2191 3894</marc:subfield>\n      <marc:subfield code=\"a\">Hammer Film Productions&#8206;</marc:subfield>\n      <marc:subfield code=\"4\">630</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"531\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxe</marc:subfield>\n      <marc:subfield code=\"a\">Horror of Dracula</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"531\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxe</marc:subfield>\n      <marc:subfield code=\"a\">The brides of Dracula</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"531\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxe</marc:subfield>\n      <marc:subfield code=\"a\">Dracula, prince of darkness</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"531\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxe</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0105</marc:subfield>\n      <marc:subfield code=\"a\">Dracula has risen from the grave</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"531\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxe</marc:subfield>\n      <marc:subfield code=\"a\">Taste the blood of Dracula</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"531\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxe</marc:subfield>\n      <marc:subfield code=\"a\">Scars of Dracula</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"531\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxe</marc:subfield>\n      <marc:subfield code=\"a\">Dracula A.D. 1972</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"531\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxe</marc:subfield>\n      <marc:subfield code=\"a\">The satanic sites of Dracula</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"531\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxe</marc:subfield>\n      <marc:subfield code=\"a\">The legend of the 7 golden vampires</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"541\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"5\">xxl</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0004</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Stoker, Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751131015</marc:subfield>\n      <marc:subfield code=\"c\">20221104</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Wikip&#233;dia : https://fr.wikipedia.org/wiki/Dracula_(s%C3%A9rie_de_films) (2022-11-04)</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0180",
+    "txt": "\n000    01514nx  f2200349   4500\n001    UMLRM0180\n100    $a 20221104afrey50      ba0\n101 0  $a eng\n102    $a GB\n104    $a d1958      $b d1974\n125 00 $a m\n140    $a ic $b ffho $2 BnF-GenreFilm\n140    $a ic $b fffa $2 BnF-GenreFilm\n145 0  $a b $b xa2ae\n147 0  $a g $e c\n152    $a RDA-FR\n154    $a xa\n231    $a Dracula $c film ; s\u00e9rie $7 ba0yba0y $8 freeng\n370    $a S\u00e9rie de longs m\u00e9trages fantastiques et d\u2019horreur produits par la soci\u00e9t\u00e9 Hammer entre 1958 et 1974\n511 02 $3 13167642 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2191 3894 $a Hammer Film Productions\u200e $4 630\n531    $5 xxe $a Horror of Dracula $c film $7 ba0yba0y $8 freeng\n531    $5 xxe $a The brides of Dracula $c film $7 ba0yba0y $8 freeng\n531    $5 xxe $a Dracula, prince of darkness $c film $7 ba0yba0y $8 freeng\n531    $5 xxe $3 UMLRM0105 $a Dracula has risen from the grave $c film $7 ba0yba0y $8 freeng\n531    $5 xxe $a Taste the blood of Dracula $c film $7 ba0yba0y $8 freeng\n531    $5 xxe $a Scars of Dracula $c film $7 ba0yba0y $8 freeng\n531    $5 xxe $a Dracula A.D. 1972 $c film $7 ba0yba0y $8 freeng\n531    $5 xxe $a The satanic sites of Dracula $c film $7 ba0yba0y $8 freeng\n531    $5 xxe $a The legend of the 7 golden vampires $c film $7 ba0yba0y $8 freeng\n541  1 $5 xxl $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula\n801    $a FR $b FR-751131015 $c 20221104\n810    $a Wikip\u00e9dia : https://fr.wikipedia.org/wiki/Dracula_(s%C3%A9rie_de_films) (2022-11-04)",
+    "self_index": [
+        "",
+        "",
+        "dracula",
+        "serie de longs metrages fantastiques et d'horreur produits par la societe hammer entre 1958 et 1974",
+        "",
+        "",
+        "",
+        "dracula",
+        "serie de longs metrages fantastiques et d'horreur produits par la societe hammer entre 1958 et 1974",
+        ""
+    ],
+    "linked_entities_index": [],
+    "resp_index": [
+        "hammer film productions",
+        "hammer film productions"
+    ],
+    "linked_resp_index": [],
+    "global_index": " serie de longs metrages fantastiques et d'horreur produits par la societe hammer entre 1958 et 1974 hammer film productions dracula",
+    "type": "o",
+    "label": "Dracula, film ; s\u00e9rie",
+    "splitted_label": "Dracula, film ;\ns\u00e9rie",
+    "stats_zones": {
+        "001": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "125": 1,
+        "140": 2,
+        "145": 1,
+        "147": 1,
+        "152": 1,
+        "154": 1,
+        "231": 1,
+        "370": 1,
+        "511": 1,
+        "531": 9,
+        "541": 1,
+        "801": 1,
+        "810": 1
+    },
+    "resp": {
+        "Hammer Film Productions\u200e": [
+            "Producteur"
+        ]
+    },
+    "respIds": [
+        "13167642"
+    ],
+    "toOeuvres": {},
+    "toExpressions": {},
+    "toManifs": {},
+    "manifsYears": [],
+    "toItems": {},
+    "repr": "id : UMLRM0180\ntype initial : oe ; type : o\nlabel : Dracula, film ; s\u00e9rie\n\nNotice : \n000    01514nx  f2200349   4500\n001    UMLRM0180\n100    $a 20221104afrey50      ba0\n101 0  $a eng\n102    $a GB\n104    $a d1958      $b d1974\n125 00 $a m\n140    $a ic $b ffho $2 BnF-GenreFilm\n140    $a ic $b fffa $2 BnF-GenreFilm\n145 0  $a b $b xa2ae\n147 0  $a g $e c\n152    $a RDA-FR\n154    $a xa\n231    $a Dracula $c film ; s\u00e9rie $7 ba0yba0y $8 freeng\n370    $a S\u00e9rie de longs m\u00e9trages fantastiques et d\u2019horreur produits par la soci\u00e9t\u00e9 Hammer entre 1958 et 1974\n511 02 $3 13167642 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2191 3894 $a Hammer Film Productions\u200e $4 630\n531    $5 xxe $a Horror of Dracula $c film $7 ba0yba0y $8 freeng\n531    $5 xxe $a The brides of Dracula $c film $7 ba0yba0y $8 freeng\n531    $5 xxe $a Dracula, prince of darkness $c film $7 ba0yba0y $8 freeng\n531    $5 xxe $3 UMLRM0105 $a Dracula has risen from the grave $c film $7 ba0yba0y $8 freeng\n531    $5 xxe $a Taste the blood of Dracula $c film $7 ba0yba0y $8 freeng\n531    $5 xxe $a Scars of Dracula $c film $7 ba0yba0y $8 freeng\n531    $5 xxe $a Dracula A.D. 1972 $c film $7 ba0yba0y $8 freeng\n531    $5 xxe $a The satanic sites of Dracula $c film $7 ba0yba0y $8 freeng\n531    $5 xxe $a The legend of the 7 golden vampires $c film $7 ba0yba0y $8 freeng\n541  1 $5 xxl $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula\n801    $a FR $b FR-751131015 $c 20221104\n810    $a Wikip\u00e9dia : https://fr.wikipedia.org/wiki/Dracula_(s%C3%A9rie_de_films) (2022-11-04) \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a56ec0>\nIndexation :  serie de longs metrages fantastiques et d'horreur produits par la societe hammer entre 1958 et 1974 hammer film productions dracula",
+    "subjects": {},
+    "genreforme": {},
+    "detailed": "Description : S\u00e9rie de longs m\u00e9trages fantastiques et d\u2019horreur produits par la soci\u00e9t\u00e9 Hammer entre 1958 et 1974\n\n\n",
+    "rebonds": "<span class='rebond'><a href='full_results_.html'>Horror of Dracula film</a></span>\n<span class='rebond'><a href='full_results_.html'>The brides of Dracula film</a></span>\n<span class='rebond'><a href='full_results_.html'>Dracula, prince of darkness film</a></span>\n<span class='rebond'><a href='full_results_UMLRM0105.html'>Dracula has risen from the grave film</a></span>\n<span class='rebond'><a href='full_results_.html'>Taste the blood of Dracula film</a></span>\n<span class='rebond'><a href='full_results_.html'>Scars of Dracula film</a></span>\n<span class='rebond'><a href='full_results_.html'>Dracula A.D. 1972 film</a></span>\n<span class='rebond'><a href='full_results_.html'>The satanic sites of Dracula film</a></span>\n<span class='rebond'><a href='full_results_.html'>The legend of the 7 golden vampires film</a></span>\n<span class='rebond'><a href='full_results_UMLRM0004.html'>Stoker, Bram (1847-1912) Dracula</a></span>",
+    "exprResp": [],
+    "lang": [],
+    "exprContentType": []
+}

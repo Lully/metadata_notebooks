@@ -1,0 +1,91 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>00977nx  f2200205   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0192</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20221114afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">eng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">US</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d1938</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">h</marc:subfield>\n      <marc:subfield code=\"b\">xxxa</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">d</marc:subfield>\n      <marc:subfield code=\"b\">bxxa</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"147\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"g\">d</marc:subfield>\n      <marc:subfield code=\"h\">a</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xb</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"232\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">UMLRM0191</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Dracula</marc:subfield>\n      <marc:subfield code=\"c\">&#233;mission radiophonique</marc:subfield>\n      <marc:subfield code=\"d\">1938</marc:subfield>\n      <marc:subfield code=\"m\">Anglais</marc:subfield>\n      <marc:subfield code=\"n\">Parole &#233;nonc&#233;e. Musique ex&#233;cut&#233;e</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"a\">US</marc:subfield>\n      <marc:subfield code=\"e\">CBS radio</marc:subfield>\n      <marc:subfield code=\"f\">#19380711#</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751131015</marc:subfield>\n      <marc:subfield code=\"c\">20221114</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\"> Dracula : original radio adaptation as heard on the Mercury theatre on the air / starring Orson Welles ; based on the novel by Bram Stoker ; adapted for radio by Orson Welles and John Houseman ; performed by Orson Welles, Martin Gabel, George Coulouris... [et autres]. &#8211; Schiller park (Illinois) : Radio spirits, P 2001. &#8211; [Parole &#233;nonc&#233;e : audio]. &#8211; 7031 (Radio spirits)</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Wikip&#233;dia : https://en.wikipedia.org/wiki/Dracula_(radio_drama) (2022-11-14)</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0192",
+    "txt": "\n000    00977nx  f2200205   4500\n001    UMLRM0192\n100    $a 20221114afrey50      ba0\n101 0  $a eng\n102    $a US\n104    $a d1938\n145 0  $a h $b xxxa\n145 0  $a d $b bxxa\n147    $g d $h a\n152    $a RDA-FR\n154    $a xb\n232    $3 UMLRM0191 $7 ba0yba0y $8 freeng $a Dracula $c \u00e9mission radiophonique $d 1938 $m Anglais $n Parole \u00e9nonc\u00e9e. Musique ex\u00e9cut\u00e9e\n640 6  $a US $e CBS radio $f #19380711#\n801    $a FR $b FR-751131015 $c 20221114\n810    $a  Dracula : original radio adaptation as heard on the Mercury theatre on the air / starring Orson Welles ; based on the novel by Bram Stoker ; adapted for radio by Orson Welles and John Houseman ; performed by Orson Welles, Martin Gabel, George Coulouris... [et autres]. \u2013 Schiller park (Illinois) : Radio spirits, P 2001. \u2013 [Parole \u00e9nonc\u00e9e : audio]. \u2013 7031 (Radio spirits)\n810    $a Wikip\u00e9dia : https://en.wikipedia.org/wiki/Dracula_(radio_drama) (2022-11-14)",
+    "self_index": [
+        "dracula",
+        "",
+        "",
+        "dracula original radio adaptation as heard on the mercury theatre on the air starring orson welles based on the novel by bram stoker adapted for radio by orson welles and john houseman performed by orson welles martin gabel george coulouris et autres schiller park illinois radio spirits 2001 parole enoncee audio 7031 radio spirits $?wikipedia https en wikipedia org wiki dracula radio drama 2022 11 14",
+        "dracula",
+        "",
+        "",
+        "dracula original radio adaptation as heard on the mercury theatre on the air starring orson welles based on the novel by bram stoker adapted for radio by orson welles and john houseman performed by orson welles martin gabel george coulouris et autres schiller park illinois radio spirits 2001 parole enoncee audio 7031 radio spirits $?wikipedia https en wikipedia org wiki dracula radio drama 2022 11 14"
+    ],
+    "linked_entities_index": [
+        "dracula emission radiophonique 1938 anglais parole enoncee musique executee",
+        "dracula original radio adaptation as heard on the mercury theatre on the air starring orson welles based on the novel by bram stoker adapted for radio by orson welles and john houseman performed by orson welles martin gabel george coulouris et autres",
+        "schiller park illinois radio spirits 2001",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "dracula original radio adaptation as heard on the mercury theatre on the air starring orson welles based on the novel by bram stoker adapted for radio by orson welles and john houseman performed by orson welles martin gabel george coulouris et autres",
+        "schiller park illinois radio spirits 2001",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "dracula",
+        "adaptation la radio du roman de bram stoker par orson welles et john houseman telle que diffusee le lundi 11 juillet 1938 dans la serie radiophonique the mercury theatre on the air dont elle constitue le premier episode",
+        ""
+    ],
+    "resp_index": [],
+    "linked_resp_index": [
+        "houseman john",
+        "welles orson",
+        "coulouris george",
+        "gabel martin",
+        "herrmann bernard",
+        "columbia broadcasting system"
+    ],
+    "global_index": " houseman john coulouris george dracula original radio adaptation as heard on the mercury theatre on the air starring orson welles based on the novel by bram stoker adapted for radio by orson welles and john houseman performed by orson welles martin gabel george coulouris et autres schiller park illinois radio spirits 2001 parole enoncee audio 7031 radio spirits $?wikipedia https en wikipedia org wiki dracula radio drama 2022 11 14 schiller park illinois radio spirits 2001 adaptation la radio du roman de bram stoker par orson welles et john houseman telle que diffusee le lundi 11 juillet 1938 dans la serie radiophonique the mercury theatre on the air dont elle constitue le premier episode gabel martin dracula columbia broadcasting system herrmann bernard dracula emission radiophonique 1938 anglais parole enoncee musique executee welles orson dracula original radio adaptation as heard on the mercury theatre on the air starring orson welles based on the novel by bram stoker adapted for radio by orson welles and john houseman performed by orson welles martin gabel george coulouris et autres",
+    "type": "e",
+    "label": "Dracula, \u00e9mission radiophonique, 1938, Anglais, Parole \u00e9nonc\u00e9e. Musique ex\u00e9cut\u00e9e",
+    "splitted_label": "Dracula, \u00e9mission\nradiophonique, 1938,\nAnglais, Parole\n\u00e9nonc\u00e9e. Musique\nex\u00e9cut\u00e9e",
+    "stats_zones": {
+        "001": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "145": 2,
+        "147": 1,
+        "152": 1,
+        "154": 1,
+        "232": 1,
+        "640": 1,
+        "801": 1,
+        "810": 2
+    },
+    "resp": {},
+    "respIds": [],
+    "toOeuvres": {
+        "UMLRM0191": "Dracula, \u00e9mission radiophonique, 1938, Anglais, Parole \u00e9nonc\u00e9e. Musique ex\u00e9cut\u00e9e"
+    },
+    "toExpressions": {},
+    "toManifs": {
+        "UMLRM0193": "Dracula, starring Orson Welles, Radio spirits, P 2001, 1 CD audio"
+    },
+    "manifsYears": [
+        2001
+    ],
+    "toItems": {
+        "UMLRM1054": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1054"
+    },
+    "repr": "id : UMLRM0192\ntype initial : oe ; type : e\nlabel : Dracula, \u00e9mission radiophonique, 1938, Anglais, Parole \u00e9nonc\u00e9e. Musique ex\u00e9cut\u00e9e\n\nNotice : \n000    00977nx  f2200205   4500\n001    UMLRM0192\n100    $a 20221114afrey50      ba0\n101 0  $a eng\n102    $a US\n104    $a d1938\n145 0  $a h $b xxxa\n145 0  $a d $b bxxa\n147    $g d $h a\n152    $a RDA-FR\n154    $a xb\n232    $3 UMLRM0191 $7 ba0yba0y $8 freeng $a Dracula $c \u00e9mission radiophonique $d 1938 $m Anglais $n Parole \u00e9nonc\u00e9e. Musique ex\u00e9cut\u00e9e\n640 6  $a US $e CBS radio $f #19380711#\n801    $a FR $b FR-751131015 $c 20221114\n810    $a  Dracula : original radio adaptation as heard on the Mercury theatre on the air / starring Orson Welles ; based on the novel by Bram Stoker ; adapted for radio by Orson Welles and John Houseman ; performed by Orson Welles, Martin Gabel, George Coulouris... [et autres]. \u2013 Schiller park (Illinois) : Radio spirits, P 2001. \u2013 [Parole \u00e9nonc\u00e9e : audio]. \u2013 7031 (Radio spirits)\n810    $a Wikip\u00e9dia : https://en.wikipedia.org/wiki/Dracula_(radio_drama) (2022-11-14) \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a530c0>\nIndexation :  dracula original radio adaptation as heard on the mercury theatre on the air starring orson welles based on the novel by bram stoker adapted for radio by orson welles and john houseman performed by orson welles martin gabel george coulouris et autres schiller park illinois radio spirits 2001 parole enoncee audio 7031 radio spirits $?wikipedia https en wikipedia org wiki dracula radio drama 2022 11 14 dracula",
+    "lang": [
+        "eng"
+    ],
+    "expressionContentType": "\u00e9mission radiophonique",
+    "exprContentType": "\u00e9mission radiophonique",
+    "exprResp": [],
+    "detailed": "\n\n : 11/07/1938",
+    "rebonds": "",
+    "other_expressions": null
+}

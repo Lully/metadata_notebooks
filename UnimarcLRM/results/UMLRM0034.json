@@ -1,0 +1,144 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>02567nx  h2200373   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0034</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20221031afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">eng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">GB</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d1997</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"125\" ind1=\"0\" ind2=\"0\">\n      <marc:subfield code=\"a\">d</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">mi</marc:subfield>\n      <marc:subfield code=\"b\">rofan</marc:subfield>\n      <marc:subfield code=\"2\">BnF-GenreLitt</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">mi</marc:subfield>\n      <marc:subfield code=\"b\">livil</marc:subfield>\n      <marc:subfield code=\"2\">BnF-FormeOeuvreMixte</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">i</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">b</marc:subfield>\n      <marc:subfield code=\"b\">xb2e</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"147\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">h</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xa</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"241\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">12270442</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000000073618419</marc:subfield>\n      <marc:subfield code=\"a\">Humphries, Tudor (1953-&#8230;.)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"333\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">&#194;ge sugg&#233;r&#233; : \"D&#232;s 7 ans\"</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"370\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Version abr&#233;g&#233;e et illustr&#233;e &#224; destination de la jeunesse du roman de Bram Stoker.</marc:subfield>\n      <marc:subfield code=\"a\">Nombreuses illustrations (dessins, photographies) en noir et en couleur</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"378\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\"> Introduction au personnage du vampire &#224; travers le h&#233;ros du roman de Bram Stoker. L&#8217;album permet de d&#233;couvrir le chef-d'&#339;uvre dans une version abr&#233;g&#233;e, mais aussi de le comprendre et de le situer dans son contexte gr&#226;ce aux notes documentaires et aux tr&#232;s nombreuses illustrations qui accompagnent constamment le texte.</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">12270442</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000000073618419</marc:subfield>\n      <marc:subfield code=\"a\">Humphries</marc:subfield>\n      <marc:subfield code=\"b\">Tudor</marc:subfield>\n      <marc:subfield code=\"f\">1953-&#8230;.</marc:subfield>\n      <marc:subfield code=\"4\">440</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"541\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"5\">xxa</marc:subfield>\n      <marc:subfield code=\"p\">Est une adaptation pour la jeunesse dans le m&#234;me mode de cr&#233;ation de [&#339;uvre]</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0004</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Stoker, Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"600\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"3\">11962841</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"a\">Dracula</marc:subfield>\n      <marc:subfield code=\"c\">personnage fictif</marc:subfield>\n      <marc:subfield code=\"2\">rameau</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"606\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">11945972</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"a\">Vampires</marc:subfield>\n      <marc:subfield code=\"2\">rameau</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"608\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">17863011</marc:subfield>\n      <marc:subfield code=\"a\">Roman fantastique</marc:subfield>\n      <marc:subfield code=\"2\">rameauGenre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"608\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">11938887</marc:subfield>\n      <marc:subfield code=\"a\">Livres illustr&#233;s pour enfants</marc:subfield>\n      <marc:subfield code=\"2\">rameauForme</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de premi&#232;re publication</marc:subfield>\n      <marc:subfield code=\"f\">#1997#####</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751052119</marc:subfield>\n      <marc:subfield code=\"c\">20221031</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\"> Dracula : [version abr&#233;g&#233;e] / d'apr&#232;s Bram Stoker ; illustr&#233; par Tudor Humphries ; [traduit par Mich&#232;le Jouve]. &#8211; Paris ; Bruxelles ; Montr&#233;al [etc.] : S&#233;lection du \"Reader's digest\",1998. &#8211; [Texte not&#233;. Image fixe : sans m&#233;diation]. &#8211; ISBN 2-7098-0973-7</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Dracula / Bram Stoker ; illustrated by Tudor Humphries. &#8211; Abridged edition for young readers. &#8211; London : Dorling Kindersley, 1997. &#8211; [Texte not&#233;. Image fixe : sans m&#233;diation]. &#8211; ISBN 0751370703</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">British Library Main Catalog : Explore the British Library Search - Dracula / Bram Stoker ; illustrated by Tudor Humphries (bl.uk) (2022-10-31). System number: 010729537. BNB GB9809359</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Deakin university. Library Catalog : Dracula / Bram Stoker ; illustrated by Tudor Humphries (deakin.edu.au) (2022-10-31)</marc:subfield>\n      <marc:subfield code=\"b\">Nature du contenu</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0034",
+    "txt": "\n000    02567nx  h2200373   4500\n001    UMLRM0034\n100    $a 20221031afrey50      ba0\n101 0  $a eng\n102    $a GB\n104    $a d1997\n125 00 $a d\n140    $a mi $b rofan $2 BnF-GenreLitt\n140    $a mi $b livil $2 BnF-FormeOeuvreMixte\n145 0  $a i\n145 0  $a b $b xb2e\n147 0  $a h\n152    $a RDA-FR\n154    $a xa\n241  1 $3 12270442 $o ISNI 0000000073618419 $a Humphries, Tudor (1953-\u2026.) $t Dracula $7 ba0yba0y $8 freeng\n333    $a \u00c2ge sugg\u00e9r\u00e9 : \"D\u00e8s 7 ans\"\n370    $a Version abr\u00e9g\u00e9e et illustr\u00e9e \u00e0 destination de la jeunesse du roman de Bram Stoker. $a Nombreuses illustrations (dessins, photographies) en noir et en couleur\n378    $a  Introduction au personnage du vampire \u00e0 travers le h\u00e9ros du roman de Bram Stoker. L\u2019album permet de d\u00e9couvrir le chef-d'\u0153uvre dans une version abr\u00e9g\u00e9e, mais aussi de le comprendre et de le situer dans son contexte gr\u00e2ce aux notes documentaires et aux tr\u00e8s nombreuses illustrations qui accompagnent constamment le texte.\n501  1 $3 12270442 $7 ba0yba0y $8 freeng $o ISNI 0000000073618419 $a Humphries $b Tudor $f 1953-\u2026. $4 440\n541  1 $5 xxa $p Est une adaptation pour la jeunesse dans le m\u00eame mode de cr\u00e9ation de [\u0153uvre] $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula\n600  0 $3 11962841 $7 ba0yba0y $8 frefre $a Dracula $c personnage fictif $2 rameau\n606    $3 11945972 $7 ba0yba0y $8 frefre $a Vampires $2 rameau\n608    $3 17863011 $a Roman fantastique $2 rameauGenre\n608    $3 11938887 $a Livres illustr\u00e9s pour enfants $2 rameauForme\n640 6  $0 Date de premi\u00e8re publication $f #1997#####\n801  0 $a FR $b FR-751052119 $c 20221031\n810    $a  Dracula : [version abr\u00e9g\u00e9e] / d'apr\u00e8s Bram Stoker ; illustr\u00e9 par Tudor Humphries ; [traduit par Mich\u00e8le Jouve]. \u2013 Paris ; Bruxelles ; Montr\u00e9al [etc.] : S\u00e9lection du \"Reader's digest\",1998. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation]. \u2013 ISBN 2-7098-0973-7\n810    $a Dracula / Bram Stoker ; illustrated by Tudor Humphries. \u2013 Abridged edition for young readers. \u2013 London : Dorling Kindersley, 1997. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation]. \u2013 ISBN 0751370703\n810    $a British Library Main Catalog : Explore the British Library Search - Dracula / Bram Stoker ; illustrated by Tudor Humphries (bl.uk) (2022-10-31). System number: 010729537. BNB GB9809359\n810    $a Deakin university. Library Catalog : Dracula / Bram Stoker ; illustrated by Tudor Humphries (deakin.edu.au) (2022-10-31) $b Nature du contenu",
+    "self_index": [
+        "",
+        "",
+        "",
+        "version abregee et illustree destination de la jeunesse du roman de bram stoker $?nombreuses illustrations dessins photographies en noir et en couleur",
+        "introduction au personnage du vampire travers le heros du roman de bram stoker l'album permet de decouvrir le chef oeuvre dans une version abregee mais aussi de le comprendre et de le situer dans son contexte grace aux notes documentaires et aux tres nombreuses illustrations qui accompagnent constamment le texte",
+        "",
+        "",
+        "",
+        "version abregee et illustree destination de la jeunesse du roman de bram stoker $?nombreuses illustrations dessins photographies en noir et en couleur",
+        "introduction au personnage du vampire travers le heros du roman de bram stoker l'album permet de decouvrir le chef oeuvre dans une version abregee mais aussi de le comprendre et de le situer dans son contexte grace aux notes documentaires et aux tres nombreuses illustrations qui accompagnent constamment le texte"
+    ],
+    "linked_entities_index": [
+        "dracula version abregee apres bram stoker illustre par tudor humphries traduit par michele jouve",
+        "paris$?bruxelles$?montreal etc selection du reader digest 1998$? chine",
+        "la bibliotheque des classiques",
+        "",
+        "",
+        "",
+        "",
+        "dracula version abregee apres bram stoker illustre par tudor humphries traduit par michele jouve",
+        "paris$?bruxelles$?montreal etc selection du reader digest 1998$? chine",
+        "la bibliotheque des classiques",
+        "",
+        "",
+        "",
+        "",
+        "dracula bram stoker illustrated by tudor humphries",
+        "london dorling kindersley 1997",
+        "eyewitness classics",
+        "",
+        "",
+        "",
+        "",
+        "dracula bram stoker illustrated by tudor humphries",
+        "london dorling kindersley 1997",
+        "eyewitness classics",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "humphries tudor 1953 dracula",
+        "",
+        "dracula version abregee apres bram stoker illustre par tudor humphries traduit par michele jouve paris bruxelles montreal etc selection du reader digest 1998 texte note image fixe sans mediation isbn 7098 0973",
+        "",
+        "humphries tudor 1953 dracula",
+        "",
+        "dracula version abregee apres bram stoker illustre par tudor humphries traduit par michele jouve paris bruxelles montreal etc selection du reader digest 1998 texte note image fixe sans mediation isbn 7098 0973",
+        "",
+        "humphries tudor 1953 dracula",
+        "",
+        "dracula bram stoker illustrated by tudor humphries abridged edition for young readers london dorling kindersley 1997 texte note image fixe sans mediation isbn 0751370703$?british library main catalog explore the british library search dracula bram stoker illustrated by tudor humphries bl uk 2022 10 31 system number 010729537 bnb gb9809359$?deakin university library catalog dracula bram stoker illustrated by tudor humphries deakin edu au 2022 10 31",
+        "",
+        "humphries tudor 1953 dracula",
+        "",
+        "dracula bram stoker illustrated by tudor humphries abridged edition for young readers london dorling kindersley 1997 texte note image fixe sans mediation isbn 0751370703$?british library main catalog explore the british library search dracula bram stoker illustrated by tudor humphries bl uk 2022 10 31 system number 010729537 bnb gb9809359$?deakin university library catalog dracula bram stoker illustrated by tudor humphries deakin edu au 2022 10 31"
+    ],
+    "resp_index": [
+        "humphries tudor",
+        "humphries tudor"
+    ],
+    "linked_resp_index": [
+        "jouve michele angliciste"
+    ],
+    "global_index": " introduction au personnage du vampire travers le heros du roman de bram stoker l'album permet de decouvrir le chef oeuvre dans une version abregee mais aussi de le comprendre et de le situer dans son contexte grace aux notes documentaires et aux tres nombreuses illustrations qui accompagnent constamment le texte eyewitness classics la bibliotheque des classiques humphries tudor 1953 dracula dracula version abregee apres bram stoker illustre par tudor humphries traduit par michele jouve paris bruxelles montreal etc selection du reader digest 1998 texte note image fixe sans mediation isbn 7098 0973 dracula bram stoker illustrated by tudor humphries abridged edition for young readers london dorling kindersley 1997 texte note image fixe sans mediation isbn 0751370703$?british library main catalog explore the british library search dracula bram stoker illustrated by tudor humphries bl uk 2022 10 31 system number 010729537 bnb gb9809359$?deakin university library catalog dracula bram stoker illustrated by tudor humphries deakin edu au 2022 10 31 humphries tudor version abregee et illustree destination de la jeunesse du roman de bram stoker $?nombreuses illustrations dessins photographies en noir et en couleur london dorling kindersley 1997 dracula version abregee apres bram stoker illustre par tudor humphries traduit par michele jouve jouve michele angliciste dracula bram stoker illustrated by tudor humphries paris$?bruxelles$?montreal etc selection du reader digest 1998$? chine",
+    "type": "o",
+    "label": "Humphries, Tudor (1953-\u2026.), Dracula",
+    "splitted_label": "Humphries, Tudor\n(1953-\u2026.), Dracula",
+    "stats_zones": {
+        "001": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "125": 1,
+        "140": 2,
+        "145": 2,
+        "147": 1,
+        "152": 1,
+        "154": 1,
+        "241": 1,
+        "333": 1,
+        "370": 1,
+        "378": 1,
+        "501": 1,
+        "541": 1,
+        "600": 1,
+        "606": 1,
+        "608": 2,
+        "640": 1,
+        "801": 1,
+        "810": 4
+    },
+    "resp": {
+        "Humphries, Tudor": [
+            "Illustrateur"
+        ]
+    },
+    "respIds": [
+        "12270442"
+    ],
+    "toOeuvres": {},
+    "toExpressions": {
+        "UMLRM0035": "Humphries, Tudor (1953-\u2026.), Dracula, Fran\u00e7ais, Texte not\u00e9. Image fixe",
+        "UMLRM0161": "Humphries, Tudor (1953-\u2026.), Dracula, Anglais, Texte not\u00e9. Image fixe"
+    },
+    "toManifs": {
+        "UMLRM0036": "Dracula, d'apr\u00e8s Bram Stoker, S\u00e9lection du \"Reader's digest\", 1998, 1 volume (64 pages), couverture illustr\u00e9e en couleur",
+        "UMLRM0177": "Dracula, Bram Stoker, Dorling Kindersley, 1997, 1 volume (64 pages), couverture illustr\u00e9e en couleur"
+    },
+    "manifsYears": [
+        1997,
+        1998
+    ],
+    "toItems": {
+        "UMLRM1011": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1011"
+    },
+    "repr": "id : UMLRM0034\ntype initial : oe ; type : o\nlabel : Humphries, Tudor (1953-\u2026.), Dracula\n\nNotice : \n000    02567nx  h2200373   4500\n001    UMLRM0034\n100    $a 20221031afrey50      ba0\n101 0  $a eng\n102    $a GB\n104    $a d1997\n125 00 $a d\n140    $a mi $b rofan $2 BnF-GenreLitt\n140    $a mi $b livil $2 BnF-FormeOeuvreMixte\n145 0  $a i\n145 0  $a b $b xb2e\n147 0  $a h\n152    $a RDA-FR\n154    $a xa\n241  1 $3 12270442 $o ISNI 0000000073618419 $a Humphries, Tudor (1953-\u2026.) $t Dracula $7 ba0yba0y $8 freeng\n333    $a \u00c2ge sugg\u00e9r\u00e9 : \"D\u00e8s 7 ans\"\n370    $a Version abr\u00e9g\u00e9e et illustr\u00e9e \u00e0 destination de la jeunesse du roman de Bram Stoker. $a Nombreuses illustrations (dessins, photographies) en noir et en couleur\n378    $a  Introduction au personnage du vampire \u00e0 travers le h\u00e9ros du roman de Bram Stoker. L\u2019album permet de d\u00e9couvrir le chef-d'\u0153uvre dans une version abr\u00e9g\u00e9e, mais aussi de le comprendre et de le situer dans son contexte gr\u00e2ce aux notes documentaires et aux tr\u00e8s nombreuses illustrations qui accompagnent constamment le texte.\n501  1 $3 12270442 $7 ba0yba0y $8 freeng $o ISNI 0000000073618419 $a Humphries $b Tudor $f 1953-\u2026. $4 440\n541  1 $5 xxa $p Est une adaptation pour la jeunesse dans le m\u00eame mode de cr\u00e9ation de [\u0153uvre] $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula\n600  0 $3 11962841 $7 ba0yba0y $8 frefre $a Dracula $c personnage fictif $2 rameau\n606    $3 11945972 $7 ba0yba0y $8 frefre $a Vampires $2 rameau\n608    $3 17863011 $a Roman fantastique $2 rameauGenre\n608    $3 11938887 $a Livres illustr\u00e9s pour enfants $2 rameauForme\n640 6  $0 Date de premi\u00e8re publication $f #1997#####\n801  0 $a FR $b FR-751052119 $c 20221031\n810    $a  Dracula : [version abr\u00e9g\u00e9e] / d'apr\u00e8s Bram Stoker ; illustr\u00e9 par Tudor Humphries ; [traduit par Mich\u00e8le Jouve]. \u2013 Paris ; Bruxelles ; Montr\u00e9al [etc.] : S\u00e9lection du \"Reader's digest\",1998. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation]. \u2013 ISBN 2-7098-0973-7\n810    $a Dracula / Bram Stoker ; illustrated by Tudor Humphries. \u2013 Abridged edition for young readers. \u2013 London : Dorling Kindersley, 1997. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation]. \u2013 ISBN 0751370703\n810    $a British Library Main Catalog : Explore the British Library Search - Dracula / Bram Stoker ; illustrated by Tudor Humphries (bl.uk) (2022-10-31). System number: 010729537. BNB GB9809359\n810    $a Deakin university. Library Catalog : Dracula / Bram Stoker ; illustrated by Tudor Humphries (deakin.edu.au) (2022-10-31) $b Nature du contenu \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a54b00>\nIndexation :  version abregee et illustree destination de la jeunesse du roman de bram stoker $?nombreuses illustrations dessins photographies en noir et en couleur introduction au personnage du vampire travers le heros du roman de bram stoker l'album permet de decouvrir le chef oeuvre dans une version abregee mais aussi de le comprendre et de le situer dans son contexte grace aux notes documentaires et aux tres nombreuses illustrations qui accompagnent constamment le texte humphries tudor",
+    "subjects": {
+        "11945972": ""
+    },
+    "genreforme": {
+        "17863011": "",
+        "11938887": ""
+    },
+    "detailed": "Description : Version abr\u00e9g\u00e9e et illustr\u00e9e \u00e0 destination de la jeunesse du roman de Bram Stoker.. Nombreuses illustrations (dessins, photographies) en noir et en couleur.\n Introduction au personnage du vampire \u00e0 travers le h\u00e9ros du roman de Bram Stoker. L\u2019album permet de d\u00e9couvrir le chef-d'\u0153uvre dans une version abr\u00e9g\u00e9e, mais aussi de le comprendre et de le situer dans son contexte gr\u00e2ce aux notes documentaires et aux tr\u00e8s nombreuses illustrations qui accompagnent constamment le texte.\n\n\nDate de premi\u00e8re publication : 1997",
+    "rebonds": "<span class='rebond'><a href='full_results_UMLRM0004.html'>Est une adaptation pour la jeunesse dans le m\u00eame mode de cr\u00e9ation de [\u0153uvre] Stoker, Bram (1847-1912) Dracula</a></span>",
+    "exprResp": [
+        "Jouve, Mich\u00e8le, angliciste (Traducteur)"
+    ],
+    "lang": [
+        "eng",
+        "fre"
+    ],
+    "exprContentType": [
+        "Texte not\u00e9. Image fixe"
+    ]
+}

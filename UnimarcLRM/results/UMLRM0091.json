@@ -1,0 +1,106 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>01369nx  f2200265   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0091</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">202211043afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">fre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d2003</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"105\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">ba</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">f</marc:subfield>\n      <marc:subfield code=\"b\">xxxae</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"c\">cop</marc:subfield>\n      <marc:subfield code=\"2\">rdacontent</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"147\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">g</marc:subfield>\n      <marc:subfield code=\"e\">b</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\"> RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xb</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"232\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">UMLRM0090</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Nosferatu, the wrath of Malachi</marc:subfield>\n      <marc:subfield code=\"c\">jeu vid&#233;o</marc:subfield>\n      <marc:subfield code=\"w\">PC</marc:subfield>\n      <marc:subfield code=\"m\">Fran&#231;ais</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"371\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"f\">Plateforme : PC</marc:subfield>\n      <marc:subfield code=\"f\">Version fran&#231;aise</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de premi&#232;re mise &#224; disposition</marc:subfield>\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"f\">#20030830#</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751131015</marc:subfield>\n      <marc:subfield code=\"c\">20221104</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\"> jeuxvideos.com : https://www.jeuxvideo.com/jeux/pc/00011666-nosferatu-the-wrath-of-malachi.htm (2022-11-04)</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Nosferatu : the wrath of Malachi / Idol FX AB, Pan vision. &#8211; Version fran&#231;aise. &#8211; Courbevoie : Neo publishing, [2003]. &#8211; [Multim&#233;dia : &#233;lectronique]</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Wikipedia - https://fr.wikipedia.org/wiki/Nosferatu:_The_Wrath_of_Malachi (2022-09-23)</marc:subfield>\n      <marc:subfield code=\"b\">Date et genre pr&#233;cis de l&#8217;&#339;uvre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Giant Bomb : Video game reviews, videos, forums and wiki : Nosferatu: The Wrath of Malachi (Game) - Giant Bomb (2022-11-04)</marc:subfield>\n      <marc:subfield code=\"b\">Date et source d&#8217;inspiration de l&#8217;&#339;uvre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Nosferatu : the wrath of Malachi / Idol FX AB, Pan vision. &#8211; [Clichy] : Eidos ; Boulogne-Billancourt : Mindscape, cop. 2005. &#8211; [Multim&#233;dia : &#233;lectronique]</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0091",
+    "txt": "\n000    01369nx  f2200265   4500\n001    UMLRM0091\n100    $a 202211043afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2003\n105    $a ba\n145    $a f $b xxxae\n145    $c cop $2 rdacontent\n147    $a g $e b\n152    $a  RDA-FR\n154    $a xb\n232    $3 UMLRM0090 $7 ba0yba0y $8 freeng $a Nosferatu, the wrath of Malachi $c jeu vid\u00e9o $w PC $m Fran\u00e7ais\n371    $f Plateforme : PC $f Version fran\u00e7aise\n640 6  $0 Date de premi\u00e8re mise \u00e0 disposition $a FR $f #20030830#\n801  0 $a FR $b FR-751131015 $c 20221104\n810    $a  jeuxvideos.com : https://www.jeuxvideo.com/jeux/pc/00011666-nosferatu-the-wrath-of-malachi.htm (2022-11-04)\n810    $a Nosferatu : the wrath of Malachi / Idol FX AB, Pan vision. \u2013 Version fran\u00e7aise. \u2013 Courbevoie : Neo publishing, [2003]. \u2013 [Multim\u00e9dia : \u00e9lectronique]\n810    $a Wikipedia - https://fr.wikipedia.org/wiki/Nosferatu:_The_Wrath_of_Malachi (2022-09-23) $b Date et genre pr\u00e9cis de l\u2019\u0153uvre\n810    $a Giant Bomb : Video game reviews, videos, forums and wiki : Nosferatu: The Wrath of Malachi (Game) - Giant Bomb (2022-11-04) $b Date et source d\u2019inspiration de l\u2019\u0153uvre\n810    $a Nosferatu : the wrath of Malachi / Idol FX AB, Pan vision. \u2013 [Clichy] : Eidos ; Boulogne-Billancourt : Mindscape, cop. 2005. \u2013 [Multim\u00e9dia : \u00e9lectronique]",
+    "self_index": [
+        "nosferatu the wrath of malachi",
+        "",
+        "",
+        "jeuxvideos com https www jeuxvideo com jeux pc 00011666 nosferatu the wrath of malachi htm 2022 11 04 $?nosferatu the wrath of malachi idol fx ab pan vision version francaise courbevoie neo publishing 2003 multimedia electronique $?wikipedia https fr wikipedia org wiki nosferatu the wrath of malachi 2022 09 23 $?giant bomb video game reviews videos forums and wiki nosferatu the wrath of malachi game giant bomb 2022 11 04 $?nosferatu the wrath of malachi idol fx ab pan vision clichy eidos boulogne billancourt mindscape cop 2005 multimedia electronique",
+        "nosferatu the wrath of malachi",
+        "",
+        "",
+        "jeuxvideos com https www jeuxvideo com jeux pc 00011666 nosferatu the wrath of malachi htm 2022 11 04 $?nosferatu the wrath of malachi idol fx ab pan vision version francaise courbevoie neo publishing 2003 multimedia electronique $?wikipedia https fr wikipedia org wiki nosferatu the wrath of malachi 2022 09 23 $?giant bomb video game reviews videos forums and wiki nosferatu the wrath of malachi game giant bomb 2022 11 04 $?nosferatu the wrath of malachi idol fx ab pan vision clichy eidos boulogne billancourt mindscape cop 2005 multimedia electronique"
+    ],
+    "linked_entities_index": [
+        "nosferatu the wrath of malachi jeu video pc francais",
+        "nosferatu the wrath of malachi idol fx ab pan vision",
+        "clichy $?boulogne billancourt eidos$?mindscape 2005 2005",
+        "hits collection",
+        "",
+        "",
+        "",
+        "",
+        "nosferatu the wrath of malachi idol fx ab pan vision",
+        "clichy $?boulogne billancourt eidos$?mindscape 2005 2005",
+        "hits collection",
+        "",
+        "",
+        "",
+        "",
+        "nosferatu the wrath of malachi idol fx ab pan vision",
+        "courbevoie neo publishing 2003 2003",
+        "neo games",
+        "",
+        "",
+        "",
+        "",
+        "nosferatu the wrath of malachi idol fx ab pan vision",
+        "courbevoie neo publishing 2003 2003",
+        "neo games",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "nosferatu the wrath of malachi",
+        "jeu de tir a la premiere personne sorti sur pc mode de jeu solo$?genre survival horror inspire du roman dracula de bram stoker et du film de murnau nosferatu $?edite par igames publishing etats unis et par mindscape grande bretagne",
+        "delivrez votre famille kidnappee par dracula qui veut la sacrifier au cours un rituel demoniaque en utilisant des armes traditionnelles explorez le chateau du vampire chateau dont agencement des pieces change constamment"
+    ],
+    "resp_index": [],
+    "linked_resp_index": [
+        "idol fx ab",
+        "pan vision corporate games"
+    ],
+    "global_index": " jeu de tir a la premiere personne sorti sur pc mode de jeu solo$?genre survival horror inspire du roman dracula de bram stoker et du film de murnau nosferatu $?edite par igames publishing etats unis et par mindscape grande bretagne delivrez votre famille kidnappee par dracula qui veut la sacrifier au cours un rituel demoniaque en utilisant des armes traditionnelles explorez le chateau du vampire chateau dont agencement des pieces change constamment pan vision corporate games nosferatu the wrath of malachi jeu video pc francais jeuxvideos com https www jeuxvideo com jeux pc 00011666 nosferatu the wrath of malachi htm 2022 11 04 $?nosferatu the wrath of malachi idol fx ab pan vision version francaise courbevoie neo publishing 2003 multimedia electronique $?wikipedia https fr wikipedia org wiki nosferatu the wrath of malachi 2022 09 23 $?giant bomb video game reviews videos forums and wiki nosferatu the wrath of malachi game giant bomb 2022 11 04 $?nosferatu the wrath of malachi idol fx ab pan vision clichy eidos boulogne billancourt mindscape cop 2005 multimedia electronique nosferatu the wrath of malachi idol fx ab pan vision clichy $?boulogne billancourt eidos$?mindscape 2005 2005 neo games hits collection idol fx ab nosferatu the wrath of malachi courbevoie neo publishing 2003 2003",
+    "type": "e",
+    "label": "Nosferatu, the wrath of Malachi, jeu vid\u00e9o, Fran\u00e7ais, PC",
+    "splitted_label": "Nosferatu, the wrath\nof Malachi, jeu\nvid\u00e9o, Fran\u00e7ais, PC",
+    "stats_zones": {
+        "001": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "105": 1,
+        "145": 2,
+        "147": 1,
+        "152": 1,
+        "154": 1,
+        "232": 1,
+        "371": 1,
+        "640": 1,
+        "801": 1,
+        "810": 5
+    },
+    "resp": {},
+    "respIds": [],
+    "toOeuvres": {
+        "UMLRM0090": "Nosferatu, the wrath of Malachi, jeu vid\u00e9o, PC, Fran\u00e7ais"
+    },
+    "toExpressions": {},
+    "toManifs": {
+        "UMLRM0092": "Nosferatu, Idol FX AB, Pan vision, Eidos - Mindscape, [2005] - 2005, 1 disque optique num\u00e9rique (CD-ROM)",
+        "UMLRM0095": "Nosferatu, Idol FX AB, Pan vision, Neo publishing, [2003] - 2003, 1 disque optique num\u00e9rique (CD-ROM)"
+    },
+    "manifsYears": [
+        2003,
+        2005
+    ],
+    "toItems": {
+        "UMLRM1029": "BM_CELESTEVILLE >  MEZZANINE > COTE_UMLRM1029",
+        "UMLRM1030": "BM_CELESTEVILLE > MEZZANINE > COTE_UMLRM1030"
+    },
+    "repr": "id : UMLRM0091\ntype initial : oe ; type : e\nlabel : Nosferatu, the wrath of Malachi, jeu vid\u00e9o, Fran\u00e7ais, PC\n\nNotice : \n000    01369nx  f2200265   4500\n001    UMLRM0091\n100    $a 202211043afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2003\n105    $a ba\n145    $a f $b xxxae\n145    $c cop $2 rdacontent\n147    $a g $e b\n152    $a  RDA-FR\n154    $a xb\n232    $3 UMLRM0090 $7 ba0yba0y $8 freeng $a Nosferatu, the wrath of Malachi $c jeu vid\u00e9o $w PC $m Fran\u00e7ais\n371    $f Plateforme : PC $f Version fran\u00e7aise\n640 6  $0 Date de premi\u00e8re mise \u00e0 disposition $a FR $f #20030830#\n801  0 $a FR $b FR-751131015 $c 20221104\n810    $a  jeuxvideos.com : https://www.jeuxvideo.com/jeux/pc/00011666-nosferatu-the-wrath-of-malachi.htm (2022-11-04)\n810    $a Nosferatu : the wrath of Malachi / Idol FX AB, Pan vision. \u2013 Version fran\u00e7aise. \u2013 Courbevoie : Neo publishing, [2003]. \u2013 [Multim\u00e9dia : \u00e9lectronique]\n810    $a Wikipedia - https://fr.wikipedia.org/wiki/Nosferatu:_The_Wrath_of_Malachi (2022-09-23) $b Date et genre pr\u00e9cis de l\u2019\u0153uvre\n810    $a Giant Bomb : Video game reviews, videos, forums and wiki : Nosferatu: The Wrath of Malachi (Game) - Giant Bomb (2022-11-04) $b Date et source d\u2019inspiration de l\u2019\u0153uvre\n810    $a Nosferatu : the wrath of Malachi / Idol FX AB, Pan vision. \u2013 [Clichy] : Eidos ; Boulogne-Billancourt : Mindscape, cop. 2005. \u2013 [Multim\u00e9dia : \u00e9lectronique] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a56180>\nIndexation :  jeuxvideos com https www jeuxvideo com jeux pc 00011666 nosferatu the wrath of malachi htm 2022 11 04 $?nosferatu the wrath of malachi idol fx ab pan vision version francaise courbevoie neo publishing 2003 multimedia electronique $?wikipedia https fr wikipedia org wiki nosferatu the wrath of malachi 2022 09 23 $?giant bomb video game reviews videos forums and wiki nosferatu the wrath of malachi game giant bomb 2022 11 04 $?nosferatu the wrath of malachi idol fx ab pan vision clichy eidos boulogne billancourt mindscape cop 2005 multimedia electronique nosferatu the wrath of malachi",
+    "lang": [
+        "fre"
+    ],
+    "expressionContentType": "jeu vid\u00e9o",
+    "exprContentType": "jeu vid\u00e9o",
+    "exprResp": [],
+    "detailed": "Description : Plateforme : PC. Version fran\u00e7aise\n\n\nDate de premi\u00e8re mise \u00e0 disposition : 30/08/2003",
+    "rebonds": "",
+    "other_expressions": null
+}

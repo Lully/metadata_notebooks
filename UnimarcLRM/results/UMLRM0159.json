@@ -1,0 +1,98 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>01637nx  f2200241   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0159</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20221013afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"2\" ind2=\" \">\n      <marc:subfield code=\"a\">eng</marc:subfield>\n      <marc:subfield code=\"a\">fre</marc:subfield>\n      <marc:subfield code=\"a\">ita</marc:subfield>\n      <marc:subfield code=\"a\">spa</marc:subfield>\n      <marc:subfield code=\"a\">ger</marc:subfield>\n      <marc:subfield code=\"c\">eng</marc:subfield>\n      <marc:subfield code=\"j\">fre</marc:subfield>\n      <marc:subfield code=\"j\">eng</marc:subfield>\n      <marc:subfield code=\"j\">ita</marc:subfield>\n      <marc:subfield code=\"j\">spa</marc:subfield>\n      <marc:subfield code=\"j\">ger</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">US</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d2013</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"127\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">011500</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">b</marc:subfield>\n      <marc:subfield code=\"b\">xa2ae</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"147\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">a</marc:subfield>\n      <marc:subfield code=\"e\">b</marc:subfield>\n      <marc:subfield code=\"h\">c</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xb</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"232\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">UMLRM0154</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">fre###</marc:subfield>\n      <marc:subfield code=\"a\">Dracula</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"d\">1931</marc:subfield>\n      <marc:subfield code=\"l\">Version restaur&#233;e</marc:subfield>\n      <marc:subfield code=\"m\">Versions multiples (5 langues ; sous-titrage en 5 langues)</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"300\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Film en version originale anglaise et en versions fran&#231;aise, italienne, allemande, espagnole, avec sous-titrage optionnel en fran&#231;ais, anglais, allemand, italien et espagnol</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"371\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Surround (Dolby Digital 2.0)</marc:subfield>\n      <marc:subfield code=\"f\">Version restaur&#233;e</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de premi&#232;re publication</marc:subfield>\n      <marc:subfield code=\"f\">#20130917#</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751131015</marc:subfield>\n      <marc:subfield code=\"c\">202014#####</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Dracula / Tod Browning, [r&#233;alisateur] ; sc&#233;nario de Garrett Fort ; d&#8217;apr&#232;s le roman de Bram Stoker et la pi&#232;ce de Hamilton Deane et John L. Balderston ; Bela Lugosi, David Manners, Helen Chandler... [et autres], [acteurs]. &#8211; [Paris] : Universal StudioCanal vid&#233;o [&#233;diteur, distributeur], 2014 ; - [Images anim&#233;es : vid&#233;o]. - 830 098-5 (EDV 764)</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">IMDB (Internet movie database) : https://www.imdb.com/title/tt0021814 (2022-10-18))</marc:subfield>\n      <marc:subfield code=\"b\">Date de publication de la version Blu-ray : September 17, 2013</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Servin, Javier. A Tale of Two Draculas: the history, preservation, restoration and legacy of Universal Studios&#8217; English and Spanish language &#8220;Dracula&#8221; : https://jservin85.wordpress.com/preservation-and-restoration/restoration-of-dracula/ (2022-11-13)</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0159",
+    "txt": "\n000    01637nx  f2200241   4500\n001    UMLRM0159\n100    $a 20221013afrey50      ba0\n101 2  $a eng $a fre $a ita $a spa $a ger $c eng $j fre $j eng $j ita $j spa $j ger\n102    $a US\n104    $a d2013\n127    $a 011500\n145    $a b $b xa2ae\n147    $a a $e b $h c\n152    $a RDA-FR\n154    $a xb\n232    $3 UMLRM0154 $7 ba0yba0y $8 fre### $a Dracula $c film $d 1931 $l Version restaur\u00e9e $m Versions multiples (5 langues ; sous-titrage en 5 langues)\n300    $a Film en version originale anglaise et en versions fran\u00e7aise, italienne, allemande, espagnole, avec sous-titrage optionnel en fran\u00e7ais, anglais, allemand, italien et espagnol\n371    $a Surround (Dolby Digital 2.0) $f Version restaur\u00e9e\n640 6  $0 Date de premi\u00e8re publication $f #20130917#\n801    $a FR $b FR-751131015 $c 202014#####\n810    $a Dracula / Tod Browning, [r\u00e9alisateur] ; sc\u00e9nario de Garrett Fort ; d\u2019apr\u00e8s le roman de Bram Stoker et la pi\u00e8ce de Hamilton Deane et John L. Balderston ; Bela Lugosi, David Manners, Helen Chandler... [et autres], [acteurs]. \u2013 [Paris] : Universal StudioCanal vid\u00e9o [\u00e9diteur, distributeur], 2014 ; - [Images anim\u00e9es : vid\u00e9o]. - 830 098-5 (EDV 764)\n810    $a IMDB (Internet movie database) : https://www.imdb.com/title/tt0021814 (2022-10-18)) $b Date de publication de la version Blu-ray : September 17, 2013\n810    $a Servin, Javier. A Tale of Two Draculas: the history, preservation, restoration and legacy of Universal Studios\u2019 English and Spanish language \u201cDracula\u201d : https://jservin85.wordpress.com/preservation-and-restoration/restoration-of-dracula/ (2022-11-13)",
+    "self_index": [
+        "dracula",
+        "",
+        "surround dolby digital",
+        "dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs paris universal studiocanal video editeur distributeur 2014 images animees video 830 098 edv 764 $?imdb internet movie database https www imdb com title tt0021814 2022 10 18 $?servin javier tale of two draculas the history preservation restoration and legacy of universal studios' english and spanish language \"dracula\" https jservin85 wordpress com preservation and restoration restoration of dracula 2022 11 13",
+        "dracula",
+        "",
+        "surround dolby digital",
+        "dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs paris universal studiocanal video editeur distributeur 2014 images animees video 830 098 edv 764 $?imdb internet movie database https www imdb com title tt0021814 2022 10 18 $?servin javier tale of two draculas the history preservation restoration and legacy of universal studios' english and spanish language \"dracula\" https jservin85 wordpress com preservation and restoration restoration of dracula 2022 11 13"
+    ],
+    "linked_entities_index": [
+        "dracula film 1931 version restauree versions multiples langues sous titrage en langues",
+        "dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs",
+        "paris universal studiocanal video 2014$? paris universal studiocanal video 2014",
+        "",
+        "",
+        "",
+        "contient aussi dracula version espagnole introduction la version espagnole par lupita tovar kohner dracula la genese lugosi le prince des tenebres dracula nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet sur les traces des monstres anecdotes interactives archives dracula dracula la restauration",
+        "",
+        "dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs",
+        "paris universal studiocanal video 2014$? paris universal studiocanal video 2014",
+        "",
+        "",
+        "",
+        "contient aussi dracula version espagnole introduction la version espagnole par lupita tovar kohner dracula la genese lugosi le prince des tenebres dracula nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet sur les traces des monstres anecdotes interactives archives dracula dracula la restauration",
+        "",
+        "http catalogue bnf fr ark 12148 cb164600587$?https www wikidata org wiki q279378",
+        "0000 0000 edb1 0000 0000 0000",
+        "dracula",
+        "adapte de la piece de theatre de hamilton deane et john balderston dracula $?en 1999 creation d'une nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet",
+        ""
+    ],
+    "resp_index": [],
+    "linked_resp_index": [
+        "browning tod",
+        "deane hamilton",
+        "fort garrett",
+        "lugosi bela",
+        "manners david",
+        "chandler helen"
+    ],
+    "global_index": " http catalogue bnf fr ark 12148 cb164600587$?https www wikidata org wiki q279378 contient aussi dracula version espagnole introduction la version espagnole par lupita tovar kohner dracula la genese lugosi le prince des tenebres dracula nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet sur les traces des monstres anecdotes interactives archives dracula dracula la restauration deane hamilton adapte de la piece de theatre de hamilton deane et john balderston dracula $?en 1999 creation d'une nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet lugosi bela chandler helen fort garrett dracula film 1931 version restauree versions multiples langues sous titrage en langues dracula 0000 0000 edb1 0000 0000 0000 browning tod manners david dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs paris universal studiocanal video editeur distributeur 2014 images animees video 830 098 edv 764 $?imdb internet movie database https www imdb com title tt0021814 2022 10 18 $?servin javier tale of two draculas the history preservation restoration and legacy of universal studios' english and spanish language \"dracula\" https jservin85 wordpress com preservation and restoration restoration of dracula 2022 11 13 surround dolby digital paris universal studiocanal video 2014$? paris universal studiocanal video 2014 dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs",
+    "type": "e",
+    "label": "Dracula, film, 1931, Versions multiples (5 langues ; sous-titrage en 5 langues)",
+    "splitted_label": "Dracula, film, 1931,\nVersions multiples\n(5 langues ; sous-\ntitrage en 5\nlangues)",
+    "stats_zones": {
+        "001": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "127": 1,
+        "145": 1,
+        "147": 1,
+        "152": 1,
+        "154": 1,
+        "232": 1,
+        "300": 1,
+        "371": 1,
+        "640": 1,
+        "801": 1,
+        "810": 3
+    },
+    "resp": {},
+    "respIds": [],
+    "toOeuvres": {
+        "UMLRM0154": "Dracula, film, 1931, Version restaur\u00e9e, Versions multiples (5 langues ; sous-titrage en 5 langues)"
+    },
+    "toExpressions": {},
+    "toManifs": {
+        "UMLRM0160": "Dracula, Tod Browning, [r\u00e9alisateur], Universal StudioCanal vid\u00e9o - Universal StudioCanal vid\u00e9o, 2014 - 2014, 1 BD vid\u00e9o"
+    },
+    "manifsYears": [
+        2014
+    ],
+    "toItems": {
+        "UMLRM1047": "BM_CELESTEVILLE > MEZZANINE > COTE_UMLRM1047"
+    },
+    "repr": "id : UMLRM0159\ntype initial : oe ; type : e\nlabel : Dracula, film, 1931, Versions multiples (5 langues ; sous-titrage en 5 langues)\n\nNotice : \n000    01637nx  f2200241   4500\n001    UMLRM0159\n100    $a 20221013afrey50      ba0\n101 2  $a eng $a fre $a ita $a spa $a ger $c eng $j fre $j eng $j ita $j spa $j ger\n102    $a US\n104    $a d2013\n127    $a 011500\n145    $a b $b xa2ae\n147    $a a $e b $h c\n152    $a RDA-FR\n154    $a xb\n232    $3 UMLRM0154 $7 ba0yba0y $8 fre### $a Dracula $c film $d 1931 $l Version restaur\u00e9e $m Versions multiples (5 langues ; sous-titrage en 5 langues)\n300    $a Film en version originale anglaise et en versions fran\u00e7aise, italienne, allemande, espagnole, avec sous-titrage optionnel en fran\u00e7ais, anglais, allemand, italien et espagnol\n371    $a Surround (Dolby Digital 2.0) $f Version restaur\u00e9e\n640 6  $0 Date de premi\u00e8re publication $f #20130917#\n801    $a FR $b FR-751131015 $c 202014#####\n810    $a Dracula / Tod Browning, [r\u00e9alisateur] ; sc\u00e9nario de Garrett Fort ; d\u2019apr\u00e8s le roman de Bram Stoker et la pi\u00e8ce de Hamilton Deane et John L. Balderston ; Bela Lugosi, David Manners, Helen Chandler... [et autres], [acteurs]. \u2013 [Paris] : Universal StudioCanal vid\u00e9o [\u00e9diteur, distributeur], 2014 ; - [Images anim\u00e9es : vid\u00e9o]. - 830 098-5 (EDV 764)\n810    $a IMDB (Internet movie database) : https://www.imdb.com/title/tt0021814 (2022-10-18)) $b Date de publication de la version Blu-ray : September 17, 2013\n810    $a Servin, Javier. A Tale of Two Draculas: the history, preservation, restoration and legacy of Universal Studios\u2019 English and Spanish language \u201cDracula\u201d : https://jservin85.wordpress.com/preservation-and-restoration/restoration-of-dracula/ (2022-11-13) \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a56b80>\nIndexation :  surround dolby digital dracula dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs paris universal studiocanal video editeur distributeur 2014 images animees video 830 098 edv 764 $?imdb internet movie database https www imdb com title tt0021814 2022 10 18 $?servin javier tale of two draculas the history preservation restoration and legacy of universal studios' english and spanish language \"dracula\" https jservin85 wordpress com preservation and restoration restoration of dracula 2022 11 13",
+    "lang": [
+        "ger",
+        "spa",
+        "fre",
+        "eng",
+        "ita"
+    ],
+    "expressionContentType": "film",
+    "exprContentType": "film",
+    "exprResp": [],
+    "detailed": "Description : Surround (Dolby Digital 2.0), Version restaur\u00e9e\n\n\nDate de premi\u00e8re publication : 17/09/2013",
+    "rebonds": "",
+    "other_expressions": null
+}

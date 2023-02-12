@@ -1,0 +1,112 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>01205cx  h2200301   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0084</marc:controlfield>\n    <marc:controlfield tag=\"005\">20220908</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20220908afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">fre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d2011</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"125\" ind1=\"0\" ind2=\"0\">\n      <marc:subfield code=\"a\">m</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">te</marc:subfield>\n      <marc:subfield code=\"b\">biogr</marc:subfield>\n      <marc:subfield code=\"2\">BnF-FonctTexMix</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">te</marc:subfield>\n      <marc:subfield code=\"b\">b</marc:subfield>\n      <marc:subfield code=\"2\">UM/B105pos12</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">i</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xa</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"241\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">12086193</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 0883 2117</marc:subfield>\n      <marc:subfield code=\"a\">Cazacu, Matei (1946-....)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"370\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Carte</marc:subfield>\n      <marc:subfield code=\"a\">Bibliographie (4 pages)</marc:subfield>\n      <marc:subfield code=\"a\">Index</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">12086193</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">fre###</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 08832 117</marc:subfield>\n      <marc:subfield code=\"a\">Cazacu</marc:subfield>\n      <marc:subfield code=\"b\">Matei</marc:subfield>\n      <marc:subfield code=\"f\">1946-&#8230;.</marc:subfield>\n      <marc:subfield code=\"4\">070</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"600\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"3\">11948734</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">fre###</marc:subfield>\n      <marc:subfield code=\"a\">Vlad</marc:subfield>\n      <marc:subfield code=\"d\">III</marc:subfield>\n      <marc:subfield code=\"f\">1430?-1476?</marc:subfield>\n      <marc:subfield code=\"c\">prince de Valachie</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"606\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"3\">11962841</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">fre###</marc:subfield>\n      <marc:subfield code=\"a\">Dracula</marc:subfield>\n      <marc:subfield code=\"c\">personnage fictif</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"607\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">11949103</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"a\">Valachie (Roumanie)</marc:subfield>\n      <marc:subfield code=\"3\">11976234</marc:subfield>\n      <marc:subfield code=\"z\">15e si&#232;cle</marc:subfield>\n      <marc:subfield code=\"2\">rameau</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"608\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">11935764</marc:subfield>\n      <marc:subfield code=\"a\">Biographie</marc:subfield>\n      <marc:subfield code=\"2\">rameau-Genre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de premi&#232;re publication</marc:subfield>\n      <marc:subfield code=\"f\">#2011#####</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"676\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">949.801 4092</marc:subfield>\n      <marc:subfield code=\"v\">23</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751045101</marc:subfield>\n      <marc:subfield code=\"c\">20220908</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Dracula  / Matei Cazacu. &#8211; Paris : Tallandier, 2011. &#8211; [Texte not&#233; : sans m&#233;diation]. &#8211; ISBN 978-2-84734-801-9</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0084",
+    "txt": "\n000    01205cx  h2200301   4500\n001    UMLRM0084\n005    20220908\n100    $a 20220908afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2011\n125 00 $a m\n140    $a te $b biogr $2 BnF-FonctTexMix\n140    $a te $b b $2 UM/B105pos12\n145 0  $a i\n152    $a RDA-FR\n154    $a xa\n241  1 $3 12086193 $o ISNI 0000 0001 0883 2117 $a Cazacu, Matei (1946-....) $t Dracula $7 ba0yba0y $8 frefre\n370    $a Carte $a Bibliographie (4 pages) $a Index\n501  1 $3 12086193 $7 ba0yba0y $8 fre### $o ISNI 0000 0001 08832 117 $a Cazacu $b Matei $f 1946-\u2026. $4 070\n600  0 $3 11948734 $7 ba0yba0y $8 fre### $a Vlad $d III $f 1430?-1476? $c prince de Valachie\n606  0 $3 11962841 $7 ba0yba0y $8 fre### $a Dracula $c personnage fictif\n607    $3 11949103 $7 ba0yba0y $8 frefre $a Valachie (Roumanie) $3 11976234 $z 15e si\u00e8cle $2 rameau\n608    $3 11935764 $a Biographie $2 rameau-Genre\n640 6  $0 Date de premi\u00e8re publication $f #2011#####\n676    $a 949.801 4092 $v 23\n801  0 $a FR $b FR-751045101 $c 20220908\n810    $a Dracula  / Matei Cazacu. \u2013 Paris : Tallandier, 2011. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 978-2-84734-801-9",
+    "self_index": [
+        "",
+        "",
+        "",
+        "carte$?bibliographie pages $?index",
+        "",
+        "",
+        "",
+        "",
+        "carte$?bibliographie pages $?index",
+        ""
+    ],
+    "linked_entities_index": [
+        "dracula matei cazacu",
+        "paris tallandier$? 61 lonrai normandie roto impression 2011",
+        "texto",
+        "",
+        "",
+        "",
+        "",
+        "dracula matei cazacu",
+        "paris tallandier$? 61 lonrai normandie roto impression 2011",
+        "texto",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "cazacu matei 1946 dracula",
+        "",
+        "dracula matei cazacu paris tallandier 2011 texte note sans mediation isbn 978 84734 801",
+        "",
+        "cazacu matei 1946 dracula",
+        "",
+        "dracula matei cazacu paris tallandier 2011 texte note sans mediation isbn 978 84734 801"
+    ],
+    "resp_index": [
+        "cazacu matei",
+        "cazacu matei"
+    ],
+    "linked_resp_index": [],
+    "global_index": " cazacu matei dracula matei cazacu carte$?bibliographie pages $?index texto paris tallandier$? 61 lonrai normandie roto impression 2011 dracula matei cazacu paris tallandier 2011 texte note sans mediation isbn 978 84734 801 cazacu matei 1946 dracula",
+    "type": "o",
+    "label": "Cazacu, Matei (1946-....), Dracula",
+    "splitted_label": "Cazacu, Matei\n(1946-....), Dracula",
+    "stats_zones": {
+        "001": 1,
+        "005": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "125": 1,
+        "140": 2,
+        "145": 1,
+        "152": 1,
+        "154": 1,
+        "241": 1,
+        "370": 1,
+        "501": 1,
+        "600": 1,
+        "606": 1,
+        "607": 1,
+        "608": 1,
+        "640": 1,
+        "676": 1,
+        "801": 1,
+        "810": 1
+    },
+    "resp": {
+        "Cazacu, Matei": [
+            "Auteur"
+        ]
+    },
+    "respIds": [
+        "12086193"
+    ],
+    "toOeuvres": {},
+    "toExpressions": {
+        "UMLRM0085": "Cazacu, Matei (1946-....), Dracula, Fran\u00e7ais, Texte not\u00e9"
+    },
+    "toManifs": {
+        "UMLRM0086": "Dracula, Matei Cazacu, Tallandier - Normandie roto impression, 2011, 1 volume (497 pages), couverture illustr\u00e9e en couleur"
+    },
+    "manifsYears": [
+        2011
+    ],
+    "toItems": {
+        "UMLRM1027": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1027"
+    },
+    "repr": "id : UMLRM0084\ntype initial : oe ; type : o\nlabel : Cazacu, Matei (1946-....), Dracula\n\nNotice : \n000    01205cx  h2200301   4500\n001    UMLRM0084\n005    20220908\n100    $a 20220908afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2011\n125 00 $a m\n140    $a te $b biogr $2 BnF-FonctTexMix\n140    $a te $b b $2 UM/B105pos12\n145 0  $a i\n152    $a RDA-FR\n154    $a xa\n241  1 $3 12086193 $o ISNI 0000 0001 0883 2117 $a Cazacu, Matei (1946-....) $t Dracula $7 ba0yba0y $8 frefre\n370    $a Carte $a Bibliographie (4 pages) $a Index\n501  1 $3 12086193 $7 ba0yba0y $8 fre### $o ISNI 0000 0001 08832 117 $a Cazacu $b Matei $f 1946-\u2026. $4 070\n600  0 $3 11948734 $7 ba0yba0y $8 fre### $a Vlad $d III $f 1430?-1476? $c prince de Valachie\n606  0 $3 11962841 $7 ba0yba0y $8 fre### $a Dracula $c personnage fictif\n607    $3 11949103 $7 ba0yba0y $8 frefre $a Valachie (Roumanie) $3 11976234 $z 15e si\u00e8cle $2 rameau\n608    $3 11935764 $a Biographie $2 rameau-Genre\n640 6  $0 Date de premi\u00e8re publication $f #2011#####\n676    $a 949.801 4092 $v 23\n801  0 $a FR $b FR-751045101 $c 20220908\n810    $a Dracula  / Matei Cazacu. \u2013 Paris : Tallandier, 2011. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 978-2-84734-801-9 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a56040>\nIndexation :  carte$?bibliographie pages $?index cazacu matei",
+    "subjects": {
+        "11962841": ""
+    },
+    "genreforme": {
+        "11935764": ""
+    },
+    "detailed": "Description : Carte. Bibliographie (4 pages). Index\n\n\nDate de premi\u00e8re publication : 2011",
+    "rebonds": "",
+    "exprResp": [],
+    "lang": [
+        "fre"
+    ],
+    "exprContentType": [
+        "Texte not\u00e9"
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>02256cx  h2200373   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0075</marc:controlfield>\n    <marc:controlfield tag=\"005\">20221004######.D</marc:controlfield>\n    <marc:datafield tag=\"035\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Q20726020</marc:subfield>\n      <marc:subfield code=\"2\">WIKIDATA</marc:subfield>\n      <marc:subfield code=\"d\">20221005</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"035\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">http://viaf.org/viaf/309274502</marc:subfield>\n      <marc:subfield code=\"2\">VIAF</marc:subfield>\n      <marc:subfield code=\"d\">20221005</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20220905afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">eng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">GB</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d1914</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"125\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">m</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">te</marc:subfield>\n      <marc:subfield code=\"b\">noufa</marc:subfield>\n      <marc:subfield code=\"2\">BnF-GenreLitt</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">i</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xa</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"241\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">11925586</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 2122 2356</marc:subfield>\n      <marc:subfield code=\"a\">Stoker, Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula's guest</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"370\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"c\">&#338;uvre publi&#233;e &#224; titre posthume</marc:subfield>\n      <marc:subfield code=\"c\"> Initialement, premier chapitre du roman Dracula &#233;crit en 1897, il a &#233;t&#233; omis du livre publi&#233; pour des raisons de longueur et publi&#233; pour la premi&#232;re fois en 1914</marc:subfield>\n      <marc:subfield code=\"c\">Adapt&#233; pour le film \"La fille de Dracula\"</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"378\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Premi&#232;re rencontre de Jonathan Harker avec le surnaturel, peu avant de se rendre au ch&#226;teau du comte Dracula.</marc:subfield>\n      <marc:subfield code=\"b\">Wikipedia (2022-10-04)</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"441\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">11925586</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 2122 2356</marc:subfield>\n      <marc:subfield code=\"a\">Stoker, Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">L&#8217;invit&#233; de Dracula</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"441\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">11925586</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 2122 2356</marc:subfield>\n      <marc:subfield code=\"a\">Stoker, Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">Draculas Gast</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freger</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">11925586</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 2122 2356</marc:subfield>\n      <marc:subfield code=\"a\">Stoker</marc:subfield>\n      <marc:subfield code=\"b\">Bram</marc:subfield>\n      <marc:subfield code=\"f\">1847-1912</marc:subfield>\n      <marc:subfield code=\"4\">070</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"541\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"5\">xxh</marc:subfield>\n      <marc:subfield code=\"p\">Ant&#233;pisode de</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0004</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Stoker, Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"608\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">11931787</marc:subfield>\n      <marc:subfield code=\"a\">Nouvelle fantastique</marc:subfield>\n      <marc:subfield code=\"2\">rameauGenre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de premi&#232;re publication</marc:subfield>\n      <marc:subfield code=\"f\">#1914#####</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"5\" ind2=\" \">\n      <marc:subfield code=\"0\">Date d&#8217;&#233;criture</marc:subfield>\n      <marc:subfield code=\"f\">#18900308#</marc:subfield>\n      <marc:subfield code=\"i\">#18970526#</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"676\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">823</marc:subfield>\n      <marc:subfield code=\"v\">23</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751052119</marc:subfield>\n      <marc:subfield code=\"c\">20221004</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Wikidata : https://www.wikidata.org/wiki/Q20726020</marc:subfield>\n      <marc:subfield code=\"b\">Date de premi&#232;re publication et date privil&#233;gi&#233;e : 1914 ; variantes de point d'acc&#232;s</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Dracula [Texte imprim&#233;] ; suivi de L'invit&#233; de Dracula / Bram Stoker ; traduction de Jacques Finn&#233; ; pr&#233;sentation et commentaires de Claude Aziza. &#8211; Paris : Pocket, impr. 2011. &#8211; [Texte not&#233; : sans m&#233;diation]. &#8211; ISBN =978-2-266-21954-9</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Wikipedia : https://en.wikipedia.org/wiki/Dracula%27s_Guest</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">LC Name Authority File (LCNAF) : https://lccn.loc.gov/no2017152183 (2022-10-04)</marc:subfield>\n      <marc:subfield code=\"b\">Historique de l&#8217;&#339;uvre</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0075",
+    "txt": "\n000    02256cx  h2200373   4500\n001    UMLRM0075\n005    20221004######.D\n035    $a Q20726020 $2 WIKIDATA $d 20221005\n035    $a http://viaf.org/viaf/309274502 $2 VIAF $d 20221005\n100    $a 20220905afrey50      ba0\n101 0  $a eng\n102    $a GB\n104    $a d1914\n125 0  $a m\n140    $a te $b noufa $2 BnF-GenreLitt\n145 0  $a i\n152    $a RDA-FR\n154    $a xa\n241  1 $3 11925586 $o ISNI 0000 0001 2122 2356 $a Stoker, Bram (1847-1912) $t Dracula's guest $7 ba0yba0y $8 freeng\n370    $c \u0152uvre publi\u00e9e \u00e0 titre posthume $c  Initialement, premier chapitre du roman Dracula \u00e9crit en 1897, il a \u00e9t\u00e9 omis du livre publi\u00e9 pour des raisons de longueur et publi\u00e9 pour la premi\u00e8re fois en 1914 $c Adapt\u00e9 pour le film \"La fille de Dracula\"\n378    $a Premi\u00e8re rencontre de Jonathan Harker avec le surnaturel, peu avant de se rendre au ch\u00e2teau du comte Dracula. $b Wikipedia (2022-10-04)\n441  1 $3 11925586 $o ISNI 0000 0001 2122 2356 $a Stoker, Bram (1847-1912) $t L\u2019invit\u00e9 de Dracula $7 ba0yba0y $8 frefre\n441  1 $3 11925586 $o ISNI 0000 0001 2122 2356 $a Stoker, Bram (1847-1912) $t Draculas Gast $7 ba0yba0y $8 freger\n501  1 $3 11925586 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2122 2356 $a Stoker $b Bram $f 1847-1912 $4 070\n541  1 $5 xxh $p Ant\u00e9pisode de $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula\n608    $3 11931787 $a Nouvelle fantastique $2 rameauGenre\n640 6  $0 Date de premi\u00e8re publication $f #1914#####\n640 5  $0 Date d\u2019\u00e9criture $f #18900308# $i #18970526#\n676    $a 823 $v 23\n801  0 $a FR $b FR-751052119 $c 20221004\n810    $a Wikidata : https://www.wikidata.org/wiki/Q20726020 $b Date de premi\u00e8re publication et date privil\u00e9gi\u00e9e : 1914 ; variantes de point d'acc\u00e8s\n810    $a Dracula [Texte imprim\u00e9] ; suivi de L'invit\u00e9 de Dracula / Bram Stoker ; traduction de Jacques Finn\u00e9 ; pr\u00e9sentation et commentaires de Claude Aziza. \u2013 Paris : Pocket, impr. 2011. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN =978-2-266-21954-9\n810    $a Wikipedia : https://en.wikipedia.org/wiki/Dracula%27s_Guest\n810    $a LC Name Authority File (LCNAF) : https://lccn.loc.gov/no2017152183 (2022-10-04) $b Historique de l\u2019\u0153uvre",
+    "self_index": [
+        "",
+        "",
+        "",
+        "oeuvre publiee titre posthume$? initialement premier chapitre du roman dracula ecrit en 1897 il ete omis du livre publie pour des raisons de longueur et publie pour la premiere fois en 1914$?adapte pour le film la fille de dracula",
+        "premiere rencontre de jonathan harker avec le surnaturel peu avant de se rendre au chateau du comte dracula",
+        "",
+        "",
+        "",
+        "oeuvre publiee titre posthume$? initialement premier chapitre du roman dracula ecrit en 1897 il ete omis du livre publie pour des raisons de longueur et publie pour la premiere fois en 1914$?adapte pour le film la fille de dracula",
+        "premiere rencontre de jonathan harker avec le surnaturel peu avant de se rendre au chateau du comte dracula"
+    ],
+    "linked_entities_index": [
+        "dracula suivi de invite de dracula bram stoker traduction de jacques finne presentation et commentaires de claude aziza",
+        "paris pocket$? 72 la fleche 2011",
+        "pocket",
+        "",
+        "bibliographie pages 567 569$?filmographie pages 571 573",
+        "",
+        "",
+        "dracula suivi de invite de dracula bram stoker traduction de jacques finne presentation et commentaires de claude aziza",
+        "paris pocket$? 72 la fleche 2011",
+        "pocket",
+        "",
+        "bibliographie pages 567 569$?filmographie pages 571 573",
+        "",
+        "",
+        "",
+        "stoker bram 1847 1912 dracula's guest",
+        "",
+        "bnf catalogue general http ark bnf fr ark 12148 cb35544517t 2022 10 30 $?dracula texte imprime suivi de invite de dracula bram stoker traduction de jacques finne presentation et commentaires de claude aziza paris pocket impr 2011 texte note sans mediation isbn 978 266 21954",
+        "",
+        "stoker bram 1847 1912 dracula's guest",
+        "",
+        "bnf catalogue general http ark bnf fr ark 12148 cb35544517t 2022 10 30 $?dracula texte imprime suivi de invite de dracula bram stoker traduction de jacques finne presentation et commentaires de claude aziza paris pocket impr 2011 texte note sans mediation isbn 978 266 21954"
+    ],
+    "resp_index": [
+        "stoker bram",
+        "stoker bram"
+    ],
+    "linked_resp_index": [
+        "aziza claude",
+        "finne jacques"
+    ],
+    "global_index": " oeuvre publiee titre posthume$? initialement premier chapitre du roman dracula ecrit en 1897 il ete omis du livre publie pour des raisons de longueur et publie pour la premiere fois en 1914$?adapte pour le film la fille de dracula bibliographie pages 567 569$?filmographie pages 571 573 stoker bram 1847 1912 dracula's guest dracula suivi de invite de dracula bram stoker traduction de jacques finne presentation et commentaires de claude aziza aziza claude paris pocket$? 72 la fleche 2011 pocket premiere rencontre de jonathan harker avec le surnaturel peu avant de se rendre au chateau du comte dracula bnf catalogue general http ark bnf fr ark 12148 cb35544517t 2022 10 30 $?dracula texte imprime suivi de invite de dracula bram stoker traduction de jacques finne presentation et commentaires de claude aziza paris pocket impr 2011 texte note sans mediation isbn 978 266 21954 finne jacques stoker bram",
+    "type": "o",
+    "label": "Stoker, Bram (1847-1912), Dracula's guest",
+    "splitted_label": "Stoker, Bram\n(1847-1912),\nDracula's guest",
+    "stats_zones": {
+        "001": 1,
+        "005": 1,
+        "035": 2,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "125": 1,
+        "140": 1,
+        "145": 1,
+        "152": 1,
+        "154": 1,
+        "241": 1,
+        "370": 1,
+        "378": 1,
+        "441": 2,
+        "501": 1,
+        "541": 1,
+        "608": 1,
+        "640": 2,
+        "676": 1,
+        "801": 1,
+        "810": 4
+    },
+    "resp": {
+        "Stoker, Bram": [
+            "Auteur"
+        ]
+    },
+    "respIds": [
+        "11925586"
+    ],
+    "toOeuvres": {},
+    "toExpressions": {
+        "UMLRM0076": "Stoker, Bram (1847-1912), Dracula\u2019s guest, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9"
+    },
+    "toManifs": {
+        "UMLRM0077": "Dracula - suivi de L'invit\u00e9 de Dracula, Bram Stoker, Pocket, 2011, 1 volume (575 pages), couverture illustr\u00e9e"
+    },
+    "manifsYears": [
+        2011
+    ],
+    "toItems": {
+        "UMLRM1024": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1024"
+    },
+    "repr": "id : UMLRM0075\ntype initial : oe ; type : o\nlabel : Stoker, Bram (1847-1912), Dracula's guest\n\nNotice : \n000    02256cx  h2200373   4500\n001    UMLRM0075\n005    20221004######.D\n035    $a Q20726020 $2 WIKIDATA $d 20221005\n035    $a http://viaf.org/viaf/309274502 $2 VIAF $d 20221005\n100    $a 20220905afrey50      ba0\n101 0  $a eng\n102    $a GB\n104    $a d1914\n125 0  $a m\n140    $a te $b noufa $2 BnF-GenreLitt\n145 0  $a i\n152    $a RDA-FR\n154    $a xa\n241  1 $3 11925586 $o ISNI 0000 0001 2122 2356 $a Stoker, Bram (1847-1912) $t Dracula's guest $7 ba0yba0y $8 freeng\n370    $c \u0152uvre publi\u00e9e \u00e0 titre posthume $c  Initialement, premier chapitre du roman Dracula \u00e9crit en 1897, il a \u00e9t\u00e9 omis du livre publi\u00e9 pour des raisons de longueur et publi\u00e9 pour la premi\u00e8re fois en 1914 $c Adapt\u00e9 pour le film \"La fille de Dracula\"\n378    $a Premi\u00e8re rencontre de Jonathan Harker avec le surnaturel, peu avant de se rendre au ch\u00e2teau du comte Dracula. $b Wikipedia (2022-10-04)\n441  1 $3 11925586 $o ISNI 0000 0001 2122 2356 $a Stoker, Bram (1847-1912) $t L\u2019invit\u00e9 de Dracula $7 ba0yba0y $8 frefre\n441  1 $3 11925586 $o ISNI 0000 0001 2122 2356 $a Stoker, Bram (1847-1912) $t Draculas Gast $7 ba0yba0y $8 freger\n501  1 $3 11925586 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2122 2356 $a Stoker $b Bram $f 1847-1912 $4 070\n541  1 $5 xxh $p Ant\u00e9pisode de $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula\n608    $3 11931787 $a Nouvelle fantastique $2 rameauGenre\n640 6  $0 Date de premi\u00e8re publication $f #1914#####\n640 5  $0 Date d\u2019\u00e9criture $f #18900308# $i #18970526#\n676    $a 823 $v 23\n801  0 $a FR $b FR-751052119 $c 20221004\n810    $a Wikidata : https://www.wikidata.org/wiki/Q20726020 $b Date de premi\u00e8re publication et date privil\u00e9gi\u00e9e : 1914 ; variantes de point d'acc\u00e8s\n810    $a Dracula [Texte imprim\u00e9] ; suivi de L'invit\u00e9 de Dracula / Bram Stoker ; traduction de Jacques Finn\u00e9 ; pr\u00e9sentation et commentaires de Claude Aziza. \u2013 Paris : Pocket, impr. 2011. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN =978-2-266-21954-9\n810    $a Wikipedia : https://en.wikipedia.org/wiki/Dracula%27s_Guest\n810    $a LC Name Authority File (LCNAF) : https://lccn.loc.gov/no2017152183 (2022-10-04) $b Historique de l\u2019\u0153uvre \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a54e80>\nIndexation :  stoker bram premiere rencontre de jonathan harker avec le surnaturel peu avant de se rendre au chateau du comte dracula oeuvre publiee titre posthume$? initialement premier chapitre du roman dracula ecrit en 1897 il ete omis du livre publie pour des raisons de longueur et publie pour la premiere fois en 1914$?adapte pour le film la fille de dracula",
+    "subjects": {},
+    "genreforme": {
+        "11931787": ""
+    },
+    "detailed": "Description : \u0152uvre publi\u00e9e \u00e0 titre posthume.  Initialement, premier chapitre du roman Dracula \u00e9crit en 1897, il a \u00e9t\u00e9 omis du livre publi\u00e9 pour des raisons de longueur et publi\u00e9 pour la premi\u00e8re fois en 1914. Adapt\u00e9 pour le film \"La fille de Dracula\".\nPremi\u00e8re rencontre de Jonathan Harker avec le surnaturel, peu avant de se rendre au ch\u00e2teau du comte Dracula.\n\n\nDate de premi\u00e8re publication : 1914\nDate d\u2019\u00e9criture : 08/03/1890",
+    "rebonds": "<span class='rebond'><a href='full_results_UMLRM0004.html'>Ant\u00e9pisode de Stoker, Bram (1847-1912) Dracula</a></span>",
+    "exprResp": [
+        "Finn\u00e9, Jacques (Traducteur)"
+    ],
+    "lang": [
+        "eng",
+        "fre"
+    ],
+    "exprContentType": [
+        "Texte not\u00e9"
+    ]
+}

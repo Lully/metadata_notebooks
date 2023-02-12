@@ -1,0 +1,117 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>01303nx  h2200277   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0149</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20221116afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">fre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d2020</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"125\" ind1=\"0\" ind2=\"0\">\n      <marc:subfield code=\"a\">m</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">te</marc:subfield>\n      <marc:subfield code=\"b\">dicti</marc:subfield>\n      <marc:subfield code=\"2\">BnF-FonctTexMix</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">te</marc:subfield>\n      <marc:subfield code=\"b\">e</marc:subfield>\n      <marc:subfield code=\"2\">UM/M105pos4-7</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">i</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xa</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"241\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">11902797</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 2023 6609</marc:subfield>\n      <marc:subfield code=\"a\">Finn&#233;, Jacques (1944-&#8230;.)</marc:subfield>\n      <marc:subfield code=\"3\">11914577</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0000 8357 1052</marc:subfield>\n      <marc:subfield code=\"a\">Marigny, Jean (1939-....)</marc:subfield>\n      <marc:subfield code=\"t\">Dictionnaire des litt&#233;ratures vampiriques</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"370\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Bibliographie (5 pages)</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">11902797</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 2023 6609</marc:subfield>\n      <marc:subfield code=\"a\">Finn&#233;</marc:subfield>\n      <marc:subfield code=\"f\">1944-&#8230;.</marc:subfield>\n      <marc:subfield code=\"4\">070</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">11914577</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0000 8357 1052</marc:subfield>\n      <marc:subfield code=\"a\">Marigny</marc:subfield>\n      <marc:subfield code=\"b\">Jean</marc:subfield>\n      <marc:subfield code=\"f\">1939-....</marc:subfield>\n      <marc:subfield code=\"4\">070</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"606\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">11945972</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"a\">Vampires</marc:subfield>\n      <marc:subfield code=\"3\">11996647</marc:subfield>\n      <marc:subfield code=\"a\">Dans la litt&#233;rature</marc:subfield>\n      <marc:subfield code=\"2\">rameau</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"608\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">11931877</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"a\">Dictionnaires</marc:subfield>\n      <marc:subfield code=\"2\">rameau-Forme</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de premi&#232;re publication</marc:subfield>\n      <marc:subfield code=\"f\">#2020#####</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"676\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">809.933 75</marc:subfield>\n      <marc:subfield code=\"v\">23</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751045101</marc:subfield>\n      <marc:subfield code=\"c\">20221116</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Dictionnaire des litt&#233;ratures vampiriques / Jacques Finn&#233;, Jean Marigny ; pr&#233;face d'Alain Pozzuoli. &#8211; Dinan : Terre de brume, 2020. &#8211; [Texte not&#233; : sans m&#233;diation] . &#8211; ISBN 978-2-84362-674-6</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0149",
+    "txt": "\n000    01303nx  h2200277   4500\n001    UMLRM0149\n100    $a 20221116afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2020\n125 00 $a m\n140    $a te $b dicti $2 BnF-FonctTexMix\n140    $a te $b e $2 UM/M105pos4-7\n145 0  $a i\n152    $a RDA-FR\n154    $a xa\n241  1 $3 11902797 $o ISNI 0000 0001 2023 6609 $a Finn\u00e9, Jacques (1944-\u2026.) $3 11914577 $o ISNI 0000 0000 8357 1052 $a Marigny, Jean (1939-....) $t Dictionnaire des litt\u00e9ratures vampiriques $7 ba0yba0y $8 frefre\n370    $a Bibliographie (5 pages)\n501  1 $3 11902797 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2023 6609 $a Finn\u00e9 $f 1944-\u2026. $4 070\n501  1 $3 11914577 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 8357 1052 $a Marigny $b Jean $f 1939-.... $4 070\n606    $3 11945972 $7 ba0yba0y $8 frefre $a Vampires $3 11996647 $a Dans la litt\u00e9rature $2 rameau\n608    $3 11931877 $7 ba0yba0y $8 frefre $a Dictionnaires $2 rameau-Forme\n640 6  $0 Date de premi\u00e8re publication $f #2020#####\n676    $a 809.933 75 $v 23\n801  0 $a FR $b FR-751045101 $c 20221116\n810    $a Dictionnaire des litt\u00e9ratures vampiriques / Jacques Finn\u00e9, Jean Marigny ; pr\u00e9face d'Alain Pozzuoli. \u2013 Dinan : Terre de brume, 2020. \u2013 [Texte not\u00e9 : sans m\u00e9diation] . \u2013 ISBN 978-2-84362-674-6",
+    "self_index": [
+        "",
+        "",
+        "",
+        "bibliographie pages",
+        "",
+        "",
+        "",
+        "",
+        "bibliographie pages",
+        ""
+    ],
+    "linked_entities_index": [
+        "dictionnaire des litteratures vampiriques jacques finne jean marigny preface alain pozzuoli",
+        "dinan terre de brume 2020",
+        "terres fantastiques",
+        "",
+        "",
+        "",
+        "",
+        "dictionnaire des litteratures vampiriques jacques finne jean marigny preface alain pozzuoli",
+        "dinan terre de brume 2020",
+        "terres fantastiques",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "finne jacques 1944 $?marigny jean 1939 dictionnaire des litteratures vampiriques",
+        "",
+        "dictionnaire des litteratures vampiriques jacques finne jean marigny preface alain pozzuoli dinan terre de brume 2020 texte note sans mediation isbn 978 84362 674",
+        "",
+        "finne jacques 1944 $?marigny jean 1939 dictionnaire des litteratures vampiriques",
+        "",
+        "dictionnaire des litteratures vampiriques jacques finne jean marigny preface alain pozzuoli dinan terre de brume 2020 texte note sans mediation isbn 978 84362 674"
+    ],
+    "resp_index": [
+        "finne",
+        "marigny jean",
+        "finne",
+        "marigny jean"
+    ],
+    "linked_resp_index": [
+        "pozzuoli alain"
+    ],
+    "global_index": " dictionnaire des litteratures vampiriques jacques finne jean marigny preface alain pozzuoli bibliographie pages finne jacques 1944 $?marigny jean 1939 dictionnaire des litteratures vampiriques marigny jean pozzuoli alain terres fantastiques finne dictionnaire des litteratures vampiriques jacques finne jean marigny preface alain pozzuoli dinan terre de brume 2020 texte note sans mediation isbn 978 84362 674 dinan terre de brume 2020",
+    "type": "o",
+    "label": "Finn\u00e9, Jacques (1944-\u2026.) - Marigny, Jean (1939-....), Dictionnaire des litt\u00e9ratures vampiriques",
+    "splitted_label": "Finn\u00e9, Jacques\n(1944-\u2026.) - Marigny,\nJean (1939-....),\nDictionnaire des\nlitt\u00e9ratures\nvampiriques",
+    "stats_zones": {
+        "001": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "125": 1,
+        "140": 2,
+        "145": 1,
+        "152": 1,
+        "154": 1,
+        "241": 1,
+        "370": 1,
+        "501": 2,
+        "606": 1,
+        "608": 1,
+        "640": 1,
+        "676": 1,
+        "801": 1,
+        "810": 1
+    },
+    "resp": {
+        "Finn\u00e9": [
+            "Auteur"
+        ],
+        "Marigny, Jean": [
+            "Auteur"
+        ]
+    },
+    "respIds": [
+        "11914577",
+        "11902797"
+    ],
+    "toOeuvres": {},
+    "toExpressions": {
+        "UMLRM0198": "Finn\u00e9, Jacques (1944-\u2026.) - Marigny, Jean (1939-....), Dictionnaire des litt\u00e9ratures vampiriques, Fran\u00e7ais, Texte not\u00e9"
+    },
+    "toManifs": {
+        "UMLRM0199": "Dictionnaire des litt\u00e9ratures vampiriques, Jacques Finn\u00e9, Jean Marigny, Terre de brume, 2020, 1 volume(332 pages)"
+    },
+    "manifsYears": [
+        2020
+    ],
+    "toItems": {
+        "UMLRM1056": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1056"
+    },
+    "repr": "id : UMLRM0149\ntype initial : oe ; type : o\nlabel : Finn\u00e9, Jacques (1944-\u2026.) - Marigny, Jean (1939-....), Dictionnaire des litt\u00e9ratures vampiriques\n\nNotice : \n000    01303nx  h2200277   4500\n001    UMLRM0149\n100    $a 20221116afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2020\n125 00 $a m\n140    $a te $b dicti $2 BnF-FonctTexMix\n140    $a te $b e $2 UM/M105pos4-7\n145 0  $a i\n152    $a RDA-FR\n154    $a xa\n241  1 $3 11902797 $o ISNI 0000 0001 2023 6609 $a Finn\u00e9, Jacques (1944-\u2026.) $3 11914577 $o ISNI 0000 0000 8357 1052 $a Marigny, Jean (1939-....) $t Dictionnaire des litt\u00e9ratures vampiriques $7 ba0yba0y $8 frefre\n370    $a Bibliographie (5 pages)\n501  1 $3 11902797 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2023 6609 $a Finn\u00e9 $f 1944-\u2026. $4 070\n501  1 $3 11914577 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 8357 1052 $a Marigny $b Jean $f 1939-.... $4 070\n606    $3 11945972 $7 ba0yba0y $8 frefre $a Vampires $3 11996647 $a Dans la litt\u00e9rature $2 rameau\n608    $3 11931877 $7 ba0yba0y $8 frefre $a Dictionnaires $2 rameau-Forme\n640 6  $0 Date de premi\u00e8re publication $f #2020#####\n676    $a 809.933 75 $v 23\n801  0 $a FR $b FR-751045101 $c 20221116\n810    $a Dictionnaire des litt\u00e9ratures vampiriques / Jacques Finn\u00e9, Jean Marigny ; pr\u00e9face d'Alain Pozzuoli. \u2013 Dinan : Terre de brume, 2020. \u2013 [Texte not\u00e9 : sans m\u00e9diation] . \u2013 ISBN 978-2-84362-674-6 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a56940>\nIndexation :  bibliographie pages marigny jean finne",
+    "subjects": {
+        "11945972\u00a411996647": ""
+    },
+    "genreforme": {
+        "11931877": ""
+    },
+    "detailed": "Description : Bibliographie (5 pages)\n\n\nDate de premi\u00e8re publication : 2020",
+    "rebonds": "",
+    "exprResp": [],
+    "lang": [
+        "fre"
+    ],
+    "exprContentType": [
+        "Texte not\u00e9"
+    ]
+}

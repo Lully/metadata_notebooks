@@ -1,0 +1,87 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>00670nx  h2200181   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0151</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20220927afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">zxx</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d1968</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">b</marc:subfield>\n      <marc:subfield code=\"b\">xb2e</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"147\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">a</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xb</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"242\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">UMLRM0150</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"a\">Druillet, Philippe (1944-....)</marc:subfield>\n      <marc:subfield code=\"t\">Illustrations pour \"Dracula\" de Bram Stoker</marc:subfield>\n      <marc:subfield code=\"n\">Image fixe</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de premi&#232;re publication</marc:subfield>\n      <marc:subfield code=\"f\">#1968#####</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751045101</marc:subfield>\n      <marc:subfield code=\"c\">20220927</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Dracula / Bram Stoker ; illustrations originales de Philippe Druillet ; introduction de Tony Faivre. - Paris : &#201;ditions Opta, 1968. - [Texte not&#233;, image fixe : sans m&#233;diation]</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0151",
+    "txt": "\n000    00670nx  h2200181   4500\n001    UMLRM0151\n100    $a 20220927afrey50      ba0\n101 0  $a zxx\n102    $a FR\n104    $a d1968\n145 0  $a b $b xb2e\n147 0  $a a\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0150 $7 ba0yba0y $8 frefre $a Druillet, Philippe (1944-....) $t Illustrations pour \"Dracula\" de Bram Stoker $n Image fixe\n640 6  $0 Date de premi\u00e8re publication $f #1968#####\n801  0 $a FR $b FR-751045101 $c 20220927\n810    $a Dracula / Bram Stoker ; illustrations originales de Philippe Druillet ; introduction de Tony Faivre. - Paris : \u00c9ditions Opta, 1968. - [Texte not\u00e9, image fixe : sans m\u00e9diation]",
+    "self_index": [
+        "",
+        "druillet philippe 1944 illustrations pour dracula de bram stoker",
+        "",
+        "dracula bram stoker illustrations originales de philippe druillet introduction de tony faivre paris editions opta 1968 texte note image fixe sans mediation",
+        "",
+        "druillet philippe 1944 illustrations pour dracula de bram stoker",
+        "",
+        "dracula bram stoker illustrations originales de philippe druillet introduction de tony faivre paris editions opta 1968 texte note image fixe sans mediation"
+    ],
+    "linked_entities_index": [
+        "druillet philippe 1944 illustrations pour dracula de bram stoker image fixe",
+        "dracula bram stoker illustrations originales de philippe druillet introduction de tony faivre",
+        "paris editions opta 1968",
+        "aventures fantastiques",
+        "",
+        "",
+        "",
+        "",
+        "dracula bram stoker illustrations originales de philippe druillet introduction de tony faivre",
+        "paris editions opta 1968",
+        "aventures fantastiques",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "grande categorie technique dessin$?genre iconographique scenes fantastiques",
+        ""
+    ],
+    "resp_index": [],
+    "linked_resp_index": [
+        "faivre tony",
+        "druillet philippe"
+    ],
+    "global_index": " druillet philippe 1944 illustrations pour dracula de bram stoker image fixe faivre tony dracula bram stoker illustrations originales de philippe druillet introduction de tony faivre paris editions opta 1968 texte note image fixe sans mediation paris editions opta 1968 druillet philippe 1944 illustrations pour dracula de bram stoker dracula bram stoker illustrations originales de philippe druillet introduction de tony faivre aventures fantastiques druillet philippe grande categorie technique dessin$?genre iconographique scenes fantastiques",
+    "type": "e",
+    "label": "Druillet, Philippe (1944-....), Illustrations pour \"Dracula\" de Bram Stoker, Image fixe",
+    "splitted_label": "Druillet, Philippe\n(1944-....),\nIllustrations pour\n\"Dracula\" de Bram\nStoker, Image fixe",
+    "stats_zones": {
+        "001": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "145": 1,
+        "147": 1,
+        "152": 1,
+        "154": 1,
+        "242": 1,
+        "640": 1,
+        "801": 1,
+        "810": 1
+    },
+    "resp": {},
+    "respIds": [],
+    "toOeuvres": {
+        "UMLRM0150": "Druillet, Philippe (1944-....), Illustrations pour \"Dracula\" de Bram Stoker, Image fixe"
+    },
+    "toExpressions": {},
+    "toManifs": {
+        "UMLRM0110": "Dracula, Bram Stoker, \u00c9ditions Opta, 1968, 1 volume (XX-413 pages), illustrations en noir et blanc, cartonnage illustr\u00e9"
+    },
+    "manifsYears": [
+        1968
+    ],
+    "toItems": {
+        "UMLRM1035": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1035"
+    },
+    "repr": "id : UMLRM0151\ntype initial : oe ; type : e\nlabel : Druillet, Philippe (1944-....), Illustrations pour \"Dracula\" de Bram Stoker, Image fixe\n\nNotice : \n000    00670nx  h2200181   4500\n001    UMLRM0151\n100    $a 20220927afrey50      ba0\n101 0  $a zxx\n102    $a FR\n104    $a d1968\n145 0  $a b $b xb2e\n147 0  $a a\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0150 $7 ba0yba0y $8 frefre $a Druillet, Philippe (1944-....) $t Illustrations pour \"Dracula\" de Bram Stoker $n Image fixe\n640 6  $0 Date de premi\u00e8re publication $f #1968#####\n801  0 $a FR $b FR-751045101 $c 20220927\n810    $a Dracula / Bram Stoker ; illustrations originales de Philippe Druillet ; introduction de Tony Faivre. - Paris : \u00c9ditions Opta, 1968. - [Texte not\u00e9, image fixe : sans m\u00e9diation] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a569c0>\nIndexation :  dracula bram stoker illustrations originales de philippe druillet introduction de tony faivre paris editions opta 1968 texte note image fixe sans mediation druillet philippe 1944 illustrations pour dracula de bram stoker",
+    "lang": [
+        "zxx"
+    ],
+    "expressionContentType": "Image fixe",
+    "exprContentType": "Image fixe",
+    "exprResp": [],
+    "detailed": "\n\nDate de premi\u00e8re publication : 1968",
+    "rebonds": "",
+    "other_expressions": null
+}

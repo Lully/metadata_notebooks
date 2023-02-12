@@ -1,0 +1,89 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>01036cx  f2200229   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0014</marc:controlfield>\n    <marc:controlfield tag=\"005\">20220712.......D</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20060703afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">fre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d2005</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"105\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">ba</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">b</marc:subfield>\n      <marc:subfield code=\"b\">xb2e</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">i</marc:subfield>\n      <marc:subfield code=\"b\">axxe</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"147\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">h</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xb</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"232\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">UMLRM0013</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"a\">Jean-Claude Gallotta, Nosferatu, ballet de l'Op&#233;ra</marc:subfield>\n      <marc:subfield code=\"c\">programme</marc:subfield>\n      <marc:subfield code=\"d\">2006-05</marc:subfield>\n      <marc:subfield code=\"n\">Texte not&#233;. Image fixe</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"300\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">R&#233;unit des analyses sur l&#8217;&#339;uvre pr&#233;sent&#233;e, l'argument du ballet et des notices biographiques sur les interpr&#232;tes</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de copyright de l&#8217;expression</marc:subfield>\n      <marc:subfield code=\"f\">#2005#####</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751131015</marc:subfield>\n      <marc:subfield code=\"c\">20220920</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\"> Jean-Claude Gallotta, Nosferatu, ballet de l'Op&#233;ra: [chor&#233;graphie de Jean-Claude Gallotta, musiques de Pascal Dusapin] : [programme, 6 mai 2006, Op&#233;ra national de Paris, Op&#233;ra Bastille] / Op&#233;ra national de Paris. &#8211; Paris : Op&#233;ra national de Paris, copyright 2005. &#8211; [Texte not&#233;. Image fixe : sans m&#233;diation]</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0014",
+    "txt": "\n000    01036cx  f2200229   4500\n001    UMLRM0014\n005    20220712.......D\n100    $a 20060703afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2005\n105    $a ba\n145 0  $a b $b xb2e\n145 0  $a i $b axxe\n147 0  $a h\n152    $a RDA-FR\n154    $a xb\n232    $3 UMLRM0013 $7 ba0yba0y $8 frefre $a Jean-Claude Gallotta, Nosferatu, ballet de l'Op\u00e9ra $c programme $d 2006-05 $n Texte not\u00e9. Image fixe\n300    $a R\u00e9unit des analyses sur l\u2019\u0153uvre pr\u00e9sent\u00e9e, l'argument du ballet et des notices biographiques sur les interpr\u00e8tes\n640 6  $0 Date de copyright de l\u2019expression $f #2005#####\n801  0 $a FR $b FR-751131015 $c 20220920\n810    $a  Jean-Claude Gallotta, Nosferatu, ballet de l'Op\u00e9ra: [chor\u00e9graphie de Jean-Claude Gallotta, musiques de Pascal Dusapin] : [programme, 6 mai 2006, Op\u00e9ra national de Paris, Op\u00e9ra Bastille] / Op\u00e9ra national de Paris. \u2013 Paris : Op\u00e9ra national de Paris, copyright 2005. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation]",
+    "self_index": [
+        "jean claude gallotta nosferatu ballet de opera",
+        "",
+        "",
+        "jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris paris opera national de paris copyright 2005 texte note image fixe sans mediation",
+        "jean claude gallotta nosferatu ballet de opera",
+        "",
+        "",
+        "jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris paris opera national de paris copyright 2005 texte note image fixe sans mediation"
+    ],
+    "linked_entities_index": [
+        "jean claude gallotta nosferatu ballet de opera programme 2006 05 texte note image fixe",
+        "jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris",
+        "paris opera national de paris 2005",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris",
+        "paris opera national de paris 2005",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "jean claude gallotta nosferatu ballet de opera",
+        "presence d'illustrations",
+        ""
+    ],
+    "resp_index": [],
+    "linked_resp_index": [
+        "opera national de paris"
+    ],
+    "global_index": " paris opera national de paris 2005 jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris paris opera national de paris copyright 2005 texte note image fixe sans mediation opera national de paris jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris jean claude gallotta nosferatu ballet de opera programme 2006 05 texte note image fixe presence d'illustrations jean claude gallotta nosferatu ballet de opera",
+    "type": "e",
+    "label": "Jean-Claude Gallotta, Nosferatu, ballet de l'Op\u00e9ra, programme, 2006-05, Texte not\u00e9. Image fixe",
+    "splitted_label": "Jean-Claude\nGallotta, Nosferatu,\nballet de l'Op\u00e9ra,\nprogramme, 2006-05,\nTexte not\u00e9. Image\nfixe",
+    "stats_zones": {
+        "001": 1,
+        "005": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "105": 1,
+        "145": 2,
+        "147": 1,
+        "152": 1,
+        "154": 1,
+        "232": 1,
+        "300": 1,
+        "640": 1,
+        "801": 1,
+        "810": 1
+    },
+    "resp": {},
+    "respIds": [],
+    "toOeuvres": {
+        "UMLRM0013": "Jean-Claude Gallotta, Nosferatu, ballet de l'Op\u00e9ra, programme, 2006-05, Texte not\u00e9. Image fixe"
+    },
+    "toExpressions": {},
+    "toManifs": {
+        "UMLRM0015": "Jean-Claude Gallotta, Nosferatu, ballet de l'Op\u00e9ra,  Op\u00e9ra national de Paris, Op\u00e9ra national de Paris, C 2005, 1 volume (54 pages)"
+    },
+    "manifsYears": [
+        2005
+    ],
+    "toItems": {
+        "UMLRM1004": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1004"
+    },
+    "repr": "id : UMLRM0014\ntype initial : oe ; type : e\nlabel : Jean-Claude Gallotta, Nosferatu, ballet de l'Op\u00e9ra, programme, 2006-05, Texte not\u00e9. Image fixe\n\nNotice : \n000    01036cx  f2200229   4500\n001    UMLRM0014\n005    20220712.......D\n100    $a 20060703afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2005\n105    $a ba\n145 0  $a b $b xb2e\n145 0  $a i $b axxe\n147 0  $a h\n152    $a RDA-FR\n154    $a xb\n232    $3 UMLRM0013 $7 ba0yba0y $8 frefre $a Jean-Claude Gallotta, Nosferatu, ballet de l'Op\u00e9ra $c programme $d 2006-05 $n Texte not\u00e9. Image fixe\n300    $a R\u00e9unit des analyses sur l\u2019\u0153uvre pr\u00e9sent\u00e9e, l'argument du ballet et des notices biographiques sur les interpr\u00e8tes\n640 6  $0 Date de copyright de l\u2019expression $f #2005#####\n801  0 $a FR $b FR-751131015 $c 20220920\n810    $a  Jean-Claude Gallotta, Nosferatu, ballet de l'Op\u00e9ra: [chor\u00e9graphie de Jean-Claude Gallotta, musiques de Pascal Dusapin] : [programme, 6 mai 2006, Op\u00e9ra national de Paris, Op\u00e9ra Bastille] / Op\u00e9ra national de Paris. \u2013 Paris : Op\u00e9ra national de Paris, copyright 2005. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a546c0>\nIndexation :  jean claude gallotta nosferatu ballet de opera jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris paris opera national de paris copyright 2005 texte note image fixe sans mediation",
+    "lang": [
+        "fre"
+    ],
+    "expressionContentType": "programme",
+    "exprContentType": "programme",
+    "exprResp": [],
+    "detailed": "\n\nDate de copyright de l\u2019expression : 2005",
+    "rebonds": "",
+    "other_expressions": null
+}

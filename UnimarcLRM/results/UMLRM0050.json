@@ -1,0 +1,119 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>01513cx  h2200253   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0050</marc:controlfield>\n    <marc:controlfield tag=\"005\">20220930######.D</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20220930afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"1\" ind2=\" \">\n      <marc:subfield code=\"a\">fre</marc:subfield>\n      <marc:subfield code=\"c\">eng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d1979</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"105\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">ba</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">i</marc:subfield>\n      <marc:subfield code=\"b\">axxe</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xb</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"242\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">UMLRM0004</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Stoker, Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n      <marc:subfield code=\"m\">Fran&#231;ais</marc:subfield>\n      <marc:subfield code=\"w\">Finn&#233;</marc:subfield>\n      <marc:subfield code=\"n\">Texte not&#233;</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"502\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">11902797</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 2023 6609</marc:subfield>\n      <marc:subfield code=\"a\">Finn&#233;</marc:subfield>\n      <marc:subfield code=\"b\">Jacques</marc:subfield>\n      <marc:subfield code=\"f\">1944-....</marc:subfield>\n      <marc:subfield code=\"4\">730</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"542\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"5\">xxo</marc:subfield>\n      <marc:subfield code=\"p\">Est une traduction de</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0005</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Stoker, Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n      <marc:subfield code=\"m\">Anglais</marc:subfield>\n      <marc:subfield code=\"n\">Texte not&#233;</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"542\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"5\">xxq</marc:subfield>\n      <marc:subfield code=\"p\">A pour s&#233;lection [expression]</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0172</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Stoker, Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n      <marc:subfield code=\"c\">Choix</marc:subfield>\n      <marc:subfield code=\"k\">Cassou-Nogu&#232;s ; Langenhagen</marc:subfield>\n      <marc:subfield code=\"m\">Fran&#231;ais</marc:subfield>\n      <marc:subfield code=\"w\">Finn&#233;</marc:subfield>\n      <marc:subfield code=\"n\">Texte not&#233;</marc:subfield>\n      <marc:subfield code=\"o\">2004</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"542\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"5\">xxq</marc:subfield>\n      <marc:subfield code=\"p\">A pour s&#233;lection [expression]</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0038</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Stoker, Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n      <marc:subfield code=\"c\">Choix</marc:subfield>\n      <marc:subfield code=\"k\">Cassou-Nogu&#232;s ; Langenhagen</marc:subfield>\n      <marc:subfield code=\"m\">Fran&#231;ais</marc:subfield>\n      <marc:subfield code=\"w\">Finn&#233;</marc:subfield>\n      <marc:subfield code=\"n\">Texte not&#233;</marc:subfield>\n      <marc:subfield code=\"o\">2006</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"542\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"5\">xxq</marc:subfield>\n      <marc:subfield code=\"p\">A pour s&#233;lection [expression]</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0047</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Stoker, Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n      <marc:subfield code=\"c\">Choix</marc:subfield>\n      <marc:subfield code=\"k\">Cassou-Nogu&#232;s ; Langenhagen</marc:subfield>\n      <marc:subfield code=\"m\">Fran&#231;ais</marc:subfield>\n      <marc:subfield code=\"w\">Finn&#233;</marc:subfield>\n      <marc:subfield code=\"n\">Texte not&#233;</marc:subfield>\n      <marc:subfield code=\"o\">2017</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de premi&#232;re publication</marc:subfield>\n      <marc:subfield code=\"f\">#1979#####</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751052119</marc:subfield>\n      <marc:subfield code=\"c\">20220930</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Dracula [Texte imprim&#233;] / Bram Stoker ; traduit de l'anglais par Jacques Finn&#233;. &#8211; Paris : Paris : Librairie des Champs-&#201;lys&#233;es, 1979. &#8211; [Texte not&#233; : sans m&#233;diation]. &#8211; ISBN 2-7024-0900-8</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0050",
+    "txt": "\n000    01513cx  h2200253   4500\n001    UMLRM0050\n005    20220930######.D\n100    $a 20220930afrey50      ba0\n101 1  $a fre $c eng\n102    $a FR\n104    $a d1979\n105    $a ba\n145    $a i $b axxe\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Fran\u00e7ais $w Finn\u00e9 $n Texte not\u00e9\n502  1 $3 11902797 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2023 6609 $a Finn\u00e9 $b Jacques $f 1944-.... $4 730\n542  1 $5 xxo $p Est une traduction de $3 UMLRM0005 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Anglais $n Texte not\u00e9\n542  1 $5 xxq $p A pour s\u00e9lection [expression] $3 UMLRM0172 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $c Choix $k Cassou-Nogu\u00e8s ; Langenhagen $m Fran\u00e7ais $w Finn\u00e9 $n Texte not\u00e9 $o 2004\n542  1 $5 xxq $p A pour s\u00e9lection [expression] $3 UMLRM0038 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $c Choix $k Cassou-Nogu\u00e8s ; Langenhagen $m Fran\u00e7ais $w Finn\u00e9 $n Texte not\u00e9 $o 2006\n542  1 $5 xxq $p A pour s\u00e9lection [expression] $3 UMLRM0047 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $c Choix $k Cassou-Nogu\u00e8s ; Langenhagen $m Fran\u00e7ais $w Finn\u00e9 $n Texte not\u00e9 $o 2017\n640 6  $0 Date de premi\u00e8re publication $f #1979#####\n801  0 $a FR $b FR-751052119 $c 20220930\n810    $a Dracula [Texte imprim\u00e9] / Bram Stoker ; traduit de l'anglais par Jacques Finn\u00e9. \u2013 Paris : Paris : Librairie des Champs-\u00c9lys\u00e9es, 1979. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 2-7024-0900-8",
+    "self_index": [
+        "",
+        "stoker bram 1847 1912 dracula",
+        "",
+        "dracula texte imprime bram stoker traduit de anglais par jacques finne paris paris librairie des champs elysees 1979 texte note sans mediation isbn 7024 0900",
+        "",
+        "stoker bram 1847 1912 dracula",
+        "",
+        "dracula texte imprime bram stoker traduit de anglais par jacques finne paris paris librairie des champs elysees 1979 texte note sans mediation isbn 7024 0900"
+    ],
+    "linked_entities_index": [
+        "stoker bram 1847 1912 dracula francais finne texte note",
+        "dracula bram stoker traduit de anglais par jacques finne",
+        "paris pointdeux dl 2013$? pays bas",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "dracula bram stoker traduit de anglais par jacques finne",
+        "paris pointdeux dl 2013$? pays bas",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "dracula suivi de invite de dracula bram stoker traduction de jacques finne presentation et commentaires de claude aziza",
+        "paris pocket$? 72 la fleche 2011",
+        "pocket",
+        "",
+        "bibliographie pages 567 569$?filmographie pages 571 573",
+        "",
+        "",
+        "dracula suivi de invite de dracula bram stoker traduction de jacques finne presentation et commentaires de claude aziza",
+        "paris pocket$? 72 la fleche 2011",
+        "pocket",
+        "",
+        "bibliographie pages 567 569$?filmographie pages 571 573",
+        "",
+        "",
+        "http ark bnf fr ark 12148 cb12312986p$?http viaf org viaf 194144783017853134071$?https www wikidata org wiki q41542$?https data bnf fr ark 12148 cb12312986p",
+        "",
+        "",
+        "",
+        "le dracula de bram stoker est une application tres reussie du roman epistolaire au genre fantastique tout commence avec le journal de jonathan harker jeune clerc de notaire envoye en transylvanie alors qu'il est sur le point d'epouser sa fiancee mina murray jonathan harker pour mission de rencontrer le comte dracula lequel vient de se porter acquereur d'une propriete dans les environs de londres une fois entre les murs sinistres et inquietants du chateau du comte jonathan harker se rend tres vite l'evidence si dracula le laisse aller presque sa guise dans le chateau il n'en demeure pas moins prisonnier de l'antique demeure et de son maitre de maison et tandis que jonathan se retrouve confronte non seulement lui meme et ses convictions mais aussi des creatures plus diaboliques qu'humaines le comte prepare son depart vers londres..."
+    ],
+    "resp_index": [
+        "finne jacques",
+        "finne jacques"
+    ],
+    "linked_resp_index": [
+        "aziza claude",
+        "stoker bram"
+    ],
+    "global_index": " bibliographie pages 567 569$?filmographie pages 571 573 aziza claude dracula suivi de invite de dracula bram stoker traduction de jacques finne presentation et commentaires de claude aziza paris pocket$? 72 la fleche 2011 stoker bram 1847 1912 dracula pocket paris pointdeux dl 2013$? pays bas dracula texte imprime bram stoker traduit de anglais par jacques finne paris paris librairie des champs elysees 1979 texte note sans mediation isbn 7024 0900 le dracula de bram stoker est une application tres reussie du roman epistolaire au genre fantastique tout commence avec le journal de jonathan harker jeune clerc de notaire envoye en transylvanie alors qu'il est sur le point d'epouser sa fiancee mina murray jonathan harker pour mission de rencontrer le comte dracula lequel vient de se porter acquereur d'une propriete dans les environs de londres une fois entre les murs sinistres et inquietants du chateau du comte jonathan harker se rend tres vite l'evidence si dracula le laisse aller presque sa guise dans le chateau il n'en demeure pas moins prisonnier de l'antique demeure et de son maitre de maison et tandis que jonathan se retrouve confronte non seulement lui meme et ses convictions mais aussi des creatures plus diaboliques qu'humaines le comte prepare son depart vers londres... http ark bnf fr ark 12148 cb12312986p$?http viaf org viaf 194144783017853134071$?https www wikidata org wiki q41542$?https data bnf fr ark 12148 cb12312986p stoker bram 1847 1912 dracula francais finne texte note finne jacques dracula bram stoker traduit de anglais par jacques finne stoker bram",
+    "type": "e",
+    "label": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9",
+    "splitted_label": "Stoker, Bram\n(1847-1912),\nDracula, Fran\u00e7ais,\nFinn\u00e9, Texte not\u00e9",
+    "stats_zones": {
+        "001": 1,
+        "005": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "105": 1,
+        "145": 1,
+        "152": 1,
+        "154": 1,
+        "242": 1,
+        "502": 1,
+        "542": 4,
+        "640": 1,
+        "801": 1,
+        "810": 1
+    },
+    "resp": {
+        "Finn\u00e9, Jacques": [
+            "Traducteur"
+        ]
+    },
+    "respIds": [
+        "11902797"
+    ],
+    "toOeuvres": {
+        "UMLRM0004": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9"
+    },
+    "toExpressions": {},
+    "toManifs": {
+        "UMLRM0051": "Dracula, Bram Stoker, Pointdeux, DL 2013, 1 volume (919 pages), couverture illustr\u00e9e",
+        "UMLRM0077": "Dracula - suivi de L'invit\u00e9 de Dracula, Bram Stoker, Pocket, 2011, 1 volume (575 pages), couverture illustr\u00e9e"
+    },
+    "manifsYears": [
+        2011,
+        2013
+    ],
+    "toItems": {
+        "UMLRM1016": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1016",
+        "UMLRM1024": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1024"
+    },
+    "repr": "id : UMLRM0050\ntype initial : oe ; type : e\nlabel : Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9\n\nNotice : \n000    01513cx  h2200253   4500\n001    UMLRM0050\n005    20220930######.D\n100    $a 20220930afrey50      ba0\n101 1  $a fre $c eng\n102    $a FR\n104    $a d1979\n105    $a ba\n145    $a i $b axxe\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Fran\u00e7ais $w Finn\u00e9 $n Texte not\u00e9\n502  1 $3 11902797 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2023 6609 $a Finn\u00e9 $b Jacques $f 1944-.... $4 730\n542  1 $5 xxo $p Est une traduction de $3 UMLRM0005 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Anglais $n Texte not\u00e9\n542  1 $5 xxq $p A pour s\u00e9lection [expression] $3 UMLRM0172 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $c Choix $k Cassou-Nogu\u00e8s ; Langenhagen $m Fran\u00e7ais $w Finn\u00e9 $n Texte not\u00e9 $o 2004\n542  1 $5 xxq $p A pour s\u00e9lection [expression] $3 UMLRM0038 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $c Choix $k Cassou-Nogu\u00e8s ; Langenhagen $m Fran\u00e7ais $w Finn\u00e9 $n Texte not\u00e9 $o 2006\n542  1 $5 xxq $p A pour s\u00e9lection [expression] $3 UMLRM0047 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $c Choix $k Cassou-Nogu\u00e8s ; Langenhagen $m Fran\u00e7ais $w Finn\u00e9 $n Texte not\u00e9 $o 2017\n640 6  $0 Date de premi\u00e8re publication $f #1979#####\n801  0 $a FR $b FR-751052119 $c 20220930\n810    $a Dracula [Texte imprim\u00e9] / Bram Stoker ; traduit de l'anglais par Jacques Finn\u00e9. \u2013 Paris : Paris : Librairie des Champs-\u00c9lys\u00e9es, 1979. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 2-7024-0900-8 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a54c80>\nIndexation :  stoker bram 1847 1912 dracula dracula texte imprime bram stoker traduit de anglais par jacques finne paris paris librairie des champs elysees 1979 texte note sans mediation isbn 7024 0900 finne jacques",
+    "lang": [
+        "eng",
+        "fre"
+    ],
+    "expressionContentType": "Texte not\u00e9",
+    "exprContentType": "Texte not\u00e9",
+    "exprResp": [
+        "Finn\u00e9, Jacques (Traducteur)"
+    ],
+    "detailed": "\n\nDate de premi\u00e8re publication : 1979",
+    "rebonds": "",
+    "other_expressions": null
+}

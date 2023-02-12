@@ -1,0 +1,101 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>01062nx  h2200229   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0035</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20221031afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"1\" ind2=\" \">\n      <marc:subfield code=\"a\">fre</marc:subfield>\n      <marc:subfield code=\"c\">eng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d1998</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"105\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">ba</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">i</marc:subfield>\n      <marc:subfield code=\"b\">axxe</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">b</marc:subfield>\n      <marc:subfield code=\"b\">xb2e</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"147\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">h</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xb</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"242\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">UMLRM0034</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Humphries, Tudor (1953-&#8230;.)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n      <marc:subfield code=\"m\">Fran&#231;ais</marc:subfield>\n      <marc:subfield code=\"n\">Texte not&#233;. Image fixe</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"502\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">13343810</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0003 8523 9039</marc:subfield>\n      <marc:subfield code=\"a\">Jouve</marc:subfield>\n      <marc:subfield code=\"b\">Mich&#232;le</marc:subfield>\n      <marc:subfield code=\"f\">19..-....</marc:subfield>\n      <marc:subfield code=\"c\">angliciste</marc:subfield>\n      <marc:subfield code=\"4\">730</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"542\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"5\">xxo</marc:subfield>\n      <marc:subfield code=\"p\">Est une traduction de</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0161</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Humphries, Tudor (1953-&#8230;.)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n      <marc:subfield code=\"m\">Anglais</marc:subfield>\n      <marc:subfield code=\"n\">Texte not&#233;. Image fixe</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de premi&#232;re publication</marc:subfield>\n      <marc:subfield code=\"f\">#1998#####</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751052119</marc:subfield>\n      <marc:subfield code=\"c\">20221031</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\"> Dracula : [version abr&#233;g&#233;e] / d'apr&#232;s Bram Stoker ; illustr&#233; par Tudor Humphries ; [traduit par Mich&#232;le Jouve]. &#8211; Paris ; Bruxelles ; Montr&#233;al [etc.] : S&#233;lection du \"Reader's digest\",1998. &#8211; [Texte not&#233;. Image fixe : sans m&#233;diation]. &#8211; ISBN 2-7098-0973-7</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0035",
+    "txt": "\n000    01062nx  h2200229   4500\n001    UMLRM0035\n100    $a 20221031afrey50      ba0\n101 1  $a fre $c eng\n102    $a FR\n104    $a d1998\n105    $a ba\n145    $a i $b axxe\n145    $a b $b xb2e\n147    $a h\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0034 $7 ba0yba0y $8 freeng $a Humphries, Tudor (1953-\u2026.) $t Dracula $m Fran\u00e7ais $n Texte not\u00e9. Image fixe\n502  1 $3 13343810 $7 ba0yba0y $8 frefre $o ISNI 0000 0003 8523 9039 $a Jouve $b Mich\u00e8le $f 19..-.... $c angliciste $4 730\n542  1 $5 xxo $p Est une traduction de $3 UMLRM0161 $7 ba0yba0y $8 freeng $a Humphries, Tudor (1953-\u2026.) $t Dracula $m Anglais $n Texte not\u00e9. Image fixe\n640 6  $0 Date de premi\u00e8re publication $f #1998#####\n801  0 $a FR $b FR-751052119 $c 20221031\n810    $a  Dracula : [version abr\u00e9g\u00e9e] / d'apr\u00e8s Bram Stoker ; illustr\u00e9 par Tudor Humphries ; [traduit par Mich\u00e8le Jouve]. \u2013 Paris ; Bruxelles ; Montr\u00e9al [etc.] : S\u00e9lection du \"Reader's digest\",1998. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation]. \u2013 ISBN 2-7098-0973-7",
+    "self_index": [
+        "",
+        "humphries tudor 1953 dracula",
+        "",
+        "dracula version abregee apres bram stoker illustre par tudor humphries traduit par michele jouve paris bruxelles montreal etc selection du reader digest 1998 texte note image fixe sans mediation isbn 7098 0973",
+        "",
+        "humphries tudor 1953 dracula",
+        "",
+        "dracula version abregee apres bram stoker illustre par tudor humphries traduit par michele jouve paris bruxelles montreal etc selection du reader digest 1998 texte note image fixe sans mediation isbn 7098 0973"
+    ],
+    "linked_entities_index": [
+        "humphries tudor 1953 dracula francais texte note image fixe",
+        "dracula version abregee apres bram stoker illustre par tudor humphries traduit par michele jouve",
+        "paris$?bruxelles$?montreal etc selection du reader digest 1998$? chine",
+        "la bibliotheque des classiques",
+        "",
+        "",
+        "",
+        "",
+        "dracula version abregee apres bram stoker illustre par tudor humphries traduit par michele jouve",
+        "paris$?bruxelles$?montreal etc selection du reader digest 1998$? chine",
+        "la bibliotheque des classiques",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "version abregee et illustree destination de la jeunesse du roman de bram stoker $?nombreuses illustrations dessins photographies en noir et en couleur",
+        "introduction au personnage du vampire travers le heros du roman de bram stoker l'album permet de decouvrir le chef oeuvre dans une version abregee mais aussi de le comprendre et de le situer dans son contexte grace aux notes documentaires et aux tres nombreuses illustrations qui accompagnent constamment le texte"
+    ],
+    "resp_index": [
+        "jouve michele angliciste",
+        "jouve michele angliciste"
+    ],
+    "linked_resp_index": [
+        "humphries tudor"
+    ],
+    "global_index": " humphries tudor 1953 dracula introduction au personnage du vampire travers le heros du roman de bram stoker l'album permet de decouvrir le chef oeuvre dans une version abregee mais aussi de le comprendre et de le situer dans son contexte grace aux notes documentaires et aux tres nombreuses illustrations qui accompagnent constamment le texte la bibliotheque des classiques dracula version abregee apres bram stoker illustre par tudor humphries traduit par michele jouve paris bruxelles montreal etc selection du reader digest 1998 texte note image fixe sans mediation isbn 7098 0973 humphries tudor 1953 dracula francais texte note image fixe humphries tudor version abregee et illustree destination de la jeunesse du roman de bram stoker $?nombreuses illustrations dessins photographies en noir et en couleur dracula version abregee apres bram stoker illustre par tudor humphries traduit par michele jouve jouve michele angliciste paris$?bruxelles$?montreal etc selection du reader digest 1998$? chine",
+    "type": "e",
+    "label": "Humphries, Tudor (1953-\u2026.), Dracula, Fran\u00e7ais, Texte not\u00e9. Image fixe",
+    "splitted_label": "Humphries, Tudor\n(1953-\u2026.), Dracula,\nFran\u00e7ais, Texte\nnot\u00e9. Image fixe",
+    "stats_zones": {
+        "001": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "105": 1,
+        "145": 2,
+        "147": 1,
+        "152": 1,
+        "154": 1,
+        "242": 1,
+        "502": 1,
+        "542": 1,
+        "640": 1,
+        "801": 1,
+        "810": 1
+    },
+    "resp": {
+        "Jouve, Mich\u00e8le, angliciste": [
+            "Traducteur"
+        ]
+    },
+    "respIds": [
+        "13343810"
+    ],
+    "toOeuvres": {
+        "UMLRM0034": "Humphries, Tudor (1953-\u2026.), Dracula, Fran\u00e7ais, Texte not\u00e9. Image fixe"
+    },
+    "toExpressions": {},
+    "toManifs": {
+        "UMLRM0036": "Dracula, d'apr\u00e8s Bram Stoker, S\u00e9lection du \"Reader's digest\", 1998, 1 volume (64 pages), couverture illustr\u00e9e en couleur"
+    },
+    "manifsYears": [
+        1998
+    ],
+    "toItems": {
+        "UMLRM1011": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1011"
+    },
+    "repr": "id : UMLRM0035\ntype initial : oe ; type : e\nlabel : Humphries, Tudor (1953-\u2026.), Dracula, Fran\u00e7ais, Texte not\u00e9. Image fixe\n\nNotice : \n000    01062nx  h2200229   4500\n001    UMLRM0035\n100    $a 20221031afrey50      ba0\n101 1  $a fre $c eng\n102    $a FR\n104    $a d1998\n105    $a ba\n145    $a i $b axxe\n145    $a b $b xb2e\n147    $a h\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0034 $7 ba0yba0y $8 freeng $a Humphries, Tudor (1953-\u2026.) $t Dracula $m Fran\u00e7ais $n Texte not\u00e9. Image fixe\n502  1 $3 13343810 $7 ba0yba0y $8 frefre $o ISNI 0000 0003 8523 9039 $a Jouve $b Mich\u00e8le $f 19..-.... $c angliciste $4 730\n542  1 $5 xxo $p Est une traduction de $3 UMLRM0161 $7 ba0yba0y $8 freeng $a Humphries, Tudor (1953-\u2026.) $t Dracula $m Anglais $n Texte not\u00e9. Image fixe\n640 6  $0 Date de premi\u00e8re publication $f #1998#####\n801  0 $a FR $b FR-751052119 $c 20221031\n810    $a  Dracula : [version abr\u00e9g\u00e9e] / d'apr\u00e8s Bram Stoker ; illustr\u00e9 par Tudor Humphries ; [traduit par Mich\u00e8le Jouve]. \u2013 Paris ; Bruxelles ; Montr\u00e9al [etc.] : S\u00e9lection du \"Reader's digest\",1998. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation]. \u2013 ISBN 2-7098-0973-7 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a54b40>\nIndexation :  jouve michele angliciste humphries tudor 1953 dracula dracula version abregee apres bram stoker illustre par tudor humphries traduit par michele jouve paris bruxelles montreal etc selection du reader digest 1998 texte note image fixe sans mediation isbn 7098 0973",
+    "lang": [
+        "eng",
+        "fre"
+    ],
+    "expressionContentType": "Texte not\u00e9. Image fixe",
+    "exprContentType": "Texte not\u00e9. Image fixe",
+    "exprResp": [
+        "Jouve, Mich\u00e8le, angliciste (Traducteur)"
+    ],
+    "detailed": "\n\nDate de premi\u00e8re publication : 1998",
+    "rebonds": "",
+    "other_expressions": null
+}

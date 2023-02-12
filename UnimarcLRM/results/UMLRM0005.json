@@ -1,0 +1,105 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>01330cx  h2200253   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0005</marc:controlfield>\n    <marc:controlfield tag=\"005\">20220719######.D</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20220713afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">eng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">GB</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d1897</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"105\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">ba</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">i</marc:subfield>\n      <marc:subfield code=\"b\">axxe</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xb</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"242\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">UMLRM0004</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Stoker, Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n      <marc:subfield code=\"m\">Anglais</marc:subfield>\n      <marc:subfield code=\"n\">Texte not&#233;</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"542\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"5\">xxn</marc:subfield>\n      <marc:subfield code=\"p\">A pour traduction</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0056</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Stoker, Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n      <marc:subfield code=\"m\">Fran&#231;ais</marc:subfield>\n      <marc:subfield code=\"w\">Paul-Margueritte</marc:subfield>\n      <marc:subfield code=\"n\">Texte not&#233;</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"542\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"5\">xxn</marc:subfield>\n      <marc:subfield code=\"p\">A pour traduction</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0020</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Stoker, Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n      <marc:subfield code=\"m\">Fran&#231;ais</marc:subfield>\n      <marc:subfield code=\"w\">Molitor</marc:subfield>\n      <marc:subfield code=\"n\">Texte not&#233;</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"542\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"5\">xxn</marc:subfield>\n      <marc:subfield code=\"p\">A pour traduction</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0041</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Stoker, Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n      <marc:subfield code=\"m\">Fran&#231;ais</marc:subfield>\n      <marc:subfield code=\"w\">Sirgent</marc:subfield>\n      <marc:subfield code=\"n\">Texte not&#233;</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"542\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"5\">xxn</marc:subfield>\n      <marc:subfield code=\"p\">A pour traduction</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0050</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Stoker, Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n      <marc:subfield code=\"m\">Fran&#231;ais</marc:subfield>\n      <marc:subfield code=\"w\">Finn&#233;</marc:subfield>\n      <marc:subfield code=\"n\">Texte not&#233;</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"542\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"5\">xxn</marc:subfield>\n      <marc:subfield code=\"p\">Abr&#233;g&#233; en</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0053</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Stoker, Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n      <marc:subfield code=\"l\">Version abr&#233;g&#233;e</marc:subfield>\n      <marc:subfield code=\"w\">Chicheportiche</marc:subfield>\n      <marc:subfield code=\"m\">Fran&#231;ais</marc:subfield>\n      <marc:subfield code=\"n\">Texte not&#233;</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de premi&#232;re publication</marc:subfield>\n      <marc:subfield code=\"f\">#1897#####</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751045101</marc:subfield>\n      <marc:subfield code=\"c\">20220719</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Dracula / Bram Stoker. &#8211; London ; Sidney ; Auckland : Pan books, 1992. &#8211; [Texte not&#233; : sans m&#233;diation] . &#8211; ISBN 0-330-32856-5</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0005",
+    "txt": "\n000    01330cx  h2200253   4500\n001    UMLRM0005\n005    20220719######.D\n100    $a 20220713afrey50      ba0\n101 0  $a eng\n102    $a GB\n104    $a d1897\n105    $a ba\n145 0  $a i $b axxe\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Anglais $n Texte not\u00e9\n542  1 $5 xxn $p A pour traduction $3 UMLRM0056 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Fran\u00e7ais $w Paul-Margueritte $n Texte not\u00e9\n542  1 $5 xxn $p A pour traduction $3 UMLRM0020 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Fran\u00e7ais $w Molitor $n Texte not\u00e9\n542  1 $5 xxn $p A pour traduction $3 UMLRM0041 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Fran\u00e7ais $w Sirgent $n Texte not\u00e9\n542  1 $5 xxn $p A pour traduction $3 UMLRM0050 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Fran\u00e7ais $w Finn\u00e9 $n Texte not\u00e9\n542  1 $5 xxn $p Abr\u00e9g\u00e9 en $3 UMLRM0053 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $l Version abr\u00e9g\u00e9e $w Chicheportiche $m Fran\u00e7ais $n Texte not\u00e9\n640 6  $0 Date de premi\u00e8re publication $f #1897#####\n801  0 $a FR $b FR-751045101 $c 20220719\n810    $a Dracula / Bram Stoker. \u2013 London ; Sidney ; Auckland : Pan books, 1992. \u2013 [Texte not\u00e9 : sans m\u00e9diation] . \u2013 ISBN 0-330-32856-5",
+    "self_index": [
+        "",
+        "stoker bram 1847 1912 dracula",
+        "",
+        "dracula bram stoker london sidney auckland pan books 1992 texte note sans mediation isbn 330 32856",
+        "",
+        "stoker bram 1847 1912 dracula",
+        "",
+        "dracula bram stoker london sidney auckland pan books 1992 texte note sans mediation isbn 330 32856"
+    ],
+    "linked_entities_index": [
+        "stoker bram 1847 1912 dracula anglais texte note",
+        "dracula bram stoker",
+        "london$?sidney$?auckland pan books 1992$? 27 mesnil sur estree imprimerie firmin didot",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "dracula bram stoker",
+        "london$?sidney$?auckland pan books 1992$? 27 mesnil sur estree imprimerie firmin didot",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "dracula by bram stoker",
+        "london rider and son 1992",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "dracula by bram stoker",
+        "london rider and son 1992",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "http ark bnf fr ark 12148 cb12312986p$?http viaf org viaf 194144783017853134071$?https www wikidata org wiki q41542$?https data bnf fr ark 12148 cb12312986p",
+        "",
+        "",
+        "",
+        "le dracula de bram stoker est une application tres reussie du roman epistolaire au genre fantastique tout commence avec le journal de jonathan harker jeune clerc de notaire envoye en transylvanie alors qu'il est sur le point d'epouser sa fiancee mina murray jonathan harker pour mission de rencontrer le comte dracula lequel vient de se porter acquereur d'une propriete dans les environs de londres une fois entre les murs sinistres et inquietants du chateau du comte jonathan harker se rend tres vite l'evidence si dracula le laisse aller presque sa guise dans le chateau il n'en demeure pas moins prisonnier de l'antique demeure et de son maitre de maison et tandis que jonathan se retrouve confronte non seulement lui meme et ses convictions mais aussi des creatures plus diaboliques qu'humaines le comte prepare son depart vers londres..."
+    ],
+    "resp_index": [],
+    "linked_resp_index": [
+        "stoker bram"
+    ],
+    "global_index": " london$?sidney$?auckland pan books 1992$? 27 mesnil sur estree imprimerie firmin didot stoker bram 1847 1912 dracula le dracula de bram stoker est une application tres reussie du roman epistolaire au genre fantastique tout commence avec le journal de jonathan harker jeune clerc de notaire envoye en transylvanie alors qu'il est sur le point d'epouser sa fiancee mina murray jonathan harker pour mission de rencontrer le comte dracula lequel vient de se porter acquereur d'une propriete dans les environs de londres une fois entre les murs sinistres et inquietants du chateau du comte jonathan harker se rend tres vite l'evidence si dracula le laisse aller presque sa guise dans le chateau il n'en demeure pas moins prisonnier de l'antique demeure et de son maitre de maison et tandis que jonathan se retrouve confronte non seulement lui meme et ses convictions mais aussi des creatures plus diaboliques qu'humaines le comte prepare son depart vers londres... dracula by bram stoker http ark bnf fr ark 12148 cb12312986p$?http viaf org viaf 194144783017853134071$?https www wikidata org wiki q41542$?https data bnf fr ark 12148 cb12312986p stoker bram 1847 1912 dracula anglais texte note dracula bram stoker london sidney auckland pan books 1992 texte note sans mediation isbn 330 32856 dracula bram stoker london rider and son 1992 stoker bram",
+    "type": "e",
+    "label": "Stoker, Bram (1847-1912), Dracula, Anglais, Texte not\u00e9",
+    "splitted_label": "Stoker, Bram\n(1847-1912),\nDracula, Anglais,\nTexte not\u00e9",
+    "stats_zones": {
+        "001": 1,
+        "005": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "105": 1,
+        "145": 1,
+        "152": 1,
+        "154": 1,
+        "242": 1,
+        "542": 5,
+        "640": 1,
+        "801": 1,
+        "810": 1
+    },
+    "resp": {},
+    "respIds": [],
+    "toOeuvres": {
+        "UMLRM0004": "Stoker, Bram (1847-1912), Dracula, Anglais, Texte not\u00e9"
+    },
+    "toExpressions": {},
+    "toManifs": {
+        "UMLRM0006": "Dracula, Bram Stoker, Pan books -  Imprimerie Firmin-Didot, 1992, 1 volume (382 pages), couverture illustr\u00e9e en couleur",
+        "UMLRM0018": "Dracula, by Bram Stoker, W. Rider and son, 1992, 1 volume (VIII-404 pages)"
+    },
+    "manifsYears": [
+        1912,
+        1992
+    ],
+    "toItems": {
+        "UMLRM1001": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1001",
+        "UMLRM1005": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1005"
+    },
+    "repr": "id : UMLRM0005\ntype initial : oe ; type : e\nlabel : Stoker, Bram (1847-1912), Dracula, Anglais, Texte not\u00e9\n\nNotice : \n000    01330cx  h2200253   4500\n001    UMLRM0005\n005    20220719######.D\n100    $a 20220713afrey50      ba0\n101 0  $a eng\n102    $a GB\n104    $a d1897\n105    $a ba\n145 0  $a i $b axxe\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Anglais $n Texte not\u00e9\n542  1 $5 xxn $p A pour traduction $3 UMLRM0056 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Fran\u00e7ais $w Paul-Margueritte $n Texte not\u00e9\n542  1 $5 xxn $p A pour traduction $3 UMLRM0020 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Fran\u00e7ais $w Molitor $n Texte not\u00e9\n542  1 $5 xxn $p A pour traduction $3 UMLRM0041 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Fran\u00e7ais $w Sirgent $n Texte not\u00e9\n542  1 $5 xxn $p A pour traduction $3 UMLRM0050 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Fran\u00e7ais $w Finn\u00e9 $n Texte not\u00e9\n542  1 $5 xxn $p Abr\u00e9g\u00e9 en $3 UMLRM0053 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $l Version abr\u00e9g\u00e9e $w Chicheportiche $m Fran\u00e7ais $n Texte not\u00e9\n640 6  $0 Date de premi\u00e8re publication $f #1897#####\n801  0 $a FR $b FR-751045101 $c 20220719\n810    $a Dracula / Bram Stoker. \u2013 London ; Sidney ; Auckland : Pan books, 1992. \u2013 [Texte not\u00e9 : sans m\u00e9diation] . \u2013 ISBN 0-330-32856-5 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a54280>\nIndexation :  stoker bram 1847 1912 dracula dracula bram stoker london sidney auckland pan books 1992 texte note sans mediation isbn 330 32856",
+    "lang": [
+        "eng"
+    ],
+    "expressionContentType": "Texte not\u00e9",
+    "exprContentType": "Texte not\u00e9",
+    "exprResp": [],
+    "detailed": "\n\nDate de premi\u00e8re publication : 1897",
+    "rebonds": "",
+    "other_expressions": null
+}

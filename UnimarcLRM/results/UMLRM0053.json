@@ -1,0 +1,138 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>01137cx  h2200253   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0053</marc:controlfield>\n    <marc:controlfield tag=\"005\">20220920######.D</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20220826afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"1\" ind2=\" \">\n      <marc:subfield code=\"a\">fre</marc:subfield>\n      <marc:subfield code=\"c\">eng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d2011</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"105\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">ba</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"125\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">d</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">i</marc:subfield>\n      <marc:subfield code=\"b\">axxe</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"c\">txt</marc:subfield>\n      <marc:subfield code=\"2\">rdacontent</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xb</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"242\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">UMLRM0004</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Stoker, Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n      <marc:subfield code=\"l\">Version abr&#233;g&#233;e</marc:subfield>\n      <marc:subfield code=\"w\">Chicheportiche</marc:subfield>\n      <marc:subfield code=\"m\">Fran&#231;ais</marc:subfield>\n      <marc:subfield code=\"n\">Texte not&#233;</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"371\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"f\">Version abr&#233;g&#233;e pour la jeunesse (&#226;ge de lecture 9-12 ans)</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"502\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">12052485</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0000 0880 4872</marc:subfield>\n      <marc:subfield code=\"a\">Chicheportiche</marc:subfield>\n      <marc:subfield code=\"b\">Josette</marc:subfield>\n      <marc:subfield code=\"f\">1957-....</marc:subfield>\n      <marc:subfield code=\"4\">010</marc:subfield>\n      <marc:subfield code=\"4\">730</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"542\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"5\">xxo</marc:subfield>\n      <marc:subfield code=\"p\">Est un abr&#233;g&#233; de</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0005</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Stoker, Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n      <marc:subfield code=\"m\">Anglais</marc:subfield>\n      <marc:subfield code=\"n\">Texte not&#233;</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de premi&#232;re publication</marc:subfield>\n      <marc:subfield code=\"f\">#2011####</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-141186101</marc:subfield>\n      <marc:subfield code=\"c\">20220920</marc:subfield>\n      <marc:subfield code=\"h\">FRBNF44486284000000X</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Dracula / Bram Stoker ; traduit de l'anglais par Josette Chicheportiche. &#8211; Texte abr&#233;g&#233;. &#8211; Vanves : le Livre de poche jeunesse, DL 2015]. &#8211; [Texte not&#233; : sans m&#233;diation] . &#8211; ISBN 978-2-01-181029-8</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0053",
+    "txt": "\n000    01137cx  h2200253   4500\n001    UMLRM0053\n005    20220920######.D\n100    $a 20220826afrey50      ba0\n101 1  $a fre $c eng\n102    $a FR\n104    $a d2011\n105    $a ba\n125  0 $a d\n145    $a i $b axxe\n145    $c txt $2 rdacontent\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $l Version abr\u00e9g\u00e9e $w Chicheportiche $m Fran\u00e7ais $n Texte not\u00e9\n371    $f Version abr\u00e9g\u00e9e pour la jeunesse (\u00e2ge de lecture 9-12 ans)\n502  1 $3 12052485 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 0880 4872 $a Chicheportiche $b Josette $f 1957-.... $4 010 $4 730\n542  1 $5 xxo $p Est un abr\u00e9g\u00e9 de $3 UMLRM0005 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Anglais $n Texte not\u00e9\n640 6  $0 Date de premi\u00e8re publication $f #2011####\n801  0 $a FR $b FR-141186101 $c 20220920 $h FRBNF44486284000000X\n810    $a Dracula / Bram Stoker ; traduit de l'anglais par Josette Chicheportiche. \u2013 Texte abr\u00e9g\u00e9. \u2013 Vanves : le Livre de poche jeunesse, DL 2015]. \u2013 [Texte not\u00e9 : sans m\u00e9diation] . \u2013 ISBN 978-2-01-181029-8",
+    "self_index": [
+        "",
+        "stoker bram 1847 1912 dracula",
+        "",
+        "dracula bram stoker traduit de anglais par josette chicheportiche texte abrege vanves le livre de poche jeunesse dl 2015 texte note sans mediation isbn 978 01 181029",
+        "",
+        "stoker bram 1847 1912 dracula",
+        "",
+        "dracula bram stoker traduit de anglais par josette chicheportiche texte abrege vanves le livre de poche jeunesse dl 2015 texte note sans mediation isbn 978 01 181029"
+    ],
+    "linked_entities_index": [
+        "stoker bram 1847 1912 dracula version abregee chicheportiche francais texte note",
+        "dracula bram stoker traduit de anglais par josette chicheportiche",
+        "vanves le livre de poche jeunesse dl 2015$? espagne",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "dracula bram stoker traduit de anglais par josette chicheportiche",
+        "vanves le livre de poche jeunesse dl 2015$? espagne",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "dracula bram stoker traduit de anglais par josette chicheportiche",
+        "paris hachette$? 18 saint amand montrond imprimerie cpi bussiere 2011",
+        "black moon",
+        "",
+        "",
+        "",
+        "jonathan harker jeune clerc de notaire britannique est envoye par son etude dans un sinistre chateau de transylvanie afin negocier avec un certain comte dracula achat une propriete en angleterre il ne tarde pas decouvrir effroyable secret de son hote cette creature est un mort vivant un vampire qui repose dans un cercueil et qui en sort la nuit pour etancher sa soif de sang",
+        "dracula bram stoker traduit de anglais par josette chicheportiche",
+        "paris hachette$? 18 saint amand montrond imprimerie cpi bussiere 2011",
+        "black moon",
+        "",
+        "",
+        "",
+        "jonathan harker jeune clerc de notaire britannique est envoye par son etude dans un sinistre chateau de transylvanie afin negocier avec un certain comte dracula achat une propriete en angleterre il ne tarde pas decouvrir effroyable secret de son hote cette creature est un mort vivant un vampire qui repose dans un cercueil et qui en sort la nuit pour etancher sa soif de sang",
+        "dracula vers 1897 bram stoker traduit de anglais par josette chicheportiche notes et dossier fanny deschamps",
+        "paris hatier dl 2013$? italie",
+        "classiques cie",
+        "",
+        "bibliographie filmographie pages 313 315 lexique",
+        "",
+        "",
+        "dracula vers 1897 bram stoker traduit de anglais par josette chicheportiche notes et dossier fanny deschamps",
+        "paris hatier dl 2013$? italie",
+        "classiques cie",
+        "",
+        "bibliographie filmographie pages 313 315 lexique",
+        "",
+        "",
+        "http ark bnf fr ark 12148 cb12312986p$?http viaf org viaf 194144783017853134071$?https www wikidata org wiki q41542$?https data bnf fr ark 12148 cb12312986p",
+        "",
+        "",
+        "",
+        "le dracula de bram stoker est une application tres reussie du roman epistolaire au genre fantastique tout commence avec le journal de jonathan harker jeune clerc de notaire envoye en transylvanie alors qu'il est sur le point d'epouser sa fiancee mina murray jonathan harker pour mission de rencontrer le comte dracula lequel vient de se porter acquereur d'une propriete dans les environs de londres une fois entre les murs sinistres et inquietants du chateau du comte jonathan harker se rend tres vite l'evidence si dracula le laisse aller presque sa guise dans le chateau il n'en demeure pas moins prisonnier de l'antique demeure et de son maitre de maison et tandis que jonathan se retrouve confronte non seulement lui meme et ses convictions mais aussi des creatures plus diaboliques qu'humaines le comte prepare son depart vers londres..."
+    ],
+    "resp_index": [
+        "chicheportiche josette",
+        "chicheportiche josette"
+    ],
+    "linked_resp_index": [
+        "deschamps fanny",
+        "stoker bram"
+    ],
+    "global_index": " jonathan harker jeune clerc de notaire britannique est envoye par son etude dans un sinistre chateau de transylvanie afin negocier avec un certain comte dracula achat une propriete en angleterre il ne tarde pas decouvrir effroyable secret de son hote cette creature est un mort vivant un vampire qui repose dans un cercueil et qui en sort la nuit pour etancher sa soif de sang black moon deschamps fanny classiques cie bibliographie filmographie pages 313 315 lexique stoker bram 1847 1912 dracula dracula bram stoker traduit de anglais par josette chicheportiche paris hachette$? 18 saint amand montrond imprimerie cpi bussiere 2011 le dracula de bram stoker est une application tres reussie du roman epistolaire au genre fantastique tout commence avec le journal de jonathan harker jeune clerc de notaire envoye en transylvanie alors qu'il est sur le point d'epouser sa fiancee mina murray jonathan harker pour mission de rencontrer le comte dracula lequel vient de se porter acquereur d'une propriete dans les environs de londres une fois entre les murs sinistres et inquietants du chateau du comte jonathan harker se rend tres vite l'evidence si dracula le laisse aller presque sa guise dans le chateau il n'en demeure pas moins prisonnier de l'antique demeure et de son maitre de maison et tandis que jonathan se retrouve confronte non seulement lui meme et ses convictions mais aussi des creatures plus diaboliques qu'humaines le comte prepare son depart vers londres... dracula vers 1897 bram stoker traduit de anglais par josette chicheportiche notes et dossier fanny deschamps stoker bram http ark bnf fr ark 12148 cb12312986p$?http viaf org viaf 194144783017853134071$?https www wikidata org wiki q41542$?https data bnf fr ark 12148 cb12312986p vanves le livre de poche jeunesse dl 2015$? espagne paris hatier dl 2013$? italie dracula bram stoker traduit de anglais par josette chicheportiche texte abrege vanves le livre de poche jeunesse dl 2015 texte note sans mediation isbn 978 01 181029 chicheportiche josette stoker bram 1847 1912 dracula version abregee chicheportiche francais texte note",
+    "type": "e",
+    "label": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Chicheportiche, Texte not\u00e9",
+    "splitted_label": "Stoker, Bram\n(1847-1912),\nDracula, Fran\u00e7ais,\nChicheportiche,\nTexte not\u00e9",
+    "stats_zones": {
+        "001": 1,
+        "005": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "105": 1,
+        "125": 1,
+        "145": 2,
+        "152": 1,
+        "154": 1,
+        "242": 1,
+        "371": 1,
+        "502": 1,
+        "542": 1,
+        "640": 1,
+        "801": 1,
+        "810": 1
+    },
+    "resp": {
+        "Chicheportiche, Josette": [
+            "Adaptateur",
+            "Traducteur"
+        ]
+    },
+    "respIds": [
+        "12052485"
+    ],
+    "toOeuvres": {
+        "UMLRM0004": "Stoker, Bram (1847-1912), Dracula, Version abr\u00e9g\u00e9e, Chicheportiche, Fran\u00e7ais, Texte not\u00e9"
+    },
+    "toExpressions": {},
+    "toManifs": {
+        "UMLRM0054": "Dracula, Bram Stoker, le Livre de poche jeunesse, DL 2015, 1 volume (321 pages), couverture illustr\u00e9e en couleur",
+        "UMLRM0178": "Dracula, Bram Stoker, Hachette -  Imprimerie CPI Bussi\u00e8re, 2011, 1 volume (321 pages), couverture illustr\u00e9e en couleur",
+        "UMLRM0179": "Dracula, Bram Stoker, Hatier, DL 2013, 1 volume (317 pages), illustrations, couverture illustr\u00e9e en couleur"
+    },
+    "manifsYears": [
+        2011,
+        2013,
+        2015
+    ],
+    "toItems": {
+        "UMLRM1017": "BM_CELESTEVILLE > JEUNESSE > COTE_UMLRM1017"
+    },
+    "repr": "id : UMLRM0053\ntype initial : oe ; type : e\nlabel : Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Chicheportiche, Texte not\u00e9\n\nNotice : \n000    01137cx  h2200253   4500\n001    UMLRM0053\n005    20220920######.D\n100    $a 20220826afrey50      ba0\n101 1  $a fre $c eng\n102    $a FR\n104    $a d2011\n105    $a ba\n125  0 $a d\n145    $a i $b axxe\n145    $c txt $2 rdacontent\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $l Version abr\u00e9g\u00e9e $w Chicheportiche $m Fran\u00e7ais $n Texte not\u00e9\n371    $f Version abr\u00e9g\u00e9e pour la jeunesse (\u00e2ge de lecture 9-12 ans)\n502  1 $3 12052485 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 0880 4872 $a Chicheportiche $b Josette $f 1957-.... $4 010 $4 730\n542  1 $5 xxo $p Est un abr\u00e9g\u00e9 de $3 UMLRM0005 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Anglais $n Texte not\u00e9\n640 6  $0 Date de premi\u00e8re publication $f #2011####\n801  0 $a FR $b FR-141186101 $c 20220920 $h FRBNF44486284000000X\n810    $a Dracula / Bram Stoker ; traduit de l'anglais par Josette Chicheportiche. \u2013 Texte abr\u00e9g\u00e9. \u2013 Vanves : le Livre de poche jeunesse, DL 2015]. \u2013 [Texte not\u00e9 : sans m\u00e9diation] . \u2013 ISBN 978-2-01-181029-8 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a54cc0>\nIndexation :  stoker bram 1847 1912 dracula chicheportiche josette dracula bram stoker traduit de anglais par josette chicheportiche texte abrege vanves le livre de poche jeunesse dl 2015 texte note sans mediation isbn 978 01 181029",
+    "lang": [
+        "eng",
+        "fre"
+    ],
+    "expressionContentType": "Texte not\u00e9",
+    "exprContentType": "Texte not\u00e9",
+    "exprResp": [
+        "Chicheportiche, Josette (Adaptateur)",
+        "Chicheportiche, Josette (Traducteur)"
+    ],
+    "detailed": "Description : Version abr\u00e9g\u00e9e pour la jeunesse (\u00e2ge de lecture 9-12 ans)\n\n\nDate de premi\u00e8re publication : 2011",
+    "rebonds": "",
+    "other_expressions": null
+}

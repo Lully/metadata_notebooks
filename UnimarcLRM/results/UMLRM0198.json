@@ -1,0 +1,88 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>00730nx  h2200181   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0198</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20221116afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">fre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d2020</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"105\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">ba</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">i</marc:subfield>\n      <marc:subfield code=\"b\">axxe</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xb</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"242\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">UMLRM0149</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"a\">Finn&#233;, Jacques (1944-&#8230;.)</marc:subfield>\n      <marc:subfield code=\"a\">Marigny, Jean (1939-....)</marc:subfield>\n      <marc:subfield code=\"t\">Dictionnaire des litt&#233;ratures vampiriques</marc:subfield>\n      <marc:subfield code=\"m\">Fran&#231;ais</marc:subfield>\n      <marc:subfield code=\"n\">Texte not&#233;</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de premi&#232;re publication</marc:subfield>\n      <marc:subfield code=\"f\">#2020#####</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751045101</marc:subfield>\n      <marc:subfield code=\"c\">20221116</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Dictionnaire des litt&#233;ratures vampiriques / Jacques Finn&#233;, Jean Marigny ; pr&#233;face d'Alain Pozzuoli. &#8211; Dinan : Terre de brume, 2020. &#8211; [Texte not&#233; : sans m&#233;diation] . &#8211; ISBN 978-2-84362-674-6</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n",
+    "init_type": "oe",
+    "id": "UMLRM0198",
+    "txt": "\n000    00730nx  h2200181   4500\n001    UMLRM0198\n100    $a 20221116afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2020\n105    $a ba\n145 0  $a i $b axxe\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0149 $7 ba0yba0y $8 frefre $a Finn\u00e9, Jacques (1944-\u2026.) $a Marigny, Jean (1939-....) $t Dictionnaire des litt\u00e9ratures vampiriques $m Fran\u00e7ais $n Texte not\u00e9\n640 0  $0 Date de premi\u00e8re publication $f #2020#####\n801  0 $a FR $b FR-751045101 $c 20221116\n810    $a Dictionnaire des litt\u00e9ratures vampiriques / Jacques Finn\u00e9, Jean Marigny ; pr\u00e9face d'Alain Pozzuoli. \u2013 Dinan : Terre de brume, 2020. \u2013 [Texte not\u00e9 : sans m\u00e9diation] . \u2013 ISBN 978-2-84362-674-6",
+    "self_index": [
+        "",
+        "finne jacques 1944 $?marigny jean 1939 dictionnaire des litteratures vampiriques",
+        "",
+        "dictionnaire des litteratures vampiriques jacques finne jean marigny preface alain pozzuoli dinan terre de brume 2020 texte note sans mediation isbn 978 84362 674",
+        "",
+        "finne jacques 1944 $?marigny jean 1939 dictionnaire des litteratures vampiriques",
+        "",
+        "dictionnaire des litteratures vampiriques jacques finne jean marigny preface alain pozzuoli dinan terre de brume 2020 texte note sans mediation isbn 978 84362 674"
+    ],
+    "linked_entities_index": [
+        "finne jacques 1944 marigny jean 1939 dictionnaire des litteratures vampiriques francais texte note",
+        "dictionnaire des litteratures vampiriques jacques finne jean marigny preface alain pozzuoli",
+        "dinan terre de brume 2020",
+        "terres fantastiques",
+        "",
+        "",
+        "",
+        "",
+        "dictionnaire des litteratures vampiriques jacques finne jean marigny preface alain pozzuoli",
+        "dinan terre de brume 2020",
+        "terres fantastiques",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "bibliographie pages",
+        ""
+    ],
+    "resp_index": [],
+    "linked_resp_index": [
+        "pozzuoli alain",
+        "finne",
+        "marigny jean"
+    ],
+    "global_index": " dictionnaire des litteratures vampiriques jacques finne jean marigny preface alain pozzuoli bibliographie pages finne finne jacques 1944 $?marigny jean 1939 dictionnaire des litteratures vampiriques finne jacques 1944 marigny jean 1939 dictionnaire des litteratures vampiriques francais texte note marigny jean terres fantastiques pozzuoli alain dictionnaire des litteratures vampiriques jacques finne jean marigny preface alain pozzuoli dinan terre de brume 2020 texte note sans mediation isbn 978 84362 674 dinan terre de brume 2020",
+    "type": "e",
+    "label": "Finn\u00e9, Jacques (1944-\u2026.) - Marigny, Jean (1939-....), Dictionnaire des litt\u00e9ratures vampiriques, Fran\u00e7ais, Texte not\u00e9",
+    "splitted_label": "Finn\u00e9, Jacques\n(1944-\u2026.) - Marigny,\nJean (1939-....),\nDictionnaire des\nlitt\u00e9ratures\nvampiriques,\nFran\u00e7ais, Texte not\u00e9",
+    "stats_zones": {
+        "001": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "105": 1,
+        "145": 1,
+        "152": 1,
+        "154": 1,
+        "242": 1,
+        "640": 1,
+        "801": 1,
+        "810": 1
+    },
+    "resp": {},
+    "respIds": [],
+    "toOeuvres": {
+        "UMLRM0149": "Finn\u00e9, Jacques (1944-\u2026.), Marigny, Jean (1939-....), Dictionnaire des litt\u00e9ratures vampiriques, Fran\u00e7ais, Texte not\u00e9"
+    },
+    "toExpressions": {},
+    "toManifs": {
+        "UMLRM0199": "Dictionnaire des litt\u00e9ratures vampiriques, Jacques Finn\u00e9, Jean Marigny, Terre de brume, 2020, 1 volume(332 pages)"
+    },
+    "manifsYears": [
+        2020
+    ],
+    "toItems": {
+        "UMLRM1056": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1056"
+    },
+    "repr": "id : UMLRM0198\ntype initial : oe ; type : e\nlabel : Finn\u00e9, Jacques (1944-\u2026.) - Marigny, Jean (1939-....), Dictionnaire des litt\u00e9ratures vampiriques, Fran\u00e7ais, Texte not\u00e9\n\nNotice : \n000    00730nx  h2200181   4500\n001    UMLRM0198\n100    $a 20221116afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2020\n105    $a ba\n145 0  $a i $b axxe\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0149 $7 ba0yba0y $8 frefre $a Finn\u00e9, Jacques (1944-\u2026.) $a Marigny, Jean (1939-....) $t Dictionnaire des litt\u00e9ratures vampiriques $m Fran\u00e7ais $n Texte not\u00e9\n640 0  $0 Date de premi\u00e8re publication $f #2020#####\n801  0 $a FR $b FR-751045101 $c 20221116\n810    $a Dictionnaire des litt\u00e9ratures vampiriques / Jacques Finn\u00e9, Jean Marigny ; pr\u00e9face d'Alain Pozzuoli. \u2013 Dinan : Terre de brume, 2020. \u2013 [Texte not\u00e9 : sans m\u00e9diation] . \u2013 ISBN 978-2-84362-674-6 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a531c0>\nIndexation :  finne jacques 1944 $?marigny jean 1939 dictionnaire des litteratures vampiriques dictionnaire des litteratures vampiriques jacques finne jean marigny preface alain pozzuoli dinan terre de brume 2020 texte note sans mediation isbn 978 84362 674",
+    "lang": [
+        "fre"
+    ],
+    "expressionContentType": "Texte not\u00e9",
+    "exprContentType": "Texte not\u00e9",
+    "exprResp": [],
+    "detailed": "\n\nDate de premi\u00e8re publication : 2020",
+    "rebonds": "",
+    "other_expressions": null
+}

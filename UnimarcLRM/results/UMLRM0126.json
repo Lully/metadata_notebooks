@@ -1,0 +1,133 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>02427nx  h2200361   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0126</marc:controlfield>\n    <marc:controlfield tag=\"005\">20220921######.D</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20220921afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">eng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">US</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d2008</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"125\" ind1=\"0\" ind2=\"0\">\n      <marc:subfield code=\"a\">m</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">te</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">i</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xa</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"241\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">11925586</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 2122 2356</marc:subfield>\n      <marc:subfield code=\"a\">Stoker, Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">Manuscrits</marc:subfield>\n      <marc:subfield code=\"c\">Choix</marc:subfield>\n      <marc:subfield code=\"k\">Eighteen-Bisang ; Miller</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"370\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Reproductions en fac-simil&#233; des &#233;bauches manuscrites de Bram Stoker accompagn&#233;es de leur transcription, ainsi que ses notes tapuscrites</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"378\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Bram Stoker's initial notes and outlines for his landmark horror novel Dracula were auctioned at Sotheby's in London in 1913 and eventually made their way to the Rosenbach Museum and Library, where they are housed today. This comprehensive work reproduces the handwritten notes both in facsimile and in annotated transcription. It also includes Stoker's typewritten research notes</marc:subfield>\n      <marc:subfield code=\"b\">LoC</marc:subfield>\n      <marc:subfield code=\"z\">eng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"431\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Brams Stoker&#8217;s notes for Dracula</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"441\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">11925586</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 2122 2356</marc:subfield>\n      <marc:subfield code=\"a\">Stoker, Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">[Notes pour \"Dracula\"]</marc:subfield>\n      <marc:subfield code=\"k\">Eighteen-Bisang ; Miller</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">11925586</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 2122 2356</marc:subfield>\n      <marc:subfield code=\"a\">Stoker</marc:subfield>\n      <marc:subfield code=\"b\">Bram</marc:subfield>\n      <marc:subfield code=\"f\">1847-1912</marc:subfield>\n      <marc:subfield code=\"4\">070</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">16259396</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 0976 8225</marc:subfield>\n      <marc:subfield code=\"a\">Eighteen-Bisang</marc:subfield>\n      <marc:subfield code=\"b\">Robert</marc:subfield>\n      <marc:subfield code=\"4\">651</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">12679015</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0000 8170 1706</marc:subfield>\n      <marc:subfield code=\"a\">Miller</marc:subfield>\n      <marc:subfield code=\"b\">Elizabeth Russel</marc:subfield>\n      <marc:subfield code=\"f\">1939-....</marc:subfield>\n      <marc:subfield code=\"4\">651</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"541\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"5\">xxk</marc:subfield>\n      <marc:subfield code=\"p\">Est une &#339;uvre pr&#233;paratoire pour</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0004</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Stoker, Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\"> Dracula</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"608\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">11979168</marc:subfield>\n      <marc:subfield code=\"a\">Notes, esquisses, etc.</marc:subfield>\n      <marc:subfield code=\"2\">rameau-Forme</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"608\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">11956260</marc:subfield>\n      <marc:subfield code=\"a\">Fac-simil&#233;s</marc:subfield>\n      <marc:subfield code=\"2\">rameau-Forme</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de premi&#232;re publication</marc:subfield>\n      <marc:subfield code=\"f\">#2008#####</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"676\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">823</marc:subfield>\n      <marc:subfield code=\"v\">23</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751052119</marc:subfield>\n      <marc:subfield code=\"c\">20220921</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Wikidata : https://www.wikidata.org/wiki/Q41542. (2022-09-13)</marc:subfield>\n      <marc:subfield code=\"b\">Date de cr&#233;ation : 8 mars 1890 - 26 mai 1897</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Brams Stoker&#8217;s notes for Dracula : a facsimile edition / Bram Stoker ; annotated and transcribed by Robert Eighteen-Bisang and Elizabeth Miller. &#8211; Jefferson (N.C.) : McFarland &amp; Company Inc. Publishers, 2008. &#8211; [Texte not&#233; : sans mediation]. &#8211; ISBN 978-0-7864-3410-7</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Catalogue de la Biblioth&#232;que du Congr&#232;s : https://lccn.loc.gov/2008019450</marc:subfield>\n      <marc:subfield code=\"b\">R&#233;sum&#233;</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0126",
+    "txt": "\n000    02427nx  h2200361   4500\n001    UMLRM0126\n005    20220921######.D\n100    $a 20220921afrey50      ba0\n101 0  $a eng\n102    $a US\n104    $a d2008\n125 00 $a m\n140    $a te\n145 0  $a i\n152    $a RDA-FR\n154    $a xa\n241  1 $3 11925586 $o ISNI 0000 0001 2122 2356 $a Stoker, Bram (1847-1912) $t Manuscrits $c Choix $k Eighteen-Bisang ; Miller $7 ba0yba0y $8 freeng\n370    $a Reproductions en fac-simil\u00e9 des \u00e9bauches manuscrites de Bram Stoker accompagn\u00e9es de leur transcription, ainsi que ses notes tapuscrites\n378    $a Bram Stoker's initial notes and outlines for his landmark horror novel Dracula were auctioned at Sotheby's in London in 1913 and eventually made their way to the Rosenbach Museum and Library, where they are housed today. This comprehensive work reproduces the handwritten notes both in facsimile and in annotated transcription. It also includes Stoker's typewritten research notes $b LoC $z eng\n431    $7 ba0yba0y $8 freeng $a Brams Stoker\u2019s notes for Dracula\n441  1 $3 11925586 $o ISNI 0000 0001 2122 2356 $a Stoker, Bram (1847-1912) $t [Notes pour \"Dracula\"] $k Eighteen-Bisang ; Miller $7 ba0yba0y $8 freeng\n501  1 $3 11925586 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2122 2356 $a Stoker $b Bram $f 1847-1912 $4 070\n501  1 $3 16259396 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 0976 8225 $a Eighteen-Bisang $b Robert $4 651\n501  1 $3 12679015 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 8170 1706 $a Miller $b Elizabeth Russel $f 1939-.... $4 651\n541  1 $5 xxk $p Est une \u0153uvre pr\u00e9paratoire pour $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t  Dracula\n608    $3 11979168 $a Notes, esquisses, etc. $2 rameau-Forme\n608    $3 11956260 $a Fac-simil\u00e9s $2 rameau-Forme\n640 6  $0 Date de premi\u00e8re publication $f #2008#####\n676    $a 823 $v 23\n801  0 $a FR $b FR-751052119 $c 20220921\n810    $a Wikidata : https://www.wikidata.org/wiki/Q41542. (2022-09-13) $b Date de cr\u00e9ation : 8 mars 1890 - 26 mai 1897\n810    $a Brams Stoker\u2019s notes for Dracula : a facsimile edition / Bram Stoker ; annotated and transcribed by Robert Eighteen-Bisang and Elizabeth Miller. \u2013 Jefferson (N.C.) : McFarland & Company Inc. Publishers, 2008. \u2013 [Texte not\u00e9 : sans mediation]. \u2013 ISBN 978-0-7864-3410-7\n810    $a Catalogue de la Biblioth\u00e8que du Congr\u00e8s : https://lccn.loc.gov/2008019450 $b R\u00e9sum\u00e9",
+    "self_index": [
+        "",
+        "",
+        "",
+        "reproductions en fac simile des ebauches manuscrites de bram stoker accompagnees de leur transcription ainsi que ses notes tapuscrites",
+        "bram stoker initial notes and outlines for his landmark horror novel dracula were auctioned at sotheby in london in 1913 and eventually made their way to the rosenbach museum and library where they are housed today this comprehensive work reproduces the handwritten notes both in facsimile and in annotated transcription it also includes stoker typewritten research notes",
+        "",
+        "",
+        "",
+        "reproductions en fac simile des ebauches manuscrites de bram stoker accompagnees de leur transcription ainsi que ses notes tapuscrites",
+        "bram stoker initial notes and outlines for his landmark horror novel dracula were auctioned at sotheby in london in 1913 and eventually made their way to the rosenbach museum and library where they are housed today this comprehensive work reproduces the handwritten notes both in facsimile and in annotated transcription it also includes stoker typewritten research notes"
+    ],
+    "linked_entities_index": [
+        "bram stoker's notes for \"dracula afacsimile edition bram stoker annotated and transcribed by robert eighteen bisang and elizabeth miller foreword by michael barsanti",
+        "jefferson mcfarland company inc publishers 2008",
+        "",
+        "",
+        "bibliographie pages 321 323",
+        "",
+        "",
+        "bram stoker's notes for \"dracula afacsimile edition bram stoker annotated and transcribed by robert eighteen bisang and elizabeth miller foreword by michael barsanti",
+        "jefferson mcfarland company inc publishers 2008",
+        "",
+        "",
+        "bibliographie pages 321 323",
+        "",
+        "",
+        "",
+        "stoker bram 1847 1912 manuscrits",
+        "",
+        "brams stoker's notes for dracula facsimile edition bram stoker annotated and transcribed by robert eighteen bisang and elizabeth miller jefferson mcfarland company inc publishers 2008 texte note sans mediation isbn 978 7864 3410",
+        "",
+        "stoker bram 1847 1912 manuscrits",
+        "",
+        "brams stoker's notes for dracula facsimile edition bram stoker annotated and transcribed by robert eighteen bisang and elizabeth miller jefferson mcfarland company inc publishers 2008 texte note sans mediation isbn 978 7864 3410"
+    ],
+    "resp_index": [
+        "stoker bram",
+        "eighteen bisang robert",
+        "miller elizabeth russel",
+        "stoker bram",
+        "eighteen bisang robert",
+        "miller elizabeth russel"
+    ],
+    "linked_resp_index": [
+        "eighteen bisang robert",
+        "miller elizabeth russel",
+        "barsanti michael",
+        "eighteen bisang robert",
+        "miller elizabeth russel"
+    ],
+    "global_index": " barsanti michael jefferson mcfarland company inc publishers 2008 bram stoker's notes for \"dracula afacsimile edition bram stoker annotated and transcribed by robert eighteen bisang and elizabeth miller foreword by michael barsanti stoker bram 1847 1912 manuscrits miller elizabeth russel bram stoker initial notes and outlines for his landmark horror novel dracula were auctioned at sotheby in london in 1913 and eventually made their way to the rosenbach museum and library where they are housed today this comprehensive work reproduces the handwritten notes both in facsimile and in annotated transcription it also includes stoker typewritten research notes brams stoker's notes for dracula facsimile edition bram stoker annotated and transcribed by robert eighteen bisang and elizabeth miller jefferson mcfarland company inc publishers 2008 texte note sans mediation isbn 978 7864 3410 eighteen bisang robert bibliographie pages 321 323 stoker bram reproductions en fac simile des ebauches manuscrites de bram stoker accompagnees de leur transcription ainsi que ses notes tapuscrites",
+    "type": "o",
+    "label": "Stoker, Bram (1847-1912), Choix, Manuscrits",
+    "splitted_label": "Stoker, Bram\n(1847-1912), Choix,\nManuscrits",
+    "stats_zones": {
+        "001": 1,
+        "005": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "125": 1,
+        "140": 1,
+        "145": 1,
+        "152": 1,
+        "154": 1,
+        "241": 1,
+        "370": 1,
+        "378": 1,
+        "431": 1,
+        "441": 1,
+        "501": 3,
+        "541": 1,
+        "608": 2,
+        "640": 1,
+        "676": 1,
+        "801": 1,
+        "810": 3
+    },
+    "resp": {
+        "Stoker, Bram": [
+            "Auteur"
+        ],
+        "Eighteen-Bisang, Robert": [
+            "Directeur de publication"
+        ],
+        "Miller, Elizabeth Russel": [
+            "Directeur de publication"
+        ]
+    },
+    "respIds": [
+        "12679015",
+        "16259396",
+        "11925586"
+    ],
+    "toOeuvres": {},
+    "toExpressions": {
+        "UMLRM0127": "Stoker, Bram (1847-1912), Choix, Manuscrits, Anglais, Texte not\u00e9"
+    },
+    "toManifs": {
+        "UMLRM0128": "Bram Stoker\u2019s notes for \u201cDracula \u201c, Bram Stoker, McFarland & Company Inc. Publishers, 2008, 1 volume (VII-331 pages)"
+    },
+    "manifsYears": [
+        2008
+    ],
+    "toItems": {
+        "UMLRM1041": "BM_CELESTEVILLE > LANGUES > COTE_UMLRM1041"
+    },
+    "repr": "id : UMLRM0126\ntype initial : oe ; type : o\nlabel : Stoker, Bram (1847-1912), Choix, Manuscrits\n\nNotice : \n000    02427nx  h2200361   4500\n001    UMLRM0126\n005    20220921######.D\n100    $a 20220921afrey50      ba0\n101 0  $a eng\n102    $a US\n104    $a d2008\n125 00 $a m\n140    $a te\n145 0  $a i\n152    $a RDA-FR\n154    $a xa\n241  1 $3 11925586 $o ISNI 0000 0001 2122 2356 $a Stoker, Bram (1847-1912) $t Manuscrits $c Choix $k Eighteen-Bisang ; Miller $7 ba0yba0y $8 freeng\n370    $a Reproductions en fac-simil\u00e9 des \u00e9bauches manuscrites de Bram Stoker accompagn\u00e9es de leur transcription, ainsi que ses notes tapuscrites\n378    $a Bram Stoker's initial notes and outlines for his landmark horror novel Dracula were auctioned at Sotheby's in London in 1913 and eventually made their way to the Rosenbach Museum and Library, where they are housed today. This comprehensive work reproduces the handwritten notes both in facsimile and in annotated transcription. It also includes Stoker's typewritten research notes $b LoC $z eng\n431    $7 ba0yba0y $8 freeng $a Brams Stoker\u2019s notes for Dracula\n441  1 $3 11925586 $o ISNI 0000 0001 2122 2356 $a Stoker, Bram (1847-1912) $t [Notes pour \"Dracula\"] $k Eighteen-Bisang ; Miller $7 ba0yba0y $8 freeng\n501  1 $3 11925586 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2122 2356 $a Stoker $b Bram $f 1847-1912 $4 070\n501  1 $3 16259396 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 0976 8225 $a Eighteen-Bisang $b Robert $4 651\n501  1 $3 12679015 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 8170 1706 $a Miller $b Elizabeth Russel $f 1939-.... $4 651\n541  1 $5 xxk $p Est une \u0153uvre pr\u00e9paratoire pour $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t  Dracula\n608    $3 11979168 $a Notes, esquisses, etc. $2 rameau-Forme\n608    $3 11956260 $a Fac-simil\u00e9s $2 rameau-Forme\n640 6  $0 Date de premi\u00e8re publication $f #2008#####\n676    $a 823 $v 23\n801  0 $a FR $b FR-751052119 $c 20220921\n810    $a Wikidata : https://www.wikidata.org/wiki/Q41542. (2022-09-13) $b Date de cr\u00e9ation : 8 mars 1890 - 26 mai 1897\n810    $a Brams Stoker\u2019s notes for Dracula : a facsimile edition / Bram Stoker ; annotated and transcribed by Robert Eighteen-Bisang and Elizabeth Miller. \u2013 Jefferson (N.C.) : McFarland & Company Inc. Publishers, 2008. \u2013 [Texte not\u00e9 : sans mediation]. \u2013 ISBN 978-0-7864-3410-7\n810    $a Catalogue de la Biblioth\u00e8que du Congr\u00e8s : https://lccn.loc.gov/2008019450 $b R\u00e9sum\u00e9 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a564c0>\nIndexation :  miller elizabeth russel bram stoker initial notes and outlines for his landmark horror novel dracula were auctioned at sotheby in london in 1913 and eventually made their way to the rosenbach museum and library where they are housed today this comprehensive work reproduces the handwritten notes both in facsimile and in annotated transcription it also includes stoker typewritten research notes eighteen bisang robert stoker bram reproductions en fac simile des ebauches manuscrites de bram stoker accompagnees de leur transcription ainsi que ses notes tapuscrites",
+    "subjects": {},
+    "genreforme": {
+        "11979168": "",
+        "11956260": ""
+    },
+    "detailed": "Description : Reproductions en fac-simil\u00e9 des \u00e9bauches manuscrites de Bram Stoker accompagn\u00e9es de leur transcription, ainsi que ses notes tapuscrites.\nBram Stoker's initial notes and outlines for his landmark horror novel Dracula were auctioned at Sotheby's in London in 1913 and eventually made their way to the Rosenbach Museum and Library, where they are housed today. This comprehensive work reproduces the handwritten notes both in facsimile and in annotated transcription. It also includes Stoker's typewritten research notes\n\n\nDate de premi\u00e8re publication : 2008",
+    "rebonds": "<span class='rebond'><a href='full_results_UMLRM0004.html'>Est une \u0153uvre pr\u00e9paratoire pour Stoker, Bram (1847-1912)  Dracula</a></span>",
+    "exprResp": [
+        "Eighteen-Bisang, Robert (\u00c9diteur scientifique)",
+        "Miller, Elizabeth Russel (\u00c9diteur scientifique)"
+    ],
+    "lang": [
+        "eng"
+    ],
+    "exprContentType": [
+        "Texte not\u00e9"
+    ]
+}

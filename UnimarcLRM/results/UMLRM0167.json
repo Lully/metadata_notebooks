@@ -1,0 +1,90 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>01170nx  f2200265   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0167</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20221021afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"2\" ind2=\" \">\n      <marc:subfield code=\"a\">eng</marc:subfield>\n      <marc:subfield code=\"j\">fre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d2012</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">b</marc:subfield>\n      <marc:subfield code=\"b\">xa2ae</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"147\" ind1=\"1\" ind2=\" \">\n      <marc:subfield code=\"a\">h</marc:subfield>\n      <marc:subfield code=\"e\">d</marc:subfield>\n      <marc:subfield code=\"h\">c</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"147\" ind1=\"1\" ind2=\" \">\n      <marc:subfield code=\"a\">a</marc:subfield>\n      <marc:subfield code=\"e\">c</marc:subfield>\n      <marc:subfield code=\"h\">a</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"147\" ind1=\"1\" ind2=\" \">\n      <marc:subfield code=\"a\">g</marc:subfield>\n      <marc:subfield code=\"e\">c</marc:subfield>\n      <marc:subfield code=\"h\">a</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\"> RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xb</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"232\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">UMLRM0166</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">fre###</marc:subfield>\n      <marc:subfield code=\"a\">Guy Maddin</marc:subfield>\n      <marc:subfield code=\"k\">ED Distribution</marc:subfield>\n      <marc:subfield code=\"m\">Anglais ; sous-titrage en fran&#231;ais</marc:subfield>\n      <marc:subfield code=\"n\">Image anim&#233;e</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"371\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"f\">Films en version originale anglaise avec sous-titrage optionnel en fran&#231;ais</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"532\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxp</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Tales from the Gimli hospital</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"m\">Anglais ; sous-titrage en fran&#231;ais</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"532\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxp</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Archangel</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"m\">Anglais ; sous-titrage en fran&#231;ais</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"532\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxp</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Careful</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"m\">Anglais ; sous-titrage en fran&#231;ais</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"532\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxp</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0136</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Dracula : pages from a virgin's diary</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"m\">Anglais ; sous-titrage en fran&#231;ais</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de premi&#232;re publication</marc:subfield>\n      <marc:subfield code=\"f\">#2012#####</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751131015</marc:subfield>\n      <marc:subfield code=\"c\">20221021</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Guy Maddin. &#8211; [Paris]  : ED distribution [&#233;diteur, distributeur], [DL 2012]. &#8211; [Image anim&#233;e : vid&#233;o]</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0167",
+    "txt": "\n000    01170nx  f2200265   4500\n001    UMLRM0167\n100    $a 20221021afrey50      ba0\n101 2  $a eng $j fre\n102    $a FR\n104    $a d2012\n145    $a b $b xa2ae\n147 1  $a h $e d $h c\n147 1  $a a $e c $h a\n147 1  $a g $e c $h a\n152    $a  RDA-FR\n154    $a xb\n232    $3 UMLRM0166 $7 ba0yba0y $8 fre### $a Guy Maddin $k ED Distribution $m Anglais ; sous-titrage en fran\u00e7ais $n Image anim\u00e9e\n371    $f Films en version originale anglaise avec sous-titrage optionnel en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freeng $a Tales from the Gimli hospital $c film $m Anglais ; sous-titrage en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freeng $a Archangel $c film $m Anglais ; sous-titrage en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freeng $a Careful $c film $m Anglais ; sous-titrage en fran\u00e7ais\n532    $5 xxp $3 UMLRM0136 $7 ba0yba0y $8 freeng $a Dracula : pages from a virgin's diary $c film $m Anglais ; sous-titrage en fran\u00e7ais\n640 6  $0 Date de premi\u00e8re publication $f #2012#####\n801  0 $a FR $b FR-751131015 $c 20221021\n810    $a Guy Maddin. \u2013 [Paris]  : ED distribution [\u00e9diteur, distributeur], [DL 2012]. \u2013 [Image anim\u00e9e : vid\u00e9o]",
+    "self_index": [
+        "guy maddin",
+        "",
+        "",
+        "guy maddin paris ed distribution editeur distributeur dl 2012 image animee video",
+        "guy maddin",
+        "",
+        "",
+        "guy maddin paris ed distribution editeur distributeur dl 2012 image animee video"
+    ],
+    "linked_entities_index": [
+        "guy maddin ed distribution anglais sous titrage en francais image animee",
+        "guy maddin",
+        "paris ed distribution dl 2012 paris ed distribution",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "guy maddin",
+        "paris ed distribution dl 2012 paris ed distribution",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "guy maddin",
+        "coffret reunissant films appartenant au debut 1988 2002 de la carriere du realisateur canadien guy madden et dont ont fait l'objet de publications separees chez le meme editeur",
+        ""
+    ],
+    "resp_index": [],
+    "linked_resp_index": [
+        "ed distribution",
+        "maddin guy",
+        "ed distribution"
+    ],
+    "global_index": " paris ed distribution dl 2012 paris ed distribution ed distribution maddin guy coffret reunissant films appartenant au debut 1988 2002 de la carriere du realisateur canadien guy madden et dont ont fait l'objet de publications separees chez le meme editeur guy maddin guy maddin paris ed distribution editeur distributeur dl 2012 image animee video guy maddin ed distribution anglais sous titrage en francais image animee",
+    "type": "e",
+    "label": "Guy Maddin, Anglais ; sous-titrage en fran\u00e7ais, Image anim\u00e9e",
+    "splitted_label": "Guy Maddin, Anglais\n; sous-titrage en\nfran\u00e7ais, Image\nanim\u00e9e",
+    "stats_zones": {
+        "001": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "145": 1,
+        "147": 3,
+        "152": 1,
+        "154": 1,
+        "232": 1,
+        "371": 1,
+        "532": 4,
+        "640": 1,
+        "801": 1,
+        "810": 1
+    },
+    "resp": {},
+    "respIds": [],
+    "toOeuvres": {
+        "UMLRM0166": "Guy Maddin, ED Distribution, Anglais ; sous-titrage en fran\u00e7ais, Image anim\u00e9e"
+    },
+    "toExpressions": {},
+    "toManifs": {
+        "UMLRM0168": "Guy Maddin, ED distribution - ED distribution, [DL 2012], 4 DVD vid\u00e9o, monoface simple couche, PAL, toutes zones"
+    },
+    "manifsYears": [
+        2005
+    ],
+    "toItems": {
+        "UMLRM1048": "BM_CELESTEVILLE > MEZZANINE > COTE_UMLRM1048"
+    },
+    "repr": "id : UMLRM0167\ntype initial : oe ; type : e\nlabel : Guy Maddin, Anglais ; sous-titrage en fran\u00e7ais, Image anim\u00e9e\n\nNotice : \n000    01170nx  f2200265   4500\n001    UMLRM0167\n100    $a 20221021afrey50      ba0\n101 2  $a eng $j fre\n102    $a FR\n104    $a d2012\n145    $a b $b xa2ae\n147 1  $a h $e d $h c\n147 1  $a a $e c $h a\n147 1  $a g $e c $h a\n152    $a  RDA-FR\n154    $a xb\n232    $3 UMLRM0166 $7 ba0yba0y $8 fre### $a Guy Maddin $k ED Distribution $m Anglais ; sous-titrage en fran\u00e7ais $n Image anim\u00e9e\n371    $f Films en version originale anglaise avec sous-titrage optionnel en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freeng $a Tales from the Gimli hospital $c film $m Anglais ; sous-titrage en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freeng $a Archangel $c film $m Anglais ; sous-titrage en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freeng $a Careful $c film $m Anglais ; sous-titrage en fran\u00e7ais\n532    $5 xxp $3 UMLRM0136 $7 ba0yba0y $8 freeng $a Dracula : pages from a virgin's diary $c film $m Anglais ; sous-titrage en fran\u00e7ais\n640 6  $0 Date de premi\u00e8re publication $f #2012#####\n801  0 $a FR $b FR-751131015 $c 20221021\n810    $a Guy Maddin. \u2013 [Paris]  : ED distribution [\u00e9diteur, distributeur], [DL 2012]. \u2013 [Image anim\u00e9e : vid\u00e9o] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a56d40>\nIndexation :  guy maddin paris ed distribution editeur distributeur dl 2012 image animee video guy maddin",
+    "lang": [
+        "eng"
+    ],
+    "expressionContentType": "Image anim\u00e9e",
+    "exprContentType": "Image anim\u00e9e",
+    "exprResp": [],
+    "detailed": "Description : Films en version originale anglaise avec sous-titrage optionnel en fran\u00e7ais\n\n\nDate de premi\u00e8re publication : 2012",
+    "rebonds": "",
+    "other_expressions": null
+}

@@ -1,0 +1,111 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>01546nx  h2200265   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0138</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20221025afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d2001</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"125\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">m</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">is</marc:subfield>\n      <marc:subfield code=\"b\">maquette</marc:subfield>\n      <marc:subfield code=\"2\">frTICO</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">b</marc:subfield>\n      <marc:subfield code=\"b\">xb2e</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xa</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"241\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">14654751</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0003 6454 4704</marc:subfield>\n      <marc:subfield code=\"a\">Jeanneteau, Daniel (1963-....)</marc:subfield>\n      <marc:subfield code=\"3\">14676342</marc:subfield>\n      <marc:subfield code=\"a\">Deratte, Laure (19..-....)</marc:subfield>\n      <marc:subfield code=\"t\">[Maquette de d&#233;cor en volume pour \"Nosferatu\"]</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"370\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Grande cat&#233;gorie technique : dessin</marc:subfield>\n      <marc:subfield code=\"c\">Maquette de d&#233;cor pour le ballet \"Nosferatu\" de Jean-Claude Gallotta cr&#233;&#233; &#224; Op&#233;ra national de Paris-Bastille le 2 mai 2001</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">14654751</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0003 6454 4704</marc:subfield>\n      <marc:subfield code=\"a\">Jeanneteau</marc:subfield>\n      <marc:subfield code=\"b\">Daniel</marc:subfield>\n      <marc:subfield code=\"f\">1963-....</marc:subfield>\n      <marc:subfield code=\"4\">040</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">14676342</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"a\">Deratte</marc:subfield>\n      <marc:subfield code=\"b\">Laure</marc:subfield>\n      <marc:subfield code=\"f\">19..-....</marc:subfield>\n      <marc:subfield code=\"4\">040</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"515\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"0\">Lieu de l&#8217;&#233;v&#233;nement &#224; l&#8217;origine de l&#8217;&#339;uvre</marc:subfield>\n      <marc:subfield code=\"a\">Op&#233;ra Bastille (Paris, France ; lieu)</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"531\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxr</marc:subfield>\n      <marc:subfield code=\"p\">D&#233;cors utilis&#233;s dans</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0147</marc:subfield>\n      <marc:subfield code=\"a\">Nosferatu</marc:subfield>\n      <marc:subfield code=\"c\">spectacle</marc:subfield>\n      <marc:subfield code=\"d\">2001</marc:subfield>\n      <marc:subfield code=\"e\">Paris ; Op&#233;ra Bastille</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"541\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"5\">xxr</marc:subfield>\n      <marc:subfield code=\"p\">&#338;uvre pr&#233;paratoire pour</marc:subfield>\n      <marc:subfield code=\"a\">Jeanneteau, Daniel (1963-....)</marc:subfield>\n      <marc:subfield code=\"a\">Deratte, Laure (19..-....)</marc:subfield>\n      <marc:subfield code=\"t\">[D&#233;cors pour \"Nosferatu\"]</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"608\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">11960059</marc:subfield>\n      <marc:subfield code=\"a\">D&#233;cors de ballet</marc:subfield>\n      <marc:subfield code=\"2\">rameau</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"0\">&#201;v&#233;nement &#224; l&#8217;origine de l&#8217;&#339;uvre</marc:subfield>\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"d\">Paris</marc:subfield>\n      <marc:subfield code=\"e\"> Op&#233;ra Bastille</marc:subfield>\n      <marc:subfield code=\"f\">#20010502#</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751045101</marc:subfield>\n      <marc:subfield code=\"c\">20221025</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">[Maquette de d&#233;cor en volume pour \"Nosferatu\"]/ [Daniel Jeanneteau et Laure Deratte]. &#8211; [2001]. &#8211; [Image fixe : sans m&#233;diation]</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0138",
+    "txt": "\n000    01546nx  h2200265   4500\n001    UMLRM0138\n100    $a 20221025afrey50      ba0\n102    $a FR\n104    $a d2001\n125 0  $a m\n140    $a is $b maquette $2 frTICO\n145 0  $a b $b xb2e\n152    $a RDA-FR\n154    $a xa\n241  1 $3 14654751 $o ISNI 0000 0003 6454 4704 $a Jeanneteau, Daniel (1963-....) $3 14676342 $a Deratte, Laure (19..-....) $t [Maquette de d\u00e9cor en volume pour \"Nosferatu\"] $7 ba0yba0y $8 frefre\n370    $a Grande cat\u00e9gorie technique : dessin $c Maquette de d\u00e9cor pour le ballet \"Nosferatu\" de Jean-Claude Gallotta cr\u00e9\u00e9 \u00e0 Op\u00e9ra national de Paris-Bastille le 2 mai 2001\n501  1 $3 14654751 $7 ba0yba0y $8 frefre $o ISNI 0000 0003 6454 4704 $a Jeanneteau $b Daniel $f 1963-.... $4 040\n501  1 $3 14676342 $7 ba0yba0y $8 frefre $a Deratte $b Laure $f 19..-.... $4 040\n515    $0 Lieu de l\u2019\u00e9v\u00e9nement \u00e0 l\u2019origine de l\u2019\u0153uvre $a Op\u00e9ra Bastille (Paris, France ; lieu)\n531    $5 xxr $p D\u00e9cors utilis\u00e9s dans $3 UMLRM0147 $a Nosferatu $c spectacle $d 2001 $e Paris ; Op\u00e9ra Bastille $7 ba0yba0y $8 frefre\n541  1 $5 xxr $p \u0152uvre pr\u00e9paratoire pour $a Jeanneteau, Daniel (1963-....) $a Deratte, Laure (19..-....) $t [D\u00e9cors pour \"Nosferatu\"]\n608    $3 11960059 $a D\u00e9cors de ballet $2 rameau\n640 0  $0 \u00c9v\u00e9nement \u00e0 l\u2019origine de l\u2019\u0153uvre $a FR $d Paris $e  Op\u00e9ra Bastille $f #20010502#\n801  0 $a FR $b FR-751045101 $c 20221025\n810    $a [Maquette de d\u00e9cor en volume pour \"Nosferatu\"]/ [Daniel Jeanneteau et Laure Deratte]. \u2013 [2001]. \u2013 [Image fixe : sans m\u00e9diation]",
+    "self_index": [
+        "",
+        "",
+        "",
+        "grande categorie technique dessin maquette de decor pour le ballet nosferatu de jean claude gallotta cree opera national de paris bastille le mai 2001",
+        "",
+        "",
+        "",
+        "",
+        "grande categorie technique dessin maquette de decor pour le ballet nosferatu de jean claude gallotta cree opera national de paris bastille le mai 2001",
+        ""
+    ],
+    "linked_entities_index": [
+        "maquette de decor en volume pour nosferatu daniel jeanneteau et laure deratte",
+        "2001",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "maquette de decor en volume pour nosferatu daniel jeanneteau et laure deratte",
+        "2001",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "jeanneteau daniel 1963 $?deratte laure 19 maquette de decor en volume pour nosferatu",
+        "",
+        "maquette de decor en volume pour nosferatu daniel jeanneteau et laure deratte 2001 image fixe sans mediation",
+        "",
+        "jeanneteau daniel 1963 $?deratte laure 19 maquette de decor en volume pour nosferatu",
+        "",
+        "maquette de decor en volume pour nosferatu daniel jeanneteau et laure deratte 2001 image fixe sans mediation"
+    ],
+    "resp_index": [
+        "jeanneteau daniel",
+        "deratte laure",
+        "jeanneteau daniel",
+        "deratte laure"
+    ],
+    "linked_resp_index": [],
+    "global_index": " maquette de decor en volume pour nosferatu daniel jeanneteau et laure deratte 2001 image fixe sans mediation jeanneteau daniel deratte laure jeanneteau daniel 1963 $?deratte laure 19 maquette de decor en volume pour nosferatu maquette de decor en volume pour nosferatu daniel jeanneteau et laure deratte 2001 grande categorie technique dessin maquette de decor pour le ballet nosferatu de jean claude gallotta cree opera national de paris bastille le mai 2001",
+    "type": "o",
+    "label": "Jeanneteau, Daniel (1963-....) - Deratte, Laure (19..-....), [Maquette de d\u00e9cor en volume pour \"Nosferatu\"]",
+    "splitted_label": "Jeanneteau, Daniel\n(1963-....) -\nDeratte, Laure\n(19..-....),\n[Maquette de d\u00e9cor\nen volume pour\n\"Nosferatu\"]",
+    "stats_zones": {
+        "001": 1,
+        "100": 1,
+        "102": 1,
+        "104": 1,
+        "125": 1,
+        "140": 1,
+        "145": 1,
+        "152": 1,
+        "154": 1,
+        "241": 1,
+        "370": 1,
+        "501": 2,
+        "515": 1,
+        "531": 1,
+        "541": 1,
+        "608": 1,
+        "640": 1,
+        "801": 1,
+        "810": 1
+    },
+    "resp": {
+        "Jeanneteau, Daniel": [
+            "Artiste"
+        ],
+        "Deratte, Laure": [
+            "Artiste"
+        ]
+    },
+    "respIds": [
+        "14676342",
+        "14654751"
+    ],
+    "toOeuvres": {},
+    "toExpressions": {
+        "UMLRM0139": "Jeanneteau, Daniel (1963-....) - Deratte, Laure (19..-....), [Maquette de d\u00e9cor en volume pour \"Nosferatu\"], Image fixe"
+    },
+    "toManifs": {
+        "UMLRM0140": "[Maquette de d\u00e9cor en volume pour \"Nosferatu\"], [Daniel Jeanneteau et Laure Deratte], [2001], 1 maquette en volume"
+    },
+    "manifsYears": [
+        2001
+    ],
+    "toItems": {},
+    "repr": "id : UMLRM0138\ntype initial : oe ; type : o\nlabel : Jeanneteau, Daniel (1963-....) - Deratte, Laure (19..-....), [Maquette de d\u00e9cor en volume pour \"Nosferatu\"]\n\nNotice : \n000    01546nx  h2200265   4500\n001    UMLRM0138\n100    $a 20221025afrey50      ba0\n102    $a FR\n104    $a d2001\n125 0  $a m\n140    $a is $b maquette $2 frTICO\n145 0  $a b $b xb2e\n152    $a RDA-FR\n154    $a xa\n241  1 $3 14654751 $o ISNI 0000 0003 6454 4704 $a Jeanneteau, Daniel (1963-....) $3 14676342 $a Deratte, Laure (19..-....) $t [Maquette de d\u00e9cor en volume pour \"Nosferatu\"] $7 ba0yba0y $8 frefre\n370    $a Grande cat\u00e9gorie technique : dessin $c Maquette de d\u00e9cor pour le ballet \"Nosferatu\" de Jean-Claude Gallotta cr\u00e9\u00e9 \u00e0 Op\u00e9ra national de Paris-Bastille le 2 mai 2001\n501  1 $3 14654751 $7 ba0yba0y $8 frefre $o ISNI 0000 0003 6454 4704 $a Jeanneteau $b Daniel $f 1963-.... $4 040\n501  1 $3 14676342 $7 ba0yba0y $8 frefre $a Deratte $b Laure $f 19..-.... $4 040\n515    $0 Lieu de l\u2019\u00e9v\u00e9nement \u00e0 l\u2019origine de l\u2019\u0153uvre $a Op\u00e9ra Bastille (Paris, France ; lieu)\n531    $5 xxr $p D\u00e9cors utilis\u00e9s dans $3 UMLRM0147 $a Nosferatu $c spectacle $d 2001 $e Paris ; Op\u00e9ra Bastille $7 ba0yba0y $8 frefre\n541  1 $5 xxr $p \u0152uvre pr\u00e9paratoire pour $a Jeanneteau, Daniel (1963-....) $a Deratte, Laure (19..-....) $t [D\u00e9cors pour \"Nosferatu\"]\n608    $3 11960059 $a D\u00e9cors de ballet $2 rameau\n640 0  $0 \u00c9v\u00e9nement \u00e0 l\u2019origine de l\u2019\u0153uvre $a FR $d Paris $e  Op\u00e9ra Bastille $f #20010502#\n801  0 $a FR $b FR-751045101 $c 20221025\n810    $a [Maquette de d\u00e9cor en volume pour \"Nosferatu\"]/ [Daniel Jeanneteau et Laure Deratte]. \u2013 [2001]. \u2013 [Image fixe : sans m\u00e9diation] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a566c0>\nIndexation :  grande categorie technique dessin maquette de decor pour le ballet nosferatu de jean claude gallotta cree opera national de paris bastille le mai 2001 jeanneteau daniel deratte laure",
+    "subjects": {},
+    "genreforme": {
+        "11960059": ""
+    },
+    "detailed": "Description : Grande cat\u00e9gorie technique : dessin, Maquette de d\u00e9cor pour le ballet \"Nosferatu\" de Jean-Claude Gallotta cr\u00e9\u00e9 \u00e0 Op\u00e9ra national de Paris-Bastille le 2 mai 2001\n\n\n\u00c9v\u00e9nement \u00e0 l\u2019origine de l\u2019\u0153uvre : 02/05/2001 (Paris)",
+    "rebonds": "<span class='rebond'><a href='full_results_UMLRM0147.html'>D\u00e9cors utilis\u00e9s dans Nosferatu spectacle 2001 Paris ; Op\u00e9ra Bastille</a></span>\n<span class='rebond'><a href='full_results_.html'>\u0152uvre pr\u00e9paratoire pour Jeanneteau, Daniel (1963-....) Deratte, Laure (19..-....) [D\u00e9cors pour \"Nosferatu\"]</a></span>\n<span class='rebond'><a href='full_results_.html'>Op\u00e9ra Bastille (Paris, France ; lieu)</a></span>",
+    "exprResp": [],
+    "lang": [
+        "zxx"
+    ],
+    "exprContentType": [
+        "Image fixe"
+    ]
+}

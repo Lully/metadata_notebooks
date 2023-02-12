@@ -1,0 +1,71 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>01782nx  h2200277   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0164</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20221021afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">CA</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d1998</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"125\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">m</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">da</marc:subfield>\n      <marc:subfield code=\"b\">bt </marc:subfield>\n      <marc:subfield code=\"2\">IAML-Formes</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">c</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xa</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"241\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"a\">Godden, Mark</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"370\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"c\">Commande du Royal Winnipeg Ballet &#224; l&#8217;occasion du 100e anniversaire du roman de Bram Stoker publi&#233; en 1897</marc:subfield>\n      <marc:subfield code=\"c\">Cr&#233;&#233; par le Royal Winnipeg Ballet en octobre 1998, et repris en 2018 (12-14 avril)</marc:subfield>\n      <marc:subfield code=\"c\">Adapt&#233; &#224; l&#8217;&#233;cran en 2001 par le r&#233;alisateur Guy Maddin, sous le titre \"Dracula</marc:subfield>\n      <marc:subfield code=\"e\">pages from a virgin's diary\" : premi&#232;re diffusion du film en 2002.</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">fre###</marc:subfield>\n      <marc:subfield code=\"a\">Godden</marc:subfield>\n      <marc:subfield code=\"b\">Mark</marc:subfield>\n      <marc:subfield code=\"4\">200</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"531\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxc</marc:subfield>\n      <marc:subfield code=\"p\">A pour adaptation dans un autre mode de cr&#233;ation de [&#339;uvre]</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0135</marc:subfield>\n      <marc:subfield code=\"a\">Dracula : pages from a virgin's diary</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"541\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"5\">xxr</marc:subfield>\n      <marc:subfield code=\"p\">Utilise la musique [&#339;uvre]</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0165</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"a\">Mahler, Gustav (1860-1911)</marc:subfield>\n      <marc:subfield code=\"t\">Symphonies</marc:subfield>\n      <marc:subfield code=\"c\">Choix</marc:subfield>\n      <marc:subfield code=\"k\">Godden</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"541\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"5\">xxl</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0004</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Stoker, Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"608\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">11934698</marc:subfield>\n      <marc:subfield code=\"a\">Ballet</marc:subfield>\n      <marc:subfield code=\"2\">rameauGenre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"0\">Premi&#232;re repr&#233;sentation (cr&#233;ation)</marc:subfield>\n      <marc:subfield code=\"p\">CA</marc:subfield>\n      <marc:subfield code=\"b\">Manitoba</marc:subfield>\n      <marc:subfield code=\"d\">Winnipeg</marc:subfield>\n      <marc:subfield code=\"e\">Royal Winnipeg Ballet</marc:subfield>\n      <marc:subfield code=\"f\">#199810###</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751131015</marc:subfield>\n      <marc:subfield code=\"c\">20221021</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Robb, Peter. The Royal Winnipeg resurrects Mark Godden&#8217;s Dracula : https://artsfile.ca/the-royal-winnipeg-resurrects-mark-goddens-dracula/ (2022-10-21)</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Pepper, Kaija. How Does Mark Godden&#8217;s Dracula Dance? : http://www.markgodden.com/pdf/DraculaReview-Kaija-Pepper.pdf (2022-10-21)</marc:subfield>\n      <marc:subfield code=\"b\">Date de cr&#233;ation et musique utilis&#233;e</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Encyclop&#233;die Canadienne : https://www.thecanadianencyclopedia.ca/fr/article/godden-mark (2022-10-21)</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0164",
+    "txt": "\n000    01782nx  h2200277   4500\n001    UMLRM0164\n100    $a 20221021afrey50      ba0\n102    $a CA\n104    $a d1998\n125 0  $a m\n140    $a da $b bt  $2 IAML-Formes\n145 0  $a c\n152    $a RDA-FR\n154    $a xa\n241  1 $a Godden, Mark $t Dracula $7 ba0yba0y $8 freeng\n370    $c Commande du Royal Winnipeg Ballet \u00e0 l\u2019occasion du 100e anniversaire du roman de Bram Stoker publi\u00e9 en 1897 $c Cr\u00e9\u00e9 par le Royal Winnipeg Ballet en octobre 1998, et repris en 2018 (12-14 avril) $c Adapt\u00e9 \u00e0 l\u2019\u00e9cran en 2001 par le r\u00e9alisateur Guy Maddin, sous le titre \"Dracula $e pages from a virgin's diary\" : premi\u00e8re diffusion du film en 2002.\n501  1 $7 ba0yba0y $8 fre### $a Godden $b Mark $4 200\n531    $5 xxc $p A pour adaptation dans un autre mode de cr\u00e9ation de [\u0153uvre] $3 UMLRM0135 $a Dracula : pages from a virgin's diary $c film $7 ba0yba0y $8 freeng\n541  1 $5 xxr $p Utilise la musique [\u0153uvre] $3 UMLRM0165 $7 ba0yba0y $8 frefre $a Mahler, Gustav (1860-1911) $t Symphonies $c Choix $k Godden\n541  1 $5 xxl $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula\n608    $3 11934698 $a Ballet $2 rameauGenre\n640 6  $0 Premi\u00e8re repr\u00e9sentation (cr\u00e9ation) $p CA $b Manitoba $d Winnipeg $e Royal Winnipeg Ballet $f #199810###\n801  0 $a FR $b FR-751131015 $c 20221021\n810    $a Robb, Peter. The Royal Winnipeg resurrects Mark Godden\u2019s Dracula : https://artsfile.ca/the-royal-winnipeg-resurrects-mark-goddens-dracula/ (2022-10-21)\n810    $a Pepper, Kaija. How Does Mark Godden\u2019s Dracula Dance? : http://www.markgodden.com/pdf/DraculaReview-Kaija-Pepper.pdf (2022-10-21) $b Date de cr\u00e9ation et musique utilis\u00e9e\n810    $a Encyclop\u00e9die Canadienne : https://www.thecanadianencyclopedia.ca/fr/article/godden-mark (2022-10-21)",
+    "self_index": [
+        "",
+        "",
+        "",
+        "commande du royal winnipeg ballet l'occasion du 100e anniversaire du roman de bram stoker publie en 1897$?cree par le royal winnipeg ballet en octobre 1998 et repris en 2018 12 14 avril $?adapte l'ecran en 2001 par le realisateur guy maddin sous le titre dracula",
+        "",
+        "",
+        "",
+        "",
+        "commande du royal winnipeg ballet l'occasion du 100e anniversaire du roman de bram stoker publie en 1897$?cree par le royal winnipeg ballet en octobre 1998 et repris en 2018 12 14 avril $?adapte l'ecran en 2001 par le realisateur guy maddin sous le titre dracula",
+        ""
+    ],
+    "linked_entities_index": [],
+    "resp_index": [
+        "godden mark",
+        "godden mark"
+    ],
+    "linked_resp_index": [],
+    "global_index": " godden mark commande du royal winnipeg ballet l'occasion du 100e anniversaire du roman de bram stoker publie en 1897$?cree par le royal winnipeg ballet en octobre 1998 et repris en 2018 12 14 avril $?adapte l'ecran en 2001 par le realisateur guy maddin sous le titre dracula",
+    "type": "o",
+    "label": "Godden, Mark, Dracula",
+    "splitted_label": "Godden, Mark,\nDracula",
+    "stats_zones": {
+        "001": 1,
+        "100": 1,
+        "102": 1,
+        "104": 1,
+        "125": 1,
+        "140": 1,
+        "145": 1,
+        "152": 1,
+        "154": 1,
+        "241": 1,
+        "370": 1,
+        "501": 1,
+        "531": 1,
+        "541": 2,
+        "608": 1,
+        "640": 1,
+        "801": 1,
+        "810": 3
+    },
+    "resp": {
+        "Godden, Mark": [
+            "Chor\u00e9graphe"
+        ]
+    },
+    "respIds": [
+        ""
+    ],
+    "toOeuvres": {},
+    "toExpressions": {},
+    "toManifs": {},
+    "manifsYears": [],
+    "toItems": {},
+    "repr": "id : UMLRM0164\ntype initial : oe ; type : o\nlabel : Godden, Mark, Dracula\n\nNotice : \n000    01782nx  h2200277   4500\n001    UMLRM0164\n100    $a 20221021afrey50      ba0\n102    $a CA\n104    $a d1998\n125 0  $a m\n140    $a da $b bt  $2 IAML-Formes\n145 0  $a c\n152    $a RDA-FR\n154    $a xa\n241  1 $a Godden, Mark $t Dracula $7 ba0yba0y $8 freeng\n370    $c Commande du Royal Winnipeg Ballet \u00e0 l\u2019occasion du 100e anniversaire du roman de Bram Stoker publi\u00e9 en 1897 $c Cr\u00e9\u00e9 par le Royal Winnipeg Ballet en octobre 1998, et repris en 2018 (12-14 avril) $c Adapt\u00e9 \u00e0 l\u2019\u00e9cran en 2001 par le r\u00e9alisateur Guy Maddin, sous le titre \"Dracula $e pages from a virgin's diary\" : premi\u00e8re diffusion du film en 2002.\n501  1 $7 ba0yba0y $8 fre### $a Godden $b Mark $4 200\n531    $5 xxc $p A pour adaptation dans un autre mode de cr\u00e9ation de [\u0153uvre] $3 UMLRM0135 $a Dracula : pages from a virgin's diary $c film $7 ba0yba0y $8 freeng\n541  1 $5 xxr $p Utilise la musique [\u0153uvre] $3 UMLRM0165 $7 ba0yba0y $8 frefre $a Mahler, Gustav (1860-1911) $t Symphonies $c Choix $k Godden\n541  1 $5 xxl $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula\n608    $3 11934698 $a Ballet $2 rameauGenre\n640 6  $0 Premi\u00e8re repr\u00e9sentation (cr\u00e9ation) $p CA $b Manitoba $d Winnipeg $e Royal Winnipeg Ballet $f #199810###\n801  0 $a FR $b FR-751131015 $c 20221021\n810    $a Robb, Peter. The Royal Winnipeg resurrects Mark Godden\u2019s Dracula : https://artsfile.ca/the-royal-winnipeg-resurrects-mark-goddens-dracula/ (2022-10-21)\n810    $a Pepper, Kaija. How Does Mark Godden\u2019s Dracula Dance? : http://www.markgodden.com/pdf/DraculaReview-Kaija-Pepper.pdf (2022-10-21) $b Date de cr\u00e9ation et musique utilis\u00e9e\n810    $a Encyclop\u00e9die Canadienne : https://www.thecanadianencyclopedia.ca/fr/article/godden-mark (2022-10-21) \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a56c80>\nIndexation :  godden mark commande du royal winnipeg ballet l'occasion du 100e anniversaire du roman de bram stoker publie en 1897$?cree par le royal winnipeg ballet en octobre 1998 et repris en 2018 12 14 avril $?adapte l'ecran en 2001 par le realisateur guy maddin sous le titre dracula",
+    "subjects": {},
+    "genreforme": {
+        "11934698": ""
+    },
+    "detailed": "Description : Commande du Royal Winnipeg Ballet \u00e0 l\u2019occasion du 100e anniversaire du roman de Bram Stoker publi\u00e9 en 1897. Cr\u00e9\u00e9 par le Royal Winnipeg Ballet en octobre 1998, et repris en 2018 (12-14 avril). Adapt\u00e9 \u00e0 l\u2019\u00e9cran en 2001 par le r\u00e9alisateur Guy Maddin, sous le titre \"Dracula\n\n\nPremi\u00e8re repr\u00e9sentation (cr\u00e9ation) : 1998 (Winnipeg)",
+    "rebonds": "<span class='rebond'><a href='full_results_UMLRM0135.html'>A pour adaptation dans un autre mode de cr\u00e9ation de [\u0153uvre] Dracula : pages from a virgin's diary film</a></span>\n<span class='rebond'><a href='full_results_UMLRM0165.html'>Utilise la musique [\u0153uvre] Mahler, Gustav (1860-1911) Symphonies Choix Godden</a></span>\n<span class='rebond'><a href='full_results_UMLRM0004.html'>Stoker, Bram (1847-1912) Dracula</a></span>",
+    "exprResp": [],
+    "lang": [],
+    "exprContentType": []
+}

@@ -1,0 +1,117 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>01657cx  h2200313   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0117</marc:controlfield>\n    <marc:controlfield tag=\"005\">202208301048##.D</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20220830afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">fre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d2012</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"125\" ind1=\"0\" ind2=\"0\">\n      <marc:subfield code=\"a\">m</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">mi</marc:subfield>\n      <marc:subfield code=\"b\">bdfta</marc:subfield>\n      <marc:subfield code=\"2\">BnF-FormeOeuvreMixte</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">b</marc:subfield>\n      <marc:subfield code=\"b\">xb2e</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">i</marc:subfield>\n      <marc:subfield code=\"b\">axxe</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"147\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">g</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xa</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"241\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">15539985</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 2020 4631</marc:subfield>\n      <marc:subfield code=\"a\">Dufranne, Michel (1970-....)</marc:subfield>\n      <marc:subfield code=\"3\">15072903</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 0989 9671</marc:subfield>\n      <marc:subfield code=\"a\">Kowalski, Piotr (1973-....)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula l&#8217;immortel</marc:subfield>\n      <marc:subfield code=\"h\">2</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">15539985</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 2020 4631</marc:subfield>\n      <marc:subfield code=\"a\">Dufranne</marc:subfield>\n      <marc:subfield code=\"b\">Michel</marc:subfield>\n      <marc:subfield code=\"f\">1970-....</marc:subfield>\n      <marc:subfield code=\"4\">070</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">15072903</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frepol</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 0989 9671</marc:subfield>\n      <marc:subfield code=\"a\">Kowalski</marc:subfield>\n      <marc:subfield code=\"b\">Piotr</marc:subfield>\n      <marc:subfield code=\"f\">1973-....</marc:subfield>\n      <marc:subfield code=\"4\">440</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"3\">16803054</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">fre###</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0003 6897 4373</marc:subfield>\n      <marc:subfield code=\"a\">Svart</marc:subfield>\n      <marc:subfield code=\"f\">1978-....</marc:subfield>\n      <marc:subfield code=\"4\">410</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"541\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"5\">xxe</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0186</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"a\">Dufranne, Michel (1970-....)</marc:subfield>\n      <marc:subfield code=\"a\">Kowalski, Piotr (1973-....)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula l&#8217;immortel</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"608\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">16555383</marc:subfield>\n      <marc:subfield code=\"a\">Bandes dessin&#233;es fantastiques</marc:subfield>\n      <marc:subfield code=\"2\">rameauGenre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de premi&#232;re publication</marc:subfield>\n      <marc:subfield code=\"f\">#20120111#</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751043001</marc:subfield>\n      <marc:subfield code=\"c\">20220721</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">B&#233;d&#233;th&#232;que : https://www.bedetheque.com/serie-30273-BD-Dracula-l-Immortel.html (2022-11-09)</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Dracula l'immortel. 2 / sc&#233;nario, Michel Dufranne ; dessin, Piotr Kowalski ; couleurs, Svart ; d'apr&#232;s l'ouvrage de Dacre Stoker et Ian Holt. &#8211; [Neuilly-sur-Seine] : Michel Lafon ; [Paris] : Casterman, impr. 2012. &#8211; [Texte not&#233;. Image fixe : sans m&#233;diation]. &#8211; ISBN 978-2-203-03785-4</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">http://ark.bnf.fr/ark:/12148/cb42659826w</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0117",
+    "txt": "\n000    01657cx  h2200313   4500\n001    UMLRM0117\n005    202208301048##.D\n100    $a 20220830afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2012\n125 00 $a m\n140    $a mi $b bdfta $2 BnF-FormeOeuvreMixte\n145 0  $a b $b xb2e\n145 0  $a i $b axxe\n147 0  $a g\n152    $a RDA-FR\n154    $a xa\n241  1 $3 15539985 $o ISNI 0000 0001 2020 4631 $a Dufranne, Michel (1970-....) $3 15072903 $o ISNI 0000 0001 0989 9671 $a Kowalski, Piotr (1973-....) $t Dracula l\u2019immortel $h 2 $7 ba0yba0y $8 frefre\n501  1 $3 15539985 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2020 4631 $a Dufranne $b Michel $f 1970-.... $4 070\n501  1 $3 15072903 $7 ba0yba0y $8 frepol $o ISNI 0000 0001 0989 9671 $a Kowalski $b Piotr $f 1973-.... $4 440\n501  0 $3 16803054 $7 ba0yba0y $8 fre### $o ISNI 0000 0003 6897 4373 $a Svart $f 1978-.... $4 410\n541  1 $5 xxe $3 UMLRM0186 $7 ba0yba0y $8 frefre $a Dufranne, Michel (1970-....) $a Kowalski, Piotr (1973-....) $t Dracula l\u2019immortel\n608    $3 16555383 $a Bandes dessin\u00e9es fantastiques $2 rameauGenre\n640 6  $0 Date de premi\u00e8re publication $f #20120111#\n801  0 $a FR $b FR-751043001 $c 20220721\n810    $a B\u00e9d\u00e9th\u00e8que : https://www.bedetheque.com/serie-30273-BD-Dracula-l-Immortel.html (2022-11-09)\n810    $a Dracula l'immortel. 2 / sc\u00e9nario, Michel Dufranne ; dessin, Piotr Kowalski ; couleurs, Svart ; d'apr\u00e8s l'ouvrage de Dacre Stoker et Ian Holt. \u2013 [Neuilly-sur-Seine] : Michel Lafon ; [Paris] : Casterman, impr. 2012. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation]. \u2013 ISBN 978-2-203-03785-4\n810    $a http://ark.bnf.fr/ark:/12148/cb42659826w",
+    "self_index": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "linked_entities_index": [
+        "dracula immortel scenario michel dufranne dessin piotr kowalski couleurs svart apres ouvrage de dacre stoker et ian holt",
+        "neuilly sur seine paris michel lafon$?casterman$? 85 lucon imprimerie pollina 2012",
+        "",
+        "",
+        "",
+        "",
+        "1912 entre paris et londres des elements troublants viennent faire remonter la surface une peur qui semblait avoir ete oubliee depuis 25 ans depuis la destruction du vampire",
+        "dracula immortel scenario michel dufranne dessin piotr kowalski couleurs svart apres ouvrage de dacre stoker et ian holt",
+        "neuilly sur seine paris michel lafon$?casterman$? 85 lucon imprimerie pollina 2012",
+        "",
+        "",
+        "",
+        "",
+        "1912 entre paris et londres des elements troublants viennent faire remonter la surface une peur qui semblait avoir ete oubliee depuis 25 ans depuis la destruction du vampire",
+        "",
+        "dufranne michel 1970 $?kowalski piotr 1973 dracula l'immortel",
+        "",
+        "dracula immortel scenario michel dufranne dessin piotr kowalski couleurs svart apres ouvrage de dacre stoker et ian holt neuilly sur seine michel lafon paris casterman impr 2012 texte note image fixe sans mediation isbn 978 203 03785 4$?http ark bnf fr ark 12148 cb42659826w",
+        "",
+        "dufranne michel 1970 $?kowalski piotr 1973 dracula l'immortel",
+        "",
+        "dracula immortel scenario michel dufranne dessin piotr kowalski couleurs svart apres ouvrage de dacre stoker et ian holt neuilly sur seine michel lafon paris casterman impr 2012 texte note image fixe sans mediation isbn 978 203 03785 4$?http ark bnf fr ark 12148 cb42659826w"
+    ],
+    "resp_index": [
+        "dufranne michel",
+        "kowalski piotr",
+        "svart",
+        "dufranne michel",
+        "kowalski piotr",
+        "svart"
+    ],
+    "linked_resp_index": [],
+    "global_index": " neuilly sur seine paris michel lafon$?casterman$? 85 lucon imprimerie pollina 2012 1912 entre paris et londres des elements troublants viennent faire remonter la surface une peur qui semblait avoir ete oubliee depuis 25 ans depuis la destruction du vampire dufranne michel 1970 $?kowalski piotr 1973 dracula l'immortel svart dracula immortel scenario michel dufranne dessin piotr kowalski couleurs svart apres ouvrage de dacre stoker et ian holt neuilly sur seine michel lafon paris casterman impr 2012 texte note image fixe sans mediation isbn 978 203 03785 4$?http ark bnf fr ark 12148 cb42659826w kowalski piotr dufranne michel dracula immortel scenario michel dufranne dessin piotr kowalski couleurs svart apres ouvrage de dacre stoker et ian holt",
+    "type": "o",
+    "label": "Dufranne, Michel (1970-....) - Kowalski, Piotr (1973-....), Dracula l\u2019immortel",
+    "splitted_label": "Dufranne, Michel\n(1970-....) -\nKowalski, Piotr\n(1973-....), Dracula\nl\u2019immortel",
+    "stats_zones": {
+        "001": 1,
+        "005": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "125": 1,
+        "140": 1,
+        "145": 2,
+        "147": 1,
+        "152": 1,
+        "154": 1,
+        "241": 1,
+        "501": 3,
+        "541": 1,
+        "608": 1,
+        "640": 1,
+        "801": 1,
+        "810": 3
+    },
+    "resp": {
+        "Dufranne, Michel": [
+            "Auteur"
+        ],
+        "Kowalski, Piotr": [
+            "Illustrateur"
+        ],
+        "Svart": [
+            "Technicien graphique"
+        ]
+    },
+    "respIds": [
+        "15072903",
+        "16803054",
+        "15539985"
+    ],
+    "toOeuvres": {},
+    "toExpressions": {
+        "UMLRM0118": "Dufranne, Michel (1970-....) - Kowalski, Piotr (1973-....), Dracula l\u2019immortel, Fran\u00e7ais, Texte not\u00e9. Image fixe"
+    },
+    "toManifs": {
+        "UMLRM0119": "Dracula l'immortel, sc\u00e9nario, Michel Dufranne, Michel Lafon - Casterman - Imprimerie Pollina, 2012, 1 volume (48 pages), couverture illustr\u00e9e en couleur"
+    },
+    "manifsYears": [],
+    "toItems": {
+        "UMLRM1038": "BM_CELESTEVILLE > JEUNESSE > COTE_UMLRM1038"
+    },
+    "repr": "id : UMLRM0117\ntype initial : oe ; type : o\nlabel : Dufranne, Michel (1970-....) - Kowalski, Piotr (1973-....), Dracula l\u2019immortel\n\nNotice : \n000    01657cx  h2200313   4500\n001    UMLRM0117\n005    202208301048##.D\n100    $a 20220830afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2012\n125 00 $a m\n140    $a mi $b bdfta $2 BnF-FormeOeuvreMixte\n145 0  $a b $b xb2e\n145 0  $a i $b axxe\n147 0  $a g\n152    $a RDA-FR\n154    $a xa\n241  1 $3 15539985 $o ISNI 0000 0001 2020 4631 $a Dufranne, Michel (1970-....) $3 15072903 $o ISNI 0000 0001 0989 9671 $a Kowalski, Piotr (1973-....) $t Dracula l\u2019immortel $h 2 $7 ba0yba0y $8 frefre\n501  1 $3 15539985 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2020 4631 $a Dufranne $b Michel $f 1970-.... $4 070\n501  1 $3 15072903 $7 ba0yba0y $8 frepol $o ISNI 0000 0001 0989 9671 $a Kowalski $b Piotr $f 1973-.... $4 440\n501  0 $3 16803054 $7 ba0yba0y $8 fre### $o ISNI 0000 0003 6897 4373 $a Svart $f 1978-.... $4 410\n541  1 $5 xxe $3 UMLRM0186 $7 ba0yba0y $8 frefre $a Dufranne, Michel (1970-....) $a Kowalski, Piotr (1973-....) $t Dracula l\u2019immortel\n608    $3 16555383 $a Bandes dessin\u00e9es fantastiques $2 rameauGenre\n640 6  $0 Date de premi\u00e8re publication $f #20120111#\n801  0 $a FR $b FR-751043001 $c 20220721\n810    $a B\u00e9d\u00e9th\u00e8que : https://www.bedetheque.com/serie-30273-BD-Dracula-l-Immortel.html (2022-11-09)\n810    $a Dracula l'immortel. 2 / sc\u00e9nario, Michel Dufranne ; dessin, Piotr Kowalski ; couleurs, Svart ; d'apr\u00e8s l'ouvrage de Dacre Stoker et Ian Holt. \u2013 [Neuilly-sur-Seine] : Michel Lafon ; [Paris] : Casterman, impr. 2012. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation]. \u2013 ISBN 978-2-203-03785-4\n810    $a http://ark.bnf.fr/ark:/12148/cb42659826w \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a563c0>\nIndexation :  kowalski piotr dufranne michel svart",
+    "subjects": {},
+    "genreforme": {
+        "16555383": ""
+    },
+    "detailed": "\n\nDate de premi\u00e8re publication : 11/01/2012",
+    "rebonds": "<span class='rebond'><a href='full_results_UMLRM0186.html'>Dufranne, Michel (1970-....) Kowalski, Piotr (1973-....) Dracula l\u2019immortel</a></span>",
+    "exprResp": [],
+    "lang": [
+        "fre"
+    ],
+    "exprContentType": [
+        "Texte not\u00e9. Image fixe"
+    ]
+}

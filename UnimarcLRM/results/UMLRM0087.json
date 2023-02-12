@@ -1,0 +1,113 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>01712cx  h2200337   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0087</marc:controlfield>\n    <marc:controlfield tag=\"005\">20220809</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20220809afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">fre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d2005</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"125\" ind1=\"0\" ind2=\"2\">\n      <marc:subfield code=\"a\">m</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">te</marc:subfield>\n      <marc:subfield code=\"b\">etdoc</marc:subfield>\n      <marc:subfield code=\"2\">BnF-FonctTexMix</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">te</marc:subfield>\n      <marc:subfield code=\"b\">v</marc:subfield>\n      <marc:subfield code=\"2\">UM/B105pos4-7</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">i</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">b1</marc:subfield>\n      <marc:subfield code=\"b\">xb2e</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"147\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">h</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xa</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"241\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">13577629</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 2119 5730</marc:subfield>\n      <marc:subfield code=\"a\">Valls de Gomis, Estelle (1973-...)</marc:subfield>\n      <marc:subfield code=\"t\">Le vampire au fil des sie&#768;cles : enque&#770;te autour d'un mythe</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"370\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Texte remani&#233; de la th&#232;se de doctorat en litt&#233;rature, soutenue &#224; l&#8217;universit&#233; Toulouse 2 en 2003</marc:subfield>\n      <marc:subfield code=\"a\">Pr&#233;sence d&#8217;illustrations peu nombreuses</marc:subfield>\n      <marc:subfield code=\"a\">Bibliographie (20 pages)</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">13577629</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 2119 5730</marc:subfield>\n      <marc:subfield code=\"a\">Valls de Gomis</marc:subfield>\n      <marc:subfield code=\"b\">Estelle</marc:subfield>\n      <marc:subfield code=\"f\">1973-...</marc:subfield>\n      <marc:subfield code=\"4\">070</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"541\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"5\">xxc</marc:subfield>\n      <marc:subfield code=\"p\">Est une adaptation pour un autre public dans le m&#234;me mode de cr&#233;ation de [&#339;uvre]</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0141</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"a\">Valls de Gomis, Estelle (1973-...)</marc:subfield>\n      <marc:subfield code=\"t\">Le vampire au fil des sie&#768;cles : docimasie d'un mythe</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"606\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">11945972</marc:subfield>\n      <marc:subfield code=\"a\">Vampires</marc:subfield>\n      <marc:subfield code=\"3\">11996647</marc:subfield>\n      <marc:subfield code=\"x\">Dans la litte&#769;rature</marc:subfield>\n      <marc:subfield code=\"2\">rameau</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"606\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">11952413</marc:subfield>\n      <marc:subfield code=\"a\">Litte&#769;rature fantastique</marc:subfield>\n      <marc:subfield code=\"2\">rameau</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"608\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">11933610</marc:subfield>\n      <marc:subfield code=\"a\">The&#768;ses et e&#769;crits acade&#769;miques</marc:subfield>\n      <marc:subfield code=\"2\">rameauForme</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"676\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">398.45</marc:subfield>\n      <marc:subfield code=\"v\">23</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"676\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">809.393 75</marc:subfield>\n      <marc:subfield code=\"v\">23</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"686\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">800</marc:subfield>\n      <marc:subfield code=\"2\">Cadre de classement de la Bibliographie nationale franc&#807;aise</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751045101</marc:subfield>\n      <marc:subfield code=\"c\">20220809</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Le vampire au fil des sie&#768;cles : enque&#770;te autour d'un mythe / Estelle Valls de Gomis. - Coudray-Macouard : Cheminements, DL 2005. &#8211; [Texte not&#233; : sans m&#233;diation]</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0087",
+    "txt": "\n000    01712cx  h2200337   4500\n001    UMLRM0087\n005    20220809\n100    $a 20220809afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2005\n125 02 $a m\n140    $a te $b etdoc $2 BnF-FonctTexMix\n140    $a te $b v $2 UM/B105pos4-7\n145 0  $a i\n145 0  $a b1 $b xb2e\n147 0  $a h\n152    $a RDA-FR\n154    $a xa\n241  1 $3 13577629 $o ISNI 0000 0001 2119 5730 $a Valls de Gomis, Estelle (1973-...) $t Le vampire au fil des sie\u0300cles : enque\u0302te autour d'un mythe $7 ba0yba0y $8 frefre\n370    $a Texte remani\u00e9 de la th\u00e8se de doctorat en litt\u00e9rature, soutenue \u00e0 l\u2019universit\u00e9 Toulouse 2 en 2003 $a Pr\u00e9sence d\u2019illustrations peu nombreuses $a Bibliographie (20 pages)\n501  1 $3 13577629 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2119 5730 $a Valls de Gomis $b Estelle $f 1973-... $4 070\n541  1 $5 xxc $p Est une adaptation pour un autre public dans le m\u00eame mode de cr\u00e9ation de [\u0153uvre] $3 UMLRM0141 $7 ba0yba0y $8 frefre $a Valls de Gomis, Estelle (1973-...) $t Le vampire au fil des sie\u0300cles : docimasie d'un mythe\n606    $3 11945972 $a Vampires $3 11996647 $x Dans la litte\u0301rature $2 rameau\n606    $3 11952413 $a Litte\u0301rature fantastique $2 rameau\n608    $3 11933610 $a The\u0300ses et e\u0301crits acade\u0301miques $2 rameauForme\n676    $a 398.45 $v 23\n676    $a 809.393 75 $v 23\n686    $a 800 $2 Cadre de classement de la Bibliographie nationale franc\u0327aise\n801  0 $a FR $b FR-751045101 $c 20220809\n810    $a Le vampire au fil des sie\u0300cles : enque\u0302te autour d'un mythe / Estelle Valls de Gomis. - Coudray-Macouard : Cheminements, DL 2005. \u2013 [Texte not\u00e9 : sans m\u00e9diation]",
+    "self_index": [
+        "",
+        "",
+        "",
+        "texte remanie de la these de doctorat en litterature soutenue l'universite toulouse en 2003$?presence d'illustrations peu nombreuses$?bibliographie 20 pages",
+        "",
+        "",
+        "",
+        "",
+        "texte remanie de la these de doctorat en litterature soutenue l'universite toulouse en 2003$?presence d'illustrations peu nombreuses$?bibliographie 20 pages",
+        ""
+    ],
+    "linked_entities_index": [
+        "le vampire au fil des siecles enquete autour un mythe estelle valls de gomis",
+        "coudray macouard cheminements dl 2005$? 21 quetigny imprimerie darantiere",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "le vampire au fil des siecles enquete autour un mythe estelle valls de gomis",
+        "coudray macouard cheminements dl 2005$? 21 quetigny imprimerie darantiere",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "valls de gomis estelle 1973 le vampire au fil des siecles enquete autour un mythe",
+        "",
+        "le vampire au fil des siecles enquete autour un estelle valls de gomis coudray macouard cheminements dl 2005 texte note sans mediation",
+        "",
+        "valls de gomis estelle 1973 le vampire au fil des siecles enquete autour un mythe",
+        "",
+        "le vampire au fil des siecles enquete autour un estelle valls de gomis coudray macouard cheminements dl 2005 texte note sans mediation"
+    ],
+    "resp_index": [
+        "valls de gomis estelle",
+        "valls de gomis estelle"
+    ],
+    "linked_resp_index": [],
+    "global_index": " le vampire au fil des siecles enquete autour un mythe estelle valls de gomis valls de gomis estelle 1973 le vampire au fil des siecles enquete autour un mythe coudray macouard cheminements dl 2005$? 21 quetigny imprimerie darantiere le vampire au fil des siecles enquete autour un estelle valls de gomis coudray macouard cheminements dl 2005 texte note sans mediation valls de gomis estelle texte remanie de la these de doctorat en litterature soutenue l'universite toulouse en 2003$?presence d'illustrations peu nombreuses$?bibliographie 20 pages",
+    "type": "o",
+    "label": "Valls de Gomis, Estelle (1973-...), Le vampire au fil des sie\u0300cles : enque\u0302te autour d'un mythe",
+    "splitted_label": "Valls de Gomis,\nEstelle (1973-...),\nLe vampire au fil\ndes sie\u0300cles :\nenque\u0302te autour d'un\nmythe",
+    "stats_zones": {
+        "001": 1,
+        "005": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "125": 1,
+        "140": 2,
+        "145": 2,
+        "147": 1,
+        "152": 1,
+        "154": 1,
+        "241": 1,
+        "370": 1,
+        "501": 1,
+        "541": 1,
+        "606": 2,
+        "608": 1,
+        "676": 2,
+        "686": 1,
+        "801": 1,
+        "810": 1
+    },
+    "resp": {
+        "Valls de Gomis, Estelle": [
+            "Auteur"
+        ]
+    },
+    "respIds": [
+        "13577629"
+    ],
+    "toOeuvres": {},
+    "toExpressions": {
+        "UMLRM0088": "Valls de Gomis, Estelle (1973-...), Le vampire au fil des sie\u0300cles : enque\u0302te autour d'un mythe, Fran\u00e7ais, Texte not\u00e9"
+    },
+    "toManifs": {
+        "UMLRM0089": "Le vampire au fil des sie\u0300cles, Estelle Valls de Gomis, Cheminements - Imprimerie Darantie\u0300re, DL 2005, 1 volume (471 pages-[16] pages de planches.), couverture illustr\u00e9e en couleur"
+    },
+    "manifsYears": [
+        2005
+    ],
+    "toItems": {
+        "UMLRM1028": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1028"
+    },
+    "repr": "id : UMLRM0087\ntype initial : oe ; type : o\nlabel : Valls de Gomis, Estelle (1973-...), Le vampire au fil des sie\u0300cles : enque\u0302te autour d'un mythe\n\nNotice : \n000    01712cx  h2200337   4500\n001    UMLRM0087\n005    20220809\n100    $a 20220809afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2005\n125 02 $a m\n140    $a te $b etdoc $2 BnF-FonctTexMix\n140    $a te $b v $2 UM/B105pos4-7\n145 0  $a i\n145 0  $a b1 $b xb2e\n147 0  $a h\n152    $a RDA-FR\n154    $a xa\n241  1 $3 13577629 $o ISNI 0000 0001 2119 5730 $a Valls de Gomis, Estelle (1973-...) $t Le vampire au fil des sie\u0300cles : enque\u0302te autour d'un mythe $7 ba0yba0y $8 frefre\n370    $a Texte remani\u00e9 de la th\u00e8se de doctorat en litt\u00e9rature, soutenue \u00e0 l\u2019universit\u00e9 Toulouse 2 en 2003 $a Pr\u00e9sence d\u2019illustrations peu nombreuses $a Bibliographie (20 pages)\n501  1 $3 13577629 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2119 5730 $a Valls de Gomis $b Estelle $f 1973-... $4 070\n541  1 $5 xxc $p Est une adaptation pour un autre public dans le m\u00eame mode de cr\u00e9ation de [\u0153uvre] $3 UMLRM0141 $7 ba0yba0y $8 frefre $a Valls de Gomis, Estelle (1973-...) $t Le vampire au fil des sie\u0300cles : docimasie d'un mythe\n606    $3 11945972 $a Vampires $3 11996647 $x Dans la litte\u0301rature $2 rameau\n606    $3 11952413 $a Litte\u0301rature fantastique $2 rameau\n608    $3 11933610 $a The\u0300ses et e\u0301crits acade\u0301miques $2 rameauForme\n676    $a 398.45 $v 23\n676    $a 809.393 75 $v 23\n686    $a 800 $2 Cadre de classement de la Bibliographie nationale franc\u0327aise\n801  0 $a FR $b FR-751045101 $c 20220809\n810    $a Le vampire au fil des sie\u0300cles : enque\u0302te autour d'un mythe / Estelle Valls de Gomis. - Coudray-Macouard : Cheminements, DL 2005. \u2013 [Texte not\u00e9 : sans m\u00e9diation] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a560c0>\nIndexation :  valls de gomis estelle texte remanie de la these de doctorat en litterature soutenue l'universite toulouse en 2003$?presence d'illustrations peu nombreuses$?bibliographie 20 pages",
+    "subjects": {
+        "11945972\u00a411996647": "",
+        "11952413": ""
+    },
+    "genreforme": {
+        "11933610": ""
+    },
+    "detailed": "Description : Texte remani\u00e9 de la th\u00e8se de doctorat en litt\u00e9rature, soutenue \u00e0 l\u2019universit\u00e9 Toulouse 2 en 2003. Pr\u00e9sence d\u2019illustrations peu nombreuses. Bibliographie (20 pages)\n\n\n",
+    "rebonds": "<span class='rebond'><a href='full_results_UMLRM0141.html'>Est une adaptation pour un autre public dans le m\u00eame mode de cr\u00e9ation de [\u0153uvre] Valls de Gomis, Estelle (1973-...) Le vampire au fil des sie\u0300cles : docimasie d'un mythe</a></span>",
+    "exprResp": [],
+    "lang": [
+        "fre"
+    ],
+    "exprContentType": [
+        "Texte not\u00e9"
+    ]
+}

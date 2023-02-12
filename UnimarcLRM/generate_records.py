@@ -122,7 +122,7 @@ def enrich_oeuvres(dict_entities):
 def enrich_expressions(dict_entities):
     # Pour chaque expression, ajouter la liste des liens vers
     # les autres expressions de la même oeuvre
-    return []
+    return dict_entities
 
 
 def get_manif_years(eid, dict_entities):

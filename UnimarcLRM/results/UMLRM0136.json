@@ -1,0 +1,99 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>01314nx  f2200241   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0136</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20221021afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"2\" ind2=\" \">\n      <marc:subfield code=\"a\">eng</marc:subfield>\n      <marc:subfield code=\"j\">fre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d2005</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">b</marc:subfield>\n      <marc:subfield code=\"b\">xa2ae</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"147\" ind1=\"1\" ind2=\" \">\n      <marc:subfield code=\"a\">h</marc:subfield>\n      <marc:subfield code=\"e\">d</marc:subfield>\n      <marc:subfield code=\"h\">c</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\"> RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xb</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"232\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">UMLRM0135</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Dracula : pages from a virgin's diary</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"m\">Anglais ; sous-titrage en fran&#231;ais</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"371\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Surround (Dolby)</marc:subfield>\n      <marc:subfield code=\"c\">Film en version originale anglaise avec sous-titrage optionnel en fran&#231;ais</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"532\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxq</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0167</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">fre###</marc:subfield>\n      <marc:subfield code=\"a\">Guy Maddin</marc:subfield>\n      <marc:subfield code=\"k\">ED Distribution</marc:subfield>\n      <marc:subfield code=\"m\">Anglais ; sous-titrage en fran&#231;ais</marc:subfield>\n      <marc:subfield code=\"n\">Image anim&#233;e</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de premi&#232;re publication</marc:subfield>\n      <marc:subfield code=\"f\">#2005#####</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751131015</marc:subfield>\n      <marc:subfield code=\"c\">20221021</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Dracula : pages tir&#233;es du journal d'une vierge/ un film de Guy Maddin, [r&#233;alisateur] ; musique de Gustav Mahler. &#8211; [Paris] : ED distribution [&#233;diteur, distributeur], [DL 2005]. &#8211; [Image anim&#233;e : vid&#233;o].</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Wikipedia : https://fr.wikipedia.org/wiki/Dracula,_pages_tir%C3%A9es_du_journal_d%27une_vierge (2022-10-21)</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Cin&#233;-ressources : catalogue collectif des biblioth&#232;ques et archives de cin&#233;ma : http://www.cineressources.net (2022-10-21)</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">IMDB (Internet movie database) : https://www.imdb.com/title/tt0293113/ (2022-10-21)</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0136",
+    "txt": "\n000    01314nx  f2200241   4500\n001    UMLRM0136\n100    $a 20221021afrey50      ba0\n101 2  $a eng $j fre\n102    $a FR\n104    $a d2005\n145    $a b $b xa2ae\n147 1  $a h $e d $h c\n152    $a  RDA-FR\n154    $a xb\n232    $3 UMLRM0135 $7 ba0yba0y $8 freeng $a Dracula : pages from a virgin's diary $c film $m Anglais ; sous-titrage en fran\u00e7ais\n371    $a Surround (Dolby) $c Film en version originale anglaise avec sous-titrage optionnel en fran\u00e7ais\n532    $5 xxq $3 UMLRM0167 $7 ba0yba0y $8 fre### $a Guy Maddin $k ED Distribution $m Anglais ; sous-titrage en fran\u00e7ais $n Image anim\u00e9e\n640 6  $0 Date de premi\u00e8re publication $f #2005#####\n801  0 $a FR $b FR-751131015 $c 20221021\n810    $a Dracula : pages tir\u00e9es du journal d'une vierge/ un film de Guy Maddin, [r\u00e9alisateur] ; musique de Gustav Mahler. \u2013 [Paris] : ED distribution [\u00e9diteur, distributeur], [DL 2005]. \u2013 [Image anim\u00e9e : vid\u00e9o].\n810    $a Wikipedia : https://fr.wikipedia.org/wiki/Dracula,_pages_tir%C3%A9es_du_journal_d%27une_vierge (2022-10-21)\n810    $a Cin\u00e9-ressources : catalogue collectif des biblioth\u00e8ques et archives de cin\u00e9ma : http://www.cineressources.net (2022-10-21)\n810    $a IMDB (Internet movie database) : https://www.imdb.com/title/tt0293113/ (2022-10-21)",
+    "self_index": [
+        "dracula pages from virgin diary",
+        "",
+        "surround dolby",
+        "dracula pages tirees du journal une vierge un film de guy maddin realisateur musique de gustav mahler paris ed distribution editeur distributeur dl 2005 image animee video $?wikipedia https fr wikipedia org wiki dracula pages tir c3 a9es du journal 27une vierge 2022 10 21 $?cine ressources catalogue collectif des bibliotheques et archives de cinema http www cineressources net 2022 10 21 $?imdb internet movie database https www imdb com title tt0293113 2022 10 21",
+        "dracula pages from virgin diary",
+        "",
+        "surround dolby",
+        "dracula pages tirees du journal une vierge un film de guy maddin realisateur musique de gustav mahler paris ed distribution editeur distributeur dl 2005 image animee video $?wikipedia https fr wikipedia org wiki dracula pages tir c3 a9es du journal 27une vierge 2022 10 21 $?cine ressources catalogue collectif des bibliotheques et archives de cinema http www cineressources net 2022 10 21 $?imdb internet movie database https www imdb com title tt0293113 2022 10 21"
+    ],
+    "linked_entities_index": [
+        "dracula pages from virgin diary film anglais sous titrage en francais",
+        "dracula pages tirees du journal une vierge dracula pages from virgin diary un film de guy maddin realisateur musique de gustav mahler eng",
+        "paris ed distribution dl 2005 paris ed distribution",
+        "",
+        "",
+        "",
+        "audio commentaire du film par guy maddin$?interviews de guy maddin par lorenzo recio et par yves montmayeur$?biographie et filmographie de guy maddin",
+        "",
+        "dracula pages tirees du journal une vierge dracula pages from virgin diary un film de guy maddin realisateur musique de gustav mahler eng",
+        "paris ed distribution dl 2005 paris ed distribution",
+        "",
+        "",
+        "",
+        "audio commentaire du film par guy maddin$?interviews de guy maddin par lorenzo recio et par yves montmayeur$?biographie et filmographie de guy maddin",
+        "",
+        "https www wikidata org wiki q1324090",
+        "",
+        "dracula pages from virgin diary",
+        "enregistrement une representation par le ballet royal de winnipeg du ballet de mark godden adapte du roman dracula de bram stoker",
+        "1897 un manoir en angleterre la belle et insouciante lucy westenra doit faire son choix entre trois pretendants elle semble accorder sa preference un eux quand un cri retentit au dehors est renfield un fou enferme dans asile voisin qui agite car il sent venir son maitre dracula ressuscite des morts lucy troublee et curieuse laisse entrer le vampire qui la mord au cou evanouie elle ne se reveille que le lendemain matin apres que ses trois pretendants assistes du docteur van helsing ont veille sur elle en vain la jeune femme succombe de nouveau au desir et se laisse mordre une derniere fois par dracula avant de mourir les quatre hommes decapitent sa depouille afin de conjurer le mal decides neutraliser le dangereux vampire ils se rendent au chateau du comte dracula la ils retrouvent le jeune harker et sa fiancee mina la meilleure amie de lucy sous emprise du vampire ils finiront par le vaincre detruisant son chateau et emparant de son argent mina et harker pourront vivre heureux hantes toutefois par le souvenir de dracula une jeune femme seule dans une piece ecrit et reecrit indefiniment une lettre avec des morceaux de mine de plomb dehors la lumiere changeante fixe ses moindres gestes elle finit par poster la lettre dans la fente de horloge qui regorge autres lettres identiques"
+    ],
+    "resp_index": [],
+    "linked_resp_index": [
+        "maddin guy",
+        "recio lorenzo",
+        "montmayeur yves",
+        "ed distribution",
+        "maddin guy",
+        "zhang wei qiang",
+        "birtwhistle tara",
+        "moroni david lee",
+        "societe radio canada",
+        "dracula productions",
+        "royal winnipeg ballet"
+    ],
+    "global_index": " dracula productions paris ed distribution dl 2005 paris ed distribution recio lorenzo montmayeur yves dracula pages tirees du journal une vierge un film de guy maddin realisateur musique de gustav mahler paris ed distribution editeur distributeur dl 2005 image animee video $?wikipedia https fr wikipedia org wiki dracula pages tir c3 a9es du journal 27une vierge 2022 10 21 $?cine ressources catalogue collectif des bibliotheques et archives de cinema http www cineressources net 2022 10 21 $?imdb internet movie database https www imdb com title tt0293113 2022 10 21 enregistrement une representation par le ballet royal de winnipeg du ballet de mark godden adapte du roman dracula de bram stoker dracula pages from virgin diary film anglais sous titrage en francais societe radio canada moroni david lee ed distribution birtwhistle tara 1897 un manoir en angleterre la belle et insouciante lucy westenra doit faire son choix entre trois pretendants elle semble accorder sa preference un eux quand un cri retentit au dehors est renfield un fou enferme dans asile voisin qui agite car il sent venir son maitre dracula ressuscite des morts lucy troublee et curieuse laisse entrer le vampire qui la mord au cou evanouie elle ne se reveille que le lendemain matin apres que ses trois pretendants assistes du docteur van helsing ont veille sur elle en vain la jeune femme succombe de nouveau au desir et se laisse mordre une derniere fois par dracula avant de mourir les quatre hommes decapitent sa depouille afin de conjurer le mal decides neutraliser le dangereux vampire ils se rendent au chateau du comte dracula la ils retrouvent le jeune harker et sa fiancee mina la meilleure amie de lucy sous emprise du vampire ils finiront par le vaincre detruisant son chateau et emparant de son argent mina et harker pourront vivre heureux hantes toutefois par le souvenir de dracula une jeune femme seule dans une piece ecrit et reecrit indefiniment une lettre avec des morceaux de mine de plomb dehors la lumiere changeante fixe ses moindres gestes elle finit par poster la lettre dans la fente de horloge qui regorge autres lettres identiques dracula pages from virgin diary surround dolby audio commentaire du film par guy maddin$?interviews de guy maddin par lorenzo recio et par yves montmayeur$?biographie et filmographie de guy maddin royal winnipeg ballet dracula pages tirees du journal une vierge dracula pages from virgin diary un film de guy maddin realisateur musique de gustav mahler eng zhang wei qiang https www wikidata org wiki q1324090 maddin guy",
+    "type": "e",
+    "label": "Dracula : pages from a virgin's diary, film, Anglais ; sous-titrage en fran\u00e7ais",
+    "splitted_label": "Dracula : pages from\na virgin's diary,\nfilm, Anglais ;\nsous-titrage en\nfran\u00e7ais",
+    "stats_zones": {
+        "001": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "145": 1,
+        "147": 1,
+        "152": 1,
+        "154": 1,
+        "232": 1,
+        "371": 1,
+        "532": 1,
+        "640": 1,
+        "801": 1,
+        "810": 4
+    },
+    "resp": {},
+    "respIds": [],
+    "toOeuvres": {
+        "UMLRM0135": "Dracula : pages from a virgin's diary, film, Anglais ; sous-titrage en fran\u00e7ais"
+    },
+    "toExpressions": {},
+    "toManifs": {
+        "UMLRM0137": "Dracula, un film de Guy Maddin, [r\u00e9alisateur], ED distribution - ED distribution, [DL 2005], 1 DVD vid\u00e9o, monoface simple couche, PAL, surround (Dolby), toutes zones"
+    },
+    "manifsYears": [
+        2005
+    ],
+    "toItems": {
+        "UMLRM1044": "BM_CELESTEVILLE > MEZZANINE > COTE_UMLRM1044",
+        "UMLRM1045": "BM_CELESTEVILLE > MEZZANINE > COTE_UMLRM1045"
+    },
+    "repr": "id : UMLRM0136\ntype initial : oe ; type : e\nlabel : Dracula : pages from a virgin's diary, film, Anglais ; sous-titrage en fran\u00e7ais\n\nNotice : \n000    01314nx  f2200241   4500\n001    UMLRM0136\n100    $a 20221021afrey50      ba0\n101 2  $a eng $j fre\n102    $a FR\n104    $a d2005\n145    $a b $b xa2ae\n147 1  $a h $e d $h c\n152    $a  RDA-FR\n154    $a xb\n232    $3 UMLRM0135 $7 ba0yba0y $8 freeng $a Dracula : pages from a virgin's diary $c film $m Anglais ; sous-titrage en fran\u00e7ais\n371    $a Surround (Dolby) $c Film en version originale anglaise avec sous-titrage optionnel en fran\u00e7ais\n532    $5 xxq $3 UMLRM0167 $7 ba0yba0y $8 fre### $a Guy Maddin $k ED Distribution $m Anglais ; sous-titrage en fran\u00e7ais $n Image anim\u00e9e\n640 6  $0 Date de premi\u00e8re publication $f #2005#####\n801  0 $a FR $b FR-751131015 $c 20221021\n810    $a Dracula : pages tir\u00e9es du journal d'une vierge/ un film de Guy Maddin, [r\u00e9alisateur] ; musique de Gustav Mahler. \u2013 [Paris] : ED distribution [\u00e9diteur, distributeur], [DL 2005]. \u2013 [Image anim\u00e9e : vid\u00e9o].\n810    $a Wikipedia : https://fr.wikipedia.org/wiki/Dracula,_pages_tir%C3%A9es_du_journal_d%27une_vierge (2022-10-21)\n810    $a Cin\u00e9-ressources : catalogue collectif des biblioth\u00e8ques et archives de cin\u00e9ma : http://www.cineressources.net (2022-10-21)\n810    $a IMDB (Internet movie database) : https://www.imdb.com/title/tt0293113/ (2022-10-21) \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a56680>\nIndexation :  dracula pages from virgin diary surround dolby dracula pages tirees du journal une vierge un film de guy maddin realisateur musique de gustav mahler paris ed distribution editeur distributeur dl 2005 image animee video $?wikipedia https fr wikipedia org wiki dracula pages tir c3 a9es du journal 27une vierge 2022 10 21 $?cine ressources catalogue collectif des bibliotheques et archives de cinema http www cineressources net 2022 10 21 $?imdb internet movie database https www imdb com title tt0293113 2022 10 21",
+    "lang": [
+        "eng"
+    ],
+    "expressionContentType": "film",
+    "exprContentType": "film",
+    "exprResp": [],
+    "detailed": "Description : Surround (Dolby), Film en version originale anglaise avec sous-titrage optionnel en fran\u00e7ais\n\n\nDate de premi\u00e8re publication : 2005",
+    "rebonds": "",
+    "other_expressions": null
+}

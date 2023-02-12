@@ -1,7 +1,9 @@
 # coding: utf-8
 
 import os
+import json
 from unidecode import unidecode
+import collections
 from lxml.html import parse
 from lxml import etree
 from common_dicts import *
@@ -54,8 +56,26 @@ def generate_full_results_html(dict_results, dict_entities, query, type_entity):
         write_html_head(file, f"Notice détaillée {dict_results[result].label}", type_entity)
         write_html_full_body(file, result, dict_results[result], query, i, dict_entities)
         write_html_footer(file)
+        generate_json_file(result, dict_results[result])
         i += 1
 
+
+def generate_json_file(recordid, record):
+    json_record = {}
+    for key in record.__dict__:
+        json_record[key] = record.__dict__[key]
+    for key in json_record:
+        if type(json_record[key]) == etree._Element:
+            json_record[key] = etree.tostring(json_record[key]).decode("utf-8")
+        if isinstance(json_record[key], collections.defaultdict):
+            json_record[key] = dict(json_record[key])
+        if isinstance(json_record[key], set):
+            json_record[key] = list(json_record[key])
+        if isinstance(json_record[key], bytes):
+            json_record[key] = json_record[key].decode("utf-8")
+    json_record = json.dumps(json_record, indent=4)
+    with open(f"results/{recordid}.json", "w", encoding="utf-8") as json_file:
+        json_file.write(json_record)
 
 def write_html_short_body(file, dict_results, query, type_entity):
     file.write("<body>")
@@ -167,8 +187,8 @@ def generate_html_items(record, dict_entities):
 def generate_pro_infos(recordid, record, dict_entities):
     # Renvoi d'un ensemble d'infos professionnelles
     infos_pro = "<hr/>\n<h3>Infos professionnelles</h3>"
-    infos_pro += f"\n<div class='recordid'><p class='recordid'>{recordid} - {record.type}</p><//div>\n"
-
+    infos_pro += f"\n<div class='recordid'><p class='recordid'>{recordid} - {record.type}</p></div>\n"
+    infos_pro += f"\n<p><a href='{recordid}.json'>Version JSON</a></p>"
     graph = oeuvreid2graph(record, dict_entities, size="20,20")
     svg_graph = f"graphs/{recordid}.gv.svg"
     # div_graph = f'<a target="blank" href="{svg_graph}" title="Afficher le graphe"><img src = "{svg_graph}" alt="Graphe de l\'oeuvre"/>'

@@ -1,0 +1,94 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>01039nx  f2200217   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0106</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20220830afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">eng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">GB</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d1968</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"105\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">ba</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">b</marc:subfield>\n      <marc:subfield code=\"b\">xa2ae</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"147\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">g</marc:subfield>\n      <marc:subfield code=\"e\">c</marc:subfield>\n      <marc:subfield code=\"g\">d</marc:subfield>\n      <marc:subfield code=\"h\">a</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xb</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"232\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">UMLRM0105</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">fre</marc:subfield>\n      <marc:subfield code=\"a\">Dracula has risen from the grave</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"m\">Anglais</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"371\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"f\">Film en version originale anglaise, non sous-titr&#233;e</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"a\">GB</marc:subfield>\n      <marc:subfield code=\"f\">#19681107#</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-341725402</marc:subfield>\n      <marc:subfield code=\"c\">20220905</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">IMDB (Internet movie database) : https://www.imdb.com/title/tt0062909 (2022-11-04)</marc:subfield>\n      <marc:subfield code=\"b\">Techniques d&#8217;enregistrement</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Dracula has risen from the grave&#8206; / starring Christopher Lee, Rupert Davies ; produced by A&#239;da Young ; directed by Freddie Francis ; screenplay by John Elder based on the character created by Bram Stoker ; a Hammer film production. &#8211; [Burbank, Californie, &#201;tats-Unis : Warner home video [&#233;diteur] ; Paris : Warner home video France [distributeur], [1995]. &#8211; [Image anim&#233;e : video]</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0106",
+    "txt": "\n000    01039nx  f2200217   4500\n001    UMLRM0106\n100    $a 20220830afrey50      ba0\n101 0  $a eng\n102    $a GB\n104    $a d1968\n105    $a ba\n145 0  $a b $b xa2ae\n147 0  $a g $e c $g d $h a\n152    $a RDA-FR\n154    $a xb\n232    $3 UMLRM0105 $7 ba0yba0y $8 fre $a Dracula has risen from the grave $c film $m Anglais\n371    $f Film en version originale anglaise, non sous-titr\u00e9e\n640 6  $a GB $f #19681107#\n801    $a FR $b FR-341725402 $c 20220905\n810    $a IMDB (Internet movie database) : https://www.imdb.com/title/tt0062909 (2022-11-04) $b Techniques d\u2019enregistrement\n810    $a Dracula has risen from the grave\u200e / starring Christopher Lee, Rupert Davies ; produced by A\u00efda Young ; directed by Freddie Francis ; screenplay by John Elder based on the character created by Bram Stoker ; a Hammer film production. \u2013 [Burbank, Californie, \u00c9tats-Unis : Warner home video [\u00e9diteur] ; Paris : Warner home video France [distributeur], [1995]. \u2013 [Image anim\u00e9e : video]",
+    "self_index": [
+        "dracula has risen from the grave",
+        "",
+        "",
+        "imdb internet movie database https www imdb com title tt0062909 2022 11 04 $?dracula has risen from the grave starring christopher lee rupert davies produced by aida young directed by freddie francis screenplay by john elder based on the character created by bram stoker hammer film production burbank californie etats unis warner home video editeur paris warner home video france distributeur 1995 image animee video",
+        "dracula has risen from the grave",
+        "",
+        "",
+        "imdb internet movie database https www imdb com title tt0062909 2022 11 04 $?dracula has risen from the grave starring christopher lee rupert davies produced by aida young directed by freddie francis screenplay by john elder based on the character created by bram stoker hammer film production burbank californie etats unis warner home video editeur paris warner home video france distributeur 1995 image animee video"
+    ],
+    "linked_entities_index": [
+        "dracula has risen from the grave film anglais",
+        "dracula has risen from the grave starring christopher lee rupert davies produced by aida young directed by freddie francis screenplay by john elder based on the character created by bram stoker hammer film production",
+        "burbank californie etats unis warner home video 1995 paris warner home video france",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "dracula has risen from the grave starring christopher lee rupert davies produced by aida young directed by freddie francis screenplay by john elder based on the character created by bram stoker hammer film production",
+        "burbank californie etats unis warner home video 1995 paris warner home video france",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https data bnf fr ark 12148 cb16472893n$?https www wikidata org wiki q1254472",
+        "0000 0004 7ca4 0000 0000 0000",
+        "dracula has risen from the grave",
+        "quatrieme film de la serie dracula produite par la societe hammer film productions",
+        ""
+    ],
+    "resp_index": [],
+    "linked_resp_index": [
+        "francis freddie 1917 2007",
+        "elder john",
+        "bernard james",
+        "lee christopher",
+        "davies rupert",
+        "carlson veronica",
+        "hammer film productions"
+    ],
+    "global_index": " carlson veronica 0000 0004 7ca4 0000 0000 0000 francis freddie 1917 2007 lee christopher elder john burbank californie etats unis warner home video 1995 paris warner home video france davies rupert dracula has risen from the grave imdb internet movie database https www imdb com title tt0062909 2022 11 04 $?dracula has risen from the grave starring christopher lee rupert davies produced by aida young directed by freddie francis screenplay by john elder based on the character created by bram stoker hammer film production burbank californie etats unis warner home video editeur paris warner home video france distributeur 1995 image animee video dracula has risen from the grave starring christopher lee rupert davies produced by aida young directed by freddie francis screenplay by john elder based on the character created by bram stoker hammer film production https data bnf fr ark 12148 cb16472893n$?https www wikidata org wiki q1254472 hammer film productions dracula has risen from the grave film anglais bernard james quatrieme film de la serie dracula produite par la societe hammer film productions",
+    "type": "e",
+    "label": "Dracula has risen from the grave, film, Anglais",
+    "splitted_label": "Dracula has risen\nfrom the grave,\nfilm, Anglais",
+    "stats_zones": {
+        "001": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "105": 1,
+        "145": 1,
+        "147": 1,
+        "152": 1,
+        "154": 1,
+        "232": 1,
+        "371": 1,
+        "640": 1,
+        "801": 1,
+        "810": 2
+    },
+    "resp": {},
+    "respIds": [],
+    "toOeuvres": {
+        "UMLRM0105": "Dracula has risen from the grave, film, Anglais"
+    },
+    "toExpressions": {},
+    "toManifs": {
+        "UMLRM0107": "Dracula has risen from the grave\u200e, starring Christopher Lee, Rupert Davies, Warner home video - Warner home video France, [1995], 1 cassette vide\u0301o, VHS, NTSC"
+    },
+    "manifsYears": [
+        1995
+    ],
+    "toItems": {
+        "UMLRM1034": "BM_CELESTEVILLE > MEZZANINE > COTE_UMLRM1034"
+    },
+    "repr": "id : UMLRM0106\ntype initial : oe ; type : e\nlabel : Dracula has risen from the grave, film, Anglais\n\nNotice : \n000    01039nx  f2200217   4500\n001    UMLRM0106\n100    $a 20220830afrey50      ba0\n101 0  $a eng\n102    $a GB\n104    $a d1968\n105    $a ba\n145 0  $a b $b xa2ae\n147 0  $a g $e c $g d $h a\n152    $a RDA-FR\n154    $a xb\n232    $3 UMLRM0105 $7 ba0yba0y $8 fre $a Dracula has risen from the grave $c film $m Anglais\n371    $f Film en version originale anglaise, non sous-titr\u00e9e\n640 6  $a GB $f #19681107#\n801    $a FR $b FR-341725402 $c 20220905\n810    $a IMDB (Internet movie database) : https://www.imdb.com/title/tt0062909 (2022-11-04) $b Techniques d\u2019enregistrement\n810    $a Dracula has risen from the grave\u200e / starring Christopher Lee, Rupert Davies ; produced by A\u00efda Young ; directed by Freddie Francis ; screenplay by John Elder based on the character created by Bram Stoker ; a Hammer film production. \u2013 [Burbank, Californie, \u00c9tats-Unis : Warner home video [\u00e9diteur] ; Paris : Warner home video France [distributeur], [1995]. \u2013 [Image anim\u00e9e : video] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a56280>\nIndexation :  dracula has risen from the grave imdb internet movie database https www imdb com title tt0062909 2022 11 04 $?dracula has risen from the grave starring christopher lee rupert davies produced by aida young directed by freddie francis screenplay by john elder based on the character created by bram stoker hammer film production burbank californie etats unis warner home video editeur paris warner home video france distributeur 1995 image animee video",
+    "lang": [
+        "eng"
+    ],
+    "expressionContentType": "film",
+    "exprContentType": "film",
+    "exprResp": [],
+    "detailed": "Description : Film en version originale anglaise, non sous-titr\u00e9e\n\n\n : 07/11/1968",
+    "rebonds": "",
+    "other_expressions": null
+}

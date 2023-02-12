@@ -1,0 +1,111 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>01177nx  h2200289   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0195</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20221116afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">fre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">BE</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d1986</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"125\" ind1=\"0\" ind2=\"0\">\n      <marc:subfield code=\"a\">m</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">te</marc:subfield>\n      <marc:subfield code=\"b\">bibli</marc:subfield>\n      <marc:subfield code=\"2\">BnF-FonctTexMix</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">te</marc:subfield>\n      <marc:subfield code=\"b\">a</marc:subfield>\n      <marc:subfield code=\"2\">UM/M105pos4-7</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">i</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xa</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"241\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">11902797</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 2023 6609</marc:subfield>\n      <marc:subfield code=\"a\">Finn&#233;, Jacques (1944-&#8230;.)</marc:subfield>\n      <marc:subfield code=\"t\">Bibliographie de Dracula </marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"300\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Notes bibliographiques</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">11902797</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 2023 6609</marc:subfield>\n      <marc:subfield code=\"a\">Finn&#233;</marc:subfield>\n      <marc:subfield code=\"f\">1944-&#8230;.</marc:subfield>\n      <marc:subfield code=\"4\">070</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"600\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"3\">11962841</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"a\">Dracula</marc:subfield>\n      <marc:subfield code=\"c\">personnage fictif</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"606\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">11945972</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"a\">Vampires</marc:subfield>\n      <marc:subfield code=\"3\">11996647</marc:subfield>\n      <marc:subfield code=\"a\">Dans la litt&#233;rature</marc:subfield>\n      <marc:subfield code=\"2\">rameau</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"606\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">11936508</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"a\">Litt&#233;rature</marc:subfield>\n      <marc:subfield code=\"x\">Th&#232;mes, motifs</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"608\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">13318324</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"a\">Bibliographie</marc:subfield>\n      <marc:subfield code=\"2\">rameau-Forme</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de copyright</marc:subfield>\n      <marc:subfield code=\"f\">#1986#####</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"676\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">809.930 16</marc:subfield>\n      <marc:subfield code=\"v\">23</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751045101</marc:subfield>\n      <marc:subfield code=\"c\">20221116</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Bibliographie de Dracula / Jacques Finn&#233;. &#8211; Lausanne :  L&#8217;&#226;ge d'homme, cop. 1986. &#8211; [Texte not&#233; : sans m&#233;diation]</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0195",
+    "txt": "\n000    01177nx  h2200289   4500\n001    UMLRM0195\n100    $a 20221116afrey50      ba0\n101 0  $a fre\n102    $a BE\n104    $a d1986\n125 00 $a m\n140    $a te $b bibli $2 BnF-FonctTexMix\n140    $a te $b a $2 UM/M105pos4-7\n145 0  $a i\n152    $a RDA-FR\n154    $a xa\n241  1 $3 11902797 $o ISNI 0000 0001 2023 6609 $a Finn\u00e9, Jacques (1944-\u2026.) $t Bibliographie de Dracula  $7 ba0yba0y $8 frefre\n300    $a Notes bibliographiques\n501  1 $3 11902797 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2023 6609 $a Finn\u00e9 $f 1944-\u2026. $4 070\n600  0 $3 11962841 $7 ba0yba0y $8 frefre $a Dracula $c personnage fictif\n606    $3 11945972 $7 ba0yba0y $8 frefre $a Vampires $3 11996647 $a Dans la litt\u00e9rature $2 rameau\n606    $3 11936508 $7 ba0yba0y $8 frefre $a Litt\u00e9rature $x Th\u00e8mes, motifs\n608    $3 13318324 $7 ba0yba0y $8 frefre $a Bibliographie $2 rameau-Forme\n640 0  $0 Date de copyright $f #1986#####\n676    $a 809.930 16 $v 23\n801  0 $a FR $b FR-751045101 $c 20221116\n810    $a Bibliographie de Dracula / Jacques Finn\u00e9. \u2013 Lausanne :  L\u2019\u00e2ge d'homme, cop. 1986. \u2013 [Texte not\u00e9 : sans m\u00e9diation]",
+    "self_index": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "linked_entities_index": [
+        "bibliographie de dracula jacques finne",
+        "lausanne l'age homme copyright 1996",
+        "contemporains",
+        "",
+        "",
+        "",
+        "",
+        "bibliographie de dracula jacques finne",
+        "lausanne l'age homme copyright 1996",
+        "contemporains",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "finne jacques 1944 bibliographie de dracula",
+        "",
+        "bibliographie de dracula jacques finne lausanne l'age homme cop 1986 texte note sans mediation",
+        "",
+        "finne jacques 1944 bibliographie de dracula",
+        "",
+        "bibliographie de dracula jacques finne lausanne l'age homme cop 1986 texte note sans mediation"
+    ],
+    "resp_index": [
+        "finne",
+        "finne"
+    ],
+    "linked_resp_index": [],
+    "global_index": " bibliographie de dracula jacques finne finne jacques 1944 bibliographie de dracula lausanne l'age homme copyright 1996 bibliographie de dracula jacques finne lausanne l'age homme cop 1986 texte note sans mediation finne contemporains",
+    "type": "o",
+    "label": "Finn\u00e9, Jacques (1944-\u2026.), Bibliographie de Dracula ",
+    "splitted_label": "Finn\u00e9, Jacques\n(1944-\u2026.),\nBibliographie de\nDracula",
+    "stats_zones": {
+        "001": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "125": 1,
+        "140": 2,
+        "145": 1,
+        "152": 1,
+        "154": 1,
+        "241": 1,
+        "300": 1,
+        "501": 1,
+        "600": 1,
+        "606": 2,
+        "608": 1,
+        "640": 1,
+        "676": 1,
+        "801": 1,
+        "810": 1
+    },
+    "resp": {
+        "Finn\u00e9": [
+            "Auteur"
+        ]
+    },
+    "respIds": [
+        "11902797"
+    ],
+    "toOeuvres": {},
+    "toExpressions": {
+        "UMLRM0196": "Finn\u00e9, Jacques (1944-\u2026.), Bibliographie de Dracula, Fran\u00e7ais, Texte not\u00e9"
+    },
+    "toManifs": {
+        "UMLRM0197": "Bibliographie de Dracula, Jacques Finn\u00e9, L\u2019\u00e2ge d'homme, Copyright 1996, 1 volume(215 pages)"
+    },
+    "manifsYears": [
+        1986
+    ],
+    "toItems": {
+        "UMLRM1055": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1055"
+    },
+    "repr": "id : UMLRM0195\ntype initial : oe ; type : o\nlabel : Finn\u00e9, Jacques (1944-\u2026.), Bibliographie de Dracula \n\nNotice : \n000    01177nx  h2200289   4500\n001    UMLRM0195\n100    $a 20221116afrey50      ba0\n101 0  $a fre\n102    $a BE\n104    $a d1986\n125 00 $a m\n140    $a te $b bibli $2 BnF-FonctTexMix\n140    $a te $b a $2 UM/M105pos4-7\n145 0  $a i\n152    $a RDA-FR\n154    $a xa\n241  1 $3 11902797 $o ISNI 0000 0001 2023 6609 $a Finn\u00e9, Jacques (1944-\u2026.) $t Bibliographie de Dracula  $7 ba0yba0y $8 frefre\n300    $a Notes bibliographiques\n501  1 $3 11902797 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2023 6609 $a Finn\u00e9 $f 1944-\u2026. $4 070\n600  0 $3 11962841 $7 ba0yba0y $8 frefre $a Dracula $c personnage fictif\n606    $3 11945972 $7 ba0yba0y $8 frefre $a Vampires $3 11996647 $a Dans la litt\u00e9rature $2 rameau\n606    $3 11936508 $7 ba0yba0y $8 frefre $a Litt\u00e9rature $x Th\u00e8mes, motifs\n608    $3 13318324 $7 ba0yba0y $8 frefre $a Bibliographie $2 rameau-Forme\n640 0  $0 Date de copyright $f #1986#####\n676    $a 809.930 16 $v 23\n801  0 $a FR $b FR-751045101 $c 20221116\n810    $a Bibliographie de Dracula / Jacques Finn\u00e9. \u2013 Lausanne :  L\u2019\u00e2ge d'homme, cop. 1986. \u2013 [Texte not\u00e9 : sans m\u00e9diation] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a53140>\nIndexation :  finne",
+    "subjects": {
+        "11945972\u00a411996647": "",
+        "11936508": ""
+    },
+    "genreforme": {
+        "13318324": ""
+    },
+    "detailed": "\n\nDate de copyright : 1986",
+    "rebonds": "",
+    "exprResp": [],
+    "lang": [
+        "fre"
+    ],
+    "exprContentType": [
+        "Texte not\u00e9"
+    ]
+}

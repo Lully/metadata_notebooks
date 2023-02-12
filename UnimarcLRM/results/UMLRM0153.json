@@ -1,0 +1,85 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>00761nx  f2200193   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0153</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20221008afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">zxx</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d1932</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"105\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">ba</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">b</marc:subfield>\n      <marc:subfield code=\"b\">xb2e</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"147\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">a</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xb</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"232\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">UMLRM0152</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"a\">[Photographies extraites du film &#171; Dracula &#187; de Tod Browning]</marc:subfield>\n      <marc:subfield code=\"k\">Tallandier</marc:subfield>\n      <marc:subfield code=\"d\">1932</marc:subfield>\n      <marc:subfield code=\"n\">Image fixe</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de premi&#232;re publication</marc:subfield>\n      <marc:subfield code=\"f\">#1932#####</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751045101</marc:subfield>\n      <marc:subfield code=\"c\">20221008</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Dracula, l'homme de la nuit : roman traduit par &#200;ve et Lucie Paul-Margueritte et illustr&#233; de nombreuses photographies du film \"Dracula\" / Brahm Stoker. &#8211; Paris : &#201;ditions J. Tallandier, 1932. &#8211; [Texte not&#233;. Image fixe : sans m&#233;diation]</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0153",
+    "txt": "\n000    00761nx  f2200193   4500\n001    UMLRM0153\n100    $a 20221008afrey50      ba0\n101 0  $a zxx\n102    $a FR\n104    $a d1932\n105    $a ba\n145 0  $a b $b xb2e\n147 0  $a a\n152    $a RDA-FR\n154    $a xb\n232    $3 UMLRM0152 $7 ba0yba0y $8 frefre $a [Photographies extraites du film \u00ab Dracula \u00bb de Tod Browning] $k Tallandier $d 1932 $n Image fixe\n640 6  $0 Date de premi\u00e8re publication $f #1932#####\n801  0 $a FR $b FR-751045101 $c 20221008\n810    $a Dracula, l'homme de la nuit : roman traduit par \u00c8ve et Lucie Paul-Margueritte et illustr\u00e9 de nombreuses photographies du film \"Dracula\" / Brahm Stoker. \u2013 Paris : \u00c9ditions J. Tallandier, 1932. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation]",
+    "self_index": [
+        "photographies extraites du film dracula de tod browning",
+        "",
+        "",
+        "dracula homme de la nuit roman traduit par eve et lucie paul margueritte et illustre de nombreuses photographies du film dracula brahm stoker paris editions tallandier 1932 texte note image fixe sans mediation",
+        "photographies extraites du film dracula de tod browning",
+        "",
+        "",
+        "dracula homme de la nuit roman traduit par eve et lucie paul margueritte et illustre de nombreuses photographies du film dracula brahm stoker paris editions tallandier 1932 texte note image fixe sans mediation"
+    ],
+    "linked_entities_index": [
+        "photographies extraites du film dracula de tod browning tallandier 1932 image fixe",
+        "dracula l'homme de la nuit roman traduit par eve et lucie paul margueritte et illustre de nombreuses photographies du film dracula brahm stoker",
+        "paris editions tallandier 1932",
+        "cinema bibliotheque",
+        "",
+        "",
+        "",
+        "",
+        "dracula l'homme de la nuit roman traduit par eve et lucie paul margueritte et illustre de nombreuses photographies du film dracula brahm stoker",
+        "paris editions tallandier 1932",
+        "cinema bibliotheque",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "photographies extraites du film dracula de tod browning",
+        "reproduction d'une selection de photographies du film de tod browning pour illustrer diverses scenes du roman de bram stoker$?grande categorie technique impression photomecanique$?genre iconographique scenes cinematographiques",
+        ""
+    ],
+    "resp_index": [],
+    "linked_resp_index": [],
+    "global_index": " dracula l'homme de la nuit roman traduit par eve et lucie paul margueritte et illustre de nombreuses photographies du film dracula brahm stoker paris editions tallandier 1932 photographies extraites du film dracula de tod browning cinema bibliotheque reproduction d'une selection de photographies du film de tod browning pour illustrer diverses scenes du roman de bram stoker$?grande categorie technique impression photomecanique$?genre iconographique scenes cinematographiques photographies extraites du film dracula de tod browning tallandier 1932 image fixe dracula homme de la nuit roman traduit par eve et lucie paul margueritte et illustre de nombreuses photographies du film dracula brahm stoker paris editions tallandier 1932 texte note image fixe sans mediation",
+    "type": "e",
+    "label": "[Photographies extraites du film \u00ab Dracula \u00bb de Tod Browning], 1932, Image fixe",
+    "splitted_label": "[Photographies\nextraites du film \u00ab\nDracula \u00bb de Tod\nBrowning], 1932,\nImage fixe",
+    "stats_zones": {
+        "001": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "105": 1,
+        "145": 1,
+        "147": 1,
+        "152": 1,
+        "154": 1,
+        "232": 1,
+        "640": 1,
+        "801": 1,
+        "810": 1
+    },
+    "resp": {},
+    "respIds": [],
+    "toOeuvres": {
+        "UMLRM0152": "[Photographies extraites du film \u00ab Dracula \u00bb de Tod Browning], Tallandier, 1932, Image fixe"
+    },
+    "toExpressions": {},
+    "toManifs": {
+        "UMLRM0060": "Dracula, Brahm Stoker, \u00c9ditions J. Tallandier, 1932, 1 volume (96 pages \u2013 planches non num\u00e9rot\u00e9es), couverture illustr\u00e9e en couleur"
+    },
+    "manifsYears": [
+        1932
+    ],
+    "toItems": {
+        "UMLRM1019": "BM_CELESTEVILLE > MEZZANINE > COTE_UMLRM1019"
+    },
+    "repr": "id : UMLRM0153\ntype initial : oe ; type : e\nlabel : [Photographies extraites du film \u00ab Dracula \u00bb de Tod Browning], 1932, Image fixe\n\nNotice : \n000    00761nx  f2200193   4500\n001    UMLRM0153\n100    $a 20221008afrey50      ba0\n101 0  $a zxx\n102    $a FR\n104    $a d1932\n105    $a ba\n145 0  $a b $b xb2e\n147 0  $a a\n152    $a RDA-FR\n154    $a xb\n232    $3 UMLRM0152 $7 ba0yba0y $8 frefre $a [Photographies extraites du film \u00ab Dracula \u00bb de Tod Browning] $k Tallandier $d 1932 $n Image fixe\n640 6  $0 Date de premi\u00e8re publication $f #1932#####\n801  0 $a FR $b FR-751045101 $c 20221008\n810    $a Dracula, l'homme de la nuit : roman traduit par \u00c8ve et Lucie Paul-Margueritte et illustr\u00e9 de nombreuses photographies du film \"Dracula\" / Brahm Stoker. \u2013 Paris : \u00c9ditions J. Tallandier, 1932. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a56a40>\nIndexation :  photographies extraites du film dracula de tod browning dracula homme de la nuit roman traduit par eve et lucie paul margueritte et illustre de nombreuses photographies du film dracula brahm stoker paris editions tallandier 1932 texte note image fixe sans mediation",
+    "lang": [
+        "zxx"
+    ],
+    "expressionContentType": "Image fixe",
+    "exprContentType": "Image fixe",
+    "exprResp": [],
+    "detailed": "\n\nDate de premi\u00e8re publication : 1932",
+    "rebonds": "",
+    "other_expressions": null
+}

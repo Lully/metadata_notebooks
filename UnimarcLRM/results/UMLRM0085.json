@@ -1,0 +1,87 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>00633cx  h2200205   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0085</marc:controlfield>\n    <marc:controlfield tag=\"005\">20220908</marc:controlfield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20220908afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">fre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d2011</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"105\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">ba</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">i3</marc:subfield>\n      <marc:subfield code=\"b\">axxe</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">b1</marc:subfield>\n      <marc:subfield code=\"b\">cb2e</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xb</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"242\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">UMLRM0084</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"a\">Cazacu, Matei (1946-....)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n      <marc:subfield code=\"m\">Fran&#231;ais</marc:subfield>\n      <marc:subfield code=\"n\">Texte not&#233;</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de premi&#232;re publication</marc:subfield>\n      <marc:subfield code=\"f\">#2011#####</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751045101</marc:subfield>\n      <marc:subfield code=\"c\">20220908</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Dracula  / Matei Cazacu. &#8211; Paris : Tallandier, 2011. &#8211; [Texte not&#233; : sans m&#233;diation]. &#8211; ISBN 978-2-84734-801-9</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0085",
+    "txt": "\n000    00633cx  h2200205   4500\n001    UMLRM0085\n005    20220908\n100    $a 20220908afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2011\n105    $a ba\n145 0  $a i3 $b axxe\n145 0  $a b1 $b cb2e\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0084 $7 ba0yba0y $8 frefre $a Cazacu, Matei (1946-....) $t Dracula $m Fran\u00e7ais $n Texte not\u00e9\n640 6  $0 Date de premi\u00e8re publication $f #2011#####\n801  0 $a FR $b FR-751045101 $c 20220908\n810    $a Dracula  / Matei Cazacu. \u2013 Paris : Tallandier, 2011. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 978-2-84734-801-9",
+    "self_index": [
+        "",
+        "cazacu matei 1946 dracula",
+        "",
+        "dracula matei cazacu paris tallandier 2011 texte note sans mediation isbn 978 84734 801",
+        "",
+        "cazacu matei 1946 dracula",
+        "",
+        "dracula matei cazacu paris tallandier 2011 texte note sans mediation isbn 978 84734 801"
+    ],
+    "linked_entities_index": [
+        "cazacu matei 1946 dracula francais texte note",
+        "dracula matei cazacu",
+        "paris tallandier$? 61 lonrai normandie roto impression 2011",
+        "texto",
+        "",
+        "",
+        "",
+        "",
+        "dracula matei cazacu",
+        "paris tallandier$? 61 lonrai normandie roto impression 2011",
+        "texto",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "carte$?bibliographie pages $?index",
+        ""
+    ],
+    "resp_index": [],
+    "linked_resp_index": [
+        "cazacu matei"
+    ],
+    "global_index": " cazacu matei dracula matei cazacu carte$?bibliographie pages $?index texto cazacu matei 1946 dracula francais texte note paris tallandier$? 61 lonrai normandie roto impression 2011 dracula matei cazacu paris tallandier 2011 texte note sans mediation isbn 978 84734 801 cazacu matei 1946 dracula",
+    "type": "e",
+    "label": "Cazacu, Matei (1946-....), Dracula, Fran\u00e7ais, Texte not\u00e9",
+    "splitted_label": "Cazacu, Matei\n(1946-....),\nDracula, Fran\u00e7ais,\nTexte not\u00e9",
+    "stats_zones": {
+        "001": 1,
+        "005": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "105": 1,
+        "145": 2,
+        "152": 1,
+        "154": 1,
+        "242": 1,
+        "640": 1,
+        "801": 1,
+        "810": 1
+    },
+    "resp": {},
+    "respIds": [],
+    "toOeuvres": {
+        "UMLRM0084": "Cazacu, Matei (1946-....), Dracula, Fran\u00e7ais, Texte not\u00e9"
+    },
+    "toExpressions": {},
+    "toManifs": {
+        "UMLRM0086": "Dracula, Matei Cazacu, Tallandier - Normandie roto impression, 2011, 1 volume (497 pages), couverture illustr\u00e9e en couleur"
+    },
+    "manifsYears": [
+        2011
+    ],
+    "toItems": {
+        "UMLRM1027": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1027"
+    },
+    "repr": "id : UMLRM0085\ntype initial : oe ; type : e\nlabel : Cazacu, Matei (1946-....), Dracula, Fran\u00e7ais, Texte not\u00e9\n\nNotice : \n000    00633cx  h2200205   4500\n001    UMLRM0085\n005    20220908\n100    $a 20220908afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2011\n105    $a ba\n145 0  $a i3 $b axxe\n145 0  $a b1 $b cb2e\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0084 $7 ba0yba0y $8 frefre $a Cazacu, Matei (1946-....) $t Dracula $m Fran\u00e7ais $n Texte not\u00e9\n640 6  $0 Date de premi\u00e8re publication $f #2011#####\n801  0 $a FR $b FR-751045101 $c 20220908\n810    $a Dracula  / Matei Cazacu. \u2013 Paris : Tallandier, 2011. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 978-2-84734-801-9 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a56080>\nIndexation :  cazacu matei 1946 dracula dracula matei cazacu paris tallandier 2011 texte note sans mediation isbn 978 84734 801",
+    "lang": [
+        "fre"
+    ],
+    "expressionContentType": "Texte not\u00e9",
+    "exprContentType": "Texte not\u00e9",
+    "exprResp": [],
+    "detailed": "\n\nDate de premi\u00e8re publication : 2011",
+    "rebonds": "",
+    "other_expressions": null
+}

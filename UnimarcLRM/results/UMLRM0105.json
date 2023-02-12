@@ -1,0 +1,176 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>03226nx  f2200529   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0105</marc:controlfield>\n    <marc:datafield tag=\"033\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">https://data.bnf.fr/ark:/12148/cb16472893n</marc:subfield>\n      <marc:subfield code=\"2\">data.bnf.fr</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"033\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">https://www.wikidata.org/wiki/Q1254472</marc:subfield>\n      <marc:subfield code=\"2\">Wikidata</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"052\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">0000-0004-7CA4-0000-R-0000-0000-U</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20220905afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">eng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">GB</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d1968</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"125\" ind1=\"0\" ind2=\"0\">\n      <marc:subfield code=\"a\">m</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"127\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">013200</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">ic</marc:subfield>\n      <marc:subfield code=\"b\">ffho</marc:subfield>\n      <marc:subfield code=\"2\">BnF-GenreFilm</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">ic</marc:subfield>\n      <marc:subfield code=\"b\">fffa</marc:subfield>\n      <marc:subfield code=\"2\">BnF-GenreFilm</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">b</marc:subfield>\n      <marc:subfield code=\"b\">xa2ae</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"147\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">g</marc:subfield>\n      <marc:subfield code=\"e\">c</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xa</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"231\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Dracula has risen from the grave</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"333\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Interdit aux moins de 12 ans</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"370\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Quatri&#232;me film de la s&#233;rie \"Dracula\" produite par la soci&#233;t&#233; Hammer Film Productions.</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"431\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Dracula et les femmes</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"441\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">14001257</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 1044 7015</marc:subfield>\n      <marc:subfield code=\"a\">Francis, Freddie (1917-2007)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula has risen from the grave</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"441\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">14001257</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 1044 7015</marc:subfield>\n      <marc:subfield code=\"a\">Francis, Freddie (1917-2007)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula et les femmes</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\"1\" ind2=\" \">\n      <marc:subfield code=\"3\">14001257</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 1044 7015</marc:subfield>\n      <marc:subfield code=\"a\">Francis, Freddie (1917-2007)&#8206;</marc:subfield>\n      <marc:subfield code=\"4\">300</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">17975514</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Elder</marc:subfield>\n      <marc:subfield code=\"b\">John</marc:subfield>\n      <marc:subfield code=\"f\">1922-2013</marc:subfield>\n      <marc:subfield code=\"4\">690</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">13891418</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">fre###</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 1604 3011</marc:subfield>\n      <marc:subfield code=\"a\">Bernard</marc:subfield>\n      <marc:subfield code=\"b\">James</marc:subfield>\n      <marc:subfield code=\"f\">1925-2001</marc:subfield>\n      <marc:subfield code=\"4\">230</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">12213529</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 2284 3808</marc:subfield>\n      <marc:subfield code=\"a\">Lee</marc:subfield>\n      <marc:subfield code=\"b\">Christopher</marc:subfield>\n      <marc:subfield code=\"f\">1922-2015</marc:subfield>\n      <marc:subfield code=\"4\">005</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">14169469</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0000 3949 8521</marc:subfield>\n      <marc:subfield code=\"a\">Davies</marc:subfield>\n      <marc:subfield code=\"b\">Rupert</marc:subfield>\n      <marc:subfield code=\"f\">1916-1976</marc:subfield>\n      <marc:subfield code=\"4\">005</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">14067231</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0000 7245 7211</marc:subfield>\n      <marc:subfield code=\"a\">Carlson</marc:subfield>\n      <marc:subfield code=\"b\">Veronica</marc:subfield>\n      <marc:subfield code=\"f\">1944-202</marc:subfield>\n      <marc:subfield code=\"4\">005</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"511\" ind1=\"0\" ind2=\"2\">\n      <marc:subfield code=\"3\">13167642</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 2191 3894</marc:subfield>\n      <marc:subfield code=\"a\">Hammer Film Productions&#8206;</marc:subfield>\n      <marc:subfield code=\"4\">630</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"531\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxd</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0180</marc:subfield>\n      <marc:subfield code=\"a\">Dracula</marc:subfield>\n      <marc:subfield code=\"c\">film ; s&#233;rie</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"541\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxl</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0004</marc:subfield>\n      <marc:subfield code=\"a\">Stoker, Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"5\" ind2=\" \">\n      <marc:subfield code=\"0\">Tournage</marc:subfield>\n      <marc:subfield code=\"a\">GB</marc:subfield>\n      <marc:subfield code=\"d\">Londres</marc:subfield>\n      <marc:subfield code=\"e\">Pinewood studios</marc:subfield>\n      <marc:subfield code=\"f\">#19680422#</marc:subfield>\n      <marc:subfield code=\"i\">#19680604#</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"a\">GB</marc:subfield>\n      <marc:subfield code=\"f\">#19681107#</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"f\">#19690606#</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-341725402</marc:subfield>\n      <marc:subfield code=\"c\">20220905</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Dracula has risen from the grave&#8206; / starring Christopher Lee, Rupert Davies ; produced by A&#239;da Young ; directed by Freddie Francis ; screenplay by John Elder based on the character created by Bram Stoker ; a Hammer film production. &#8211; [Burbank, Californie, &#201;tats-Unis : Warner home video [&#233;diteur] ; Paris : Warner home video France [distributeur], [1995]. &#8211; [Image anim&#233;e : video]</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Cin&#233;-ressources : catalogue collectif des biblioth&#232;ques et archives de cin&#233;ma : http://www.cineressources.net (2022-11-04)</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Registre des visas et de la classification du CNC - https://www.cnc.fr/professionnels/visas-et-classification/35505 (2021-06-22)</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Wikip&#233;dia : https://fr.wikipedia.org/wiki/Dracula_et_les_Femmes (2022-11-04)</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">IMDB (Internet movie database) : https://www.imdb.com/title/tt0062909 (2022-11-04)</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">BnF Catalogue g&#233;n&#233;ral : http://catalogue.bnf.fr/ark:/12148/cb16472893n</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Data.bnf.fr : https://data.bnf.fr/ark:/12148/cb16472893n (2022-09-05)</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0105",
+    "txt": "\n000    03226nx  f2200529   4500\n001    UMLRM0105\n033    $a https://data.bnf.fr/ark:/12148/cb16472893n $2 data.bnf.fr\n033    $a https://www.wikidata.org/wiki/Q1254472 $2 Wikidata\n052    $a 0000-0004-7CA4-0000-R-0000-0000-U\n100    $a 20220905afrey50      ba0\n101 0  $a eng\n102    $a GB\n104    $a d1968\n125 00 $a m\n127 0  $a 013200\n140    $a ic $b ffho $2 BnF-GenreFilm\n140    $a ic $b fffa $2 BnF-GenreFilm\n145 0  $a b $b xa2ae\n147 0  $a g $e c\n152    $a RDA-FR\n154    $a xa\n231    $7 ba0yba0y $8 freeng $a Dracula has risen from the grave $c film\n333    $a Interdit aux moins de 12 ans\n370    $a Quatri\u00e8me film de la s\u00e9rie \"Dracula\" produite par la soci\u00e9t\u00e9 Hammer Film Productions.\n431    $a Dracula et les femmes $c film $7 ba0yba0y $8 frefre\n441  1 $3 14001257 $o ISNI 0000 0001 1044 7015 $a Francis, Freddie (1917-2007) $t Dracula has risen from the grave $c film $7 ba0yba0y $8 freeng\n441  1 $3 14001257 $o ISNI 0000 0001 1044 7015 $a Francis, Freddie (1917-2007) $t Dracula et les femmes $c film $7 ba0yba0y $8 frefre\n501 1  $3 14001257 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 1044 7015 $a Francis, Freddie (1917-2007)\u200e $4 300\n501  1 $3 17975514 $7 ba0yba0y $8 freeng $a Elder $b John $f 1922-2013 $4 690\n501  1 $3 13891418 $7 ba0yba0y $8 fre### $o ISNI 0000 0001 1604 3011 $a Bernard $b James $f 1925-2001 $4 230\n501  1 $3 12213529 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2284 3808 $a Lee $b Christopher $f 1922-2015 $4 005\n501  1 $3 14169469 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 3949 8521 $a Davies $b Rupert $f 1916-1976 $4 005\n501  1 $3 14067231 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 7245 7211 $a Carlson $b Veronica $f 1944-202 $4 005\n511 02 $3 13167642 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2191 3894 $a Hammer Film Productions\u200e $4 630\n531    $5 xxd $3 UMLRM0180 $a Dracula $c film ; s\u00e9rie\n541    $5 xxl $3 UMLRM0004 $a Stoker, Bram (1847-1912) $t Dracula $7 ba0yba0y $8 freeng\n640 5  $0 Tournage $a GB $d Londres $e Pinewood studios $f #19680422# $i #19680604#\n640 6  $a GB $f #19681107#\n640 6  $a FR $f #19690606#\n801    $a FR $b FR-341725402 $c 20220905\n810    $a Dracula has risen from the grave\u200e / starring Christopher Lee, Rupert Davies ; produced by A\u00efda Young ; directed by Freddie Francis ; screenplay by John Elder based on the character created by Bram Stoker ; a Hammer film production. \u2013 [Burbank, Californie, \u00c9tats-Unis : Warner home video [\u00e9diteur] ; Paris : Warner home video France [distributeur], [1995]. \u2013 [Image anim\u00e9e : video]\n810    $a Cin\u00e9-ressources : catalogue collectif des biblioth\u00e8ques et archives de cin\u00e9ma : http://www.cineressources.net (2022-11-04)\n810    $a Registre des visas et de la classification du CNC - https://www.cnc.fr/professionnels/visas-et-classification/35505 (2021-06-22)\n810    $a Wikip\u00e9dia : https://fr.wikipedia.org/wiki/Dracula_et_les_Femmes (2022-11-04)\n810    $a IMDB (Internet movie database) : https://www.imdb.com/title/tt0062909 (2022-11-04)\n810    $a BnF Catalogue g\u00e9n\u00e9ral : http://catalogue.bnf.fr/ark:/12148/cb16472893n\n810    $a Data.bnf.fr : https://data.bnf.fr/ark:/12148/cb16472893n (2022-09-05)",
+    "self_index": [
+        "https data bnf fr ark 12148 cb16472893n$?https www wikidata org wiki q1254472",
+        "0000 0004 7ca4 0000 0000 0000",
+        "dracula has risen from the grave",
+        "quatrieme film de la serie dracula produite par la societe hammer film productions",
+        "",
+        "https data bnf fr ark 12148 cb16472893n$?https www wikidata org wiki q1254472",
+        "0000 0004 7ca4 0000 0000 0000",
+        "dracula has risen from the grave",
+        "quatrieme film de la serie dracula produite par la societe hammer film productions",
+        ""
+    ],
+    "linked_entities_index": [
+        "dracula has risen from the grave starring christopher lee rupert davies produced by aida young directed by freddie francis screenplay by john elder based on the character created by bram stoker hammer film production",
+        "burbank californie etats unis warner home video 1995 paris warner home video france",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "dracula has risen from the grave starring christopher lee rupert davies produced by aida young directed by freddie francis screenplay by john elder based on the character created by bram stoker hammer film production",
+        "burbank californie etats unis warner home video 1995 paris warner home video france",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "dracula et les femmes dracula has risen from the grave avec christopher lee rupert davies realisation freddie francis scenario de john elder d'apres l'oeuvre de bram stoker musique de james bernard une production hammer film eng",
+        "paris warner home video france dl 1985$? paris warner home video france",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "dracula et les femmes dracula has risen from the grave avec christopher lee rupert davies realisation freddie francis scenario de john elder d'apres l'oeuvre de bram stoker musique de james bernard une production hammer film eng",
+        "paris warner home video france dl 1985$? paris warner home video france",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "dracula has risen from the grave",
+        "",
+        "",
+        "imdb internet movie database https www imdb com title tt0062909 2022 11 04 $?dracula has risen from the grave starring christopher lee rupert davies produced by aida young directed by freddie francis screenplay by john elder based on the character created by bram stoker hammer film production burbank californie etats unis warner home video editeur paris warner home video france distributeur 1995 image animee video",
+        "dracula has risen from the grave",
+        "",
+        "",
+        "imdb internet movie database https www imdb com title tt0062909 2022 11 04 $?dracula has risen from the grave starring christopher lee rupert davies produced by aida young directed by freddie francis screenplay by john elder based on the character created by bram stoker hammer film production burbank californie etats unis warner home video editeur paris warner home video france distributeur 1995 image animee video",
+        "dracula has risen from the grave",
+        "",
+        "",
+        "imdb internet movie database https www imdb com title tt0062909 2022 11 04 $?dracula et les femmes dracula has risen from the grave avec christopher lee rupert davies realisation freddie francis scenario de john elder d'apres l'oeuvre de bram stoker musique de james bernard une production hammer film paris warner home video france editeur paris warner home video france distributeur dl 1985 image animee video",
+        "dracula has risen from the grave",
+        "",
+        "",
+        "imdb internet movie database https www imdb com title tt0062909 2022 11 04 $?dracula et les femmes dracula has risen from the grave avec christopher lee rupert davies realisation freddie francis scenario de john elder d'apres l'oeuvre de bram stoker musique de james bernard une production hammer film paris warner home video france editeur paris warner home video france distributeur dl 1985 image animee video"
+    ],
+    "resp_index": [
+        "francis freddie 1917 2007",
+        "elder john",
+        "bernard james",
+        "lee christopher",
+        "davies rupert",
+        "carlson veronica",
+        "hammer film productions",
+        "francis freddie 1917 2007",
+        "elder john",
+        "bernard james",
+        "lee christopher",
+        "davies rupert",
+        "carlson veronica",
+        "hammer film productions"
+    ],
+    "linked_resp_index": [
+        "warner home video france"
+    ],
+    "global_index": " elder john paris warner home video france dl 1985$? paris warner home video france warner home video france lee christopher burbank californie etats unis warner home video 1995 paris warner home video france davies rupert https data bnf fr ark 12148 cb16472893n$?https www wikidata org wiki q1254472 dracula et les femmes dracula has risen from the grave avec christopher lee rupert davies realisation freddie francis scenario de john elder d'apres l'oeuvre de bram stoker musique de james bernard une production hammer film eng carlson veronica 0000 0004 7ca4 0000 0000 0000 francis freddie 1917 2007 dracula has risen from the grave starring christopher lee rupert davies produced by aida young directed by freddie francis screenplay by john elder based on the character created by bram stoker hammer film production hammer film productions bernard james imdb internet movie database https www imdb com title tt0062909 2022 11 04 $?dracula et les femmes dracula has risen from the grave avec christopher lee rupert davies realisation freddie francis scenario de john elder d'apres l'oeuvre de bram stoker musique de james bernard une production hammer film paris warner home video france editeur paris warner home video france distributeur dl 1985 image animee video dracula has risen from the grave imdb internet movie database https www imdb com title tt0062909 2022 11 04 $?dracula has risen from the grave starring christopher lee rupert davies produced by aida young directed by freddie francis screenplay by john elder based on the character created by bram stoker hammer film production burbank californie etats unis warner home video editeur paris warner home video france distributeur 1995 image animee video quatrieme film de la serie dracula produite par la societe hammer film productions",
+    "type": "o",
+    "label": "Dracula has risen from the grave, film",
+    "splitted_label": "Dracula has risen\nfrom the grave, film",
+    "stats_zones": {
+        "001": 1,
+        "033": 2,
+        "052": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "125": 1,
+        "127": 1,
+        "140": 2,
+        "145": 1,
+        "147": 1,
+        "152": 1,
+        "154": 1,
+        "231": 1,
+        "333": 1,
+        "370": 1,
+        "431": 1,
+        "441": 2,
+        "501": 6,
+        "511": 1,
+        "531": 1,
+        "541": 1,
+        "640": 3,
+        "801": 1,
+        "810": 7
+    },
+    "resp": {
+        "Francis, Freddie (1917-2007)\u200e": [
+            "Metteur en sc\u00e8ne ou r\u00e9alisateur"
+        ],
+        "Elder, John": [
+            "Sc\u00e9nariste"
+        ],
+        "Bernard, James": [
+            "Compositeur"
+        ],
+        "Lee, Christopher": [
+            "Acteur"
+        ],
+        "Davies, Rupert": [
+            "Acteur"
+        ],
+        "Carlson, Veronica": [
+            "Acteur"
+        ],
+        "Hammer Film Productions\u200e": [
+            "Producteur"
+        ]
+    },
+    "respIds": [
+        "14169469",
+        "12213529",
+        "13167642",
+        "17975514",
+        "14067231",
+        "13891418",
+        "14001257"
+    ],
+    "toOeuvres": {},
+    "toExpressions": {
+        "UMLRM0106": "Dracula has risen from the grave, film, Anglais",
+        "UMLRM0181": "Dracula has risen from the grave, film, Fran\u00e7ais"
+    },
+    "toManifs": {
+        "UMLRM0107": "Dracula has risen from the grave\u200e, starring Christopher Lee, Rupert Davies, Warner home video - Warner home video France, [1995], 1 cassette vide\u0301o, VHS, NTSC",
+        "UMLRM0182": "Dracula et les femmes, avec Christopher Lee, Rupert Davies, Warner home video France - Warner home video France, DL 1985, 1 cassette vide\u0301o, VHS, SECAM"
+    },
+    "manifsYears": [
+        1985,
+        1995
+    ],
+    "toItems": {
+        "UMLRM1034": "BM_CELESTEVILLE > MEZZANINE > COTE_UMLRM1034"
+    },
+    "repr": "id : UMLRM0105\ntype initial : oe ; type : o\nlabel : Dracula has risen from the grave, film\n\nNotice : \n000    03226nx  f2200529   4500\n001    UMLRM0105\n033    $a https://data.bnf.fr/ark:/12148/cb16472893n $2 data.bnf.fr\n033    $a https://www.wikidata.org/wiki/Q1254472 $2 Wikidata\n052    $a 0000-0004-7CA4-0000-R-0000-0000-U\n100    $a 20220905afrey50      ba0\n101 0  $a eng\n102    $a GB\n104    $a d1968\n125 00 $a m\n127 0  $a 013200\n140    $a ic $b ffho $2 BnF-GenreFilm\n140    $a ic $b fffa $2 BnF-GenreFilm\n145 0  $a b $b xa2ae\n147 0  $a g $e c\n152    $a RDA-FR\n154    $a xa\n231    $7 ba0yba0y $8 freeng $a Dracula has risen from the grave $c film\n333    $a Interdit aux moins de 12 ans\n370    $a Quatri\u00e8me film de la s\u00e9rie \"Dracula\" produite par la soci\u00e9t\u00e9 Hammer Film Productions.\n431    $a Dracula et les femmes $c film $7 ba0yba0y $8 frefre\n441  1 $3 14001257 $o ISNI 0000 0001 1044 7015 $a Francis, Freddie (1917-2007) $t Dracula has risen from the grave $c film $7 ba0yba0y $8 freeng\n441  1 $3 14001257 $o ISNI 0000 0001 1044 7015 $a Francis, Freddie (1917-2007) $t Dracula et les femmes $c film $7 ba0yba0y $8 frefre\n501 1  $3 14001257 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 1044 7015 $a Francis, Freddie (1917-2007)\u200e $4 300\n501  1 $3 17975514 $7 ba0yba0y $8 freeng $a Elder $b John $f 1922-2013 $4 690\n501  1 $3 13891418 $7 ba0yba0y $8 fre### $o ISNI 0000 0001 1604 3011 $a Bernard $b James $f 1925-2001 $4 230\n501  1 $3 12213529 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2284 3808 $a Lee $b Christopher $f 1922-2015 $4 005\n501  1 $3 14169469 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 3949 8521 $a Davies $b Rupert $f 1916-1976 $4 005\n501  1 $3 14067231 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 7245 7211 $a Carlson $b Veronica $f 1944-202 $4 005\n511 02 $3 13167642 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2191 3894 $a Hammer Film Productions\u200e $4 630\n531    $5 xxd $3 UMLRM0180 $a Dracula $c film ; s\u00e9rie\n541    $5 xxl $3 UMLRM0004 $a Stoker, Bram (1847-1912) $t Dracula $7 ba0yba0y $8 freeng\n640 5  $0 Tournage $a GB $d Londres $e Pinewood studios $f #19680422# $i #19680604#\n640 6  $a GB $f #19681107#\n640 6  $a FR $f #19690606#\n801    $a FR $b FR-341725402 $c 20220905\n810    $a Dracula has risen from the grave\u200e / starring Christopher Lee, Rupert Davies ; produced by A\u00efda Young ; directed by Freddie Francis ; screenplay by John Elder based on the character created by Bram Stoker ; a Hammer film production. \u2013 [Burbank, Californie, \u00c9tats-Unis : Warner home video [\u00e9diteur] ; Paris : Warner home video France [distributeur], [1995]. \u2013 [Image anim\u00e9e : video]\n810    $a Cin\u00e9-ressources : catalogue collectif des biblioth\u00e8ques et archives de cin\u00e9ma : http://www.cineressources.net (2022-11-04)\n810    $a Registre des visas et de la classification du CNC - https://www.cnc.fr/professionnels/visas-et-classification/35505 (2021-06-22)\n810    $a Wikip\u00e9dia : https://fr.wikipedia.org/wiki/Dracula_et_les_Femmes (2022-11-04)\n810    $a IMDB (Internet movie database) : https://www.imdb.com/title/tt0062909 (2022-11-04)\n810    $a BnF Catalogue g\u00e9n\u00e9ral : http://catalogue.bnf.fr/ark:/12148/cb16472893n\n810    $a Data.bnf.fr : https://data.bnf.fr/ark:/12148/cb16472893n (2022-09-05) \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a56240>\nIndexation :  carlson veronica 0000 0004 7ca4 0000 0000 0000 francis freddie 1917 2007 lee christopher elder john davies rupert https data bnf fr ark 12148 cb16472893n$?https www wikidata org wiki q1254472 dracula has risen from the grave hammer film productions bernard james quatrieme film de la serie dracula produite par la societe hammer film productions",
+    "subjects": {},
+    "genreforme": {},
+    "detailed": "Description : Quatri\u00e8me film de la s\u00e9rie \"Dracula\" produite par la soci\u00e9t\u00e9 Hammer Film Productions.\n\n\nTournage : 22/04/1968 (Londres)\n : 07/11/1968\n : 06/06/1969",
+    "rebonds": "<span class='rebond'><a href='full_results_UMLRM0180.html'>Dracula film ; s\u00e9rie</a></span>\n<span class='rebond'><a href='full_results_UMLRM0004.html'>Stoker, Bram (1847-1912) Dracula</a></span>",
+    "exprResp": [],
+    "lang": [
+        "eng",
+        "fre"
+    ],
+    "exprContentType": [
+        "film"
+    ]
+}

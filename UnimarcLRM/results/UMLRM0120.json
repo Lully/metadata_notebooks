@@ -1,0 +1,204 @@
+{
+    "xml": "<marc:record xmlns:marc=\"http://www.loc.gov/MARC21/slim\">\n    <marc:leader>04316cx  f2200589   4500</marc:leader>\n    <marc:controlfield tag=\"001\">UMLRM0120</marc:controlfield>\n    <marc:controlfield tag=\"005\">20221004########</marc:controlfield>\n    <marc:datafield tag=\"033\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">https://www.wikidata.org/wiki/Q1254469</marc:subfield>\n      <marc:subfield code=\"2\">Wikidata</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"052\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">0000-0000-295F-0000-O-0000-0000-2</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"100\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">20221004afrey50      ba0</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"101\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">eng</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"102\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">US</marc:subfield>\n      <marc:subfield code=\"a\">FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"104\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">d1995</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"125\" ind1=\"0\" ind2=\"0\">\n      <marc:subfield code=\"a\">m</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"127\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">012800</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">ic</marc:subfield>\n      <marc:subfield code=\"b\">10501</marc:subfield>\n      <marc:subfield code=\"2\">frTAV</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">ic</marc:subfield>\n      <marc:subfield code=\"b\">ffco</marc:subfield>\n      <marc:subfield code=\"2\">BnF-GenreFilm</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"140\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">ic</marc:subfield>\n      <marc:subfield code=\"b\">ffho</marc:subfield>\n      <marc:subfield code=\"2\">BnF-GenreFilm</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"145\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">b</marc:subfield>\n      <marc:subfield code=\"b\">xa2ae</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"147\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"a\">g</marc:subfield>\n      <marc:subfield code=\"e\">c</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"152\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">RDA-FR</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"154\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">xa</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"231\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Dracula, dead and loving it</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"333\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Adultes, tout public</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"370\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Pastiche inspir&#233; du film Dracula de 1931 avec Bela Lugosi, r&#233;alis&#233; par Tod Browning</marc:subfield>\n      <marc:subfield code=\"c\">Copyright : Borgo Pass productions, 1996</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"378\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Le comte Dracula a achet&#233; une abbaye en Angleterre. L'avou&#233; londonien Thomas Renfield se rend dans son lointain et sinistre ch&#226;teau transylvanien pour lui faire signer les actes notari&#233;s. Dracula hypnotise, non sans difficult&#233;, son h&#244;te, et, suivi de son nouvel esclave, arrive en Angleterre. L'&#233;quipage du vaisseau a trouv&#233; la mort durant la travers&#233;e. Renfield, seul survivant, est enferm&#233; dans l'asile du docteur Seward, &#224; deux pas de l'abbaye o&#249; s'est install&#233; le vampire. A l'op&#233;ra, Dracula fait la connaissance de la fille du docteur Seward, Mina, de son fianc&#233; Jonathan Harker et de Lucy, une amie du couple. Le soir m&#234;me, il vide Lucy de son sang...</marc:subfield>\n      <marc:subfield code=\"b\">T&#233;l&#233;rama</marc:subfield>\n      <marc:subfield code=\"z\">fre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"431\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"a\">Dracula, mort et heureux de l&#8217;&#234;tre</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"441\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">13891880</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"o\">ISNI0000 0001 0920 8877</marc:subfield>\n      <marc:subfield code=\"a\">Brooks, Mel (1926-&#8230;.)</marc:subfield>\n      <marc:subfield code=\"t\"> Dracula, dead and loving it</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"441\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">13891880</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 0920 8877</marc:subfield>\n      <marc:subfield code=\"a\">Brooks, Mel (1926-&#8230;.)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula, mort et heureux de l&#8217;&#234;tre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">13891880</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 0920 8877</marc:subfield>\n      <marc:subfield code=\"a\">Brooks</marc:subfield>\n      <marc:subfield code=\"b\">Mel</marc:subfield>\n      <marc:subfield code=\"f\">1926-....</marc:subfield>\n      <marc:subfield code=\"4\">300</marc:subfield>\n      <marc:subfield code=\"4\">690</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">14048907</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0000 0277 289X</marc:subfield>\n      <marc:subfield code=\"a\">De Luca</marc:subfield>\n      <marc:subfield code=\"b\">Rudy</marc:subfield>\n      <marc:subfield code=\"4\">690</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">14048909</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0000 0321 5278</marc:subfield>\n      <marc:subfield code=\"a\">Haberman</marc:subfield>\n      <marc:subfield code=\"b\">Steve</marc:subfield>\n      <marc:subfield code=\"4\">690</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">13897969</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 1456 2467</marc:subfield>\n      <marc:subfield code=\"a\">Nielsen</marc:subfield>\n      <marc:subfield code=\"b\">Leslie</marc:subfield>\n      <marc:subfield code=\"f\">1926-2010</marc:subfield>\n      <marc:subfield code=\"4\">005</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">14017477</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 1470 316X</marc:subfield>\n      <marc:subfield code=\"a\">MacNicol</marc:subfield>\n      <marc:subfield code=\"b\">Peter</marc:subfield>\n      <marc:subfield code=\"f\">1954-&#8230;.</marc:subfield>\n      <marc:subfield code=\"4\">005</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">14021739</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 1627 1751</marc:subfield>\n      <marc:subfield code=\"a\">Weber</marc:subfield>\n      <marc:subfield code=\"b\">Steven</marc:subfield>\n      <marc:subfield code=\"f\">1961-....</marc:subfield>\n      <marc:subfield code=\"4\">005</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"501\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"3\">13961733</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 1743 3062</marc:subfield>\n      <marc:subfield code=\"a\">Mann</marc:subfield>\n      <marc:subfield code=\"b\">Hummie</marc:subfield>\n      <marc:subfield code=\"f\">1955-&#8230;.</marc:subfield>\n      <marc:subfield code=\"4\">230</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"511\" ind1=\"0\" ind2=\"2\">\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Brooksfilms</marc:subfield>\n      <marc:subfield code=\"c\">Firme</marc:subfield>\n      <marc:subfield code=\"4\">630</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"511\" ind1=\"0\" ind2=\"2\">\n      <marc:subfield code=\"3\">12209507</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">frefre</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0001 2265 3959</marc:subfield>\n      <marc:subfield code=\"a\">Gaumont</marc:subfield>\n      <marc:subfield code=\"4\">630</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"511\" ind1=\"0\" ind2=\"2\">\n      <marc:subfield code=\"3\">14277791</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"o\">ISNI 0000 0000 9494 1709</marc:subfield>\n      <marc:subfield code=\"a\">Castle Rock Entertainment</marc:subfield>\n      <marc:subfield code=\"4\">630</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"531\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"5\">xxa</marc:subfield>\n      <marc:subfield code=\"p\">Est une parodie de</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0154</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">fre###</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n      <marc:subfield code=\"c\">film</marc:subfield>\n      <marc:subfield code=\"d\">1931</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"541\" ind1=\" \" ind2=\"1\">\n      <marc:subfield code=\"5\">xxa</marc:subfield>\n      <marc:subfield code=\"p\">Est une parodie de</marc:subfield>\n      <marc:subfield code=\"3\">UMLRM0004</marc:subfield>\n      <marc:subfield code=\"7\">ba0yba0y</marc:subfield>\n      <marc:subfield code=\"8\">freeng</marc:subfield>\n      <marc:subfield code=\"a\">Stoker</marc:subfield>\n      <marc:subfield code=\"b\">Bram (1847-1912)</marc:subfield>\n      <marc:subfield code=\"t\">Dracula</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"608\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">11931407</marc:subfield>\n      <marc:subfield code=\"a\">Films de vampires</marc:subfield>\n      <marc:subfield code=\"2\">rameauGenre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"608\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"3\">12518788</marc:subfield>\n      <marc:subfield code=\"a\">Com&#233;dies (cin&#233;ma)</marc:subfield>\n      <marc:subfield code=\"2\">rameauGenre</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"0\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de copyright</marc:subfield>\n      <marc:subfield code=\"f\">#1996#####</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de sortie en salle</marc:subfield>\n      <marc:subfield code=\"a\">US</marc:subfield>\n      <marc:subfield code=\"f\">#19951222#</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"6\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de sortie en salle</marc:subfield>\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"f\">#19960410#</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"640\" ind1=\"5\" ind2=\" \">\n      <marc:subfield code=\"0\">Date de tournage</marc:subfield>\n      <marc:subfield code=\"f\">#19950508#</marc:subfield>\n      <marc:subfield code=\"i\">#19950726#</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"801\" ind1=\" \" ind2=\"0\">\n      <marc:subfield code=\"a\">FR</marc:subfield>\n      <marc:subfield code=\"b\">FR-751052119</marc:subfield>\n      <marc:subfield code=\"c\">20221004</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Dracula, mort et heureux de l'&#234;tre = Dracula dead and loving it / un film de Mel Brooks ; Leslie Nielsen, Peter MacNicol, Steven Weber... [et autres], [acteurs] ; musique, Hummie Mann ; histoire de Rudy De Luca &amp; Steve Haberman ; sc&#233;nario de Mel Brooks &amp; Rudy De Luca &amp; Steve Haberman ; produit et r&#233;alis&#233; par Mel Brooks. &#8211; Neuilly-sur-Seine : Gaumont vid&#233;o [&#233;diteur] ; Boulogne-Billancourt : Paramount home entertainment France [distributeur], 2009. &#8211; [Image anim&#233;e : vid&#233;o]. &#8211; R&#233;f&#233;rence commerciale : FG 315 880 (EDV 1504)</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Wikipedia : https://en.wikipedia.org/wiki/Dracula:_Dead_and_Loving_It (2022-10-04)</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">IMDB (Internet movie database) : https://www.imdb.com/title/tt0112896/ (2022-11-10)</marc:subfield>\n    </marc:datafield>\n    <marc:datafield tag=\"810\" ind1=\" \" ind2=\" \">\n      <marc:subfield code=\"a\">Cin&#233;-ressources : catalogue collectif des biblioth&#232;ques et archives de cin&#233;ma : http://www.cineressources.net (2022-11-10)</marc:subfield>\n    </marc:datafield>\n  </marc:record>\n  ",
+    "init_type": "oe",
+    "id": "UMLRM0120",
+    "txt": "\n000    04316cx  f2200589   4500\n001    UMLRM0120\n005    20221004########\n033    $a https://www.wikidata.org/wiki/Q1254469 $2 Wikidata\n052    $a 0000-0000-295F-0000-O-0000-0000-2\n100    $a 20221004afrey50      ba0\n101 0  $a eng\n102    $a US $a FR\n104    $a d1995\n125 00 $a m\n127 0  $a 012800\n140    $a ic $b 10501 $2 frTAV\n140    $a ic $b ffco $2 BnF-GenreFilm\n140    $a ic $b ffho $2 BnF-GenreFilm\n145 0  $a b $b xa2ae\n147 0  $a g $e c\n152    $a RDA-FR\n154    $a xa\n231    $7 ba0yba0y $8 freeng $a Dracula, dead and loving it $c film\n333    $a Adultes, tout public\n370    $a Pastiche inspir\u00e9 du film Dracula de 1931 avec Bela Lugosi, r\u00e9alis\u00e9 par Tod Browning $c Copyright : Borgo Pass productions, 1996\n378    $a Le comte Dracula a achet\u00e9 une abbaye en Angleterre. L'avou\u00e9 londonien Thomas Renfield se rend dans son lointain et sinistre ch\u00e2teau transylvanien pour lui faire signer les actes notari\u00e9s. Dracula hypnotise, non sans difficult\u00e9, son h\u00f4te, et, suivi de son nouvel esclave, arrive en Angleterre. L'\u00e9quipage du vaisseau a trouv\u00e9 la mort durant la travers\u00e9e. Renfield, seul survivant, est enferm\u00e9 dans l'asile du docteur Seward, \u00e0 deux pas de l'abbaye o\u00f9 s'est install\u00e9 le vampire. A l'op\u00e9ra, Dracula fait la connaissance de la fille du docteur Seward, Mina, de son fianc\u00e9 Jonathan Harker et de Lucy, une amie du couple. Le soir m\u00eame, il vide Lucy de son sang... $b T\u00e9l\u00e9rama $z fre\n431    $7 ba0yba0y $8 frefre $a Dracula, mort et heureux de l\u2019\u00eatre $c film\n441  1 $3 13891880 $7 ba0yba0y $8 freeng $o ISNI0000 0001 0920 8877 $a Brooks, Mel (1926-\u2026.) $t  Dracula, dead and loving it\n441  1 $3 13891880 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 0920 8877 $a Brooks, Mel (1926-\u2026.) $t Dracula, mort et heureux de l\u2019\u00eatre\n501  1 $3 13891880 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 0920 8877 $a Brooks $b Mel $f 1926-.... $4 300 $4 690\n501  1 $3 14048907 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 0277 289X $a De Luca $b Rudy $4 690\n501  1 $3 14048909 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 0321 5278 $a Haberman $b Steve $4 690\n501  1 $3 13897969 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 1456 2467 $a Nielsen $b Leslie $f 1926-2010 $4 005\n501  1 $3 14017477 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 1470 316X $a MacNicol $b Peter $f 1954-\u2026. $4 005\n501  1 $3 14021739 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 1627 1751 $a Weber $b Steven $f 1961-.... $4 005\n501  1 $3 13961733 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 1743 3062 $a Mann $b Hummie $f 1955-\u2026. $4 230\n511 02 $7 ba0yba0y $8 freeng $a Brooksfilms $c Firme $4 630\n511 02 $3 12209507 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2265 3959 $a Gaumont $4 630\n511 02 $3 14277791 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 9494 1709 $a Castle Rock Entertainment $4 630\n531    $5 xxa $p Est une parodie de $3 UMLRM0154 $7 ba0yba0y $8 fre### $t Dracula $c film $d 1931\n541  1 $5 xxa $p Est une parodie de $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker $b Bram (1847-1912) $t Dracula\n608    $3 11931407 $a Films de vampires $2 rameauGenre\n608    $3 12518788 $a Com\u00e9dies (cin\u00e9ma) $2 rameauGenre\n640 0  $0 Date de copyright $f #1996#####\n640 6  $0 Date de sortie en salle $a US $f #19951222#\n640 6  $0 Date de sortie en salle $a FR $f #19960410#\n640 5  $0 Date de tournage $f #19950508# $i #19950726#\n801  0 $a FR $b FR-751052119 $c 20221004\n810    $a Dracula, mort et heureux de l'\u00eatre = Dracula dead and loving it / un film de Mel Brooks ; Leslie Nielsen, Peter MacNicol, Steven Weber... [et autres], [acteurs] ; musique, Hummie Mann ; histoire de Rudy De Luca & Steve Haberman ; sc\u00e9nario de Mel Brooks & Rudy De Luca & Steve Haberman ; produit et r\u00e9alis\u00e9 par Mel Brooks. \u2013 Neuilly-sur-Seine : Gaumont vid\u00e9o [\u00e9diteur] ; Boulogne-Billancourt : Paramount home entertainment France [distributeur], 2009. \u2013 [Image anim\u00e9e : vid\u00e9o]. \u2013 R\u00e9f\u00e9rence commerciale : FG 315 880 (EDV 1504)\n810    $a Wikipedia : https://en.wikipedia.org/wiki/Dracula:_Dead_and_Loving_It (2022-10-04)\n810    $a IMDB (Internet movie database) : https://www.imdb.com/title/tt0112896/ (2022-11-10)\n810    $a Cin\u00e9-ressources : catalogue collectif des biblioth\u00e8ques et archives de cin\u00e9ma : http://www.cineressources.net (2022-11-10)",
+    "self_index": [
+        "https www wikidata org wiki q1254469",
+        "0000 0000 295f 0000 0000 0000",
+        "dracula dead and loving it",
+        "pastiche inspire du film dracula de 1931 avec bela lugosi realise par tod browning copyright borgo pass productions 1996",
+        "le comte dracula achete une abbaye en angleterre avoue londonien thomas renfield se rend dans son lointain et sinistre chateau transylvanien pour lui faire signer les actes notaries dracula hypnotise non sans difficulte son hote et suivi de son nouvel esclave arrive en angleterre equipage du vaisseau trouve la mort durant la traversee renfield seul survivant est enferme dans asile du docteur seward deux pas de abbaye ou est installe le vampire opera dracula fait la connaissance de la fille du docteur seward mina de son fiance jonathan harker et de lucy une amie du couple le soir meme il vide lucy de son sang",
+        "https www wikidata org wiki q1254469",
+        "0000 0000 295f 0000 0000 0000",
+        "dracula dead and loving it",
+        "pastiche inspire du film dracula de 1931 avec bela lugosi realise par tod browning copyright borgo pass productions 1996",
+        "le comte dracula achete une abbaye en angleterre avoue londonien thomas renfield se rend dans son lointain et sinistre chateau transylvanien pour lui faire signer les actes notaries dracula hypnotise non sans difficulte son hote et suivi de son nouvel esclave arrive en angleterre equipage du vaisseau trouve la mort durant la traversee renfield seul survivant est enferme dans asile du docteur seward deux pas de abbaye ou est installe le vampire opera dracula fait la connaissance de la fille du docteur seward mina de son fiance jonathan harker et de lucy une amie du couple le soir meme il vide lucy de son sang"
+    ],
+    "linked_entities_index": [
+        "dracula mort et heureux de l'etre dracula dead and loving it un film de mel brooks leslie nielsen peter macnicol steven weber et autres acteurs musique hummie mann histoire de rudy de luca steve haberman scenario de mel brooks rudy de luca steve haberman produit et realise par mel brooks eng",
+        "neuilly sur seine gaumont video 2009$? boulogne billancourt paramount home entertainment",
+        "",
+        "",
+        "",
+        "commentaires audio de mel brooks et de son equipe version originale sous titree$?bande annonce",
+        "",
+        "dracula mort et heureux de l'etre dracula dead and loving it un film de mel brooks leslie nielsen peter macnicol steven weber et autres acteurs musique hummie mann histoire de rudy de luca steve haberman scenario de mel brooks rudy de luca steve haberman produit et realise par mel brooks eng",
+        "neuilly sur seine gaumont video 2009$? boulogne billancourt paramount home entertainment",
+        "",
+        "",
+        "",
+        "commentaires audio de mel brooks et de son equipe version originale sous titree$?bande annonce",
+        "",
+        "mel brooks",
+        "neuilly sur seine gaumont video 2015 boulogne billancourt paramount home entertainment",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "mel brooks",
+        "neuilly sur seine gaumont video 2015 boulogne billancourt paramount home entertainment",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "dracula dead and loving it",
+        "",
+        "encodage du son dolby surround",
+        "dracula mort et heureux de etre dracula dead and loving it un film de mel brooks leslie nielsen peter macnicol steven weber et autres acteurs musique hummie mann histoire de rudy de luca steve haberman scenario de mel brooks rudy de luca steve haberman produit et realise par mel brooks neuilly sur seine gaumont video editeur boulogne billancourt paramount home entertainment france distributeur 2009 image animee video reference commerciale fg 315 880 edv 1504",
+        "dracula dead and loving it",
+        "",
+        "encodage du son dolby surround",
+        "dracula mort et heureux de etre dracula dead and loving it un film de mel brooks leslie nielsen peter macnicol steven weber et autres acteurs musique hummie mann histoire de rudy de luca steve haberman scenario de mel brooks rudy de luca steve haberman produit et realise par mel brooks neuilly sur seine gaumont video editeur boulogne billancourt paramount home entertainment france distributeur 2009 image animee video reference commerciale fg 315 880 edv 1504",
+        "dracula dead and loving it",
+        "",
+        "encodage du son dolby surround",
+        "dracula mort et heureux de etre dracula dead and loving it un film de mel brooks leslie nielsen peter macnicol steven weber et autres acteurs musique hummie mann histoire de rudy de luca steve haberman scenario de mel brooks rudy de luca steve haberman produit et realise par mel brooks neuilly sur seine gaumont video editeur boulogne billancourt paramount home entertainment france distributeur 2009 image animee video reference commerciale fg 315 880 edv 1504",
+        "dracula dead and loving it",
+        "",
+        "encodage du son dolby surround",
+        "dracula mort et heureux de etre dracula dead and loving it un film de mel brooks leslie nielsen peter macnicol steven weber et autres acteurs musique hummie mann histoire de rudy de luca steve haberman scenario de mel brooks rudy de luca steve haberman produit et realise par mel brooks neuilly sur seine gaumont video editeur boulogne billancourt paramount home entertainment france distributeur 2009 image animee video reference commerciale fg 315 880 edv 1504"
+    ],
+    "resp_index": [
+        "brooks mel",
+        "de luca rudy",
+        "haberman steve",
+        "nielsen leslie",
+        "macnicol peter",
+        "weber steven",
+        "mann hummie",
+        "brooksfilms firme",
+        "gaumont",
+        "castle rock entertainment",
+        "brooks mel",
+        "de luca rudy",
+        "haberman steve",
+        "nielsen leslie",
+        "macnicol peter",
+        "weber steven",
+        "mann hummie",
+        "brooksfilms firme",
+        "gaumont",
+        "castle rock entertainment"
+    ],
+    "linked_resp_index": [
+        "brooks mel",
+        "gaumont video",
+        "gaumont video"
+    ],
+    "global_index": " de luca rudy gaumont video brooks mel pastiche inspire du film dracula de 1931 avec bela lugosi realise par tod browning copyright borgo pass productions 1996 brooksfilms firme dracula mort et heureux de l'etre dracula dead and loving it un film de mel brooks leslie nielsen peter macnicol steven weber et autres acteurs musique hummie mann histoire de rudy de luca steve haberman scenario de mel brooks rudy de luca steve haberman produit et realise par mel brooks eng weber steven le comte dracula achete une abbaye en angleterre avoue londonien thomas renfield se rend dans son lointain et sinistre chateau transylvanien pour lui faire signer les actes notaries dracula hypnotise non sans difficulte son hote et suivi de son nouvel esclave arrive en angleterre equipage du vaisseau trouve la mort durant la traversee renfield seul survivant est enferme dans asile du docteur seward deux pas de abbaye ou est installe le vampire opera dracula fait la connaissance de la fille du docteur seward mina de son fiance jonathan harker et de lucy une amie du couple le soir meme il vide lucy de son sang https www wikidata org wiki q1254469 dracula mort et heureux de etre dracula dead and loving it un film de mel brooks leslie nielsen peter macnicol steven weber et autres acteurs musique hummie mann histoire de rudy de luca steve haberman scenario de mel brooks rudy de luca steve haberman produit et realise par mel brooks neuilly sur seine gaumont video editeur boulogne billancourt paramount home entertainment france distributeur 2009 image animee video reference commerciale fg 315 880 edv 1504 nielsen leslie macnicol peter dracula dead and loving it castle rock entertainment haberman steve neuilly sur seine gaumont video 2015 boulogne billancourt paramount home entertainment encodage du son dolby surround mann hummie 0000 0000 295f 0000 0000 0000 commentaires audio de mel brooks et de son equipe version originale sous titree$?bande annonce mel brooks gaumont neuilly sur seine gaumont video 2009$? boulogne billancourt paramount home entertainment",
+    "type": "o",
+    "label": "Dracula, dead and loving it, film",
+    "splitted_label": "Dracula, dead and\nloving it, film",
+    "stats_zones": {
+        "001": 1,
+        "005": 1,
+        "033": 1,
+        "052": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "104": 1,
+        "125": 1,
+        "127": 1,
+        "140": 3,
+        "145": 1,
+        "147": 1,
+        "152": 1,
+        "154": 1,
+        "231": 1,
+        "333": 1,
+        "370": 1,
+        "378": 1,
+        "431": 1,
+        "441": 2,
+        "501": 7,
+        "511": 3,
+        "531": 1,
+        "541": 1,
+        "608": 2,
+        "640": 4,
+        "801": 1,
+        "810": 4
+    },
+    "resp": {
+        "Brooks, Mel": [
+            "Metteur en sc\u00e8ne ou r\u00e9alisateur",
+            "Sc\u00e9nariste"
+        ],
+        "De Luca, Rudy": [
+            "Sc\u00e9nariste"
+        ],
+        "Haberman, Steve": [
+            "Sc\u00e9nariste"
+        ],
+        "Nielsen, Leslie": [
+            "Acteur"
+        ],
+        "MacNicol, Peter": [
+            "Acteur"
+        ],
+        "Weber, Steven": [
+            "Acteur"
+        ],
+        "Mann, Hummie": [
+            "Compositeur"
+        ],
+        "Brooksfilms, Firme": [
+            "Producteur"
+        ],
+        "Gaumont": [
+            "Producteur"
+        ],
+        "Castle Rock Entertainment": [
+            "Producteur"
+        ]
+    },
+    "respIds": [
+        "",
+        "14277791",
+        "13897969",
+        "14048909",
+        "14021739",
+        "13891880",
+        "13961733",
+        "14048907",
+        "12209507",
+        "14017477"
+    ],
+    "toOeuvres": {},
+    "toExpressions": {
+        "UMLRM0121": "Dracula, dead and loving it, film, Fran\u00e7ais",
+        "UMLRM0189": "Dracula, dead and loving it, film, Anglais ; sous-titrage optionnel en fran\u00e7ais"
+    },
+    "toManifs": {
+        "UMLRM0122": "Dracula, mort et heureux de l\u2019\u00eatre, un film de Mel Brooks, Gaumont vid\u00e9o - Paramount home entertainment, 2009, 1 DVD vid\u00e9o, monoface double couche, 16/9 compatible 3/4, PAL, Dolby surround 2.0, zone 2",
+        "UMLRM0190": "Mel Brooks, Gaumont vid\u00e9o - Paramount home entertainment, [2015], 2 DVD vid\u00e9o, monoface double couche, 16/9 compatible 3/4, PAL, Dolby surround 2.0, toutes zones"
+    },
+    "manifsYears": [
+        2009,
+        2015
+    ],
+    "toItems": {
+        "UMLRM1039": "BM_CELESTEVILLE > MEZZANINE > COTE_UMLRM1039",
+        "UMLRM1053": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1053"
+    },
+    "repr": "id : UMLRM0120\ntype initial : oe ; type : o\nlabel : Dracula, dead and loving it, film\n\nNotice : \n000    04316cx  f2200589   4500\n001    UMLRM0120\n005    20221004########\n033    $a https://www.wikidata.org/wiki/Q1254469 $2 Wikidata\n052    $a 0000-0000-295F-0000-O-0000-0000-2\n100    $a 20221004afrey50      ba0\n101 0  $a eng\n102    $a US $a FR\n104    $a d1995\n125 00 $a m\n127 0  $a 012800\n140    $a ic $b 10501 $2 frTAV\n140    $a ic $b ffco $2 BnF-GenreFilm\n140    $a ic $b ffho $2 BnF-GenreFilm\n145 0  $a b $b xa2ae\n147 0  $a g $e c\n152    $a RDA-FR\n154    $a xa\n231    $7 ba0yba0y $8 freeng $a Dracula, dead and loving it $c film\n333    $a Adultes, tout public\n370    $a Pastiche inspir\u00e9 du film Dracula de 1931 avec Bela Lugosi, r\u00e9alis\u00e9 par Tod Browning $c Copyright : Borgo Pass productions, 1996\n378    $a Le comte Dracula a achet\u00e9 une abbaye en Angleterre. L'avou\u00e9 londonien Thomas Renfield se rend dans son lointain et sinistre ch\u00e2teau transylvanien pour lui faire signer les actes notari\u00e9s. Dracula hypnotise, non sans difficult\u00e9, son h\u00f4te, et, suivi de son nouvel esclave, arrive en Angleterre. L'\u00e9quipage du vaisseau a trouv\u00e9 la mort durant la travers\u00e9e. Renfield, seul survivant, est enferm\u00e9 dans l'asile du docteur Seward, \u00e0 deux pas de l'abbaye o\u00f9 s'est install\u00e9 le vampire. A l'op\u00e9ra, Dracula fait la connaissance de la fille du docteur Seward, Mina, de son fianc\u00e9 Jonathan Harker et de Lucy, une amie du couple. Le soir m\u00eame, il vide Lucy de son sang... $b T\u00e9l\u00e9rama $z fre\n431    $7 ba0yba0y $8 frefre $a Dracula, mort et heureux de l\u2019\u00eatre $c film\n441  1 $3 13891880 $7 ba0yba0y $8 freeng $o ISNI0000 0001 0920 8877 $a Brooks, Mel (1926-\u2026.) $t  Dracula, dead and loving it\n441  1 $3 13891880 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 0920 8877 $a Brooks, Mel (1926-\u2026.) $t Dracula, mort et heureux de l\u2019\u00eatre\n501  1 $3 13891880 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 0920 8877 $a Brooks $b Mel $f 1926-.... $4 300 $4 690\n501  1 $3 14048907 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 0277 289X $a De Luca $b Rudy $4 690\n501  1 $3 14048909 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 0321 5278 $a Haberman $b Steve $4 690\n501  1 $3 13897969 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 1456 2467 $a Nielsen $b Leslie $f 1926-2010 $4 005\n501  1 $3 14017477 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 1470 316X $a MacNicol $b Peter $f 1954-\u2026. $4 005\n501  1 $3 14021739 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 1627 1751 $a Weber $b Steven $f 1961-.... $4 005\n501  1 $3 13961733 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 1743 3062 $a Mann $b Hummie $f 1955-\u2026. $4 230\n511 02 $7 ba0yba0y $8 freeng $a Brooksfilms $c Firme $4 630\n511 02 $3 12209507 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2265 3959 $a Gaumont $4 630\n511 02 $3 14277791 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 9494 1709 $a Castle Rock Entertainment $4 630\n531    $5 xxa $p Est une parodie de $3 UMLRM0154 $7 ba0yba0y $8 fre### $t Dracula $c film $d 1931\n541  1 $5 xxa $p Est une parodie de $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker $b Bram (1847-1912) $t Dracula\n608    $3 11931407 $a Films de vampires $2 rameauGenre\n608    $3 12518788 $a Com\u00e9dies (cin\u00e9ma) $2 rameauGenre\n640 0  $0 Date de copyright $f #1996#####\n640 6  $0 Date de sortie en salle $a US $f #19951222#\n640 6  $0 Date de sortie en salle $a FR $f #19960410#\n640 5  $0 Date de tournage $f #19950508# $i #19950726#\n801  0 $a FR $b FR-751052119 $c 20221004\n810    $a Dracula, mort et heureux de l'\u00eatre = Dracula dead and loving it / un film de Mel Brooks ; Leslie Nielsen, Peter MacNicol, Steven Weber... [et autres], [acteurs] ; musique, Hummie Mann ; histoire de Rudy De Luca & Steve Haberman ; sc\u00e9nario de Mel Brooks & Rudy De Luca & Steve Haberman ; produit et r\u00e9alis\u00e9 par Mel Brooks. \u2013 Neuilly-sur-Seine : Gaumont vid\u00e9o [\u00e9diteur] ; Boulogne-Billancourt : Paramount home entertainment France [distributeur], 2009. \u2013 [Image anim\u00e9e : vid\u00e9o]. \u2013 R\u00e9f\u00e9rence commerciale : FG 315 880 (EDV 1504)\n810    $a Wikipedia : https://en.wikipedia.org/wiki/Dracula:_Dead_and_Loving_It (2022-10-04)\n810    $a IMDB (Internet movie database) : https://www.imdb.com/title/tt0112896/ (2022-11-10)\n810    $a Cin\u00e9-ressources : catalogue collectif des biblioth\u00e8ques et archives de cin\u00e9ma : http://www.cineressources.net (2022-11-10) \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x1bea0a56440>\nIndexation : de luca rudy brooks mel macnicol peter mann hummie dracula dead and loving it brooksfilms firme https www wikidata org wiki q1254469 pastiche inspire du film dracula de 1931 avec bela lugosi realise par tod browning copyright borgo pass productions 1996 gaumont castle rock entertainment haberman steve nielsen leslie weber steven 0000 0000 295f 0000 0000 0000 le comte dracula achete une abbaye en angleterre avoue londonien thomas renfield se rend dans son lointain et sinistre chateau transylvanien pour lui faire signer les actes notaries dracula hypnotise non sans difficulte son hote et suivi de son nouvel esclave arrive en angleterre equipage du vaisseau trouve la mort durant la traversee renfield seul survivant est enferme dans asile du docteur seward deux pas de abbaye ou est installe le vampire opera dracula fait la connaissance de la fille du docteur seward mina de son fiance jonathan harker et de lucy une amie du couple le soir meme il vide lucy de son sang",
+    "subjects": {},
+    "genreforme": {
+        "11931407": "",
+        "12518788": ""
+    },
+    "detailed": "Description : Pastiche inspir\u00e9 du film Dracula de 1931 avec Bela Lugosi, r\u00e9alis\u00e9 par Tod Browning, Copyright : Borgo Pass productions, 1996.\nLe comte Dracula a achet\u00e9 une abbaye en Angleterre. L'avou\u00e9 londonien Thomas Renfield se rend dans son lointain et sinistre ch\u00e2teau transylvanien pour lui faire signer les actes notari\u00e9s. Dracula hypnotise, non sans difficult\u00e9, son h\u00f4te, et, suivi de son nouvel esclave, arrive en Angleterre. L'\u00e9quipage du vaisseau a trouv\u00e9 la mort durant la travers\u00e9e. Renfield, seul survivant, est enferm\u00e9 dans l'asile du docteur Seward, \u00e0 deux pas de l'abbaye o\u00f9 s'est install\u00e9 le vampire. A l'op\u00e9ra, Dracula fait la connaissance de la fille du docteur Seward, Mina, de son fianc\u00e9 Jonathan Harker et de Lucy, une amie du couple. Le soir m\u00eame, il vide Lucy de son sang...\n\n\nDate de copyright : 1996\nDate de sortie en salle : 22/12/1995\nDate de sortie en salle : 10/04/1996\nDate de tournage : 08/05/1995",
+    "rebonds": "<span class='rebond'><a href='full_results_UMLRM0154.html'>Est une parodie de Dracula film 1931</a></span>\n<span class='rebond'><a href='full_results_UMLRM0004.html'>Est une parodie de Stoker Bram (1847-1912) Dracula</a></span>",
+    "exprResp": [],
+    "lang": [
+        "eng",
+        "fre"
+    ],
+    "exprContentType": [
+        "film"
+    ]
+}
