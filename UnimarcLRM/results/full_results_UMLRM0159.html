@@ -21,20 +21,33 @@ input {font-style: italic;
 		  
 ------------------------------*/
 
+body.e {background-color: #eeffff;}
+body.o {background-color: #ffeeff;}
+
+.comment {font-family: Courier New;
+		  font-size: 0.8em;
+		 }
+
 /* Métadonnées */
 div.detailed {float: left;
-			  width: 80%;
+			  width: 60%;
 			  padding-right: 20px;}
+			  
+div.detailed_sup {float: left;
+			      width: 60%;
+			      padding-right: 20px;}
+			 
+			  
 p.detailed.label {font-weight: bold;
 					 color: #05513c;
 					}
 
 div.rebonds {float: right;
-			width: 15%;
+			width: 35%;
 			background-color: #efefef;
 			padding: 20px;
 			border-radius: 20px;}
-span.rebond {padding-left: 8px;
+span.rebond {padding-left: 0px;
 			 }
 span.rebond a {text-decoration: none;
 			   font-weight: normal;
@@ -42,6 +55,27 @@ span.rebond a {text-decoration: none;
 			  }
 span.rebond a:hover {text-decoration: underline;
 			  }
+
+div.other_expressions {float: left;
+					   width: 80%}
+					   
+div.other_expressions ul {margin: 0;
+	   				   padding: 0;
+					   list-style: none;
+					   }
+div.other_expressions p {font-weight: bold;}
+div.other_expressions ul li {display: inline;
+							 background: #efefef;
+							 list-style-type: none;
+							 padding: 5px;
+							 margin: 2px;
+							 padding-bottom: 10px;
+							 border: 1px solid #600;
+							 max-width: 100px;
+  							 float: left;}
+div.other_expressions ul li a {text-align: center ;
+							   text-decoration: none ;}
+div.other_expressions ul li:hover {background: #a6a6a6;}			 
 
 
 /* Filtres */
@@ -64,12 +98,16 @@ div.ui-rangeslider {width: 40%;}
 
 
 /* Liste des exemplaires*/
-.items {width: 100%;
+.items {width: 80%;
 		  float: left;}
 
 
 .avail {background-color: #beff9f}
 .unavail {background-color: #ffe2d7}
+
+div.item2metassup {font-size: 0.8em;
+					margin-top: -10px;
+					margin-left: 20px;}
 
 
 /* Métadonnées professionnelles*/
@@ -99,19 +137,43 @@ a.link2work {color: #5a918a;
 
 .short_result_details {margin-left: 20px;
 					   font-size: 0.8em;}</style></head>
-<body>
+<body class='e'>
 
 <div class="entete">
 <p>Rappel de la recherche : <strong></strong></p>
 <p class='back'><a href='short_results_e.html'>Retour à la liste des résultats</a></p><h1>Résultat 40</h1></div><div class='full_record'>
 <p class='detailed label'>Dracula, film, 1931, Versions multiples (5 langues ; sous-titrage en 5 langues)</p>
-<div class='detailed'><p class='detailed'>Description : Surround (Dolby Digital 2.0), Version restaurée<br/><br/><br/>Date de première publication : 17/09/2013</p></div></div>
+<div class='detailed'><p class='detailed'>Description : Surround (Dolby Digital 2.0), Version restaurée<br/><br/><br/>Date de première publication : 17/09/2013</p></div>
+<div class='detailed_sup'><p class='detailed'>Description : Adapté de la pièce de théâtre de Hamilton Deane et John L. Balderston "Dracula". En 1999, création d’une nouvelle bande sonore écrite par Philip Glass et interprétée par le Kronos quartet.<br/><br/><br/>Dates de tournage : 29/09/1930<br/> : 22/01/1932<br/>Date de copyright : 1931<br/></p></div>
+<div class='rebonds'></div>
 <div class='filters'><h3>Filtres</h3>
-<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/>  <a class="filters_lng" href="#">anglais</a> <a class="filters_lng" href="#">italien</a> <a class="filters_lng" href="#">allemand</a> <a class="filters_lng" href="#">espagnol</a> <a class="filters_lng" href="#">français</a>  <div class='yearRange'><p>Filtre par année</p></div></div>
+<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/> <a href='#'>Disponible</a>  <a class="filters_lng" href="#">français</a> <a class="filters_lng" href="#">anglais</a> <a class="filters_lng" href="#">allemand</a> <a class="filters_lng" href="#">espagnol</a> <a class="filters_lng" href="#">italien</a>  <div class='yearRange'><p>Filtre par année</p></div></div>
 <div class='filters2'></div></div>
-<div class='items'><h3>Liste des exemplaires</h3>
-<p class='avail'>Disponible - Dracula, film, 1931, Versions multiples (5 langues ; sous-titrage en 5 langues) - Drácula, film, 1931 - Glass, Philip (1937-....), Dracula, Kronos quartet, Musique exécutée - Bibliothèque municipale de Célesteville MEZZANINE COTE_UMLRM1047</p></div>
+<div class='items'>
+<h3>Liste des exemplaires</h3>
+<div class='item'><p class='unavail'>Emprunté - Dracula, film, 1931, Versions multiples (5 langues ; sous-titrage en 5 langues) - Drácula, film, 1931 - Glass, Philip (1937-....), Dracula, Kronos quartet, Musique exécutée - Bibliothèque municipale de Célesteville MEZZANINE COTE_UMLRM1047<br/><div class='item2metassup'>Titre: Dracula / Tod Browning, [réalisateur], scénario de Garrett Fort, d’après le roman de Bram Stoker et la pièce de Hamilton Deane et John L. Balderston, Bela Lugosi, David Manners, Helen Chandler... [et autres], [acteurs]<br/>Edition: [Paris]-[Paris]. Universal StudioCanal vidéo, Universal StudioCanal vidéo. 2014, 2014</div></p></div>
+</div>
 
+
+<div class='other_expressions'>
+<p>Autres oeuvres en lien
+<p class='comment'>Sur une page d'expression, cette rubrique liste directement les expressions des oeuvres liées à l'oeuvre de l'expression en cours</p><ul><li><a href="full_results_UMLRM0153.html">[Photographies extraites du film « Dracula » de Tod Browning], 1932, Image fixe [[Photographies extraites du film "Dracula" de Tod Browning], 1932]</a></li>
+<li><a href="full_results_UMLRM0162.html">Drácula, film, 1931 [Drácula, film, 1931]</a></li>
+<li><a href="full_results_UMLRM0121.html">Dracula, dead and loving it, film, Français [Dracula, dead and loving it, film]</a></li>
+<li><a href="full_results_UMLRM0189.html">Dracula, dead and loving it, film, Anglais ; sous-titrage optionnel en français [Dracula, dead and loving it, film]</a></li>
+<li><a href="full_results_UMLRM0005.html">Stoker, Bram (1847-1912), Dracula, Anglais, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0020.html">Stoker, Bram (1847-1912), Dracula, Français, Molitor, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0041.html">Stoker, Bram (1847-1912), Dracula, Français, Sirgent, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0050.html">Stoker, Bram (1847-1912), Dracula, Français, Finné, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0053.html">Stoker, Bram (1847-1912), Dracula, Français, Chicheportiche, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0056.html">Stoker, Bram (1847-1912), Dracula, Français, Paul-Margueritte, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0059.html">Stoker, Bram (1847-1912), Dracula, Français, Paul-Margueritte, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0065.html">Stoker, Bram (1847-1912), Dracula, Espagnol, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0068.html">Stoker, Bram (1847-1912), Dracula, Français, Molitor - Moissard, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0187.html">Stoker, Bram (1847-1912), Dracula, Français, Parole énoncée [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0157.html">Glass, Philip (1937-....), Dracula, Kronos quartet, Musique exécutée [Glass, Philip (1937-....), Dracula]</a></li>
+</ul>
+</div>
 <div class='pro'>
 <hr/>
 <h3>Infos professionnelles</h3>
@@ -175,11 +237,11 @@ a.link2work {color: #5a918a;
 </svg></div>
 <div class="indexed_metas">
 <table class="indexed_metas_table">
-<tr><th>self_index</th><td>['dracula', '', 'surround dolby digital', 'dracula tod browning realisateur scenario de garrett fort d\'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs paris universal studiocanal video editeur distributeur 2014 images animees video 830 098 edv 764 $?imdb internet movie database https www imdb com title tt0021814 2022 10 18 $?servin javier tale of two draculas the history preservation restoration and legacy of universal studios\' english and spanish language "dracula" https jservin85 wordpress com preservation and restoration restoration of dracula 2022 11 13', 'dracula', '', 'surround dolby digital', 'dracula tod browning realisateur scenario de garrett fort d\'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs paris universal studiocanal video editeur distributeur 2014 images animees video 830 098 edv 764 $?imdb internet movie database https www imdb com title tt0021814 2022 10 18 $?servin javier tale of two draculas the history preservation restoration and legacy of universal studios\' english and spanish language "dracula" https jservin85 wordpress com preservation and restoration restoration of dracula 2022 11 13']</td></tr>
-<tr><th>linked_entities_index</th><td>['dracula film 1931 version restauree versions multiples langues sous titrage en langues', "dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs", 'paris universal studiocanal video 2014$? paris universal studiocanal video 2014', '', '', '', 'contient aussi dracula version espagnole introduction la version espagnole par lupita tovar kohner dracula la genese lugosi le prince des tenebres dracula nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet sur les traces des monstres anecdotes interactives archives dracula dracula la restauration', '', "dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs", 'paris universal studiocanal video 2014$? paris universal studiocanal video 2014', '', '', '', 'contient aussi dracula version espagnole introduction la version espagnole par lupita tovar kohner dracula la genese lugosi le prince des tenebres dracula nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet sur les traces des monstres anecdotes interactives archives dracula dracula la restauration', '', 'http catalogue bnf fr ark 12148 cb164600587$?https www wikidata org wiki q279378', '0000 0000 edb1 0000 0000 0000', 'dracula', "adapte de la piece de theatre de hamilton deane et john balderston dracula $?en 1999 creation d'une nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet", '']</td></tr>
+<tr><th>self_index</th><td>['dracula', 'surround dolby digital', 'dracula tod browning realisateur scenario de garrett fort d\'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs paris universal studiocanal video editeur distributeur 2014 images animees video 830 098 edv 764 $?imdb internet movie database https www imdb com title tt0021814 2022 10 18 $?servin javier tale of two draculas the history preservation restoration and legacy of universal studios\' english and spanish language "dracula" https jservin85 wordpress com preservation and restoration restoration of dracula 2022 11 13', 'dracula', 'surround dolby digital', 'dracula tod browning realisateur scenario de garrett fort d\'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs paris universal studiocanal video editeur distributeur 2014 images animees video 830 098 edv 764 $?imdb internet movie database https www imdb com title tt0021814 2022 10 18 $?servin javier tale of two draculas the history preservation restoration and legacy of universal studios\' english and spanish language "dracula" https jservin85 wordpress com preservation and restoration restoration of dracula 2022 11 13']</td></tr>
+<tr><th>linked_entities_index</th><td>['dracula film 1931 version restauree versions multiples langues sous titrage en langues', "dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs", 'paris universal studiocanal video 2014$? paris universal studiocanal video 2014', 'contient aussi dracula version espagnole introduction la version espagnole par lupita tovar kohner dracula la genese lugosi le prince des tenebres dracula nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet sur les traces des monstres anecdotes interactives archives dracula dracula la restauration', "dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs", 'paris universal studiocanal video 2014$? paris universal studiocanal video 2014', 'contient aussi dracula version espagnole introduction la version espagnole par lupita tovar kohner dracula la genese lugosi le prince des tenebres dracula nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet sur les traces des monstres anecdotes interactives archives dracula dracula la restauration', 'http catalogue bnf fr ark 12148 cb164600587$?https www wikidata org wiki q279378', '0000 0000 edb1 0000 0000 0000', 'dracula', "adapte de la piece de theatre de hamilton deane et john balderston dracula $?en 1999 creation d'une nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet"]</td></tr>
 <tr><th>resp_index</th><td>[]</td></tr>
 <tr><th>linked_resp_index</th><td>['browning tod', 'deane hamilton', 'fort garrett', 'lugosi bela', 'manners david', 'chandler helen']</td></tr>
-<tr><th>global_index</th><td> dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs adapte de la piece de theatre de hamilton deane et john balderston dracula $?en 1999 creation d'une nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet paris universal studiocanal video 2014$? paris universal studiocanal video 2014 chandler helen browning tod dracula dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs paris universal studiocanal video editeur distributeur 2014 images animees video 830 098 edv 764 $?imdb internet movie database https www imdb com title tt0021814 2022 10 18 $?servin javier tale of two draculas the history preservation restoration and legacy of universal studios' english and spanish language "dracula" https jservin85 wordpress com preservation and restoration restoration of dracula 2022 11 13 fort garrett lugosi bela dracula film 1931 version restauree versions multiples langues sous titrage en langues http catalogue bnf fr ark 12148 cb164600587$?https www wikidata org wiki q279378 manners david contient aussi dracula version espagnole introduction la version espagnole par lupita tovar kohner dracula la genese lugosi le prince des tenebres dracula nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet sur les traces des monstres anecdotes interactives archives dracula dracula la restauration 0000 0000 edb1 0000 0000 0000 surround dolby digital deane hamilton</td></tr>
+<tr><th>global_index</th><td>lugosi bela surround dolby digital browning tod chandler helen dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs paris universal studiocanal video editeur distributeur 2014 images animees video 830 098 edv 764 $?imdb internet movie database https www imdb com title tt0021814 2022 10 18 $?servin javier tale of two draculas the history preservation restoration and legacy of universal studios' english and spanish language "dracula" https jservin85 wordpress com preservation and restoration restoration of dracula 2022 11 13 contient aussi dracula version espagnole introduction la version espagnole par lupita tovar kohner dracula la genese lugosi le prince des tenebres dracula nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet sur les traces des monstres anecdotes interactives archives dracula dracula la restauration fort garrett deane hamilton manners david dracula film 1931 version restauree versions multiples langues sous titrage en langues dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs paris universal studiocanal video 2014$? paris universal studiocanal video 2014 http catalogue bnf fr ark 12148 cb164600587$?https www wikidata org wiki q279378 adapte de la piece de theatre de hamilton deane et john balderston dracula $?en 1999 creation d'une nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet dracula 0000 0000 edb1 0000 0000 0000</td></tr>
 </table>
 </div>
 <p class="marc_record"><br/>000    01637nx  f2200241   4500<br/>001    UMLRM0159<br/>100    $a 20221013afrey50      ba0<br/>101 2  $a eng $a fre $a ita $a spa $a ger $c eng $j fre $j eng $j ita $j spa $j ger<br/>102    $a US<br/>104    $a d2013<br/>127    $a 011500<br/>145    $a b $b xa2ae<br/>147    $a a $e b $h c<br/>152    $a RDA-FR<br/>154    $a xb<br/>232    $3 UMLRM0154 $7 ba0yba0y $8 fre### $a Dracula $c film $d 1931 $l Version restaurée $m Versions multiples (5 langues ; sous-titrage en 5 langues)<br/>300    $a Film en version originale anglaise et en versions française, italienne, allemande, espagnole, avec sous-titrage optionnel en français, anglais, allemand, italien et espagnol<br/>371    $a Surround (Dolby Digital 2.0) $f Version restaurée<br/>640 6  $0 Date de première publication $f #20130917#<br/>801    $a FR $b FR-751131015 $c 202014#####<br/>810    $a Dracula / Tod Browning, [réalisateur] ; scénario de Garrett Fort ; d’après le roman de Bram Stoker et la pièce de Hamilton Deane et John L. Balderston ; Bela Lugosi, David Manners, Helen Chandler... [et autres], [acteurs]. – [Paris] : Universal StudioCanal vidéo [éditeur, distributeur], 2014 ; - [Images animées : vidéo]. - 830 098-5 (EDV 764)<br/>810    $a IMDB (Internet movie database) : https://www.imdb.com/title/tt0021814 (2022-10-18)) $b Date de publication de la version Blu-ray : September 17, 2013<br/>810    $a Servin, Javier. A Tale of Two Draculas: the history, preservation, restoration and legacy of Universal Studios’ English and Spanish language “Dracula” : https://jservin85.wordpress.com/preservation-and-restoration/restoration-of-dracula/ (2022-11-13)</p>

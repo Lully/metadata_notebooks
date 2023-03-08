@@ -4,46 +4,29 @@
     "id": "UMLRM0152",
     "txt": "\n000    01265nx  f2200253   4500\n001    UMLRM0152\n100    $a 20221008afrey50      ba0\n101 0  $a zxx\n102    $a FR\n104    $a d1932\n125 0  $a m\n140    $a is $b illus $2 BnF-FonctIco\n145 0  $a b $b xb2e\n147 0  $a a\n152    $a RDA-FR\n154    $a xa\n231    $a [Photographies extraites du film \"Dracula\" de Tod Browning] $k Tallandier $d 1932 $7 ba0yba0y $8 frefre\n370    $a Reproduction d\u2019une s\u00e9lection de photographies du film de Tod Browning pour illustrer diverses sc\u00e8nes du roman de Bram Stoker $a Grande cat\u00e9gorie technique : impression photom\u00e9canique $a Genre iconographique : Sc\u00e8nes cin\u00e9matographiques\n531    $5 xxr $p Est une s\u00e9lection de [\u0153uvre] $3 UMLRM0154 $a Dracula $c film $d 1931\n541  1 $5 xxg $p Illustre $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker $b Bram (1847-1912) $t Dracula\n608    $3 11975832 $a Illustrations $2 rameauForme\n640 6  $0 Date de premi\u00e8re publication $f #1932#####\n801  0 $a FR $b FR-751045101 $c 20221008\n810    $a Dracula, l'homme de la nuit : roman traduit par \u00c8ve et Lucie Paul-Margueritte et illustr\u00e9 de nombreuses photographies du film \"Dracula\" / Brahm Stoker. \u2013 Paris : \u00c9ditions J. Tallandier, 1932. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation]",
     "self_index": [
-        "",
-        "",
         "photographies extraites du film dracula de tod browning",
         "reproduction d'une selection de photographies du film de tod browning pour illustrer diverses scenes du roman de bram stoker$?grande categorie technique impression photomecanique$?genre iconographique scenes cinematographiques",
-        "",
-        "",
-        "",
         "photographies extraites du film dracula de tod browning",
-        "reproduction d'une selection de photographies du film de tod browning pour illustrer diverses scenes du roman de bram stoker$?grande categorie technique impression photomecanique$?genre iconographique scenes cinematographiques",
-        ""
+        "reproduction d'une selection de photographies du film de tod browning pour illustrer diverses scenes du roman de bram stoker$?grande categorie technique impression photomecanique$?genre iconographique scenes cinematographiques"
     ],
     "linked_entities_index": [
         "dracula l'homme de la nuit roman traduit par eve et lucie paul margueritte et illustre de nombreuses photographies du film dracula brahm stoker",
         "paris editions tallandier 1932",
         "cinema bibliotheque",
-        "",
-        "",
-        "",
-        "",
         "dracula l'homme de la nuit roman traduit par eve et lucie paul margueritte et illustre de nombreuses photographies du film dracula brahm stoker",
         "paris editions tallandier 1932",
         "cinema bibliotheque",
-        "",
-        "",
-        "",
-        "",
         "photographies extraites du film dracula de tod browning",
-        "",
-        "",
         "dracula homme de la nuit roman traduit par eve et lucie paul margueritte et illustre de nombreuses photographies du film dracula brahm stoker paris editions tallandier 1932 texte note image fixe sans mediation",
         "photographies extraites du film dracula de tod browning",
-        "",
-        "",
         "dracula homme de la nuit roman traduit par eve et lucie paul margueritte et illustre de nombreuses photographies du film dracula brahm stoker paris editions tallandier 1932 texte note image fixe sans mediation"
     ],
     "resp_index": [],
     "linked_resp_index": [],
-    "global_index": " dracula l'homme de la nuit roman traduit par eve et lucie paul margueritte et illustre de nombreuses photographies du film dracula brahm stoker reproduction d'une selection de photographies du film de tod browning pour illustrer diverses scenes du roman de bram stoker$?grande categorie technique impression photomecanique$?genre iconographique scenes cinematographiques cinema bibliotheque photographies extraites du film dracula de tod browning paris editions tallandier 1932 dracula homme de la nuit roman traduit par eve et lucie paul margueritte et illustre de nombreuses photographies du film dracula brahm stoker paris editions tallandier 1932 texte note image fixe sans mediation",
+    "global_index": "photographies extraites du film dracula de tod browning dracula l'homme de la nuit roman traduit par eve et lucie paul margueritte et illustre de nombreuses photographies du film dracula brahm stoker reproduction d'une selection de photographies du film de tod browning pour illustrer diverses scenes du roman de bram stoker$?grande categorie technique impression photomecanique$?genre iconographique scenes cinematographiques cinema bibliotheque paris editions tallandier 1932 dracula homme de la nuit roman traduit par eve et lucie paul margueritte et illustre de nombreuses photographies du film dracula brahm stoker paris editions tallandier 1932 texte note image fixe sans mediation",
     "type": "o",
     "label": "[Photographies extraites du film \"Dracula\" de Tod Browning], 1932",
+    "label_html": "[Photographies extraites du film \"Dracula\" de Tod Browning], 1932",
     "splitted_label": "[Photographies\nextraites du film\n\"Dracula\" de Tod\nBrowning], 1932",
     "stats_zones": {
         "001": 1,
@@ -81,13 +64,18 @@
     "toItems": {
         "UMLRM1019": "BM_CELESTEVILLE > MEZZANINE > COTE_UMLRM1019"
     },
-    "repr": "id : UMLRM0152\ntype initial : oe ; type : o\nlabel : [Photographies extraites du film \"Dracula\" de Tod Browning], 1932\n\nNotice : \n000    01265nx  f2200253   4500\n001    UMLRM0152\n100    $a 20221008afrey50      ba0\n101 0  $a zxx\n102    $a FR\n104    $a d1932\n125 0  $a m\n140    $a is $b illus $2 BnF-FonctIco\n145 0  $a b $b xb2e\n147 0  $a a\n152    $a RDA-FR\n154    $a xa\n231    $a [Photographies extraites du film \"Dracula\" de Tod Browning] $k Tallandier $d 1932 $7 ba0yba0y $8 frefre\n370    $a Reproduction d\u2019une s\u00e9lection de photographies du film de Tod Browning pour illustrer diverses sc\u00e8nes du roman de Bram Stoker $a Grande cat\u00e9gorie technique : impression photom\u00e9canique $a Genre iconographique : Sc\u00e8nes cin\u00e9matographiques\n531    $5 xxr $p Est une s\u00e9lection de [\u0153uvre] $3 UMLRM0154 $a Dracula $c film $d 1931\n541  1 $5 xxg $p Illustre $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker $b Bram (1847-1912) $t Dracula\n608    $3 11975832 $a Illustrations $2 rameauForme\n640 6  $0 Date de premi\u00e8re publication $f #1932#####\n801  0 $a FR $b FR-751045101 $c 20221008\n810    $a Dracula, l'homme de la nuit : roman traduit par \u00c8ve et Lucie Paul-Margueritte et illustr\u00e9 de nombreuses photographies du film \"Dracula\" / Brahm Stoker. \u2013 Paris : \u00c9ditions J. Tallandier, 1932. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b7972b00>\nIndexation :  photographies extraites du film dracula de tod browning reproduction d'une selection de photographies du film de tod browning pour illustrer diverses scenes du roman de bram stoker$?grande categorie technique impression photomecanique$?genre iconographique scenes cinematographiques",
+    "other_expressions": {},
+    "repr": "id : UMLRM0152\ntype initial : oe ; type : o\nlabel : [Photographies extraites du film \"Dracula\" de Tod Browning], 1932\n\nNotice : \n000    01265nx  f2200253   4500\n001    UMLRM0152\n100    $a 20221008afrey50      ba0\n101 0  $a zxx\n102    $a FR\n104    $a d1932\n125 0  $a m\n140    $a is $b illus $2 BnF-FonctIco\n145 0  $a b $b xb2e\n147 0  $a a\n152    $a RDA-FR\n154    $a xa\n231    $a [Photographies extraites du film \"Dracula\" de Tod Browning] $k Tallandier $d 1932 $7 ba0yba0y $8 frefre\n370    $a Reproduction d\u2019une s\u00e9lection de photographies du film de Tod Browning pour illustrer diverses sc\u00e8nes du roman de Bram Stoker $a Grande cat\u00e9gorie technique : impression photom\u00e9canique $a Genre iconographique : Sc\u00e8nes cin\u00e9matographiques\n531    $5 xxr $p Est une s\u00e9lection de [\u0153uvre] $3 UMLRM0154 $a Dracula $c film $d 1931\n541  1 $5 xxg $p Illustre $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker $b Bram (1847-1912) $t Dracula\n608    $3 11975832 $a Illustrations $2 rameauForme\n640 6  $0 Date de premi\u00e8re publication $f #1932#####\n801  0 $a FR $b FR-751045101 $c 20221008\n810    $a Dracula, l'homme de la nuit : roman traduit par \u00c8ve et Lucie Paul-Margueritte et illustr\u00e9 de nombreuses photographies du film \"Dracula\" / Brahm Stoker. \u2013 Paris : \u00c9ditions J. Tallandier, 1932. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e5b40>\nIndexation : photographies extraites du film dracula de tod browning reproduction d'une selection de photographies du film de tod browning pour illustrer diverses scenes du roman de bram stoker$?grande categorie technique impression photomecanique$?genre iconographique scenes cinematographiques",
     "subjects": {},
     "genreforme": {
         "11975832": ""
     },
     "detailed": "Description : Reproduction d\u2019une s\u00e9lection de photographies du film de Tod Browning pour illustrer diverses sc\u00e8nes du roman de Bram Stoker. Grande cat\u00e9gorie technique : impression photom\u00e9canique. Genre iconographique : Sc\u00e8nes cin\u00e9matographiques\n\n\nDate de premi\u00e8re publication : 1932",
     "rebonds": "<span class='rebond'><a href='full_results_UMLRM0154.html'>Est une s\u00e9lection de [\u0153uvre] Dracula film 1931</a></span>\n<span class='rebond'><a href='full_results_UMLRM0004.html'>Illustre Stoker Bram (1847-1912) Dracula</a></span>",
+    "rebondids": [
+        "UMLRM0154",
+        "UMLRM0004"
+    ],
     "exprResp": [],
     "lang": [
         "zxx"

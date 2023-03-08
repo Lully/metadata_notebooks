@@ -21,20 +21,33 @@ input {font-style: italic;
 		  
 ------------------------------*/
 
+body.e {background-color: #eeffff;}
+body.o {background-color: #ffeeff;}
+
+.comment {font-family: Courier New;
+		  font-size: 0.8em;
+		 }
+
 /* Métadonnées */
 div.detailed {float: left;
-			  width: 80%;
+			  width: 60%;
 			  padding-right: 20px;}
+			  
+div.detailed_sup {float: left;
+			      width: 60%;
+			      padding-right: 20px;}
+			 
+			  
 p.detailed.label {font-weight: bold;
 					 color: #05513c;
 					}
 
 div.rebonds {float: right;
-			width: 15%;
+			width: 35%;
 			background-color: #efefef;
 			padding: 20px;
 			border-radius: 20px;}
-span.rebond {padding-left: 8px;
+span.rebond {padding-left: 0px;
 			 }
 span.rebond a {text-decoration: none;
 			   font-weight: normal;
@@ -42,6 +55,27 @@ span.rebond a {text-decoration: none;
 			  }
 span.rebond a:hover {text-decoration: underline;
 			  }
+
+div.other_expressions {float: left;
+					   width: 80%}
+					   
+div.other_expressions ul {margin: 0;
+	   				   padding: 0;
+					   list-style: none;
+					   }
+div.other_expressions p {font-weight: bold;}
+div.other_expressions ul li {display: inline;
+							 background: #efefef;
+							 list-style-type: none;
+							 padding: 5px;
+							 margin: 2px;
+							 padding-bottom: 10px;
+							 border: 1px solid #600;
+							 max-width: 100px;
+  							 float: left;}
+div.other_expressions ul li a {text-align: center ;
+							   text-decoration: none ;}
+div.other_expressions ul li:hover {background: #a6a6a6;}			 
 
 
 /* Filtres */
@@ -64,12 +98,16 @@ div.ui-rangeslider {width: 40%;}
 
 
 /* Liste des exemplaires*/
-.items {width: 100%;
+.items {width: 80%;
 		  float: left;}
 
 
 .avail {background-color: #beff9f}
 .unavail {background-color: #ffe2d7}
+
+div.item2metassup {font-size: 0.8em;
+					margin-top: -10px;
+					margin-left: 20px;}
 
 
 /* Métadonnées professionnelles*/
@@ -99,19 +137,39 @@ a.link2work {color: #5a918a;
 
 .short_result_details {margin-left: 20px;
 					   font-size: 0.8em;}</style></head>
-<body>
+<body class='e'>
 
 <div class="entete">
 <p>Rappel de la recherche : <strong></strong></p>
 <p class='back'><a href='short_results_e.html'>Retour à la liste des résultats</a></p><h1>Résultat 47</h1></div><div class='full_record'>
 <p class='detailed label'>Dracula has risen from the grave, film, Français</p>
-<div class='detailed'><p class='detailed'>Description : Version doublée en français<br/><br/><br/> : 06/06/1969</p></div></div>
+<div class='detailed'><p class='detailed'>Description : Version doublée en français<br/><br/><br/> : 06/06/1969</p></div>
+<div class='detailed_sup'><p class='detailed'>Description : Quatrième film de la série "Dracula" produite par la société Hammer Film Productions.<br/><br/><br/>Tournage : 22/04/1968 (Londres)<br/> : 07/11/1968<br/> : 06/06/1969<br/></p></div>
+<div class='rebonds'><p><a class='expr2oeuvre_link' href='short_results_UMLRM0105_e.html'>Voir les 2 versions de l'oeuvre<br><em><strong>Dracula has risen from the grave, film</strong></em></a></p></div>
 <div class='filters'><h3>Filtres</h3>
-<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/>  <a class="filters_lng" href="#">anglais</a> <a class="filters_lng" href="#">français</a>  <div class='yearRange'><p>Filtre par année</p></div></div>
+<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/> <a href='#'>Disponible</a>  <a class="filters_lng" href="#">français</a>  <div class='yearRange'><p>Filtre par année</p></div></div>
 <div class='filters2'></div></div>
-<div class='items'><h3>Liste des exemplaires</h3>
+<div class='items'>
+<h3>Liste des exemplaires</h3>
+
 </div>
 
+
+<div class='other_expressions'>
+<p>Autres oeuvres en lien
+<p class='comment'>Sur une page d'expression, cette rubrique liste directement les expressions des oeuvres liées à l'oeuvre de l'expression en cours</p><ul><li><a href="full_results_UMLRM0106.html">Dracula has risen from the grave, film, Anglais [Dracula has risen from the grave, film]</a></li>
+<li><a href="full_results_UMLRM0005.html">Stoker, Bram (1847-1912), Dracula, Anglais, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0020.html">Stoker, Bram (1847-1912), Dracula, Français, Molitor, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0041.html">Stoker, Bram (1847-1912), Dracula, Français, Sirgent, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0050.html">Stoker, Bram (1847-1912), Dracula, Français, Finné, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0053.html">Stoker, Bram (1847-1912), Dracula, Français, Chicheportiche, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0056.html">Stoker, Bram (1847-1912), Dracula, Français, Paul-Margueritte, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0059.html">Stoker, Bram (1847-1912), Dracula, Français, Paul-Margueritte, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0065.html">Stoker, Bram (1847-1912), Dracula, Espagnol, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0068.html">Stoker, Bram (1847-1912), Dracula, Français, Molitor - Moissard, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0187.html">Stoker, Bram (1847-1912), Dracula, Français, Parole énoncée [Stoker, Bram (1847-1912), Dracula]</a></li>
+</ul>
+</div>
 <div class='pro'>
 <hr/>
 <h3>Infos professionnelles</h3>
@@ -178,11 +236,11 @@ a.link2work {color: #5a918a;
 </svg></div>
 <div class="indexed_metas">
 <table class="indexed_metas_table">
-<tr><th>self_index</th><td>['dracula has risen from the grave', '', '', "imdb internet movie database https www imdb com title tt0062909 2022 11 04 $?dracula et les femmes dracula has risen from the grave avec christopher lee rupert davies realisation freddie francis scenario de john elder d'apres l'oeuvre de bram stoker musique de james bernard une production hammer film paris warner home video france editeur paris warner home video france distributeur dl 1985 image animee video", 'dracula has risen from the grave', '', '', "imdb internet movie database https www imdb com title tt0062909 2022 11 04 $?dracula et les femmes dracula has risen from the grave avec christopher lee rupert davies realisation freddie francis scenario de john elder d'apres l'oeuvre de bram stoker musique de james bernard une production hammer film paris warner home video france editeur paris warner home video france distributeur dl 1985 image animee video"]</td></tr>
-<tr><th>linked_entities_index</th><td>['dracula has risen from the grave film francais', "dracula et les femmes dracula has risen from the grave avec christopher lee rupert davies realisation freddie francis scenario de john elder d'apres l'oeuvre de bram stoker musique de james bernard une production hammer film eng", 'paris warner home video france dl 1985$? paris warner home video france', '', '', '', '', '', "dracula et les femmes dracula has risen from the grave avec christopher lee rupert davies realisation freddie francis scenario de john elder d'apres l'oeuvre de bram stoker musique de james bernard une production hammer film eng", 'paris warner home video france dl 1985$? paris warner home video france', '', '', '', '', '', 'https data bnf fr ark 12148 cb16472893n$?https www wikidata org wiki q1254472', '0000 0004 7ca4 0000 0000 0000', 'dracula has risen from the grave', 'quatrieme film de la serie dracula produite par la societe hammer film productions', '']</td></tr>
+<tr><th>self_index</th><td>['dracula has risen from the grave', "imdb internet movie database https www imdb com title tt0062909 2022 11 04 $?dracula et les femmes dracula has risen from the grave avec christopher lee rupert davies realisation freddie francis scenario de john elder d'apres l'oeuvre de bram stoker musique de james bernard une production hammer film paris warner home video france editeur paris warner home video france distributeur dl 1985 image animee video", 'dracula has risen from the grave', "imdb internet movie database https www imdb com title tt0062909 2022 11 04 $?dracula et les femmes dracula has risen from the grave avec christopher lee rupert davies realisation freddie francis scenario de john elder d'apres l'oeuvre de bram stoker musique de james bernard une production hammer film paris warner home video france editeur paris warner home video france distributeur dl 1985 image animee video"]</td></tr>
+<tr><th>linked_entities_index</th><td>['dracula has risen from the grave film francais', "dracula et les femmes dracula has risen from the grave avec christopher lee rupert davies realisation freddie francis scenario de john elder d'apres l'oeuvre de bram stoker musique de james bernard une production hammer film eng", 'paris warner home video france dl 1985$? paris warner home video france', "dracula et les femmes dracula has risen from the grave avec christopher lee rupert davies realisation freddie francis scenario de john elder d'apres l'oeuvre de bram stoker musique de james bernard une production hammer film eng", 'paris warner home video france dl 1985$? paris warner home video france', 'https data bnf fr ark 12148 cb16472893n$?https www wikidata org wiki q1254472', '0000 0004 7ca4 0000 0000 0000', 'dracula has risen from the grave', 'quatrieme film de la serie dracula produite par la societe hammer film productions']</td></tr>
 <tr><th>resp_index</th><td>[]</td></tr>
 <tr><th>linked_resp_index</th><td>['warner home video france', 'francis freddie 1917 2007', 'elder john', 'bernard james', 'lee christopher', 'davies rupert', 'carlson veronica', 'hammer film productions']</td></tr>
-<tr><th>global_index</th><td> 0000 0004 7ca4 0000 0000 0000 hammer film productions dracula has risen from the grave elder john imdb internet movie database https www imdb com title tt0062909 2022 11 04 $?dracula et les femmes dracula has risen from the grave avec christopher lee rupert davies realisation freddie francis scenario de john elder d'apres l'oeuvre de bram stoker musique de james bernard une production hammer film paris warner home video france editeur paris warner home video france distributeur dl 1985 image animee video paris warner home video france dl 1985$? paris warner home video france quatrieme film de la serie dracula produite par la societe hammer film productions lee christopher dracula et les femmes dracula has risen from the grave avec christopher lee rupert davies realisation freddie francis scenario de john elder d'apres l'oeuvre de bram stoker musique de james bernard une production hammer film eng francis freddie 1917 2007 bernard james carlson veronica warner home video france davies rupert https data bnf fr ark 12148 cb16472893n$?https www wikidata org wiki q1254472 dracula has risen from the grave film francais</td></tr>
+<tr><th>global_index</th><td>dracula has risen from the grave quatrieme film de la serie dracula produite par la societe hammer film productions dracula et les femmes dracula has risen from the grave avec christopher lee rupert davies realisation freddie francis scenario de john elder d'apres l'oeuvre de bram stoker musique de james bernard une production hammer film eng imdb internet movie database https www imdb com title tt0062909 2022 11 04 $?dracula et les femmes dracula has risen from the grave avec christopher lee rupert davies realisation freddie francis scenario de john elder d'apres l'oeuvre de bram stoker musique de james bernard une production hammer film paris warner home video france editeur paris warner home video france distributeur dl 1985 image animee video warner home video france https data bnf fr ark 12148 cb16472893n$?https www wikidata org wiki q1254472 lee christopher hammer film productions paris warner home video france dl 1985$? paris warner home video france bernard james carlson veronica 0000 0004 7ca4 0000 0000 0000 davies rupert elder john dracula has risen from the grave film francais francis freddie 1917 2007</td></tr>
 </table>
 </div>
 <p class="marc_record"><br/>000    01029nx  f2200217   4500<br/>001    UMLRM0181<br/>100    $a 20221104afrey50      ba0<br/>101 1  $a fre $c eng<br/>102    $a FR<br/>104    $a d1969<br/>105    $a ba<br/>145 0  $a b $b xa2ae<br/>147 0  $a g $e c $g d $h a<br/>152    $a RDA-FR<br/>154    $a xb<br/>232    $3 UMLRM0105 $7 ba0yba0y $8 fre $a Dracula has risen from the grave $c film $m Français<br/>371    $f Version doublée en français<br/>640 6  $a FR $f #19690606#<br/>801    $a FR $b FR-751131015 $c 20221104<br/>810    $a IMDB (Internet movie database) : https://www.imdb.com/title/tt0062909 (2022-11-04) $b Date de sortie du film en France<br/>810    $a Dracula et les femmes = Dracula has risen from the grave‎ / avec Christopher Lee, Rupert Davies ; [réalisation Freddie Francis] ; [scénario de John Elder d’après l’œuvre de Bram Stoker] ; [musique de James Bernard] ; une production Hammer film. – [Paris] : Warner home video France [éditeur] ; Paris : Warner home video France [distributeur], DL 1985. – [Image animée : video]</p>

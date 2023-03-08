@@ -21,20 +21,33 @@ input {font-style: italic;
 		  
 ------------------------------*/
 
+body.e {background-color: #eeffff;}
+body.o {background-color: #ffeeff;}
+
+.comment {font-family: Courier New;
+		  font-size: 0.8em;
+		 }
+
 /* Métadonnées */
 div.detailed {float: left;
-			  width: 80%;
+			  width: 60%;
 			  padding-right: 20px;}
+			  
+div.detailed_sup {float: left;
+			      width: 60%;
+			      padding-right: 20px;}
+			 
+			  
 p.detailed.label {font-weight: bold;
 					 color: #05513c;
 					}
 
 div.rebonds {float: right;
-			width: 15%;
+			width: 35%;
 			background-color: #efefef;
 			padding: 20px;
 			border-radius: 20px;}
-span.rebond {padding-left: 8px;
+span.rebond {padding-left: 0px;
 			 }
 span.rebond a {text-decoration: none;
 			   font-weight: normal;
@@ -42,6 +55,27 @@ span.rebond a {text-decoration: none;
 			  }
 span.rebond a:hover {text-decoration: underline;
 			  }
+
+div.other_expressions {float: left;
+					   width: 80%}
+					   
+div.other_expressions ul {margin: 0;
+	   				   padding: 0;
+					   list-style: none;
+					   }
+div.other_expressions p {font-weight: bold;}
+div.other_expressions ul li {display: inline;
+							 background: #efefef;
+							 list-style-type: none;
+							 padding: 5px;
+							 margin: 2px;
+							 padding-bottom: 10px;
+							 border: 1px solid #600;
+							 max-width: 100px;
+  							 float: left;}
+div.other_expressions ul li a {text-align: center ;
+							   text-decoration: none ;}
+div.other_expressions ul li:hover {background: #a6a6a6;}			 
 
 
 /* Filtres */
@@ -64,12 +98,16 @@ div.ui-rangeslider {width: 40%;}
 
 
 /* Liste des exemplaires*/
-.items {width: 100%;
+.items {width: 80%;
 		  float: left;}
 
 
 .avail {background-color: #beff9f}
 .unavail {background-color: #ffe2d7}
+
+div.item2metassup {font-size: 0.8em;
+					margin-top: -10px;
+					margin-left: 20px;}
 
 
 /* Métadonnées professionnelles*/
@@ -99,20 +137,41 @@ a.link2work {color: #5a918a;
 
 .short_result_details {margin-left: 20px;
 					   font-size: 0.8em;}</style></head>
-<body>
+<body class='e'>
 
 <div class="entete">
 <p>Rappel de la recherche : <strong></strong></p>
 <p class='back'><a href='short_results_e.html'>Retour à la liste des résultats</a></p><h1>Résultat 50</h1></div><div class='full_record'>
 <p class='detailed label'>Dracula, dead and loving it, film, Anglais ; sous-titrage optionnel en français</p>
-<div class='detailed'><p class='detailed'>Description : Encodage du son : Dolby surround 2.0, Version remastérisée : nouveau master numérique haute définition. Sous-titrage optionnel en français. Copyright : Gaumont vidéo, 2009<br/><br/><br/>Date de copyright : 2009</p></div></div>
+<div class='detailed'><p class='detailed'>Description : Encodage du son : Dolby surround 2.0, Version remastérisée : nouveau master numérique haute définition. Sous-titrage optionnel en français. Copyright : Gaumont vidéo, 2009<br/><br/><br/>Date de copyright : 2009</p></div>
+<div class='detailed_sup'><p class='detailed'>Description : Pastiche inspiré du film Dracula de 1931 avec Bela Lugosi, réalisé par Tod Browning, Copyright : Borgo Pass productions, 1996.<br/>Le comte Dracula a acheté une abbaye en Angleterre. L'avoué londonien Thomas Renfield se rend dans son lointain et sinistre château transylvanien pour lui faire signer les actes notariés. Dracula hypnotise, non sans difficulté, son hôte, et, suivi de son nouvel esclave, arrive en Angleterre. L'équipage du vaisseau a trouvé la mort durant la traversée. Renfield, seul survivant, est enfermé dans l'asile du docteur Seward, à deux pas de l'abbaye où s'est installé le vampire. A l'opéra, Dracula fait la connaissance de la fille du docteur Seward, Mina, de son fiancé Jonathan Harker et de Lucy, une amie du couple. Le soir même, il vide Lucy de son sang...<br/><br/><br/>Date de copyright : 1996<br/>Date de sortie en salle : 22/12/1995<br/>Date de sortie en salle : 10/04/1996<br/>Date de tournage : 08/05/1995<br/></p></div>
+<div class='rebonds'><p><a class='expr2oeuvre_link' href='short_results_UMLRM0120_e.html'>Voir les 2 versions de l'oeuvre<br><em><strong>Dracula, dead and loving it, film</strong></em></a></p></div>
 <div class='filters'><h3>Filtres</h3>
-<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/>  <a class="filters_lng" href="#">anglais</a>  <div class='yearRange'><p>Filtre par année</p></div></div>
+<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/> <a href='#'>Disponible</a>  <a class="filters_lng" href="#">anglais</a>  <div class='yearRange'><p>Filtre par année</p></div></div>
 <div class='filters2'></div></div>
-<div class='items'><h3>Liste des exemplaires</h3>
-<p class='avail'>Disponible - Dracula, dead and loving it, film, Anglais ; sous-titrage optionnel en français - Dracula, dead and loving it, film, Français - Bibliothèque municipale de Célesteville MEZZANINE COTE_UMLRM1039</p>
-<p class='unavail'>Emprunté - Dracula, dead and loving it, film, Anglais ; sous-titrage optionnel en français - Dracula, dead and loving it, film, Français - Bibliothèque municipale de Célesteville ADULTES COTE_UMLRM1053</p></div>
+<div class='items'>
+<h3>Liste des exemplaires</h3>
+<div class='item'><p class='avail'>Disponible - Dracula, dead and loving it, film, Anglais ; sous-titrage optionnel en français - Dracula, dead and loving it, film, Français - Bibliothèque municipale de Célesteville MEZZANINE COTE_UMLRM1039<br/><div class='item2metassup'>Titre: Dracula, mort et heureux de l’être / un film de Mel Brooks, Leslie Nielsen, Peter MacNicol, Steven Weber... [et autres], [acteurs], musique, Hummie Mann, histoire de Rudy De Luca & Steve Haberman, scénario de Mel Brooks & Rudy De Luca & Steve Haberman,  produit et réalisé par Mel Brooks<br/>Edition: Neuilly-sur-Seine-Boulogne-Billancourt. Gaumont vidéo, Paramount home entertainment. 2009</div></p></div>
+<div class='item'><p class='avail'>Disponible - Dracula, dead and loving it, film, Anglais ; sous-titrage optionnel en français - Dracula, dead and loving it, film, Français - Bibliothèque municipale de Célesteville ADULTES COTE_UMLRM1053<br/><div class='item2metassup'>Titre: Mel Brooks<br/>Edition: [Neuilly-sur-Seine]-Boulogne-Billancourt. Gaumont vidéo, Paramount home entertainment. [2015]</div></p></div>
+</div>
 
+
+<div class='other_expressions'>
+<p>Autres oeuvres en lien
+<p class='comment'>Sur une page d'expression, cette rubrique liste directement les expressions des oeuvres liées à l'oeuvre de l'expression en cours</p><ul><li><a href="full_results_UMLRM0121.html">Dracula, dead and loving it, film, Français [Dracula, dead and loving it, film]</a></li>
+<li><a href="full_results_UMLRM0159.html">Dracula, film, 1931, Versions multiples (5 langues ; sous-titrage en 5 langues) [Dracula, film, 1931]</a></li>
+<li><a href="full_results_UMLRM0005.html">Stoker, Bram (1847-1912), Dracula, Anglais, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0020.html">Stoker, Bram (1847-1912), Dracula, Français, Molitor, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0041.html">Stoker, Bram (1847-1912), Dracula, Français, Sirgent, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0050.html">Stoker, Bram (1847-1912), Dracula, Français, Finné, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0053.html">Stoker, Bram (1847-1912), Dracula, Français, Chicheportiche, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0056.html">Stoker, Bram (1847-1912), Dracula, Français, Paul-Margueritte, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0059.html">Stoker, Bram (1847-1912), Dracula, Français, Paul-Margueritte, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0065.html">Stoker, Bram (1847-1912), Dracula, Espagnol, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0068.html">Stoker, Bram (1847-1912), Dracula, Français, Molitor - Moissard, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0187.html">Stoker, Bram (1847-1912), Dracula, Français, Parole énoncée [Stoker, Bram (1847-1912), Dracula]</a></li>
+</ul>
+</div>
 <div class='pro'>
 <hr/>
 <h3>Infos professionnelles</h3>
@@ -219,11 +278,11 @@ a.link2work {color: #5a918a;
 </svg></div>
 <div class="indexed_metas">
 <table class="indexed_metas_table">
-<tr><th>self_index</th><td>['dracula dead and loving it', '', 'encodage du son dolby surround', 'dracula mort et heureux de etre dracula dead and loving it un film de mel brooks leslie nielsen peter macnicol steven weber et autres acteurs musique hummie mann histoire de rudy de luca steve haberman scenario de mel brooks rudy de luca steve haberman produit et realise par mel brooks neuilly sur seine gaumont video editeur boulogne billancourt paramount home entertainment france distributeur 2009 image animee video reference commerciale fg 315 880 edv 1504', 'dracula dead and loving it', '', 'encodage du son dolby surround', 'dracula mort et heureux de etre dracula dead and loving it un film de mel brooks leslie nielsen peter macnicol steven weber et autres acteurs musique hummie mann histoire de rudy de luca steve haberman scenario de mel brooks rudy de luca steve haberman produit et realise par mel brooks neuilly sur seine gaumont video editeur boulogne billancourt paramount home entertainment france distributeur 2009 image animee video reference commerciale fg 315 880 edv 1504']</td></tr>
-<tr><th>linked_entities_index</th><td>['dracula dead and loving it film anglais sous titrage optionnel en francais 2009', "dracula mort et heureux de l'etre dracula dead and loving it un film de mel brooks leslie nielsen peter macnicol steven weber et autres acteurs musique hummie mann histoire de rudy de luca steve haberman scenario de mel brooks rudy de luca steve haberman produit et realise par mel brooks eng", 'neuilly sur seine gaumont video 2009$? boulogne billancourt paramount home entertainment', '', '', '', 'commentaires audio de mel brooks et de son equipe version originale sous titree$?bande annonce', '', "dracula mort et heureux de l'etre dracula dead and loving it un film de mel brooks leslie nielsen peter macnicol steven weber et autres acteurs musique hummie mann histoire de rudy de luca steve haberman scenario de mel brooks rudy de luca steve haberman produit et realise par mel brooks eng", 'neuilly sur seine gaumont video 2009$? boulogne billancourt paramount home entertainment', '', '', '', 'commentaires audio de mel brooks et de son equipe version originale sous titree$?bande annonce', '', 'mel brooks', 'neuilly sur seine gaumont video 2015 boulogne billancourt paramount home entertainment', '', '', '', '', '', 'mel brooks', 'neuilly sur seine gaumont video 2015 boulogne billancourt paramount home entertainment', '', '', '', '', '', 'https www wikidata org wiki q1254469', '0000 0000 295f 0000 0000 0000', 'dracula dead and loving it', 'pastiche inspire du film dracula de 1931 avec bela lugosi realise par tod browning copyright borgo pass productions 1996', 'le comte dracula achete une abbaye en angleterre avoue londonien thomas renfield se rend dans son lointain et sinistre chateau transylvanien pour lui faire signer les actes notaries dracula hypnotise non sans difficulte son hote et suivi de son nouvel esclave arrive en angleterre equipage du vaisseau trouve la mort durant la traversee renfield seul survivant est enferme dans asile du docteur seward deux pas de abbaye ou est installe le vampire opera dracula fait la connaissance de la fille du docteur seward mina de son fiance jonathan harker et de lucy une amie du couple le soir meme il vide lucy de son sang']</td></tr>
+<tr><th>self_index</th><td>['dracula dead and loving it', 'encodage du son dolby surround', 'dracula mort et heureux de etre dracula dead and loving it un film de mel brooks leslie nielsen peter macnicol steven weber et autres acteurs musique hummie mann histoire de rudy de luca steve haberman scenario de mel brooks rudy de luca steve haberman produit et realise par mel brooks neuilly sur seine gaumont video editeur boulogne billancourt paramount home entertainment france distributeur 2009 image animee video reference commerciale fg 315 880 edv 1504', 'dracula dead and loving it', 'encodage du son dolby surround', 'dracula mort et heureux de etre dracula dead and loving it un film de mel brooks leslie nielsen peter macnicol steven weber et autres acteurs musique hummie mann histoire de rudy de luca steve haberman scenario de mel brooks rudy de luca steve haberman produit et realise par mel brooks neuilly sur seine gaumont video editeur boulogne billancourt paramount home entertainment france distributeur 2009 image animee video reference commerciale fg 315 880 edv 1504']</td></tr>
+<tr><th>linked_entities_index</th><td>['dracula dead and loving it film anglais sous titrage optionnel en francais 2009', "dracula mort et heureux de l'etre dracula dead and loving it un film de mel brooks leslie nielsen peter macnicol steven weber et autres acteurs musique hummie mann histoire de rudy de luca steve haberman scenario de mel brooks rudy de luca steve haberman produit et realise par mel brooks eng", 'neuilly sur seine gaumont video 2009$? boulogne billancourt paramount home entertainment', 'commentaires audio de mel brooks et de son equipe version originale sous titree$?bande annonce', "dracula mort et heureux de l'etre dracula dead and loving it un film de mel brooks leslie nielsen peter macnicol steven weber et autres acteurs musique hummie mann histoire de rudy de luca steve haberman scenario de mel brooks rudy de luca steve haberman produit et realise par mel brooks eng", 'neuilly sur seine gaumont video 2009$? boulogne billancourt paramount home entertainment', 'commentaires audio de mel brooks et de son equipe version originale sous titree$?bande annonce', 'mel brooks', 'neuilly sur seine gaumont video 2015 boulogne billancourt paramount home entertainment', 'mel brooks', 'neuilly sur seine gaumont video 2015 boulogne billancourt paramount home entertainment', 'https www wikidata org wiki q1254469', '0000 0000 295f 0000 0000 0000', 'dracula dead and loving it', 'pastiche inspire du film dracula de 1931 avec bela lugosi realise par tod browning copyright borgo pass productions 1996', 'le comte dracula achete une abbaye en angleterre avoue londonien thomas renfield se rend dans son lointain et sinistre chateau transylvanien pour lui faire signer les actes notaries dracula hypnotise non sans difficulte son hote et suivi de son nouvel esclave arrive en angleterre equipage du vaisseau trouve la mort durant la traversee renfield seul survivant est enferme dans asile du docteur seward deux pas de abbaye ou est installe le vampire opera dracula fait la connaissance de la fille du docteur seward mina de son fiance jonathan harker et de lucy une amie du couple le soir meme il vide lucy de son sang']</td></tr>
 <tr><th>resp_index</th><td>[]</td></tr>
 <tr><th>linked_resp_index</th><td>['brooks mel', 'gaumont video', 'gaumont video', 'brooks mel', 'de luca rudy', 'haberman steve', 'nielsen leslie', 'macnicol peter', 'weber steven', 'mann hummie', 'brooksfilms firme', 'gaumont', 'castle rock entertainment']</td></tr>
-<tr><th>global_index</th><td> le comte dracula achete une abbaye en angleterre avoue londonien thomas renfield se rend dans son lointain et sinistre chateau transylvanien pour lui faire signer les actes notaries dracula hypnotise non sans difficulte son hote et suivi de son nouvel esclave arrive en angleterre equipage du vaisseau trouve la mort durant la traversee renfield seul survivant est enferme dans asile du docteur seward deux pas de abbaye ou est installe le vampire opera dracula fait la connaissance de la fille du docteur seward mina de son fiance jonathan harker et de lucy une amie du couple le soir meme il vide lucy de son sang mann hummie brooksfilms firme dracula mort et heureux de etre dracula dead and loving it un film de mel brooks leslie nielsen peter macnicol steven weber et autres acteurs musique hummie mann histoire de rudy de luca steve haberman scenario de mel brooks rudy de luca steve haberman produit et realise par mel brooks neuilly sur seine gaumont video editeur boulogne billancourt paramount home entertainment france distributeur 2009 image animee video reference commerciale fg 315 880 edv 1504 commentaires audio de mel brooks et de son equipe version originale sous titree$?bande annonce gaumont video gaumont encodage du son dolby surround mel brooks de luca rudy dracula mort et heureux de l'etre dracula dead and loving it un film de mel brooks leslie nielsen peter macnicol steven weber et autres acteurs musique hummie mann histoire de rudy de luca steve haberman scenario de mel brooks rudy de luca steve haberman produit et realise par mel brooks eng macnicol peter neuilly sur seine gaumont video 2015 boulogne billancourt paramount home entertainment weber steven brooks mel https www wikidata org wiki q1254469 0000 0000 295f 0000 0000 0000 pastiche inspire du film dracula de 1931 avec bela lugosi realise par tod browning copyright borgo pass productions 1996 dracula dead and loving it film anglais sous titrage optionnel en francais 2009 haberman steve neuilly sur seine gaumont video 2009$? boulogne billancourt paramount home entertainment dracula dead and loving it nielsen leslie castle rock entertainment</td></tr>
+<tr><th>global_index</th><td>le comte dracula achete une abbaye en angleterre avoue londonien thomas renfield se rend dans son lointain et sinistre chateau transylvanien pour lui faire signer les actes notaries dracula hypnotise non sans difficulte son hote et suivi de son nouvel esclave arrive en angleterre equipage du vaisseau trouve la mort durant la traversee renfield seul survivant est enferme dans asile du docteur seward deux pas de abbaye ou est installe le vampire opera dracula fait la connaissance de la fille du docteur seward mina de son fiance jonathan harker et de lucy une amie du couple le soir meme il vide lucy de son sang encodage du son dolby surround weber steven de luca rudy mann hummie castle rock entertainment 0000 0000 295f 0000 0000 0000 haberman steve macnicol peter dracula mort et heureux de etre dracula dead and loving it un film de mel brooks leslie nielsen peter macnicol steven weber et autres acteurs musique hummie mann histoire de rudy de luca steve haberman scenario de mel brooks rudy de luca steve haberman produit et realise par mel brooks neuilly sur seine gaumont video editeur boulogne billancourt paramount home entertainment france distributeur 2009 image animee video reference commerciale fg 315 880 edv 1504 neuilly sur seine gaumont video 2015 boulogne billancourt paramount home entertainment brooks mel pastiche inspire du film dracula de 1931 avec bela lugosi realise par tod browning copyright borgo pass productions 1996 gaumont video brooksfilms firme dracula dead and loving it dracula dead and loving it film anglais sous titrage optionnel en francais 2009 nielsen leslie neuilly sur seine gaumont video 2009$? boulogne billancourt paramount home entertainment dracula mort et heureux de l'etre dracula dead and loving it un film de mel brooks leslie nielsen peter macnicol steven weber et autres acteurs musique hummie mann histoire de rudy de luca steve haberman scenario de mel brooks rudy de luca steve haberman produit et realise par mel brooks eng https www wikidata org wiki q1254469 commentaires audio de mel brooks et de son equipe version originale sous titree$?bande annonce mel brooks gaumont</td></tr>
 </table>
 </div>
 <p class="marc_record"><br/>000    01303cx  f2200229   4500<br/>001    UMLRM0189<br/>005    20221004####.D<br/>100    $a 20221004afrey50      ba0<br/>101 2  $a eng $j fre<br/>102    $a FR<br/>104    $a d2009<br/>105    $a ba<br/>127    $a 012700<br/>145    $a b $b xa2ae<br/>147 1  $a g $e c $h c<br/>152    $a  RDA-FR<br/>154    $a xb<br/>232    $3 UMLRM0120 $7 ba0yba0y $8 freeng $a Dracula, dead and loving it $c film $m Anglais ; sous-titrage optionnel en français $o 2009<br/>371    $a Encodage du son : Dolby surround 2.0 $f Version remastérisée : nouveau master numérique haute définition $f Sous-titrage optionnel en français $f Copyright : Gaumont vidéo, 2009<br/>640 0  $0 Date de copyright $f #2009#####<br/>801  0 $a FR $b FR-751052119 $c 20221004<br/>810    $a  Dracula, mort et heureux de l'être = Dracula dead and loving it / un film de Mel Brooks ; Leslie Nielsen, Peter MacNicol, Steven Weber... [et autres], [acteurs] ; musique, Hummie Mann ; histoire de Rudy De Luca & Steve Haberman ; scénario de Mel Brooks & Rudy De Luca & Steve Haberman ; produit et réalisé par Mel Brooks. – Neuilly-sur-Seine : Gaumont vidéo [éditeur] ; Boulogne-Billancourt : Paramount home entertainment France [distributeur], 2009. – [Image animée : vidéo]. – Référence commerciale : FG 315 880 (EDV 1504)</p>

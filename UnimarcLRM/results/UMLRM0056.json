@@ -4,13 +4,9 @@
     "id": "UMLRM0056",
     "txt": "\n000    01592nx  h2200265   4500\n001    UMLRM0056\n100    $a 20221003afrey50      ba0\n101 1  $a fre $c eng\n102    $a FR\n104    $a d1920\n105    $a ba\n145    $a i $b axxe\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Fran\u00e7ais $w Paul-Margueritte $n Texte not\u00e9\n371    $f Premi\u00e8re traduction fran\u00e7aise sous forme d\u2019une version \u00e9court\u00e9e publi\u00e9e sous le titre \"Dracula, l'homme de la nuit\".\n442  1 $7 ba0yba0y $8 frefre $a Stoker, Bram (1847-1912) $t Dracula, l'homme de la nuit $n Texte not\u00e9\n502  1 $3 12630239 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 7998 1809 $a Paul-Margueritte $b \u00c8ve $4 730\n502  1 $3 12126118 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 7974 3368 $a Paul-Margueritte $b Lucie $4 730\n542  1 $5 xxo $p Est une traduction de $3 UMLRM0005 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Anglais $n Texte not\u00e9\n542  1 $5 xxn $p Abr\u00e9g\u00e9 en $3 UMLRM0059 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Fran\u00e7ais $w Paul-Margueritte $l Version abr\u00e9g\u00e9e $n Texte not\u00e9\n640 6  $0 Date de premi\u00e8re publication $f #1920#####\n801  0 $a FR $b FR-751052119 $c 20221003\n810    $a Dracula : l'homme de la nuit / Brahm Stoker ; traduit de l'anglais par \u00c8ve et Lucie Paul-Margueritte. \u2013 Paris : l'\u00c9dition fran\u00e7aise illustr\u00e9e, 1920. \u2013 [Texte not\u00e9 : sans m\u00e9diation]\n810    $a Le visage vert : litt\u00e9rature fantastique : http://www.levisagevert.com/bibliographie-auteurs/auteurs-s/auteurs-s/s0007.html (2022-10-07) $b Information sur la version",
     "self_index": [
-        "",
         "stoker bram 1847 1912 dracula",
-        "",
         "dracula homme de la nuit brahm stoker traduit de anglais par eve et lucie paul margueritte paris edition francaise illustree 1920 texte note sans mediation $?le visage vert litterature fantastique http www levisagevert com bibliographie auteurs auteurs auteurs s0007 html 2022 10 07",
-        "",
         "stoker bram 1847 1912 dracula",
-        "",
         "dracula homme de la nuit brahm stoker traduit de anglais par eve et lucie paul margueritte paris edition francaise illustree 1920 texte note sans mediation $?le visage vert litterature fantastique http www levisagevert com bibliographie auteurs auteurs auteurs s0007 html 2022 10 07"
     ],
     "linked_entities_index": [
@@ -19,34 +15,17 @@
         "paris l'edition francaise illustree 1920",
         "collection litteraire des romans etrangers",
         "couverture illustree par pierre falke",
-        "",
-        "",
-        "",
         "dracula l'homme de la nuit brahm stoker traduit de anglais par eve et lucie paul margueritte",
         "paris l'edition francaise illustree 1920",
         "collection litteraire des romans etrangers",
         "couverture illustree par pierre falke",
-        "",
-        "",
-        "",
         "dracula bram stoker traduit de l'anglais par eve et lucie paul margueritte",
         "paris les editions des quatre vents 1946",
         "les maitres du fantastique",
-        "",
-        "",
-        "",
-        "",
         "dracula bram stoker traduit de l'anglais par eve et lucie paul margueritte",
         "paris les editions des quatre vents 1946",
         "les maitres du fantastique",
-        "",
-        "",
-        "",
-        "",
         "http ark bnf fr ark 12148 cb12312986p$?http viaf org viaf 194144783017853134071$?https www wikidata org wiki q41542$?https data bnf fr ark 12148 cb12312986p",
-        "",
-        "",
-        "",
         "le dracula de bram stoker est une application tres reussie du roman epistolaire au genre fantastique tout commence avec le journal de jonathan harker jeune clerc de notaire envoye en transylvanie alors qu'il est sur le point d'epouser sa fiancee mina murray jonathan harker pour mission de rencontrer le comte dracula lequel vient de se porter acquereur d'une propriete dans les environs de londres une fois entre les murs sinistres et inquietants du chateau du comte jonathan harker se rend tres vite l'evidence si dracula le laisse aller presque sa guise dans le chateau il n'en demeure pas moins prisonnier de l'antique demeure et de son maitre de maison et tandis que jonathan se retrouve confronte non seulement lui meme et ses convictions mais aussi des creatures plus diaboliques qu'humaines le comte prepare son depart vers londres..."
     ],
     "resp_index": [
@@ -59,9 +38,10 @@
         "falke pierre",
         "stoker bram"
     ],
-    "global_index": " couverture illustree par pierre falke le dracula de bram stoker est une application tres reussie du roman epistolaire au genre fantastique tout commence avec le journal de jonathan harker jeune clerc de notaire envoye en transylvanie alors qu'il est sur le point d'epouser sa fiancee mina murray jonathan harker pour mission de rencontrer le comte dracula lequel vient de se porter acquereur d'une propriete dans les environs de londres une fois entre les murs sinistres et inquietants du chateau du comte jonathan harker se rend tres vite l'evidence si dracula le laisse aller presque sa guise dans le chateau il n'en demeure pas moins prisonnier de l'antique demeure et de son maitre de maison et tandis que jonathan se retrouve confronte non seulement lui meme et ses convictions mais aussi des creatures plus diaboliques qu'humaines le comte prepare son depart vers londres... stoker bram paul margueritte lucie paris l'edition francaise illustree 1920 stoker bram 1847 1912 dracula francais paul margueritte texte note collection litteraire des romans etrangers dracula bram stoker traduit de l'anglais par eve et lucie paul margueritte les maitres du fantastique http ark bnf fr ark 12148 cb12312986p$?http viaf org viaf 194144783017853134071$?https www wikidata org wiki q41542$?https data bnf fr ark 12148 cb12312986p stoker bram 1847 1912 dracula paul margueritte eve paris les editions des quatre vents 1946 falke pierre dracula homme de la nuit brahm stoker traduit de anglais par eve et lucie paul margueritte paris edition francaise illustree 1920 texte note sans mediation $?le visage vert litterature fantastique http www levisagevert com bibliographie auteurs auteurs auteurs s0007 html 2022 10 07 dracula l'homme de la nuit brahm stoker traduit de anglais par eve et lucie paul margueritte",
+    "global_index": "le dracula de bram stoker est une application tres reussie du roman epistolaire au genre fantastique tout commence avec le journal de jonathan harker jeune clerc de notaire envoye en transylvanie alors qu'il est sur le point d'epouser sa fiancee mina murray jonathan harker pour mission de rencontrer le comte dracula lequel vient de se porter acquereur d'une propriete dans les environs de londres une fois entre les murs sinistres et inquietants du chateau du comte jonathan harker se rend tres vite l'evidence si dracula le laisse aller presque sa guise dans le chateau il n'en demeure pas moins prisonnier de l'antique demeure et de son maitre de maison et tandis que jonathan se retrouve confronte non seulement lui meme et ses convictions mais aussi des creatures plus diaboliques qu'humaines le comte prepare son depart vers londres... paul margueritte eve http ark bnf fr ark 12148 cb12312986p$?http viaf org viaf 194144783017853134071$?https www wikidata org wiki q41542$?https data bnf fr ark 12148 cb12312986p stoker bram 1847 1912 dracula francais paul margueritte texte note falke pierre dracula bram stoker traduit de l'anglais par eve et lucie paul margueritte paris les editions des quatre vents 1946 dracula l'homme de la nuit brahm stoker traduit de anglais par eve et lucie paul margueritte collection litteraire des romans etrangers paris l'edition francaise illustree 1920 dracula homme de la nuit brahm stoker traduit de anglais par eve et lucie paul margueritte paris edition francaise illustree 1920 texte note sans mediation $?le visage vert litterature fantastique http www levisagevert com bibliographie auteurs auteurs auteurs s0007 html 2022 10 07 paul margueritte lucie stoker bram les maitres du fantastique couverture illustree par pierre falke stoker bram 1847 1912 dracula",
     "type": "e",
     "label": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Paul-Margueritte, Texte not\u00e9",
+    "label_html": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Paul-Margueritte <img src='icons/Texte not\u00e9.png' alt='[Texte not\u00e9]' title='Texte not\u00e9'/>",
     "splitted_label": "Stoker, Bram\n(1847-1912),\nDracula, Fran\u00e7ais,\nPaul-Margueritte,\nTexte not\u00e9",
     "stats_zones": {
         "001": 1,
@@ -91,11 +71,11 @@
         ]
     },
     "respIds": [
-        "12630239",
-        "12126118"
+        "12126118",
+        "12630239"
     ],
     "toOeuvres": {
-        "UMLRM0004": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Paul-Margueritte, Texte not\u00e9"
+        "UMLRM0004": "Stoker, Bram (1847-1912), Dracula"
     },
     "toExpressions": {},
     "toManifs": {
@@ -110,9 +90,41 @@
         "UMLRM1018": "BM_CELESTEVILLE > LANGUES > COTE_UMLRM1018",
         "UMLRM1020": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1020"
     },
-    "repr": "id : UMLRM0056\ntype initial : oe ; type : e\nlabel : Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Paul-Margueritte, Texte not\u00e9\n\nNotice : \n000    01592nx  h2200265   4500\n001    UMLRM0056\n100    $a 20221003afrey50      ba0\n101 1  $a fre $c eng\n102    $a FR\n104    $a d1920\n105    $a ba\n145    $a i $b axxe\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Fran\u00e7ais $w Paul-Margueritte $n Texte not\u00e9\n371    $f Premi\u00e8re traduction fran\u00e7aise sous forme d\u2019une version \u00e9court\u00e9e publi\u00e9e sous le titre \"Dracula, l'homme de la nuit\".\n442  1 $7 ba0yba0y $8 frefre $a Stoker, Bram (1847-1912) $t Dracula, l'homme de la nuit $n Texte not\u00e9\n502  1 $3 12630239 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 7998 1809 $a Paul-Margueritte $b \u00c8ve $4 730\n502  1 $3 12126118 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 7974 3368 $a Paul-Margueritte $b Lucie $4 730\n542  1 $5 xxo $p Est une traduction de $3 UMLRM0005 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Anglais $n Texte not\u00e9\n542  1 $5 xxn $p Abr\u00e9g\u00e9 en $3 UMLRM0059 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Fran\u00e7ais $w Paul-Margueritte $l Version abr\u00e9g\u00e9e $n Texte not\u00e9\n640 6  $0 Date de premi\u00e8re publication $f #1920#####\n801  0 $a FR $b FR-751052119 $c 20221003\n810    $a Dracula : l'homme de la nuit / Brahm Stoker ; traduit de l'anglais par \u00c8ve et Lucie Paul-Margueritte. \u2013 Paris : l'\u00c9dition fran\u00e7aise illustr\u00e9e, 1920. \u2013 [Texte not\u00e9 : sans m\u00e9diation]\n810    $a Le visage vert : litt\u00e9rature fantastique : http://www.levisagevert.com/bibliographie-auteurs/auteurs-s/auteurs-s/s0007.html (2022-10-07) $b Information sur la version \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b7970e00>\nIndexation :  paul margueritte lucie stoker bram 1847 1912 dracula paul margueritte eve dracula homme de la nuit brahm stoker traduit de anglais par eve et lucie paul margueritte paris edition francaise illustree 1920 texte note sans mediation $?le visage vert litterature fantastique http www levisagevert com bibliographie auteurs auteurs auteurs s0007 html 2022 10 07",
+    "other_expressions": {
+        "UMLRM0005": "Stoker, Bram (1847-1912), Dracula, Anglais, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0020": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Molitor, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0041": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Sirgent, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0050": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0053": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Chicheportiche, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0059": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Paul-Margueritte, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0065": "Stoker, Bram (1847-1912), Dracula, Espagnol, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0068": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Molitor - Moissard, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0187": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Parole \u00e9nonc\u00e9e [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0082": "\"Dracula\" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola, Fran\u00e7ais-Anglais, Texte not\u00e9 [\"Dracula\" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola]",
+        "UMLRM0153": "[Photographies extraites du film \u00ab Dracula \u00bb de Tod Browning], 1932, Image fixe [[Photographies extraites du film \"Dracula\" de Tod Browning], 1932]",
+        "UMLRM0159": "Dracula, film, 1931, Versions multiples (5 langues ; sous-titrage en 5 langues) [Dracula, film, 1931]",
+        "UMLRM0008": "Nosferatu, Phantom der Nacht, film, franc\u0327ais [ Nosferatu, Phantom der Nacht, film]",
+        "UMLRM0136": "Dracula : pages from a virgin's diary, film, Anglais ; sous-titrage en fran\u00e7ais [Dracula: pages from a virgin's diary, film]",
+        "UMLRM0091": "Nosferatu, the wrath of Malachi, jeu vid\u00e9o, Fran\u00e7ais, PC [Nosferatu, the wrath of Malachi, jeu vid\u00e9o]",
+        "UMLRM0106": "Dracula has risen from the grave, film, Anglais [Dracula has risen from the grave, film]",
+        "UMLRM0181": "Dracula has risen from the grave, film, Fran\u00e7ais [Dracula has risen from the grave, film]",
+        "UMLRM0002": "Nosferatu, eine Symphonie des Grauens, film, Fran\u00e7ais, 60mn [Nosferatu, eine Symphonie des Grauens, film]",
+        "UMLRM0079": "Bram Stoker's Dracula, film, Anglais [Bram Stoker's Dracula, film]",
+        "UMLRM0192": "Dracula, \u00e9mission radiophonique, 1938, Anglais, Parole \u00e9nonc\u00e9e. Musique ex\u00e9cut\u00e9e [Dracula, \u00e9mission radiophonique, 1938]",
+        "UMLRM0121": "Dracula, dead and loving it, film, Fran\u00e7ais [Dracula, dead and loving it, film]",
+        "UMLRM0189": "Dracula, dead and loving it, film, Anglais ; sous-titrage optionnel en fran\u00e7ais [Dracula, dead and loving it, film]",
+        "UMLRM0127": "Stoker, Bram (1847-1912), Choix, Manuscrits, Anglais, Texte not\u00e9 [Stoker, Bram (1847-1912), Choix, Manuscrits]",
+        "UMLRM0100": "Druillet, Philippe (1944-....), Nosferatu, Fran\u00e7ais, Texte not\u00e9. Image fixe [Druillet, Philippe (1944-....), Nosferatu]",
+        "UMLRM0038": "Stoker, Bram (1847-1912), Choix, Dracula, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9 [Stoker, Bram (1847-1912), Choix, Dracula]",
+        "UMLRM0047": "Stoker, Bram (1847-1912), Choix, Dracula, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9 [Stoker, Bram (1847-1912), Choix, Dracula]",
+        "UMLRM0172": "Stoker, Bram (1847-1912), Choix, Dracula, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9 [Stoker, Bram (1847-1912), Choix, Dracula]",
+        "UMLRM0035": "Humphries, Tudor (1953-\u2026.), Dracula, Fran\u00e7ais, Texte not\u00e9. Image fixe [Humphries, Tudor (1953-\u2026.), Dracula]",
+        "UMLRM0161": "Humphries, Tudor (1953-\u2026.), Dracula, Anglais, Texte not\u00e9. Image fixe [Humphries, Tudor (1953-\u2026.), Dracula]",
+        "UMLRM0076": "Stoker, Bram (1847-1912), Dracula\u2019s guest, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula's guest]",
+        "UMLRM0115": "Stoker, Dacre - Holt, Ian (1964-\u2026.), Dracula, the un-dead, Fran\u00e7ais, Texte not\u00e9 [Stoker, Dacre - Holt, Ian (1964-\u2026.), Dracula, the un-dead]"
+    },
+    "repr": "id : UMLRM0056\ntype initial : oe ; type : e\nlabel : Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Paul-Margueritte, Texte not\u00e9\n\nNotice : \n000    01592nx  h2200265   4500\n001    UMLRM0056\n100    $a 20221003afrey50      ba0\n101 1  $a fre $c eng\n102    $a FR\n104    $a d1920\n105    $a ba\n145    $a i $b axxe\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Fran\u00e7ais $w Paul-Margueritte $n Texte not\u00e9\n371    $f Premi\u00e8re traduction fran\u00e7aise sous forme d\u2019une version \u00e9court\u00e9e publi\u00e9e sous le titre \"Dracula, l'homme de la nuit\".\n442  1 $7 ba0yba0y $8 frefre $a Stoker, Bram (1847-1912) $t Dracula, l'homme de la nuit $n Texte not\u00e9\n502  1 $3 12630239 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 7998 1809 $a Paul-Margueritte $b \u00c8ve $4 730\n502  1 $3 12126118 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 7974 3368 $a Paul-Margueritte $b Lucie $4 730\n542  1 $5 xxo $p Est une traduction de $3 UMLRM0005 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Anglais $n Texte not\u00e9\n542  1 $5 xxn $p Abr\u00e9g\u00e9 en $3 UMLRM0059 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Fran\u00e7ais $w Paul-Margueritte $l Version abr\u00e9g\u00e9e $n Texte not\u00e9\n640 6  $0 Date de premi\u00e8re publication $f #1920#####\n801  0 $a FR $b FR-751052119 $c 20221003\n810    $a Dracula : l'homme de la nuit / Brahm Stoker ; traduit de l'anglais par \u00c8ve et Lucie Paul-Margueritte. \u2013 Paris : l'\u00c9dition fran\u00e7aise illustr\u00e9e, 1920. \u2013 [Texte not\u00e9 : sans m\u00e9diation]\n810    $a Le visage vert : litt\u00e9rature fantastique : http://www.levisagevert.com/bibliographie-auteurs/auteurs-s/auteurs-s/s0007.html (2022-10-07) $b Information sur la version \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e3e40>\nIndexation : dracula homme de la nuit brahm stoker traduit de anglais par eve et lucie paul margueritte paris edition francaise illustree 1920 texte note sans mediation $?le visage vert litterature fantastique http www levisagevert com bibliographie auteurs auteurs auteurs s0007 html 2022 10 07 paul margueritte eve paul margueritte lucie stoker bram 1847 1912 dracula",
     "lang": [
-        "eng",
         "fre"
     ],
     "expressionContentType": "Texte not\u00e9",
@@ -122,6 +134,8 @@
         "Paul-Margueritte, Lucie (Traducteur)"
     ],
     "detailed": "Description : Premi\u00e8re traduction fran\u00e7aise sous forme d\u2019une version \u00e9court\u00e9e publi\u00e9e sous le titre \"Dracula, l'homme de la nuit\".\n\n\nDate de premi\u00e8re publication : 1920",
+    "detailed_sup": "Description : Le Dracula de Bram Stoker est une application tr\u00e8s r\u00e9ussie du roman \u00e9pistolaire au genre fantastique. Tout commence avec le journal de Jonathan Harker, jeune clerc de notaire envoy\u00e9 en Transylvanie alors qu\u2019il est sur le point d\u2019\u00e9pouser sa fianc\u00e9e, Mina Murray. Jonathan Harker a pour mission de rencontrer le comte Dracula, lequel vient de se porter acqu\u00e9reur d\u2019une propri\u00e9t\u00e9 dans les environs de Londres. Une fois entre les murs sinistres et inqui\u00e9tants du ch\u00e2teau du comte, Jonathan Harker se rend tr\u00e8s vite \u00e0 l\u2019\u00e9vidence: si Dracula le laisse aller presque \u00e0 sa guise dans le ch\u00e2teau, il n\u2019en demeure pas moins prisonnier de l\u2019antique demeure et de son ma\u00eetre de maison. Et tandis que Jonathan se retrouve confront\u00e9 non seulement \u00e0 lui-m\u00eame et \u00e0 ses convictions, mais aussi \u00e0 des cr\u00e9atures plus diaboliques qu\u2019humaines, le comte pr\u00e9pare son d\u00e9part vers Londres\u2026\n\n\nDate de premi\u00e8re publication : 1897\nDate d\u2019\u00e9criture : 08/03/1890\n",
     "rebonds": "",
-    "other_expressions": null
+    "rebondids": [],
+    "other_works_expressions": null
 }

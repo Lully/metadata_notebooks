@@ -17,20 +17,33 @@ input {font-style: italic;
 		  
 ------------------------------*/
 
+body.e {background-color: #eeffff;}
+body.o {background-color: #ffeeff;}
+
+.comment {font-family: Courier New;
+		  font-size: 0.8em;
+		 }
+
 /* Métadonnées */
 div.detailed {float: left;
-			  width: 80%;
+			  width: 60%;
 			  padding-right: 20px;}
+			  
+div.detailed_sup {float: left;
+			      width: 60%;
+			      padding-right: 20px;}
+			 
+			  
 p.detailed.label {font-weight: bold;
 					 color: #05513c;
 					}
 
 div.rebonds {float: right;
-			width: 15%;
+			width: 35%;
 			background-color: #efefef;
 			padding: 20px;
 			border-radius: 20px;}
-span.rebond {padding-left: 8px;
+span.rebond {padding-left: 0px;
 			 }
 span.rebond a {text-decoration: none;
 			   font-weight: normal;
@@ -38,6 +51,27 @@ span.rebond a {text-decoration: none;
 			  }
 span.rebond a:hover {text-decoration: underline;
 			  }
+
+div.other_expressions {float: left;
+					   width: 80%}
+					   
+div.other_expressions ul {margin: 0;
+	   				   padding: 0;
+					   list-style: none;
+					   }
+div.other_expressions p {font-weight: bold;}
+div.other_expressions ul li {display: inline;
+							 background: #efefef;
+							 list-style-type: none;
+							 padding: 5px;
+							 margin: 2px;
+							 padding-bottom: 10px;
+							 border: 1px solid #600;
+							 max-width: 100px;
+  							 float: left;}
+div.other_expressions ul li a {text-align: center ;
+							   text-decoration: none ;}
+div.other_expressions ul li:hover {background: #a6a6a6;}			 
 
 
 /* Filtres */
@@ -60,12 +94,16 @@ div.ui-rangeslider {width: 40%;}
 
 
 /* Liste des exemplaires*/
-.items {width: 100%;
+.items {width: 80%;
 		  float: left;}
 
 
 .avail {background-color: #beff9f}
 .unavail {background-color: #ffe2d7}
+
+div.item2metassup {font-size: 0.8em;
+					margin-top: -10px;
+					margin-left: 20px;}
 
 
 /* Métadonnées professionnelles*/

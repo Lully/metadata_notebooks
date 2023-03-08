@@ -4,39 +4,19 @@
     "id": "UMLRM0191",
     "txt": "\n000    02307nx  f2200373   4500\n001    UMLRM0191\n100    $a 20221114afrey50      ba0\n101 0  $a eng\n102    $a US\n104    $a d1938\n125 0  $a m\n127 0  $a 010000\n140    $a te $b thrad $2 BnF-GenrLitt\n140    $a te $b er $2 BnF-ImAnim\n145 0  $a h $b xxxa\n145 0  $a d $b bxxa\n152    $a RDA-FR\n154    $a xa\n231    $a Dracula $c \u00e9mission radiophonique $d 1938 $7 ba0yba0y $8 freeng\n370    $c Adaptation \u00e0 la radio du roman de Bram Stoker par Orson Welles et John Houseman, telle que diffus\u00e9e le lundi 11 juillet 1938 dans la s\u00e9rie radiophonique \"The Mercury theatre on the air\", dont elle constitue le premier \u00e9pisode.\n501  1 $3 13939725 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 8154 3111 $a Houseman $b John $f 1902-1988 $4 010\n501  1 $3 11929051 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2096 8527 $a Welles $b Orson $f 1915-1985 $4 010\n501  1 $3 13939727 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 5185 6942 $a Coulouris $b George $f 1903-1989 $4 550\n501  1 $3 14048104 $7 ba0yba0y $8 fre### $o ISNI 0000 0001 1584 4474 $a Gabel $b Martin $f 1912-1986 $4 550\n501  1 $3 11929051 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2096 8527 $a Welles $b Orson $f 1915-1985 $4 550 $4 300\n501  1 $3 13895169 $7 ba0yba0y $8 fre### $o ISNI 0000 0001 2121 0662 $a Herrmann $b Bernard $f 1911-1975 $4 230\n511 02 $3 11941628 $7 ba0yba0y $8 freeng $a Columbia broadcasting system $4 665\n531    $5 xxd $3 UMLRM0194 $a The Mercury theatre on the air $c s\u00e9rie radiophonique $7 ba0yba0y $8 freeng\n541  1 $5 xxa $p Est une adaptation dans un autre mode de cr\u00e9ation de [\u0153uvre] $3 UMLRM0004 $7 ba0yba0y $8 fre### $a Stoker $b Bram (1847-1912) $t Dracula\n608    $3 11975086 $a Th\u00e9\u00e2tre radiophonique $2 rameauGenre\n640 6  $a US $e CBS radio $f #19380711#\n801    $a FR $b FR-751131015 $c 20221114\n810    $a  Dracula : original radio adaptation as heard on the Mercury theatre on the air / starring Orson Welles ; based on the novel by Bram Stoker ; adapted for radio by Orson Welles and John Houseman ; performed by Orson Welles, Martin Gabel, George Coulouris... [et autres]. \u2013 Schiller park (Illinois) : Radio spirits, P 2001. \u2013 [Parole \u00e9nonc\u00e9e : audio]. \u2013 7031 (Radio spirits)\n810    $a Wikip\u00e9dia : https://en.wikipedia.org/wiki/Dracula_(radio_drama) (2022-11-14)",
     "self_index": [
-        "",
-        "",
         "dracula",
         "adaptation la radio du roman de bram stoker par orson welles et john houseman telle que diffusee le lundi 11 juillet 1938 dans la serie radiophonique the mercury theatre on the air dont elle constitue le premier episode",
-        "",
-        "",
-        "",
         "dracula",
-        "adaptation la radio du roman de bram stoker par orson welles et john houseman telle que diffusee le lundi 11 juillet 1938 dans la serie radiophonique the mercury theatre on the air dont elle constitue le premier episode",
-        ""
+        "adaptation la radio du roman de bram stoker par orson welles et john houseman telle que diffusee le lundi 11 juillet 1938 dans la serie radiophonique the mercury theatre on the air dont elle constitue le premier episode"
     ],
     "linked_entities_index": [
         "dracula original radio adaptation as heard on the mercury theatre on the air starring orson welles based on the novel by bram stoker adapted for radio by orson welles and john houseman performed by orson welles martin gabel george coulouris et autres",
         "schiller park illinois radio spirits 2001",
-        "",
-        "",
-        "",
-        "",
-        "",
         "dracula original radio adaptation as heard on the mercury theatre on the air starring orson welles based on the novel by bram stoker adapted for radio by orson welles and john houseman performed by orson welles martin gabel george coulouris et autres",
         "schiller park illinois radio spirits 2001",
-        "",
-        "",
-        "",
-        "",
-        "",
         "dracula",
-        "",
-        "",
         "dracula original radio adaptation as heard on the mercury theatre on the air starring orson welles based on the novel by bram stoker adapted for radio by orson welles and john houseman performed by orson welles martin gabel george coulouris et autres schiller park illinois radio spirits 2001 parole enoncee audio 7031 radio spirits $?wikipedia https en wikipedia org wiki dracula radio drama 2022 11 14",
         "dracula",
-        "",
-        "",
         "dracula original radio adaptation as heard on the mercury theatre on the air starring orson welles based on the novel by bram stoker adapted for radio by orson welles and john houseman performed by orson welles martin gabel george coulouris et autres schiller park illinois radio spirits 2001 parole enoncee audio 7031 radio spirits $?wikipedia https en wikipedia org wiki dracula radio drama 2022 11 14"
     ],
     "resp_index": [
@@ -54,9 +34,10 @@
         "columbia broadcasting system"
     ],
     "linked_resp_index": [],
-    "global_index": " gabel martin herrmann bernard dracula schiller park illinois radio spirits 2001 dracula original radio adaptation as heard on the mercury theatre on the air starring orson welles based on the novel by bram stoker adapted for radio by orson welles and john houseman performed by orson welles martin gabel george coulouris et autres columbia broadcasting system dracula original radio adaptation as heard on the mercury theatre on the air starring orson welles based on the novel by bram stoker adapted for radio by orson welles and john houseman performed by orson welles martin gabel george coulouris et autres schiller park illinois radio spirits 2001 parole enoncee audio 7031 radio spirits $?wikipedia https en wikipedia org wiki dracula radio drama 2022 11 14 welles orson adaptation la radio du roman de bram stoker par orson welles et john houseman telle que diffusee le lundi 11 juillet 1938 dans la serie radiophonique the mercury theatre on the air dont elle constitue le premier episode coulouris george houseman john",
+    "global_index": "houseman john gabel martin adaptation la radio du roman de bram stoker par orson welles et john houseman telle que diffusee le lundi 11 juillet 1938 dans la serie radiophonique the mercury theatre on the air dont elle constitue le premier episode welles orson dracula original radio adaptation as heard on the mercury theatre on the air starring orson welles based on the novel by bram stoker adapted for radio by orson welles and john houseman performed by orson welles martin gabel george coulouris et autres schiller park illinois radio spirits 2001 parole enoncee audio 7031 radio spirits $?wikipedia https en wikipedia org wiki dracula radio drama 2022 11 14 coulouris george schiller park illinois radio spirits 2001 dracula original radio adaptation as heard on the mercury theatre on the air starring orson welles based on the novel by bram stoker adapted for radio by orson welles and john houseman performed by orson welles martin gabel george coulouris et autres columbia broadcasting system dracula herrmann bernard",
     "type": "o",
     "label": "Dracula, \u00e9mission radiophonique, 1938",
+    "label_html": "Dracula <img src='icons/\u00e9mission radiophonique.png' alt='[\u00e9mission radiophonique]' title='\u00e9mission radiophonique'/> 1938",
     "splitted_label": "Dracula, \u00e9mission\nradiophonique, 1938",
     "stats_zones": {
         "001": 1,
@@ -104,11 +85,11 @@
     },
     "respIds": [
         "11941628",
-        "14048104",
-        "13939725",
         "13895169",
+        "13939725",
+        "11929051",
         "13939727",
-        "11929051"
+        "14048104"
     ],
     "toOeuvres": {},
     "toExpressions": {
@@ -123,13 +104,18 @@
     "toItems": {
         "UMLRM1054": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1054"
     },
-    "repr": "id : UMLRM0191\ntype initial : oe ; type : o\nlabel : Dracula, \u00e9mission radiophonique, 1938\n\nNotice : \n000    02307nx  f2200373   4500\n001    UMLRM0191\n100    $a 20221114afrey50      ba0\n101 0  $a eng\n102    $a US\n104    $a d1938\n125 0  $a m\n127 0  $a 010000\n140    $a te $b thrad $2 BnF-GenrLitt\n140    $a te $b er $2 BnF-ImAnim\n145 0  $a h $b xxxa\n145 0  $a d $b bxxa\n152    $a RDA-FR\n154    $a xa\n231    $a Dracula $c \u00e9mission radiophonique $d 1938 $7 ba0yba0y $8 freeng\n370    $c Adaptation \u00e0 la radio du roman de Bram Stoker par Orson Welles et John Houseman, telle que diffus\u00e9e le lundi 11 juillet 1938 dans la s\u00e9rie radiophonique \"The Mercury theatre on the air\", dont elle constitue le premier \u00e9pisode.\n501  1 $3 13939725 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 8154 3111 $a Houseman $b John $f 1902-1988 $4 010\n501  1 $3 11929051 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2096 8527 $a Welles $b Orson $f 1915-1985 $4 010\n501  1 $3 13939727 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 5185 6942 $a Coulouris $b George $f 1903-1989 $4 550\n501  1 $3 14048104 $7 ba0yba0y $8 fre### $o ISNI 0000 0001 1584 4474 $a Gabel $b Martin $f 1912-1986 $4 550\n501  1 $3 11929051 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2096 8527 $a Welles $b Orson $f 1915-1985 $4 550 $4 300\n501  1 $3 13895169 $7 ba0yba0y $8 fre### $o ISNI 0000 0001 2121 0662 $a Herrmann $b Bernard $f 1911-1975 $4 230\n511 02 $3 11941628 $7 ba0yba0y $8 freeng $a Columbia broadcasting system $4 665\n531    $5 xxd $3 UMLRM0194 $a The Mercury theatre on the air $c s\u00e9rie radiophonique $7 ba0yba0y $8 freeng\n541  1 $5 xxa $p Est une adaptation dans un autre mode de cr\u00e9ation de [\u0153uvre] $3 UMLRM0004 $7 ba0yba0y $8 fre### $a Stoker $b Bram (1847-1912) $t Dracula\n608    $3 11975086 $a Th\u00e9\u00e2tre radiophonique $2 rameauGenre\n640 6  $a US $e CBS radio $f #19380711#\n801    $a FR $b FR-751131015 $c 20221114\n810    $a  Dracula : original radio adaptation as heard on the Mercury theatre on the air / starring Orson Welles ; based on the novel by Bram Stoker ; adapted for radio by Orson Welles and John Houseman ; performed by Orson Welles, Martin Gabel, George Coulouris... [et autres]. \u2013 Schiller park (Illinois) : Radio spirits, P 2001. \u2013 [Parole \u00e9nonc\u00e9e : audio]. \u2013 7031 (Radio spirits)\n810    $a Wikip\u00e9dia : https://en.wikipedia.org/wiki/Dracula_(radio_drama) (2022-11-14) \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b7976180>\nIndexation :  gabel martin herrmann bernard dracula columbia broadcasting system houseman john adaptation la radio du roman de bram stoker par orson welles et john houseman telle que diffusee le lundi 11 juillet 1938 dans la serie radiophonique the mercury theatre on the air dont elle constitue le premier episode coulouris george welles orson",
+    "other_expressions": {},
+    "repr": "id : UMLRM0191\ntype initial : oe ; type : o\nlabel : Dracula, \u00e9mission radiophonique, 1938\n\nNotice : \n000    02307nx  f2200373   4500\n001    UMLRM0191\n100    $a 20221114afrey50      ba0\n101 0  $a eng\n102    $a US\n104    $a d1938\n125 0  $a m\n127 0  $a 010000\n140    $a te $b thrad $2 BnF-GenrLitt\n140    $a te $b er $2 BnF-ImAnim\n145 0  $a h $b xxxa\n145 0  $a d $b bxxa\n152    $a RDA-FR\n154    $a xa\n231    $a Dracula $c \u00e9mission radiophonique $d 1938 $7 ba0yba0y $8 freeng\n370    $c Adaptation \u00e0 la radio du roman de Bram Stoker par Orson Welles et John Houseman, telle que diffus\u00e9e le lundi 11 juillet 1938 dans la s\u00e9rie radiophonique \"The Mercury theatre on the air\", dont elle constitue le premier \u00e9pisode.\n501  1 $3 13939725 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 8154 3111 $a Houseman $b John $f 1902-1988 $4 010\n501  1 $3 11929051 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2096 8527 $a Welles $b Orson $f 1915-1985 $4 010\n501  1 $3 13939727 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 5185 6942 $a Coulouris $b George $f 1903-1989 $4 550\n501  1 $3 14048104 $7 ba0yba0y $8 fre### $o ISNI 0000 0001 1584 4474 $a Gabel $b Martin $f 1912-1986 $4 550\n501  1 $3 11929051 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2096 8527 $a Welles $b Orson $f 1915-1985 $4 550 $4 300\n501  1 $3 13895169 $7 ba0yba0y $8 fre### $o ISNI 0000 0001 2121 0662 $a Herrmann $b Bernard $f 1911-1975 $4 230\n511 02 $3 11941628 $7 ba0yba0y $8 freeng $a Columbia broadcasting system $4 665\n531    $5 xxd $3 UMLRM0194 $a The Mercury theatre on the air $c s\u00e9rie radiophonique $7 ba0yba0y $8 freeng\n541  1 $5 xxa $p Est une adaptation dans un autre mode de cr\u00e9ation de [\u0153uvre] $3 UMLRM0004 $7 ba0yba0y $8 fre### $a Stoker $b Bram (1847-1912) $t Dracula\n608    $3 11975086 $a Th\u00e9\u00e2tre radiophonique $2 rameauGenre\n640 6  $a US $e CBS radio $f #19380711#\n801    $a FR $b FR-751131015 $c 20221114\n810    $a  Dracula : original radio adaptation as heard on the Mercury theatre on the air / starring Orson Welles ; based on the novel by Bram Stoker ; adapted for radio by Orson Welles and John Houseman ; performed by Orson Welles, Martin Gabel, George Coulouris... [et autres]. \u2013 Schiller park (Illinois) : Radio spirits, P 2001. \u2013 [Parole \u00e9nonc\u00e9e : audio]. \u2013 7031 (Radio spirits)\n810    $a Wikip\u00e9dia : https://en.wikipedia.org/wiki/Dracula_(radio_drama) (2022-11-14) \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e61c0>\nIndexation : houseman john gabel martin adaptation la radio du roman de bram stoker par orson welles et john houseman telle que diffusee le lundi 11 juillet 1938 dans la serie radiophonique the mercury theatre on the air dont elle constitue le premier episode welles orson coulouris george columbia broadcasting system dracula herrmann bernard",
     "subjects": {},
     "genreforme": {
         "11975086": ""
     },
     "detailed": "Description : Adaptation \u00e0 la radio du roman de Bram Stoker par Orson Welles et John Houseman, telle que diffus\u00e9e le lundi 11 juillet 1938 dans la s\u00e9rie radiophonique \"The Mercury theatre on the air\", dont elle constitue le premier \u00e9pisode.\n\n\n : 11/07/1938",
     "rebonds": "<span class='rebond'><a href='full_results_UMLRM0194.html'>The Mercury theatre on the air s\u00e9rie radiophonique</a></span>\n<span class='rebond'><a href='full_results_UMLRM0004.html'>Est une adaptation dans un autre mode de cr\u00e9ation de [\u0153uvre] Stoker Bram (1847-1912) Dracula</a></span>",
+    "rebondids": [
+        "UMLRM0194",
+        "UMLRM0004"
+    ],
     "exprResp": [],
     "lang": [
         "eng"

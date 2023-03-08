@@ -3,40 +3,17 @@
     "init_type": "oe",
     "id": "UMLRM0195",
     "txt": "\n000    01177nx  h2200289   4500\n001    UMLRM0195\n100    $a 20221116afrey50      ba0\n101 0  $a fre\n102    $a BE\n104    $a d1986\n125 00 $a m\n140    $a te $b bibli $2 BnF-FonctTexMix\n140    $a te $b a $2 UM/M105pos4-7\n145 0  $a i\n152    $a RDA-FR\n154    $a xa\n241  1 $3 11902797 $o ISNI 0000 0001 2023 6609 $a Finn\u00e9, Jacques (1944-\u2026.) $t Bibliographie de Dracula  $7 ba0yba0y $8 frefre\n300    $a Notes bibliographiques\n501  1 $3 11902797 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2023 6609 $a Finn\u00e9 $f 1944-\u2026. $4 070\n600  0 $3 11962841 $7 ba0yba0y $8 frefre $a Dracula $c personnage fictif\n606    $3 11945972 $7 ba0yba0y $8 frefre $a Vampires $3 11996647 $a Dans la litt\u00e9rature $2 rameau\n606    $3 11936508 $7 ba0yba0y $8 frefre $a Litt\u00e9rature $x Th\u00e8mes, motifs\n608    $3 13318324 $7 ba0yba0y $8 frefre $a Bibliographie $2 rameau-Forme\n640 0  $0 Date de copyright $f #1986#####\n676    $a 809.930 16 $v 23\n801  0 $a FR $b FR-751045101 $c 20221116\n810    $a Bibliographie de Dracula / Jacques Finn\u00e9. \u2013 Lausanne :  L\u2019\u00e2ge d'homme, cop. 1986. \u2013 [Texte not\u00e9 : sans m\u00e9diation]",
-    "self_index": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-    ],
+    "self_index": [],
     "linked_entities_index": [
         "bibliographie de dracula jacques finne",
         "lausanne l'age homme copyright 1996",
         "contemporains",
-        "",
-        "",
-        "",
-        "",
         "bibliographie de dracula jacques finne",
         "lausanne l'age homme copyright 1996",
         "contemporains",
-        "",
-        "",
-        "",
-        "",
-        "",
         "finne jacques 1944 bibliographie de dracula",
-        "",
         "bibliographie de dracula jacques finne lausanne l'age homme cop 1986 texte note sans mediation",
-        "",
         "finne jacques 1944 bibliographie de dracula",
-        "",
         "bibliographie de dracula jacques finne lausanne l'age homme cop 1986 texte note sans mediation"
     ],
     "resp_index": [
@@ -44,9 +21,10 @@
         "finne"
     ],
     "linked_resp_index": [],
-    "global_index": " finne jacques 1944 bibliographie de dracula finne contemporains bibliographie de dracula jacques finne bibliographie de dracula jacques finne lausanne l'age homme cop 1986 texte note sans mediation lausanne l'age homme copyright 1996",
+    "global_index": "bibliographie de dracula jacques finne lausanne l'age homme cop 1986 texte note sans mediation finne jacques 1944 bibliographie de dracula contemporains finne lausanne l'age homme copyright 1996 bibliographie de dracula jacques finne",
     "type": "o",
     "label": "Finn\u00e9, Jacques (1944-\u2026.), Bibliographie de Dracula ",
+    "label_html": "Finn\u00e9, Jacques (1944-\u2026.), Bibliographie de Dracula ",
     "splitted_label": "Finn\u00e9, Jacques\n(1944-\u2026.),\nBibliographie de\nDracula",
     "stats_zones": {
         "001": 1,
@@ -91,7 +69,8 @@
     "toItems": {
         "UMLRM1055": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1055"
     },
-    "repr": "id : UMLRM0195\ntype initial : oe ; type : o\nlabel : Finn\u00e9, Jacques (1944-\u2026.), Bibliographie de Dracula \n\nNotice : \n000    01177nx  h2200289   4500\n001    UMLRM0195\n100    $a 20221116afrey50      ba0\n101 0  $a fre\n102    $a BE\n104    $a d1986\n125 00 $a m\n140    $a te $b bibli $2 BnF-FonctTexMix\n140    $a te $b a $2 UM/M105pos4-7\n145 0  $a i\n152    $a RDA-FR\n154    $a xa\n241  1 $3 11902797 $o ISNI 0000 0001 2023 6609 $a Finn\u00e9, Jacques (1944-\u2026.) $t Bibliographie de Dracula  $7 ba0yba0y $8 frefre\n300    $a Notes bibliographiques\n501  1 $3 11902797 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2023 6609 $a Finn\u00e9 $f 1944-\u2026. $4 070\n600  0 $3 11962841 $7 ba0yba0y $8 frefre $a Dracula $c personnage fictif\n606    $3 11945972 $7 ba0yba0y $8 frefre $a Vampires $3 11996647 $a Dans la litt\u00e9rature $2 rameau\n606    $3 11936508 $7 ba0yba0y $8 frefre $a Litt\u00e9rature $x Th\u00e8mes, motifs\n608    $3 13318324 $7 ba0yba0y $8 frefre $a Bibliographie $2 rameau-Forme\n640 0  $0 Date de copyright $f #1986#####\n676    $a 809.930 16 $v 23\n801  0 $a FR $b FR-751045101 $c 20221116\n810    $a Bibliographie de Dracula / Jacques Finn\u00e9. \u2013 Lausanne :  L\u2019\u00e2ge d'homme, cop. 1986. \u2013 [Texte not\u00e9 : sans m\u00e9diation] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b7976240>\nIndexation :  finne",
+    "other_expressions": {},
+    "repr": "id : UMLRM0195\ntype initial : oe ; type : o\nlabel : Finn\u00e9, Jacques (1944-\u2026.), Bibliographie de Dracula \n\nNotice : \n000    01177nx  h2200289   4500\n001    UMLRM0195\n100    $a 20221116afrey50      ba0\n101 0  $a fre\n102    $a BE\n104    $a d1986\n125 00 $a m\n140    $a te $b bibli $2 BnF-FonctTexMix\n140    $a te $b a $2 UM/M105pos4-7\n145 0  $a i\n152    $a RDA-FR\n154    $a xa\n241  1 $3 11902797 $o ISNI 0000 0001 2023 6609 $a Finn\u00e9, Jacques (1944-\u2026.) $t Bibliographie de Dracula  $7 ba0yba0y $8 frefre\n300    $a Notes bibliographiques\n501  1 $3 11902797 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2023 6609 $a Finn\u00e9 $f 1944-\u2026. $4 070\n600  0 $3 11962841 $7 ba0yba0y $8 frefre $a Dracula $c personnage fictif\n606    $3 11945972 $7 ba0yba0y $8 frefre $a Vampires $3 11996647 $a Dans la litt\u00e9rature $2 rameau\n606    $3 11936508 $7 ba0yba0y $8 frefre $a Litt\u00e9rature $x Th\u00e8mes, motifs\n608    $3 13318324 $7 ba0yba0y $8 frefre $a Bibliographie $2 rameau-Forme\n640 0  $0 Date de copyright $f #1986#####\n676    $a 809.930 16 $v 23\n801  0 $a FR $b FR-751045101 $c 20221116\n810    $a Bibliographie de Dracula / Jacques Finn\u00e9. \u2013 Lausanne :  L\u2019\u00e2ge d'homme, cop. 1986. \u2013 [Texte not\u00e9 : sans m\u00e9diation] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e6280>\nIndexation : finne",
     "subjects": {
         "11945972\u00a411996647": "",
         "11936508": ""
@@ -101,6 +80,7 @@
     },
     "detailed": "\n\nDate de copyright : 1986",
     "rebonds": "",
+    "rebondids": [],
     "exprResp": [],
     "lang": [
         "fre"

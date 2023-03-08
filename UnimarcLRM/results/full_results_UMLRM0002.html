@@ -21,20 +21,33 @@ input {font-style: italic;
 		  
 ------------------------------*/
 
+body.e {background-color: #eeffff;}
+body.o {background-color: #ffeeff;}
+
+.comment {font-family: Courier New;
+		  font-size: 0.8em;
+		 }
+
 /* Métadonnées */
 div.detailed {float: left;
-			  width: 80%;
+			  width: 60%;
 			  padding-right: 20px;}
+			  
+div.detailed_sup {float: left;
+			      width: 60%;
+			      padding-right: 20px;}
+			 
+			  
 p.detailed.label {font-weight: bold;
 					 color: #05513c;
 					}
 
 div.rebonds {float: right;
-			width: 15%;
+			width: 35%;
 			background-color: #efefef;
 			padding: 20px;
 			border-radius: 20px;}
-span.rebond {padding-left: 8px;
+span.rebond {padding-left: 0px;
 			 }
 span.rebond a {text-decoration: none;
 			   font-weight: normal;
@@ -42,6 +55,27 @@ span.rebond a {text-decoration: none;
 			  }
 span.rebond a:hover {text-decoration: underline;
 			  }
+
+div.other_expressions {float: left;
+					   width: 80%}
+					   
+div.other_expressions ul {margin: 0;
+	   				   padding: 0;
+					   list-style: none;
+					   }
+div.other_expressions p {font-weight: bold;}
+div.other_expressions ul li {display: inline;
+							 background: #efefef;
+							 list-style-type: none;
+							 padding: 5px;
+							 margin: 2px;
+							 padding-bottom: 10px;
+							 border: 1px solid #600;
+							 max-width: 100px;
+  							 float: left;}
+div.other_expressions ul li a {text-align: center ;
+							   text-decoration: none ;}
+div.other_expressions ul li:hover {background: #a6a6a6;}			 
 
 
 /* Filtres */
@@ -64,12 +98,16 @@ div.ui-rangeslider {width: 40%;}
 
 
 /* Liste des exemplaires*/
-.items {width: 100%;
+.items {width: 80%;
 		  float: left;}
 
 
 .avail {background-color: #beff9f}
 .unavail {background-color: #ffe2d7}
+
+div.item2metassup {font-size: 0.8em;
+					margin-top: -10px;
+					margin-left: 20px;}
 
 
 /* Métadonnées professionnelles*/
@@ -99,19 +137,42 @@ a.link2work {color: #5a918a;
 
 .short_result_details {margin-left: 20px;
 					   font-size: 0.8em;}</style></head>
-<body>
+<body class='e'>
 
 <div class="entete">
 <p>Rappel de la recherche : <strong></strong></p>
 <p class='back'><a href='short_results_e.html'>Retour à la liste des résultats</a></p><h1>Résultat 1</h1></div><div class='full_record'>
 <p class='detailed label'>Nosferatu, eine Symphonie des Grauens, film, Français, 60mn</p>
-<div class='detailed'><p class='detailed'>Description : Film muet avec intertitres en français. Version restaurée, restauration de 1995 : 60 min (24 im./s), musique de Galeshka Moravioff<br/><br/><br/>Date de restauration : 1995</p></div></div>
+<div class='detailed'><p class='detailed'>Description : Film muet avec intertitres en français. Version restaurée, restauration de 1995 : 60 min (24 im./s), musique de Galeshka Moravioff<br/><br/><br/>Date de restauration : 1995</p></div>
+<div class='detailed_sup'><p class='detailed'>Description : Film muet en noir et blanc avec des intertitres., Adaptation sans autorisation du livre de Bram Stoker "Dracula", et objet de procès pour plagiat intenté par Florence Stoker, veuve de l'auteur, entre 1922 et 1925..<br/>En 1838 dans la ville fictive de Wisborg, Thomas Hutter, un jeune clerc de notaire ayant fait un heureux mariage avec Ellen, doit partir pour la Transylvanie afin de vendre une propriété au comte Orlok qui désire avoir une résidence dans la ville. Après un périple sur une terre d’ombres, le jeune homme est accueilli au sein d’un sinistre château par le comte. Durant la transaction, Orlok aperçoit une miniature d’Ellen qui le fascine et décide d’acquérir le bâtiment – proche de la maison du couple – qui lui est proposé. Hutter, hôte du comte, ne tardera pas à découvrir la véritable nature de celui-ci. Alors Nosferatu cheminera vers sa nouvelle propriété, répandant dans son sillage une épidémie de peste. Ellen, bientôt en proie aux mains griffues de Nosferatu qui la convoite, laissera le comte faire d’elle sa victime et sacrifie son sang au vampire pour sauver la ville frappée par la peste.<br/><br/><br/>Date de tournage : 1921<br/>Date de sortie en salle : 04/03/1922<br/>Date de sortie en salle : 27/10/1922<br/></p></div>
+<div class='rebonds'></div>
 <div class='filters'><h3>Filtres</h3>
-<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/>  <a class="filters_lng" href="#">allemand</a> <a class="filters_lng" href="#">français</a>  <div class='yearRange'><p>Filtre par année</p></div></div>
+<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/> <a href='#'>Disponible</a>  <a class="filters_lng" href="#">français</a>  <div class='yearRange'><p>Filtre par année</p></div></div>
 <div class='filters2'><a href="#">Moravioff, Galeshka (Compositeur)</a></div></div>
-<div class='items'><h3>Liste des exemplaires</h3>
-<p class='avail'>Disponible - Nosferatu, eine Symphonie des Grauens, film, Français, 60mn - Bibliothèque municipale de Célesteville ADULTES COTE_UMLRM1000</p></div>
+<div class='items'>
+<h3>Liste des exemplaires</h3>
+<div class='item'><p class='avail'>Disponible - Nosferatu, eine Symphonie des Grauens, film, Français, 60mn - Bibliothèque municipale de Célesteville ADULTES COTE_UMLRM1000<br/><div class='item2metassup'>Titre: Nosferatu / Réalisation Friedrich W. Murnau, d’après le roman "Dracula" de Bram Stoker, scénario et adaptation Henrik Galeen, avec Max Schreck, Greta Schroeder, Gustav von Wangenheim... [et autres]<br/>Edition: [Sannois]-[Sannois]. RDM vidéo, RDM vidéo. [DL 2012], 2011</div></p></div>
+</div>
 
+
+<div class='other_expressions'>
+<p>Autres oeuvres en lien
+<p class='comment'>Sur une page d'expression, cette rubrique liste directement les expressions des oeuvres liées à l'oeuvre de l'expression en cours</p><ul><li><a href="full_results_UMLRM0008.html">Nosferatu, Phantom der Nacht, film, français [ Nosferatu, Phantom der Nacht, film]</a></li>
+<li><a href="full_results_UMLRM0130.html">Shadow of the vampire, film, Français [Shadow of the vampire, film]</a></li>
+<li><a href="full_results_UMLRM0184.html">Shadow of the vampire, film, Anglais ; sous titrage en français [Shadow of the vampire, film]</a></li>
+<li><a href="full_results_UMLRM0091.html">Nosferatu, the wrath of Malachi, jeu vidéo, Français, PC [Nosferatu, the wrath of Malachi, jeu vidéo]</a></li>
+<li><a href="full_results_UMLRM0005.html">Stoker, Bram (1847-1912), Dracula, Anglais, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0020.html">Stoker, Bram (1847-1912), Dracula, Français, Molitor, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0041.html">Stoker, Bram (1847-1912), Dracula, Français, Sirgent, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0050.html">Stoker, Bram (1847-1912), Dracula, Français, Finné, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0053.html">Stoker, Bram (1847-1912), Dracula, Français, Chicheportiche, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0056.html">Stoker, Bram (1847-1912), Dracula, Français, Paul-Margueritte, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0059.html">Stoker, Bram (1847-1912), Dracula, Français, Paul-Margueritte, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0065.html">Stoker, Bram (1847-1912), Dracula, Espagnol, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0068.html">Stoker, Bram (1847-1912), Dracula, Français, Molitor - Moissard, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0187.html">Stoker, Bram (1847-1912), Dracula, Français, Parole énoncée [Stoker, Bram (1847-1912), Dracula]</a></li>
+</ul>
+</div>
 <div class='pro'>
 <hr/>
 <h3>Infos professionnelles</h3>
@@ -181,11 +242,11 @@ a.link2work {color: #5a918a;
 </svg></div>
 <div class="indexed_metas">
 <table class="indexed_metas_table">
-<tr><th>self_index</th><td>['nosferatu eine symphonie des grauens', '', '', "nosferatu realisation friedrich murnau d'apres le roman dracula de bram stoker scenario et adaptation henrik galeen avec max schreck greta schroeder gustav von wangenheim et autres sannois rdm video editeur distributeur dl 2012 image animee video $?wikipedia https fr wikipedia org wiki nosferatu le vampire 2020 12 28", 'nosferatu eine symphonie des grauens', '', '', "nosferatu realisation friedrich murnau d'apres le roman dracula de bram stoker scenario et adaptation henrik galeen avec max schreck greta schroeder gustav von wangenheim et autres sannois rdm video editeur distributeur dl 2012 image animee video $?wikipedia https fr wikipedia org wiki nosferatu le vampire 2020 12 28"]</td></tr>
-<tr><th>linked_entities_index</th><td>['nosferatu eine symphonie des grauens film version restauree 60mn 1995 francais', "nosferatu realisation friedrich murnau d'apres le roman dracula de bram stoker scenario et adaptation henrik galeen avec max schreck greta schroeder gustav von wangenheim et autres", 'sannois rdm video dl 2012 sannois rdm video 2011', 'les tresors du cinema', '', '', 'contient aussi biographie et filmographie du realisateur fiche technique', '', "nosferatu realisation friedrich murnau d'apres le roman dracula de bram stoker scenario et adaptation henrik galeen avec max schreck greta schroeder gustav von wangenheim et autres", 'sannois rdm video dl 2012 sannois rdm video 2011', 'les tresors du cinema', '', '', 'contient aussi biographie et filmographie du realisateur fiche technique', '', 'https data bnf fr ark 12148 cb11943761j$?https www wikidata org wiki q151895', '0000 0000 4eba 0000 0000 0000', 'nosferatu eine symphonie des grauens', 'film muet en noir et blanc avec des intertitres adaptation sans autorisation du livre de bram stoker dracula et objet de proces pour plagiat intente par florence stoker veuve de auteur entre 1922 et 1925', "en 1838 dans la ville fictive de wisborg thomas hutter un jeune clerc de notaire ayant fait un heureux mariage avec ellen doit partir pour la transylvanie afin de vendre une propriete au comte orlok qui desire avoir une residence dans la ville apres un periple sur une terre d'ombres le jeune homme est accueilli au sein d'un sinistre chateau par le comte durant la transaction orlok apercoit une miniature d'ellen qui le fascine et decide d'acquerir le batiment proche de la maison du couple qui lui est propose hutter hote du comte ne tardera pas decouvrir la veritable nature de celui ci alors nosferatu cheminera vers sa nouvelle propriete repandant dans son sillage une epidemie de peste ellen bientot en proie aux mains griffues de nosferatu qui la convoite laissera le comte faire d'elle sa victime et sacrifie son sang au vampire pour sauver la ville frappee par la peste"]</td></tr>
+<tr><th>self_index</th><td>['nosferatu eine symphonie des grauens', "nosferatu realisation friedrich murnau d'apres le roman dracula de bram stoker scenario et adaptation henrik galeen avec max schreck greta schroeder gustav von wangenheim et autres sannois rdm video editeur distributeur dl 2012 image animee video $?wikipedia https fr wikipedia org wiki nosferatu le vampire 2020 12 28", 'nosferatu eine symphonie des grauens', "nosferatu realisation friedrich murnau d'apres le roman dracula de bram stoker scenario et adaptation henrik galeen avec max schreck greta schroeder gustav von wangenheim et autres sannois rdm video editeur distributeur dl 2012 image animee video $?wikipedia https fr wikipedia org wiki nosferatu le vampire 2020 12 28"]</td></tr>
+<tr><th>linked_entities_index</th><td>['nosferatu eine symphonie des grauens film version restauree 60mn 1995 francais', "nosferatu realisation friedrich murnau d'apres le roman dracula de bram stoker scenario et adaptation henrik galeen avec max schreck greta schroeder gustav von wangenheim et autres", 'sannois rdm video dl 2012 sannois rdm video 2011', 'les tresors du cinema', 'contient aussi biographie et filmographie du realisateur fiche technique', "nosferatu realisation friedrich murnau d'apres le roman dracula de bram stoker scenario et adaptation henrik galeen avec max schreck greta schroeder gustav von wangenheim et autres", 'sannois rdm video dl 2012 sannois rdm video 2011', 'les tresors du cinema', 'contient aussi biographie et filmographie du realisateur fiche technique', 'https data bnf fr ark 12148 cb11943761j$?https www wikidata org wiki q151895', '0000 0000 4eba 0000 0000 0000', 'nosferatu eine symphonie des grauens', 'film muet en noir et blanc avec des intertitres adaptation sans autorisation du livre de bram stoker dracula et objet de proces pour plagiat intente par florence stoker veuve de auteur entre 1922 et 1925', "en 1838 dans la ville fictive de wisborg thomas hutter un jeune clerc de notaire ayant fait un heureux mariage avec ellen doit partir pour la transylvanie afin de vendre une propriete au comte orlok qui desire avoir une residence dans la ville apres un periple sur une terre d'ombres le jeune homme est accueilli au sein d'un sinistre chateau par le comte durant la transaction orlok apercoit une miniature d'ellen qui le fascine et decide d'acquerir le batiment proche de la maison du couple qui lui est propose hutter hote du comte ne tardera pas decouvrir la veritable nature de celui ci alors nosferatu cheminera vers sa nouvelle propriete repandant dans son sillage une epidemie de peste ellen bientot en proie aux mains griffues de nosferatu qui la convoite laissera le comte faire d'elle sa victime et sacrifie son sang au vampire pour sauver la ville frappee par la peste"]</td></tr>
 <tr><th>resp_index</th><td>['moravioff galeshka', 'moravioff galeshka']</td></tr>
 <tr><th>linked_resp_index</th><td>['murnau friedrich wilhelm', 'galeen henrik', 'schreck max', 'wangenheim gustav von', 'schroder greta', 'erdmann hans', 'prana film']</td></tr>
-<tr><th>global_index</th><td> film muet en noir et blanc avec des intertitres adaptation sans autorisation du livre de bram stoker dracula et objet de proces pour plagiat intente par florence stoker veuve de auteur entre 1922 et 1925 https data bnf fr ark 12148 cb11943761j$?https www wikidata org wiki q151895 nosferatu realisation friedrich murnau d'apres le roman dracula de bram stoker scenario et adaptation henrik galeen avec max schreck greta schroeder gustav von wangenheim et autres sannois rdm video editeur distributeur dl 2012 image animee video $?wikipedia https fr wikipedia org wiki nosferatu le vampire 2020 12 28 erdmann hans schreck max en 1838 dans la ville fictive de wisborg thomas hutter un jeune clerc de notaire ayant fait un heureux mariage avec ellen doit partir pour la transylvanie afin de vendre une propriete au comte orlok qui desire avoir une residence dans la ville apres un periple sur une terre d'ombres le jeune homme est accueilli au sein d'un sinistre chateau par le comte durant la transaction orlok apercoit une miniature d'ellen qui le fascine et decide d'acquerir le batiment proche de la maison du couple qui lui est propose hutter hote du comte ne tardera pas decouvrir la veritable nature de celui ci alors nosferatu cheminera vers sa nouvelle propriete repandant dans son sillage une epidemie de peste ellen bientot en proie aux mains griffues de nosferatu qui la convoite laissera le comte faire d'elle sa victime et sacrifie son sang au vampire pour sauver la ville frappee par la peste contient aussi biographie et filmographie du realisateur fiche technique schroder greta sannois rdm video dl 2012 sannois rdm video 2011 les tresors du cinema galeen henrik nosferatu eine symphonie des grauens film version restauree 60mn 1995 francais nosferatu eine symphonie des grauens 0000 0000 4eba 0000 0000 0000 moravioff galeshka prana film wangenheim gustav von nosferatu realisation friedrich murnau d'apres le roman dracula de bram stoker scenario et adaptation henrik galeen avec max schreck greta schroeder gustav von wangenheim et autres murnau friedrich wilhelm</td></tr>
+<tr><th>global_index</th><td>schroder greta les tresors du cinema https data bnf fr ark 12148 cb11943761j$?https www wikidata org wiki q151895 film muet en noir et blanc avec des intertitres adaptation sans autorisation du livre de bram stoker dracula et objet de proces pour plagiat intente par florence stoker veuve de auteur entre 1922 et 1925 0000 0000 4eba 0000 0000 0000 nosferatu eine symphonie des grauens moravioff galeshka en 1838 dans la ville fictive de wisborg thomas hutter un jeune clerc de notaire ayant fait un heureux mariage avec ellen doit partir pour la transylvanie afin de vendre une propriete au comte orlok qui desire avoir une residence dans la ville apres un periple sur une terre d'ombres le jeune homme est accueilli au sein d'un sinistre chateau par le comte durant la transaction orlok apercoit une miniature d'ellen qui le fascine et decide d'acquerir le batiment proche de la maison du couple qui lui est propose hutter hote du comte ne tardera pas decouvrir la veritable nature de celui ci alors nosferatu cheminera vers sa nouvelle propriete repandant dans son sillage une epidemie de peste ellen bientot en proie aux mains griffues de nosferatu qui la convoite laissera le comte faire d'elle sa victime et sacrifie son sang au vampire pour sauver la ville frappee par la peste nosferatu realisation friedrich murnau d'apres le roman dracula de bram stoker scenario et adaptation henrik galeen avec max schreck greta schroeder gustav von wangenheim et autres schreck max sannois rdm video dl 2012 sannois rdm video 2011 prana film contient aussi biographie et filmographie du realisateur fiche technique nosferatu realisation friedrich murnau d'apres le roman dracula de bram stoker scenario et adaptation henrik galeen avec max schreck greta schroeder gustav von wangenheim et autres sannois rdm video editeur distributeur dl 2012 image animee video $?wikipedia https fr wikipedia org wiki nosferatu le vampire 2020 12 28 nosferatu eine symphonie des grauens film version restauree 60mn 1995 francais erdmann hans galeen henrik wangenheim gustav von murnau friedrich wilhelm</td></tr>
 </table>
 </div>
 <p class="marc_record"><br/>000    01358nx  f2200253   4500<br/>001    UMLRM0002<br/>100    $a 20220924afrey0103    ba0<br/>101 1  $a fre $c ger<br/>102    $a FR<br/>104    $a d1995<br/>105    $a ba<br/>127    $a 010000<br/>145    $a b $b xa2ea<br/>145    $a tdi $b rdacontent<br/>147    $a a $e d $h a<br/>152    $a RDA-FR<br/>154    $a xb<br/>232    $3 UMLRM0001 $7 ba0yba0y $8 freger $a Nosferatu, eine Symphonie des Grauens $c film $l Version restaurée $w 60mn $o 1995 $m Français<br/>371    $f Film muet avec intertitres en français $f Version restaurée, restauration de 1995 : 60 min (24 im./s), musique de Galeshka Moravioff<br/>502  1 $3 14122771 $7 ba0yba0y $8 fre### $o ISNI 0000 0000 0886 412X $a Moravioff $b Galeshka $4 230<br/>532    $5 xxq $3 UMLRM0175 $7 ba0yba0y $8 frefre $a Les grands classiques du cinéma allemand $k RDM vidéo $m Anglais, allemand, français ; sous-titrage en français $n Image animée<br/>640 5  $0 Date de restauration $f #1995#####<br/>810    $a Nosferatu / réalisation Friedrich W. Murnau ; d’après le roman "Dracula" de Bram Stoker ; scénario et adaptation Henrik Galeen ; avec Max Schreck, Greta Schroeder, Gustav von Wangenheim... [et autres]. - [Sannois] : RDM vidéo [éditeur, distributeur], [DL 2012]. - [Image animée : (video]<br/>810    $a Wikipédia : https://fr.wikipedia.org/wiki/Nosferatu_le_vampire (2020-12-28) $b Version restaurée</p>

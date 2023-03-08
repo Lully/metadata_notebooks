@@ -21,20 +21,33 @@ input {font-style: italic;
 		  
 ------------------------------*/
 
+body.e {background-color: #eeffff;}
+body.o {background-color: #ffeeff;}
+
+.comment {font-family: Courier New;
+		  font-size: 0.8em;
+		 }
+
 /* Métadonnées */
 div.detailed {float: left;
-			  width: 80%;
+			  width: 60%;
 			  padding-right: 20px;}
+			  
+div.detailed_sup {float: left;
+			      width: 60%;
+			      padding-right: 20px;}
+			 
+			  
 p.detailed.label {font-weight: bold;
 					 color: #05513c;
 					}
 
 div.rebonds {float: right;
-			width: 15%;
+			width: 35%;
 			background-color: #efefef;
 			padding: 20px;
 			border-radius: 20px;}
-span.rebond {padding-left: 8px;
+span.rebond {padding-left: 0px;
 			 }
 span.rebond a {text-decoration: none;
 			   font-weight: normal;
@@ -42,6 +55,27 @@ span.rebond a {text-decoration: none;
 			  }
 span.rebond a:hover {text-decoration: underline;
 			  }
+
+div.other_expressions {float: left;
+					   width: 80%}
+					   
+div.other_expressions ul {margin: 0;
+	   				   padding: 0;
+					   list-style: none;
+					   }
+div.other_expressions p {font-weight: bold;}
+div.other_expressions ul li {display: inline;
+							 background: #efefef;
+							 list-style-type: none;
+							 padding: 5px;
+							 margin: 2px;
+							 padding-bottom: 10px;
+							 border: 1px solid #600;
+							 max-width: 100px;
+  							 float: left;}
+div.other_expressions ul li a {text-align: center ;
+							   text-decoration: none ;}
+div.other_expressions ul li:hover {background: #a6a6a6;}			 
 
 
 /* Filtres */
@@ -64,12 +98,16 @@ div.ui-rangeslider {width: 40%;}
 
 
 /* Liste des exemplaires*/
-.items {width: 100%;
+.items {width: 80%;
 		  float: left;}
 
 
 .avail {background-color: #beff9f}
 .unavail {background-color: #ffe2d7}
+
+div.item2metassup {font-size: 0.8em;
+					margin-top: -10px;
+					margin-left: 20px;}
 
 
 /* Métadonnées professionnelles*/
@@ -99,20 +137,23 @@ a.link2work {color: #5a918a;
 
 .short_result_details {margin-left: 20px;
 					   font-size: 0.8em;}</style></head>
-<body>
+<body class='o'>
 
 <div class="entete">
 <p>Rappel de la recherche : <strong></strong></p>
 <p class='back'><a href='short_results_o.html'>Retour à la liste des résultats</a></p><h1>Résultat 15</h1></div><div class='full_record'>
 <p class='detailed label'>Nosferatu, the wrath of Malachi, jeu vidéo</p>
 <div class='detailed'><p class='detailed'>Description : Jeu de tir à la première personne sorti sur PC. Mode de jeu : solo. Genre : Survival horror, Inspiré du roman "Dracula" de Bram Stoker et du film de F.W. Murnau "Nosferatu". Édité par iGames Publishing (États-Unis) et par Mindscape (Grande-Bretagne).<br/>Délivrez votre famille kidnappée par Dracula qui veut la sacrifier au cours d'un rituel démoniaque. En utilisant des armes traditionnelles, explorez le château du vampire, château dont l'agencement des pièces change constamment.<br/><br/><br/>Date de première mise à disposition : 21/10/2003<br/>Date de première mise à disposition : 14/05/2004<br/>Date de première mise à disposition : 30/08/2003</p></div>
-<div class='rebonds'><p class='rebonds'><strong>Voir aussi</strong></br><span class='rebond'><a href='full_results_UMLRM0001.html'> Nosferatu, eine Symphonie des Grauens film</a></span><br/><span class='rebond'><a href='full_results_UMLRM0004.html'>Stoker, Bram (1847-1912)  Dracula</a></span></p></div></div>
+<div class='rebonds'><p class='rebonds'><p><strong>Voir aussi</strong></p><ul><li><span class='rebond'><a href='full_results_UMLRM0001.html'> Nosferatu, eine Symphonie des Grauens film</a></span></li><li><span class='rebond'><a href='full_results_UMLRM0004.html'>Stoker, Bram (1847-1912)  Dracula</a></span></li></ul></div>
 <div class='filters'><h3>Filtres</h3>
-<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/>  <a class="filters_lng" href="#">français</a> <a class="filters_content_type" href="#">jeu vidéo</a> <div class='yearRange'><p>Filtre par année</p></div></div>
+<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/> <a href='#'>Disponible</a>  <a class="filters_lng" href="#">français</a> <a class="filters_content_type" href="#">jeu vidéo</a> <div class='yearRange'><p>Filtre par année</p></div></div>
 <div class='filters2'></div></div>
-<div class='items'><h3>Liste des exemplaires</h3>
-<p class='avail'>Disponible - Nosferatu, the wrath of Malachi, jeu vidéo, Français, PC - Bibliothèque municipale de Célesteville  MEZZANINE COTE_UMLRM1029</p>
-<p class='avail'>Disponible - Nosferatu, the wrath of Malachi, jeu vidéo, Français, PC - Bibliothèque municipale de Célesteville MEZZANINE COTE_UMLRM1030</p></div>
+<div class='items'>
+<h3>Liste des exemplaires</h3>
+<div class='item'><p class='avail'>Disponible - Nosferatu, the wrath of Malachi, jeu vidéo, Français, PC - Bibliothèque municipale de Célesteville  MEZZANINE COTE_UMLRM1029<br/><div class='item2metassup'>Titre: Nosferatu : the wrath of Malachi / Idol FX AB, Pan vision<br/>Edition: [Clichy]-Boulogne-Billancourt. Eidos, Mindscape. [2005], 2005</div></p></div>
+<div class='item'><p class='unavail'>Emprunté - Nosferatu, the wrath of Malachi, jeu vidéo, Français, PC - Bibliothèque municipale de Célesteville MEZZANINE COTE_UMLRM1030<br/><div class='item2metassup'>Titre: Nosferatu : the wrath of Malachi / Idol FX AB, Pan vision<br/>Edition: Courbevoie. Neo publishing. [2003], 2003</div></p></div>
+</div>
+
 
 <div class='pro'>
 <hr/>
@@ -199,11 +240,11 @@ a.link2work {color: #5a918a;
 </svg></div>
 <div class="indexed_metas">
 <table class="indexed_metas_table">
-<tr><th>self_index</th><td>['', '', 'nosferatu the wrath of malachi', 'jeu de tir a la premiere personne sorti sur pc mode de jeu solo$?genre survival horror inspire du roman dracula de bram stoker et du film de murnau nosferatu $?edite par igames publishing etats unis et par mindscape grande bretagne', 'delivrez votre famille kidnappee par dracula qui veut la sacrifier au cours un rituel demoniaque en utilisant des armes traditionnelles explorez le chateau du vampire chateau dont agencement des pieces change constamment', '', '', 'nosferatu the wrath of malachi', 'jeu de tir a la premiere personne sorti sur pc mode de jeu solo$?genre survival horror inspire du roman dracula de bram stoker et du film de murnau nosferatu $?edite par igames publishing etats unis et par mindscape grande bretagne', 'delivrez votre famille kidnappee par dracula qui veut la sacrifier au cours un rituel demoniaque en utilisant des armes traditionnelles explorez le chateau du vampire chateau dont agencement des pieces change constamment']</td></tr>
-<tr><th>linked_entities_index</th><td>['nosferatu the wrath of malachi idol fx ab pan vision', 'clichy $?boulogne billancourt eidos$?mindscape 2005 2005', 'hits collection', '', '', '', '', 'nosferatu the wrath of malachi idol fx ab pan vision', 'clichy $?boulogne billancourt eidos$?mindscape 2005 2005', 'hits collection', '', '', '', '', 'nosferatu the wrath of malachi idol fx ab pan vision', 'courbevoie neo publishing 2003 2003', 'neo games', '', '', '', '', 'nosferatu the wrath of malachi idol fx ab pan vision', 'courbevoie neo publishing 2003 2003', 'neo games', '', '', '', '', 'nosferatu the wrath of malachi', '', '', 'jeuxvideos com https www jeuxvideo com jeux pc 00011666 nosferatu the wrath of malachi htm 2022 11 04 $?nosferatu the wrath of malachi idol fx ab pan vision version francaise courbevoie neo publishing 2003 multimedia electronique $?wikipedia https fr wikipedia org wiki nosferatu the wrath of malachi 2022 09 23 $?giant bomb video game reviews videos forums and wiki nosferatu the wrath of malachi game giant bomb 2022 11 04 $?nosferatu the wrath of malachi idol fx ab pan vision clichy eidos boulogne billancourt mindscape cop 2005 multimedia electronique', 'nosferatu the wrath of malachi', '', '', 'jeuxvideos com https www jeuxvideo com jeux pc 00011666 nosferatu the wrath of malachi htm 2022 11 04 $?nosferatu the wrath of malachi idol fx ab pan vision version francaise courbevoie neo publishing 2003 multimedia electronique $?wikipedia https fr wikipedia org wiki nosferatu the wrath of malachi 2022 09 23 $?giant bomb video game reviews videos forums and wiki nosferatu the wrath of malachi game giant bomb 2022 11 04 $?nosferatu the wrath of malachi idol fx ab pan vision clichy eidos boulogne billancourt mindscape cop 2005 multimedia electronique']</td></tr>
+<tr><th>self_index</th><td>['nosferatu the wrath of malachi', 'jeu de tir a la premiere personne sorti sur pc mode de jeu solo$?genre survival horror inspire du roman dracula de bram stoker et du film de murnau nosferatu $?edite par igames publishing etats unis et par mindscape grande bretagne', 'delivrez votre famille kidnappee par dracula qui veut la sacrifier au cours un rituel demoniaque en utilisant des armes traditionnelles explorez le chateau du vampire chateau dont agencement des pieces change constamment', 'nosferatu the wrath of malachi', 'jeu de tir a la premiere personne sorti sur pc mode de jeu solo$?genre survival horror inspire du roman dracula de bram stoker et du film de murnau nosferatu $?edite par igames publishing etats unis et par mindscape grande bretagne', 'delivrez votre famille kidnappee par dracula qui veut la sacrifier au cours un rituel demoniaque en utilisant des armes traditionnelles explorez le chateau du vampire chateau dont agencement des pieces change constamment']</td></tr>
+<tr><th>linked_entities_index</th><td>['nosferatu the wrath of malachi idol fx ab pan vision', 'clichy $?boulogne billancourt eidos$?mindscape 2005 2005', 'hits collection', 'nosferatu the wrath of malachi idol fx ab pan vision', 'clichy $?boulogne billancourt eidos$?mindscape 2005 2005', 'hits collection', 'nosferatu the wrath of malachi idol fx ab pan vision', 'courbevoie neo publishing 2003 2003', 'neo games', 'nosferatu the wrath of malachi idol fx ab pan vision', 'courbevoie neo publishing 2003 2003', 'neo games', 'nosferatu the wrath of malachi', 'jeuxvideos com https www jeuxvideo com jeux pc 00011666 nosferatu the wrath of malachi htm 2022 11 04 $?nosferatu the wrath of malachi idol fx ab pan vision version francaise courbevoie neo publishing 2003 multimedia electronique $?wikipedia https fr wikipedia org wiki nosferatu the wrath of malachi 2022 09 23 $?giant bomb video game reviews videos forums and wiki nosferatu the wrath of malachi game giant bomb 2022 11 04 $?nosferatu the wrath of malachi idol fx ab pan vision clichy eidos boulogne billancourt mindscape cop 2005 multimedia electronique', 'nosferatu the wrath of malachi', 'jeuxvideos com https www jeuxvideo com jeux pc 00011666 nosferatu the wrath of malachi htm 2022 11 04 $?nosferatu the wrath of malachi idol fx ab pan vision version francaise courbevoie neo publishing 2003 multimedia electronique $?wikipedia https fr wikipedia org wiki nosferatu the wrath of malachi 2022 09 23 $?giant bomb video game reviews videos forums and wiki nosferatu the wrath of malachi game giant bomb 2022 11 04 $?nosferatu the wrath of malachi idol fx ab pan vision clichy eidos boulogne billancourt mindscape cop 2005 multimedia electronique']</td></tr>
 <tr><th>resp_index</th><td>['idol fx ab', 'pan vision corporate games', 'idol fx ab', 'pan vision corporate games']</td></tr>
 <tr><th>linked_resp_index</th><td>[]</td></tr>
-<tr><th>global_index</th><td> pan vision corporate games idol fx ab hits collection nosferatu the wrath of malachi courbevoie neo publishing 2003 2003 clichy $?boulogne billancourt eidos$?mindscape 2005 2005 jeuxvideos com https www jeuxvideo com jeux pc 00011666 nosferatu the wrath of malachi htm 2022 11 04 $?nosferatu the wrath of malachi idol fx ab pan vision version francaise courbevoie neo publishing 2003 multimedia electronique $?wikipedia https fr wikipedia org wiki nosferatu the wrath of malachi 2022 09 23 $?giant bomb video game reviews videos forums and wiki nosferatu the wrath of malachi game giant bomb 2022 11 04 $?nosferatu the wrath of malachi idol fx ab pan vision clichy eidos boulogne billancourt mindscape cop 2005 multimedia electronique jeu de tir a la premiere personne sorti sur pc mode de jeu solo$?genre survival horror inspire du roman dracula de bram stoker et du film de murnau nosferatu $?edite par igames publishing etats unis et par mindscape grande bretagne delivrez votre famille kidnappee par dracula qui veut la sacrifier au cours un rituel demoniaque en utilisant des armes traditionnelles explorez le chateau du vampire chateau dont agencement des pieces change constamment neo games nosferatu the wrath of malachi idol fx ab pan vision</td></tr>
+<tr><th>global_index</th><td>delivrez votre famille kidnappee par dracula qui veut la sacrifier au cours un rituel demoniaque en utilisant des armes traditionnelles explorez le chateau du vampire chateau dont agencement des pieces change constamment courbevoie neo publishing 2003 2003 nosferatu the wrath of malachi idol fx ab pan vision neo games jeu de tir a la premiere personne sorti sur pc mode de jeu solo$?genre survival horror inspire du roman dracula de bram stoker et du film de murnau nosferatu $?edite par igames publishing etats unis et par mindscape grande bretagne jeuxvideos com https www jeuxvideo com jeux pc 00011666 nosferatu the wrath of malachi htm 2022 11 04 $?nosferatu the wrath of malachi idol fx ab pan vision version francaise courbevoie neo publishing 2003 multimedia electronique $?wikipedia https fr wikipedia org wiki nosferatu the wrath of malachi 2022 09 23 $?giant bomb video game reviews videos forums and wiki nosferatu the wrath of malachi game giant bomb 2022 11 04 $?nosferatu the wrath of malachi idol fx ab pan vision clichy eidos boulogne billancourt mindscape cop 2005 multimedia electronique idol fx ab nosferatu the wrath of malachi hits collection pan vision corporate games clichy $?boulogne billancourt eidos$?mindscape 2005 2005</td></tr>
 </table>
 </div>
 <p class="marc_record"><br/>000    01985cx  f2200373   4500<br/>001    UMLRM0090<br/>005    20220923112245.D<br/>100    $a 20220923afrey50      ba0<br/>101 0  $a eng $a fre<br/>102    $a SE<br/>104    $a d2003<br/>125 00 $a m<br/>140    $a em $b jvac $2 BnF-JeuVidéo<br/>145 0  $a f $b xxxae<br/>145 0  $c cop $2 rdacontent<br/>147 0  $a g $e b<br/>152    $a RDA-FR<br/>154    $a xa<br/>231    $7 ba0yba0y $8 freeng $a Nosferatu, the wrath of Malachi $c jeu vidéo<br/>333    $a Public adulte ; déconseillé aux moins de 16 ans<br/>370    $a Jeu de tir à la première personne sorti sur PC. Mode de jeu : solo $a Genre : Survival horror $c Inspiré du roman "Dracula" de Bram Stoker et du film de F.W. Murnau "Nosferatu" $c Édité par iGames Publishing (États-Unis) et par Mindscape (Grande-Bretagne)<br/>378    $a Délivrez votre famille kidnappée par Dracula qui veut la sacrifier au cours d'un rituel démoniaque. En utilisant des armes traditionnelles, explorez le château du vampire, château dont l'agencement des pièces change constamment. $b jeuxvideos.com $u  https://www.jeuxvideo.com/jeux/pc/00011666-nosferatu-the-wrath-of-malachi.htm<br/>511 02 $3 15513730 $7 ba0yba0y $8 fre### $a Idol FX AB $4 635<br/>511 02 $3 14466131 $7 ba0yba0y $8 freeng $a Pan vision corporate games $4 635<br/>531    $5 xxl $3 UMLRM0001 $7 ba0yba0y $8 freger $a  Nosferatu, eine Symphonie des Grauens $c film<br/>541  1 $5 xxl $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t  Dracula<br/>608    $a Jeu d'arcade ou d'action $2 frTAV<br/>608    $a Jeu vidéo $2 frTAV<br/>608    $3 13318902 $a Jeux vidéo $2 rameauGenre<br/>640 6  $0 Date de première mise à disposition $a US $f #20031021#<br/>640 6  $0 Date de première mise à disposition $a GB $f #20040514#<br/>640 6  $0 Date de première mise à disposition $a FR $f #20030830#<br/>801  0 $a FR $b FR-751043001 $c 20220923<br/>810    $a jeuxvideos.com - https://www.jeuxvideo.com/jeux/pc/00011666-nosferatu-the-wrath-of-malachi.htm (2022-09-23)</p>

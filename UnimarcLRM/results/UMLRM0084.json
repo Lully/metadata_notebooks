@@ -4,39 +4,19 @@
     "id": "UMLRM0084",
     "txt": "\n000    01205cx  h2200301   4500\n001    UMLRM0084\n005    20220908\n100    $a 20220908afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2011\n125 00 $a m\n140    $a te $b biogr $2 BnF-FonctTexMix\n140    $a te $b b $2 UM/B105pos12\n145 0  $a i\n152    $a RDA-FR\n154    $a xa\n241  1 $3 12086193 $o ISNI 0000 0001 0883 2117 $a Cazacu, Matei (1946-....) $t Dracula $7 ba0yba0y $8 frefre\n370    $a Carte $a Bibliographie (4 pages) $a Index\n501  1 $3 12086193 $7 ba0yba0y $8 fre### $o ISNI 0000 0001 08832 117 $a Cazacu $b Matei $f 1946-\u2026. $4 070\n600  0 $3 11948734 $7 ba0yba0y $8 fre### $a Vlad $d III $f 1430?-1476? $c prince de Valachie\n606  0 $3 11962841 $7 ba0yba0y $8 fre### $a Dracula $c personnage fictif\n607    $3 11949103 $7 ba0yba0y $8 frefre $a Valachie (Roumanie) $3 11976234 $z 15e si\u00e8cle $2 rameau\n608    $3 11935764 $a Biographie $2 rameau-Genre\n640 6  $0 Date de premi\u00e8re publication $f #2011#####\n676    $a 949.801 4092 $v 23\n801  0 $a FR $b FR-751045101 $c 20220908\n810    $a Dracula  / Matei Cazacu. \u2013 Paris : Tallandier, 2011. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 978-2-84734-801-9",
     "self_index": [
-        "",
-        "",
-        "",
         "carte$?bibliographie pages $?index",
-        "",
-        "",
-        "",
-        "",
-        "carte$?bibliographie pages $?index",
-        ""
+        "carte$?bibliographie pages $?index"
     ],
     "linked_entities_index": [
         "dracula matei cazacu",
         "paris tallandier$? 61 lonrai normandie roto impression 2011",
         "texto",
-        "",
-        "",
-        "",
-        "",
         "dracula matei cazacu",
         "paris tallandier$? 61 lonrai normandie roto impression 2011",
         "texto",
-        "",
-        "",
-        "",
-        "",
-        "",
         "cazacu matei 1946 dracula",
-        "",
         "dracula matei cazacu paris tallandier 2011 texte note sans mediation isbn 978 84734 801",
-        "",
         "cazacu matei 1946 dracula",
-        "",
         "dracula matei cazacu paris tallandier 2011 texte note sans mediation isbn 978 84734 801"
     ],
     "resp_index": [
@@ -44,9 +24,10 @@
         "cazacu matei"
     ],
     "linked_resp_index": [],
-    "global_index": " texto dracula matei cazacu paris tallandier$? 61 lonrai normandie roto impression 2011 cazacu matei carte$?bibliographie pages $?index dracula matei cazacu paris tallandier 2011 texte note sans mediation isbn 978 84734 801 cazacu matei 1946 dracula",
+    "global_index": "cazacu matei 1946 dracula carte$?bibliographie pages $?index dracula matei cazacu texto cazacu matei paris tallandier$? 61 lonrai normandie roto impression 2011 dracula matei cazacu paris tallandier 2011 texte note sans mediation isbn 978 84734 801",
     "type": "o",
     "label": "Cazacu, Matei (1946-....), Dracula",
+    "label_html": "Cazacu, Matei (1946-....), Dracula",
     "splitted_label": "Cazacu, Matei\n(1946-....), Dracula",
     "stats_zones": {
         "001": 1,
@@ -93,7 +74,8 @@
     "toItems": {
         "UMLRM1027": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1027"
     },
-    "repr": "id : UMLRM0084\ntype initial : oe ; type : o\nlabel : Cazacu, Matei (1946-....), Dracula\n\nNotice : \n000    01205cx  h2200301   4500\n001    UMLRM0084\n005    20220908\n100    $a 20220908afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2011\n125 00 $a m\n140    $a te $b biogr $2 BnF-FonctTexMix\n140    $a te $b b $2 UM/B105pos12\n145 0  $a i\n152    $a RDA-FR\n154    $a xa\n241  1 $3 12086193 $o ISNI 0000 0001 0883 2117 $a Cazacu, Matei (1946-....) $t Dracula $7 ba0yba0y $8 frefre\n370    $a Carte $a Bibliographie (4 pages) $a Index\n501  1 $3 12086193 $7 ba0yba0y $8 fre### $o ISNI 0000 0001 08832 117 $a Cazacu $b Matei $f 1946-\u2026. $4 070\n600  0 $3 11948734 $7 ba0yba0y $8 fre### $a Vlad $d III $f 1430?-1476? $c prince de Valachie\n606  0 $3 11962841 $7 ba0yba0y $8 fre### $a Dracula $c personnage fictif\n607    $3 11949103 $7 ba0yba0y $8 frefre $a Valachie (Roumanie) $3 11976234 $z 15e si\u00e8cle $2 rameau\n608    $3 11935764 $a Biographie $2 rameau-Genre\n640 6  $0 Date de premi\u00e8re publication $f #2011#####\n676    $a 949.801 4092 $v 23\n801  0 $a FR $b FR-751045101 $c 20220908\n810    $a Dracula  / Matei Cazacu. \u2013 Paris : Tallandier, 2011. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 978-2-84734-801-9 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b7972140>\nIndexation :  carte$?bibliographie pages $?index cazacu matei",
+    "other_expressions": {},
+    "repr": "id : UMLRM0084\ntype initial : oe ; type : o\nlabel : Cazacu, Matei (1946-....), Dracula\n\nNotice : \n000    01205cx  h2200301   4500\n001    UMLRM0084\n005    20220908\n100    $a 20220908afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2011\n125 00 $a m\n140    $a te $b biogr $2 BnF-FonctTexMix\n140    $a te $b b $2 UM/B105pos12\n145 0  $a i\n152    $a RDA-FR\n154    $a xa\n241  1 $3 12086193 $o ISNI 0000 0001 0883 2117 $a Cazacu, Matei (1946-....) $t Dracula $7 ba0yba0y $8 frefre\n370    $a Carte $a Bibliographie (4 pages) $a Index\n501  1 $3 12086193 $7 ba0yba0y $8 fre### $o ISNI 0000 0001 08832 117 $a Cazacu $b Matei $f 1946-\u2026. $4 070\n600  0 $3 11948734 $7 ba0yba0y $8 fre### $a Vlad $d III $f 1430?-1476? $c prince de Valachie\n606  0 $3 11962841 $7 ba0yba0y $8 fre### $a Dracula $c personnage fictif\n607    $3 11949103 $7 ba0yba0y $8 frefre $a Valachie (Roumanie) $3 11976234 $z 15e si\u00e8cle $2 rameau\n608    $3 11935764 $a Biographie $2 rameau-Genre\n640 6  $0 Date de premi\u00e8re publication $f #2011#####\n676    $a 949.801 4092 $v 23\n801  0 $a FR $b FR-751045101 $c 20220908\n810    $a Dracula  / Matei Cazacu. \u2013 Paris : Tallandier, 2011. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 978-2-84734-801-9 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e5180>\nIndexation : carte$?bibliographie pages $?index cazacu matei",
     "subjects": {
         "11962841": ""
     },
@@ -102,6 +84,7 @@
     },
     "detailed": "Description : Carte. Bibliographie (4 pages). Index\n\n\nDate de premi\u00e8re publication : 2011",
     "rebonds": "",
+    "rebondids": [],
     "exprResp": [],
     "lang": [
         "fre"

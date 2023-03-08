@@ -4,48 +4,21 @@
     "id": "UMLRM0100",
     "txt": "\n000    00701cx  h2200217   4500\n001    UMLRM0100\n005    20220811######.D\n100    $a 20220811afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d1988\n105    $a ba\n145 0  $a i $b axxe\n145 0  $a b $b xb2e\n147 0  $a a\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0099 $a Druillet, Philippe (1944-....) $t Nosferatu $m Fran\u00e7ais $n Texte not\u00e9. Image fixe $7 ba0yba0y $8 frefre\n640 6  $0 Date de premi\u00e8re publication $f #1988#####\n801  0 $a FR $b FR-751045101 $c 20220811\n810    $a Nosferatu / Philippe Druillet. - Paris ; Barcelone ; Bruxelles : Dargaud, 1988. - [Texte not\u00e9, image fixe : sans m\u00e9diation] - ISBN 2-205-03763-3",
     "self_index": [
-        "",
         "druillet philippe 1944 nosferatu",
-        "",
         "nosferatu philippe druillet paris barcelone bruxelles dargaud 1988 texte note image fixe sans mediation isbn 205 03763",
-        "",
         "druillet philippe 1944 nosferatu",
-        "",
         "nosferatu philippe druillet paris barcelone bruxelles dargaud 1988 texte note image fixe sans mediation isbn 205 03763"
     ],
     "linked_entities_index": [
         "druillet philippe 1944 nosferatu francais texte note image fixe",
         "nosferatu 1977 1978 texte et dessins de druillet",
         "paris$?bruxelles dargaud 1988$? paris imprimerie publiphotoffset",
-        "",
-        "",
-        "",
-        "",
-        "",
         "nosferatu 1977 1978 texte et dessins de druillet",
         "paris$?bruxelles dargaud 1988$? paris imprimerie publiphotoffset",
-        "",
-        "",
-        "",
-        "",
-        "",
         "nosferatu druillet",
         "paris albin michel 2001$? 37 tours",
-        "",
-        "",
-        "",
-        "",
-        "",
         "nosferatu druillet",
         "paris albin michel 2001$? 37 tours",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
         "apres le roman de bram stoker et le film de murnau",
         "les temps ont change comment etait ce autrefois comment etait ce la vie nous avons du changer nous ceux de la surface mutation nourriture est peut etre pour cela que nous sommes devenus des vampires $?dernier survivant de sa tribu nosferatu ne sait pas vraiment s'il est ou non un vampire depuis que la planete ete devastee par un mysterieux cataclysme qui fini par faire disparaitre la quasi totalite de la vie il doit cependant consommer de la chair fraiche pour survivre declamant ci et la du baudelaire du theatre et se laissant parfois aller un humour enfantin la creature solitaire tente tant bien que mal de ne pas sombrer dans la folie et de trouver une echappatoire sa condition"
     ],
@@ -53,9 +26,10 @@
     "linked_resp_index": [
         "druillet philippe"
     ],
-    "global_index": " nosferatu druillet druillet philippe 1944 nosferatu francais texte note image fixe les temps ont change comment etait ce autrefois comment etait ce la vie nous avons du changer nous ceux de la surface mutation nourriture est peut etre pour cela que nous sommes devenus des vampires $?dernier survivant de sa tribu nosferatu ne sait pas vraiment s'il est ou non un vampire depuis que la planete ete devastee par un mysterieux cataclysme qui fini par faire disparaitre la quasi totalite de la vie il doit cependant consommer de la chair fraiche pour survivre declamant ci et la du baudelaire du theatre et se laissant parfois aller un humour enfantin la creature solitaire tente tant bien que mal de ne pas sombrer dans la folie et de trouver une echappatoire sa condition nosferatu philippe druillet paris barcelone bruxelles dargaud 1988 texte note image fixe sans mediation isbn 205 03763 paris albin michel 2001$? 37 tours druillet philippe nosferatu 1977 1978 texte et dessins de druillet druillet philippe 1944 nosferatu paris$?bruxelles dargaud 1988$? paris imprimerie publiphotoffset apres le roman de bram stoker et le film de murnau",
+    "global_index": "apres le roman de bram stoker et le film de murnau les temps ont change comment etait ce autrefois comment etait ce la vie nous avons du changer nous ceux de la surface mutation nourriture est peut etre pour cela que nous sommes devenus des vampires $?dernier survivant de sa tribu nosferatu ne sait pas vraiment s'il est ou non un vampire depuis que la planete ete devastee par un mysterieux cataclysme qui fini par faire disparaitre la quasi totalite de la vie il doit cependant consommer de la chair fraiche pour survivre declamant ci et la du baudelaire du theatre et se laissant parfois aller un humour enfantin la creature solitaire tente tant bien que mal de ne pas sombrer dans la folie et de trouver une echappatoire sa condition druillet philippe druillet philippe 1944 nosferatu nosferatu 1977 1978 texte et dessins de druillet paris$?bruxelles dargaud 1988$? paris imprimerie publiphotoffset nosferatu philippe druillet paris barcelone bruxelles dargaud 1988 texte note image fixe sans mediation isbn 205 03763 nosferatu druillet paris albin michel 2001$? 37 tours druillet philippe 1944 nosferatu francais texte note image fixe",
     "type": "e",
     "label": "Druillet, Philippe (1944-....), Nosferatu, Fran\u00e7ais, Texte not\u00e9. Image fixe",
+    "label_html": "Druillet, Philippe (1944-....), Nosferatu, Fran\u00e7ais <img src='icons/Texte not\u00e9. Image fixe.png' alt='[Texte not\u00e9. Image fixe]' title='Texte not\u00e9. Image fixe'/>",
     "splitted_label": "Druillet, Philippe\n(1944-....),\nNosferatu, Fran\u00e7ais,\nTexte not\u00e9. Image\nfixe",
     "stats_zones": {
         "001": 1,
@@ -77,7 +51,7 @@
     "resp": {},
     "respIds": [],
     "toOeuvres": {
-        "UMLRM0099": "Druillet, Philippe (1944-....), Nosferatu, Fran\u00e7ais, Texte not\u00e9. Image fixe"
+        "UMLRM0099": "Druillet, Philippe (1944-....), Nosferatu"
     },
     "toExpressions": {},
     "toManifs": {
@@ -92,7 +66,20 @@
         "UMLRM1032": "BM_CELESTEVILLE > JEUNESSE > COTE_UMLRM1032",
         "UMLRM1033": "BM_CELESTEVILLE > JEUNESSE > COTE_UMLRM1033"
     },
-    "repr": "id : UMLRM0100\ntype initial : oe ; type : e\nlabel : Druillet, Philippe (1944-....), Nosferatu, Fran\u00e7ais, Texte not\u00e9. Image fixe\n\nNotice : \n000    00701cx  h2200217   4500\n001    UMLRM0100\n005    20220811######.D\n100    $a 20220811afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d1988\n105    $a ba\n145 0  $a i $b axxe\n145 0  $a b $b xb2e\n147 0  $a a\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0099 $a Druillet, Philippe (1944-....) $t Nosferatu $m Fran\u00e7ais $n Texte not\u00e9. Image fixe $7 ba0yba0y $8 frefre\n640 6  $0 Date de premi\u00e8re publication $f #1988#####\n801  0 $a FR $b FR-751045101 $c 20220811\n810    $a Nosferatu / Philippe Druillet. - Paris ; Barcelone ; Bruxelles : Dargaud, 1988. - [Texte not\u00e9, image fixe : sans m\u00e9diation] - ISBN 2-205-03763-3 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b7972300>\nIndexation :  druillet philippe 1944 nosferatu nosferatu philippe druillet paris barcelone bruxelles dargaud 1988 texte note image fixe sans mediation isbn 205 03763",
+    "other_expressions": {
+        "UMLRM0002": "Nosferatu, eine Symphonie des Grauens, film, Fran\u00e7ais, 60mn [Nosferatu, eine Symphonie des Grauens, film]",
+        "UMLRM0005": "Stoker, Bram (1847-1912), Dracula, Anglais, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0020": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Molitor, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0041": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Sirgent, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0050": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0053": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Chicheportiche, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0056": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Paul-Margueritte, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0059": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Paul-Margueritte, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0065": "Stoker, Bram (1847-1912), Dracula, Espagnol, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0068": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Molitor - Moissard, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0187": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Parole \u00e9nonc\u00e9e [Stoker, Bram (1847-1912), Dracula]"
+    },
+    "repr": "id : UMLRM0100\ntype initial : oe ; type : e\nlabel : Druillet, Philippe (1944-....), Nosferatu, Fran\u00e7ais, Texte not\u00e9. Image fixe\n\nNotice : \n000    00701cx  h2200217   4500\n001    UMLRM0100\n005    20220811######.D\n100    $a 20220811afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d1988\n105    $a ba\n145 0  $a i $b axxe\n145 0  $a b $b xb2e\n147 0  $a a\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0099 $a Druillet, Philippe (1944-....) $t Nosferatu $m Fran\u00e7ais $n Texte not\u00e9. Image fixe $7 ba0yba0y $8 frefre\n640 6  $0 Date de premi\u00e8re publication $f #1988#####\n801  0 $a FR $b FR-751045101 $c 20220811\n810    $a Nosferatu / Philippe Druillet. - Paris ; Barcelone ; Bruxelles : Dargaud, 1988. - [Texte not\u00e9, image fixe : sans m\u00e9diation] - ISBN 2-205-03763-3 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e5340>\nIndexation : druillet philippe 1944 nosferatu nosferatu philippe druillet paris barcelone bruxelles dargaud 1988 texte note image fixe sans mediation isbn 205 03763",
     "lang": [
         "fre"
     ],
@@ -100,6 +87,8 @@
     "exprContentType": "Texte not\u00e9. Image fixe",
     "exprResp": [],
     "detailed": "\n\nDate de premi\u00e8re publication : 1988",
+    "detailed_sup": "Description : D'apr\u00e8s le roman de Bram Stoker et le film de F.-W. Murnau.\nLes temps ont chang\u00e9. Comment \u00e9tait-ce, autrefois ? Comment \u00e9tait-ce, la vie ? Nous avons d\u00fb changer, nous, ceux de la surface. Mutation, nourriture... C'est peut-\u00eatre pour cela que nous sommes devenus des vampires....\nDernier survivant de sa tribu, Nosferatu ne sait pas vraiment s\u2019il est ou non un vampire. Depuis que la plan\u00e8te a \u00e9t\u00e9 d\u00e9vast\u00e9e par un myst\u00e9rieux cataclysme, qui a fini par faire dispara\u00eetre la quasi totalit\u00e9 de la vie, il doit cependant consommer de la chair fra\u00eeche pour survivre. D\u00e9clamant ci-et-l\u00e0 du Baudelaire, du th\u00e9\u00e2tre et se laissant parfois aller \u00e0 un humour enfantin, la cr\u00e9ature solitaire tente tant bien que mal de ne pas sombrer dans la folie, et de trouver une \u00e9chappatoire \u00e0 sa condition.\n\n\nDate de premi\u00e8re publication : 1988\n",
     "rebonds": "",
-    "other_expressions": null
+    "rebondids": [],
+    "other_works_expressions": null
 }

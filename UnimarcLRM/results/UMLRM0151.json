@@ -4,13 +4,9 @@
     "id": "UMLRM0151",
     "txt": "\n000    00670nx  h2200181   4500\n001    UMLRM0151\n100    $a 20220927afrey50      ba0\n101 0  $a zxx\n102    $a FR\n104    $a d1968\n145 0  $a b $b xb2e\n147 0  $a a\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0150 $7 ba0yba0y $8 frefre $a Druillet, Philippe (1944-....) $t Illustrations pour \"Dracula\" de Bram Stoker $n Image fixe\n640 6  $0 Date de premi\u00e8re publication $f #1968#####\n801  0 $a FR $b FR-751045101 $c 20220927\n810    $a Dracula / Bram Stoker ; illustrations originales de Philippe Druillet ; introduction de Tony Faivre. - Paris : \u00c9ditions Opta, 1968. - [Texte not\u00e9, image fixe : sans m\u00e9diation]",
     "self_index": [
-        "",
         "druillet philippe 1944 illustrations pour dracula de bram stoker",
-        "",
         "dracula bram stoker illustrations originales de philippe druillet introduction de tony faivre paris editions opta 1968 texte note image fixe sans mediation",
-        "",
         "druillet philippe 1944 illustrations pour dracula de bram stoker",
-        "",
         "dracula bram stoker illustrations originales de philippe druillet introduction de tony faivre paris editions opta 1968 texte note image fixe sans mediation"
     ],
     "linked_entities_index": [
@@ -18,31 +14,20 @@
         "dracula bram stoker illustrations originales de philippe druillet introduction de tony faivre",
         "paris editions opta 1968",
         "aventures fantastiques",
-        "",
-        "",
-        "",
-        "",
         "dracula bram stoker illustrations originales de philippe druillet introduction de tony faivre",
         "paris editions opta 1968",
         "aventures fantastiques",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "grande categorie technique dessin$?genre iconographique scenes fantastiques",
-        ""
+        "grande categorie technique dessin$?genre iconographique scenes fantastiques"
     ],
     "resp_index": [],
     "linked_resp_index": [
         "faivre tony",
         "druillet philippe"
     ],
-    "global_index": " dracula bram stoker illustrations originales de philippe druillet introduction de tony faivre faivre tony druillet philippe 1944 illustrations pour dracula de bram stoker image fixe aventures fantastiques druillet philippe 1944 illustrations pour dracula de bram stoker paris editions opta 1968 grande categorie technique dessin$?genre iconographique scenes fantastiques druillet philippe dracula bram stoker illustrations originales de philippe druillet introduction de tony faivre paris editions opta 1968 texte note image fixe sans mediation",
+    "global_index": "dracula bram stoker illustrations originales de philippe druillet introduction de tony faivre druillet philippe faivre tony druillet philippe 1944 illustrations pour dracula de bram stoker grande categorie technique dessin$?genre iconographique scenes fantastiques dracula bram stoker illustrations originales de philippe druillet introduction de tony faivre paris editions opta 1968 texte note image fixe sans mediation druillet philippe 1944 illustrations pour dracula de bram stoker image fixe paris editions opta 1968 aventures fantastiques",
     "type": "e",
     "label": "Druillet, Philippe (1944-....), Illustrations pour \"Dracula\" de Bram Stoker, Image fixe",
+    "label_html": "Druillet, Philippe (1944-....), Illustrations pour \"Dracula\" de Bram Stoker <img src='icons/Image fixe.png' alt='[Image fixe]' title='Image fixe'/>",
     "splitted_label": "Druillet, Philippe\n(1944-....),\nIllustrations pour\n\"Dracula\" de Bram\nStoker, Image fixe",
     "stats_zones": {
         "001": 1,
@@ -62,7 +47,7 @@
     "resp": {},
     "respIds": [],
     "toOeuvres": {
-        "UMLRM0150": "Druillet, Philippe (1944-....), Illustrations pour \"Dracula\" de Bram Stoker, Image fixe"
+        "UMLRM0150": "Druillet, Philippe (1944-....), [Illustrations pour \"Dracula\" de Bram Stoker]"
     },
     "toExpressions": {},
     "toManifs": {
@@ -74,7 +59,19 @@
     "toItems": {
         "UMLRM1035": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1035"
     },
-    "repr": "id : UMLRM0151\ntype initial : oe ; type : e\nlabel : Druillet, Philippe (1944-....), Illustrations pour \"Dracula\" de Bram Stoker, Image fixe\n\nNotice : \n000    00670nx  h2200181   4500\n001    UMLRM0151\n100    $a 20220927afrey50      ba0\n101 0  $a zxx\n102    $a FR\n104    $a d1968\n145 0  $a b $b xb2e\n147 0  $a a\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0150 $7 ba0yba0y $8 frefre $a Druillet, Philippe (1944-....) $t Illustrations pour \"Dracula\" de Bram Stoker $n Image fixe\n640 6  $0 Date de premi\u00e8re publication $f #1968#####\n801  0 $a FR $b FR-751045101 $c 20220927\n810    $a Dracula / Bram Stoker ; illustrations originales de Philippe Druillet ; introduction de Tony Faivre. - Paris : \u00c9ditions Opta, 1968. - [Texte not\u00e9, image fixe : sans m\u00e9diation] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b7972ac0>\nIndexation :  dracula bram stoker illustrations originales de philippe druillet introduction de tony faivre paris editions opta 1968 texte note image fixe sans mediation druillet philippe 1944 illustrations pour dracula de bram stoker",
+    "other_expressions": {
+        "UMLRM0005": "Stoker, Bram (1847-1912), Dracula, Anglais, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0020": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Molitor, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0041": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Sirgent, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0050": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0053": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Chicheportiche, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0056": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Paul-Margueritte, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0059": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Paul-Margueritte, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0065": "Stoker, Bram (1847-1912), Dracula, Espagnol, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0068": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Molitor - Moissard, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0187": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Parole \u00e9nonc\u00e9e [Stoker, Bram (1847-1912), Dracula]"
+    },
+    "repr": "id : UMLRM0151\ntype initial : oe ; type : e\nlabel : Druillet, Philippe (1944-....), Illustrations pour \"Dracula\" de Bram Stoker, Image fixe\n\nNotice : \n000    00670nx  h2200181   4500\n001    UMLRM0151\n100    $a 20220927afrey50      ba0\n101 0  $a zxx\n102    $a FR\n104    $a d1968\n145 0  $a b $b xb2e\n147 0  $a a\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0150 $7 ba0yba0y $8 frefre $a Druillet, Philippe (1944-....) $t Illustrations pour \"Dracula\" de Bram Stoker $n Image fixe\n640 6  $0 Date de premi\u00e8re publication $f #1968#####\n801  0 $a FR $b FR-751045101 $c 20220927\n810    $a Dracula / Bram Stoker ; illustrations originales de Philippe Druillet ; introduction de Tony Faivre. - Paris : \u00c9ditions Opta, 1968. - [Texte not\u00e9, image fixe : sans m\u00e9diation] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e5b00>\nIndexation : druillet philippe 1944 illustrations pour dracula de bram stoker dracula bram stoker illustrations originales de philippe druillet introduction de tony faivre paris editions opta 1968 texte note image fixe sans mediation",
     "lang": [
         "zxx"
     ],
@@ -82,6 +79,8 @@
     "exprContentType": "Image fixe",
     "exprResp": [],
     "detailed": "\n\nDate de premi\u00e8re publication : 1968",
+    "detailed_sup": "Description : Grande cat\u00e9gorie technique : dessin. Genre iconographique : Sc\u00e8nes fantastiques\n\n\nDate de premi\u00e8re publication : 1968\n",
     "rebonds": "",
-    "other_expressions": null
+    "rebondids": [],
+    "other_works_expressions": null
 }

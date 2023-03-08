@@ -21,20 +21,33 @@ input {font-style: italic;
 		  
 ------------------------------*/
 
+body.e {background-color: #eeffff;}
+body.o {background-color: #ffeeff;}
+
+.comment {font-family: Courier New;
+		  font-size: 0.8em;
+		 }
+
 /* Métadonnées */
 div.detailed {float: left;
-			  width: 80%;
+			  width: 60%;
 			  padding-right: 20px;}
+			  
+div.detailed_sup {float: left;
+			      width: 60%;
+			      padding-right: 20px;}
+			 
+			  
 p.detailed.label {font-weight: bold;
 					 color: #05513c;
 					}
 
 div.rebonds {float: right;
-			width: 15%;
+			width: 35%;
 			background-color: #efefef;
 			padding: 20px;
 			border-radius: 20px;}
-span.rebond {padding-left: 8px;
+span.rebond {padding-left: 0px;
 			 }
 span.rebond a {text-decoration: none;
 			   font-weight: normal;
@@ -42,6 +55,27 @@ span.rebond a {text-decoration: none;
 			  }
 span.rebond a:hover {text-decoration: underline;
 			  }
+
+div.other_expressions {float: left;
+					   width: 80%}
+					   
+div.other_expressions ul {margin: 0;
+	   				   padding: 0;
+					   list-style: none;
+					   }
+div.other_expressions p {font-weight: bold;}
+div.other_expressions ul li {display: inline;
+							 background: #efefef;
+							 list-style-type: none;
+							 padding: 5px;
+							 margin: 2px;
+							 padding-bottom: 10px;
+							 border: 1px solid #600;
+							 max-width: 100px;
+  							 float: left;}
+div.other_expressions ul li a {text-align: center ;
+							   text-decoration: none ;}
+div.other_expressions ul li:hover {background: #a6a6a6;}			 
 
 
 /* Filtres */
@@ -64,12 +98,16 @@ div.ui-rangeslider {width: 40%;}
 
 
 /* Liste des exemplaires*/
-.items {width: 100%;
+.items {width: 80%;
 		  float: left;}
 
 
 .avail {background-color: #beff9f}
 .unavail {background-color: #ffe2d7}
+
+div.item2metassup {font-size: 0.8em;
+					margin-top: -10px;
+					margin-left: 20px;}
 
 
 /* Métadonnées professionnelles*/
@@ -99,19 +137,22 @@ a.link2work {color: #5a918a;
 
 .short_result_details {margin-left: 20px;
 					   font-size: 0.8em;}</style></head>
-<body>
+<body class='o'>
 
 <div class="entete">
 <p>Rappel de la recherche : <strong></strong></p>
 <p class='back'><a href='short_results_o.html'>Retour à la liste des résultats</a></p><h1>Résultat 49</h1></div><div class='full_record'>
 <p class='detailed label'>The Mercury theatre on the air, série radiophonique</p>
 <div class='detailed'><p class='detailed'>Description : Série de théâtre radiophonique sur une idée originale de Orson Welles, diffusée par CBS radio., La série a compté 22 émissions d’une heure, du 11 juillet 1938 au 4 décembre de la même année, toutes présentées par Orson Welles et interprétées par la compagnie du Mercury Theatre, avec des musiques de Bernard Herrmann.<br/><br/><br/> : 11/07/1938</p></div>
-<div class='rebonds'><p class='rebonds'><strong>Voir aussi</strong></br><span class='rebond'><a href='full_results_UMLRM0191.html'>Dracula émission radiophonique 1938</a></span></p></div></div>
+<div class='rebonds'><p class='rebonds'><p><strong>Voir aussi</strong></p><ul><li><span class='rebond'><a href='full_results_UMLRM0191.html'>Dracula émission radiophonique 1938</a></span></li></ul></div>
 <div class='filters'><h3>Filtres</h3>
-<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/>   <div class='yearRange'><p>Filtre par année</p></div></div>
+<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/> <a href='#'>Disponible</a>   <div class='yearRange'><p>Filtre par année</p></div></div>
 <div class='filters2'></div></div>
-<div class='items'><h3>Liste des exemplaires</h3>
+<div class='items'>
+<h3>Liste des exemplaires</h3>
+
 </div>
+
 
 <div class='pro'>
 <hr/>
@@ -135,11 +176,11 @@ a.link2work {color: #5a918a;
 </svg></div>
 <div class="indexed_metas">
 <table class="indexed_metas_table">
-<tr><th>self_index</th><td>['', '', 'the mercury theatre on the air', "serie de theatre radiophonique sur une idee originale de orson welles diffusee par cbs radio la serie compte 22 emissions d'une heure du 11 juillet 1938 au decembre de la meme annee toutes presentees par orson welles et interpretees par la compagnie du mercury theatre avec des musiques de bernard herrmann", '', '', '', 'the mercury theatre on the air', "serie de theatre radiophonique sur une idee originale de orson welles diffusee par cbs radio la serie compte 22 emissions d'une heure du 11 juillet 1938 au decembre de la meme annee toutes presentees par orson welles et interpretees par la compagnie du mercury theatre avec des musiques de bernard herrmann", '']</td></tr>
+<tr><th>self_index</th><td>['the mercury theatre on the air', "serie de theatre radiophonique sur une idee originale de orson welles diffusee par cbs radio la serie compte 22 emissions d'une heure du 11 juillet 1938 au decembre de la meme annee toutes presentees par orson welles et interpretees par la compagnie du mercury theatre avec des musiques de bernard herrmann", 'the mercury theatre on the air', "serie de theatre radiophonique sur une idee originale de orson welles diffusee par cbs radio la serie compte 22 emissions d'une heure du 11 juillet 1938 au decembre de la meme annee toutes presentees par orson welles et interpretees par la compagnie du mercury theatre avec des musiques de bernard herrmann"]</td></tr>
 <tr><th>linked_entities_index</th><td>[]</td></tr>
 <tr><th>resp_index</th><td>['welles orson', 'herrmann bernard', 'mercury acting company new york new york etats unis', 'columbia broadcasting system', 'welles orson', 'herrmann bernard', 'mercury acting company new york new york etats unis', 'columbia broadcasting system']</td></tr>
 <tr><th>linked_resp_index</th><td>[]</td></tr>
-<tr><th>global_index</th><td> herrmann bernard serie de theatre radiophonique sur une idee originale de orson welles diffusee par cbs radio la serie compte 22 emissions d'une heure du 11 juillet 1938 au decembre de la meme annee toutes presentees par orson welles et interpretees par la compagnie du mercury theatre avec des musiques de bernard herrmann mercury acting company new york new york etats unis the mercury theatre on the air columbia broadcasting system welles orson</td></tr>
+<tr><th>global_index</th><td>welles orson mercury acting company new york new york etats unis the mercury theatre on the air serie de theatre radiophonique sur une idee originale de orson welles diffusee par cbs radio la serie compte 22 emissions d'une heure du 11 juillet 1938 au decembre de la meme annee toutes presentees par orson welles et interpretees par la compagnie du mercury theatre avec des musiques de bernard herrmann columbia broadcasting system herrmann bernard</td></tr>
 </table>
 </div>
 <p class="marc_record"><br/>000    01889nx  f2200301   4500<br/>001    UMLRM0194<br/>100    $a 20221114afrey50      ba0<br/>101 0  $a eng<br/>102    $a US<br/>104    $a d1938<br/>125 0  $a m<br/>140    $a te $b thrad $2 BnF-GenreLitt<br/>140    $a te $b sr $2 BnF-ImAnim<br/>145 0  $a h $b xxxa<br/>152    $a RDA-FR<br/>154    $a xa<br/>231    $a The Mercury theatre on the air $c série radiophonique $7 ba0yba0y $8 freeng<br/>370    $a Série de théâtre radiophonique sur une idée originale de Orson Welles, diffusée par CBS radio. $c La série a compté 22 émissions d’une heure, du 11 juillet 1938 au 4 décembre de la même année, toutes présentées par Orson Welles et interprétées par la compagnie du Mercury Theatre, avec des musiques de Bernard Herrmann.<br/>501  1 $3 11929051 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2096 8527 $a Welles $b Orson $f 1915-1985 $4 550 $4 300<br/>501  1 $3 13895169 $7 ba0yba0y $8 fre### $o ISNI 0000 0001 2121 0662 $a Herrmann $b Bernard $f 1911-1975 $4 230<br/>511 02 $a Mercury Acting Company $c New York (New York, États-Unis) $4 550<br/>511 02 $3 11941628 $7 ba0yba0y $8 freeng $a Columbia broadcasting system $4 665<br/>531    $5 xxe $3 UMLRM0191 $7 ba0yba0y $8 freeng $a Dracula $c émission radiophonique $d 1938<br/>608    $3 11975086 $a Théâtre radiophonique $2 rameauGenre<br/>640 6  $a US $e CBS radio $f #19380711# $i #19381204#<br/>801    $a FR $b FR-751131015 $c 20221114<br/>810    $a  Dracula : original radio adaptation as heard on the Mercury theatre on the air / starring Orson Welles ; based on the novel by Bram Stoker ; adapted for radio by Orson Welles and John Houseman ; performed by Orson Welles, Martin Gabel, George Coulouris... [et autres]. – Schiller park (Illinois) : Radio spirits, P 2001. – [Parole énoncée : audio]. – 7031 (Radio spirits)<br/>810    $a Wikipédia : https://en.wikipedia.org/wiki/The_Mercury_Theatre_on_the_Air (2022-11-14)</p>

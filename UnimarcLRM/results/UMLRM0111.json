@@ -4,39 +4,19 @@
     "id": "UMLRM0111",
     "txt": "\n000    01033nx  h2200253   4500\n001    UMLRM0111\n005    20220920######D\n100    $a 20220920afrey50      ba0\n101 0  $a eng\n102    $a GB\n104    $a d2009\n125 00 $a m\n140    $a te $b etdoc $2 BnF-FonctTexMix\n145 0  $a i\n152    $a RDA-FR\n154    $a xa\n241  1 $3 13616241 $o ISNI 0000 0001 1059 1869 $a Hughes, William (1964-....) $t Bram Stoker\u2019s Dracula : a reader\u2019s guide $7 ba0yba0y $8 freeng\n370    $a Bibliographie (5 pages) $a Index\n501  1 $3 13616241 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 1059 1869 $a Hughes $b William $f 1964-\u2026. $4 070\n541  1 $5 xxr $p Est une \u00e9tude de [\u0153uvre] $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula\n640 6  $0 Date de premi\u00e8re publication $f #2009#####\n676    $a 823 $v 23\n801  0 $a FR $b FR-751045101 $c 20220920\n810    $a Bram Stoker's Dracula : a reader's guide / William Hughes. \u2013 London ; New York : Continuum, cop. 2009. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 9780826495365",
     "self_index": [
-        "",
-        "",
-        "",
         "bibliographie pages $?index",
-        "",
-        "",
-        "",
-        "",
-        "bibliographie pages $?index",
-        ""
+        "bibliographie pages $?index"
     ],
     "linked_entities_index": [
         "bram stoker's dracula reader's guide william hughes",
         "london$?new york continuum copyright 2009",
         "continuum reader's guide",
-        "",
-        "",
-        "",
-        "",
         "bram stoker's dracula reader's guide william hughes",
         "london$?new york continuum copyright 2009",
         "continuum reader's guide",
-        "",
-        "",
-        "",
-        "",
-        "",
         "hughes william 1964 bram stoker's dracula reader's guide",
-        "",
         "bram stoker's dracula reader's guide willam hughes london new york continuum cop 2009 texte note sans mediation isbn 9780826495365",
-        "",
         "hughes william 1964 bram stoker's dracula reader's guide",
-        "",
         "bram stoker's dracula reader's guide willam hughes london new york continuum cop 2009 texte note sans mediation isbn 9780826495365"
     ],
     "resp_index": [
@@ -44,9 +24,10 @@
         "hughes william"
     ],
     "linked_resp_index": [],
-    "global_index": " hughes william bram stoker's dracula reader's guide william hughes london$?new york continuum copyright 2009 bibliographie pages $?index bram stoker's dracula reader's guide willam hughes london new york continuum cop 2009 texte note sans mediation isbn 9780826495365 continuum reader's guide hughes william 1964 bram stoker's dracula reader's guide",
+    "global_index": "bram stoker's dracula reader's guide william hughes bibliographie pages $?index hughes william 1964 bram stoker's dracula reader's guide continuum reader's guide london$?new york continuum copyright 2009 bram stoker's dracula reader's guide willam hughes london new york continuum cop 2009 texte note sans mediation isbn 9780826495365 hughes william",
     "type": "o",
     "label": "Hughes, William (1964-....), Bram Stoker\u2019s Dracula : a reader\u2019s guide",
+    "label_html": "Hughes, William (1964-....), Bram Stoker\u2019s Dracula : a reader\u2019s guide",
     "splitted_label": "Hughes, William\n(1964-....), Bram\nStoker\u2019s Dracula : a\nreader\u2019s guide",
     "stats_zones": {
         "001": 1,
@@ -90,11 +71,15 @@
     "toItems": {
         "UMLRM1036": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1036"
     },
-    "repr": "id : UMLRM0111\ntype initial : oe ; type : o\nlabel : Hughes, William (1964-....), Bram Stoker\u2019s Dracula : a reader\u2019s guide\n\nNotice : \n000    01033nx  h2200253   4500\n001    UMLRM0111\n005    20220920######D\n100    $a 20220920afrey50      ba0\n101 0  $a eng\n102    $a GB\n104    $a d2009\n125 00 $a m\n140    $a te $b etdoc $2 BnF-FonctTexMix\n145 0  $a i\n152    $a RDA-FR\n154    $a xa\n241  1 $3 13616241 $o ISNI 0000 0001 1059 1869 $a Hughes, William (1964-....) $t Bram Stoker\u2019s Dracula : a reader\u2019s guide $7 ba0yba0y $8 freeng\n370    $a Bibliographie (5 pages) $a Index\n501  1 $3 13616241 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 1059 1869 $a Hughes $b William $f 1964-\u2026. $4 070\n541  1 $5 xxr $p Est une \u00e9tude de [\u0153uvre] $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula\n640 6  $0 Date de premi\u00e8re publication $f #2009#####\n676    $a 823 $v 23\n801  0 $a FR $b FR-751045101 $c 20220920\n810    $a Bram Stoker's Dracula : a reader's guide / William Hughes. \u2013 London ; New York : Continuum, cop. 2009. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 9780826495365 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b79723c0>\nIndexation :  hughes william bibliographie pages $?index",
+    "other_expressions": {},
+    "repr": "id : UMLRM0111\ntype initial : oe ; type : o\nlabel : Hughes, William (1964-....), Bram Stoker\u2019s Dracula : a reader\u2019s guide\n\nNotice : \n000    01033nx  h2200253   4500\n001    UMLRM0111\n005    20220920######D\n100    $a 20220920afrey50      ba0\n101 0  $a eng\n102    $a GB\n104    $a d2009\n125 00 $a m\n140    $a te $b etdoc $2 BnF-FonctTexMix\n145 0  $a i\n152    $a RDA-FR\n154    $a xa\n241  1 $3 13616241 $o ISNI 0000 0001 1059 1869 $a Hughes, William (1964-....) $t Bram Stoker\u2019s Dracula : a reader\u2019s guide $7 ba0yba0y $8 freeng\n370    $a Bibliographie (5 pages) $a Index\n501  1 $3 13616241 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 1059 1869 $a Hughes $b William $f 1964-\u2026. $4 070\n541  1 $5 xxr $p Est une \u00e9tude de [\u0153uvre] $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula\n640 6  $0 Date de premi\u00e8re publication $f #2009#####\n676    $a 823 $v 23\n801  0 $a FR $b FR-751045101 $c 20220920\n810    $a Bram Stoker's Dracula : a reader's guide / William Hughes. \u2013 London ; New York : Continuum, cop. 2009. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 9780826495365 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e5400>\nIndexation : bibliographie pages $?index hughes william",
     "subjects": {},
     "genreforme": {},
     "detailed": "Description : Bibliographie (5 pages). Index\n\n\nDate de premi\u00e8re publication : 2009",
     "rebonds": "<span class='rebond'><a href='full_results_UMLRM0004.html'>Est une \u00e9tude de [\u0153uvre] Stoker, Bram (1847-1912) Dracula</a></span>",
+    "rebondids": [
+        "UMLRM0004"
+    ],
     "exprResp": [],
     "lang": [
         "eng"

@@ -10,6 +10,7 @@ from common_dicts import *
 
 from random import choice
 
+from Record import html_label
 from generate_graph import oeuvreid2graph
 
 def clean_str(string):
@@ -57,7 +58,27 @@ def generate_full_results_html(dict_results, dict_entities, query, type_entity):
         write_html_full_body(file, result, dict_results[result], query, i, dict_entities)
         write_html_footer(file)
         generate_json_file(result, dict_results[result])
+        if type_entity == "e":
+            # Si type d'entité = expression : générer les listes de résultats pour toutes les versions d'une oeuvre
+            generate_list_all_expressions(dict_results[result], dict_entities)
         i += 1
+
+
+def generate_list_all_expressions(result, dict_entities):
+    # A partir d'une entité Expression, 
+    # générer une liste de résultats présentant toutes les autres expressions
+    # de la même oeuvre
+    oid = "".join(list(result.toOeuvres))  # Oeuvre de l'expression de départ
+    dict_other_expressions = {}
+    for eid in dict_entities[oid].toExpressions:
+        dict_other_expressions[eid] = dict_entities[eid]
+    
+    file = open(f"results/short_results_{oid}_e.html", "w", encoding="utf-8")
+    write_html_head(file, "Liste de résultats", "e")
+    write_html_short_body(file, dict_other_expressions, 
+                          f"Liste des versions de : {dict_entities[oid].label}", 
+                          "e")
+    write_html_footer(file)
 
 
 def generate_json_file(recordid, record):
@@ -78,7 +99,7 @@ def generate_json_file(recordid, record):
         json_file.write(json_record)
 
 def write_html_short_body(file, dict_results, query, type_entity):
-    file.write("<body>")
+    file.write(f"<body class='{type_entity}'>")
     file.write(generate_entete(query, type_entity, 0))
 
     i = 1
@@ -121,21 +142,34 @@ def expression_short_result(i, entity_id, record):
 
 def write_html_full_body(file, recordid, record, query, i, dict_entities):
     # Génération d'une page de notice détaillée
-    file.write("\n<body>\n")
+    file.write(f"\n<body class='{record.type}'>\n")
     file.write(generate_entete(query, record.type, i))
     record_detailed = record.detailed.replace("\n", "<br/>")
     file.write("<div class='full_record'>")
     file.write(f"\n<p class='detailed label'>{record.label}</p>")
     file.write(f"\n<div class='detailed'><p class='detailed'>{record_detailed}</p></div>")
+    if record.type == "e":
+        record_detailed_sup_replace = record.detailed_sup.replace('\n', '<br/>')
+        file.write(f"\n<div class='detailed_sup'><p class='detailed'>{record_detailed_sup_replace}</p></div>")
     
     
     # ----------------------- #
     #    Les rebonds          #
     # ----------------------- #
-    record_rebonds = record.rebonds.replace("\n", "<br/>")
-    if record_rebonds:
-        file.write(f"\n<div class='rebonds'><p class='rebonds'><strong>Voir aussi</strong></br>{record_rebonds}</p></div>")
+    record_rebonds = record.rebonds.replace("\n", "</li><li>")
+    record_others_expr = record.other_expressions
 
+    
+    file.write(f"\n<div class='rebonds'>")
+    if record_rebonds:
+        file.write(f"<p class='rebonds'><p><strong>Voir aussi</strong></p><ul><li>{record_rebonds}</li></ul>")
+    if record.toOeuvres and record.type == "e":
+        nb_versions = 0
+        for oid in record.toOeuvres:
+            nb_versions += len(dict_entities[oid].toExpressions)
+            if nb_versions > 1:
+                file.write(f"<p><a class='expr2oeuvre_link' href='short_results_{list(record.toOeuvres)[0]}_e.html'>Voir les {str(nb_versions)} versions de l'oeuvre<br>\
+<em><strong>{' - '.join(record.toOeuvres.values())}</strong></em></a></p>")
     file.write("</div>")
 
     # print(recordid, "record.detailed", record.detailed)
@@ -150,7 +184,22 @@ def write_html_full_body(file, recordid, record, query, i, dict_entities):
     #    Les exemplaires      #
     # ------------------------#
     div_items = generate_html_items(record, dict_entities)
-    file.write(f"\n<div class='items'>{div_items}</div>\n")
+    file.write(f"\n{div_items}\n")
+
+    # ------------------------#
+    #    Rebonds vers         #
+    #    d'autres oeuvre      #
+    # ------------------------#
+    if record_others_expr:
+        file.write("\n<div class='other_expressions'>\n<p>Autres oeuvres en lien\n")
+        file.write("<p class='comment'>Sur une page d'expression, cette rubrique liste directement les expressions des oeuvres liées à l'oeuvre de l'expression en cours</p>")
+        file.write("<ul>")
+        for expr in record_others_expr:
+            expr_label = html_label(record_others_expr[expr])
+            expr_label = record_others_expr[expr]
+            line = f'<li><a href="full_results_{expr}.html">{expr_label}</a></li>\n'
+            file.write(line)
+        file.write("</ul>\n</div>")
 
 
     # ------------------------#
@@ -166,6 +215,7 @@ def generate_html_items(record, dict_entities):
     dict_states = {"d": "Disponible", "e": "Emprunté"}
     dict_class = {"d": "avail", "e": "unavail"}
     list_items = []
+    div_items = "<div class='items'>\n<h3>Liste des exemplaires</h3>\n"
     for item in record.toItems:
         if item:
             state = choice(list(dict_states))
@@ -177,11 +227,25 @@ def generate_html_items(record, dict_entities):
                 expr_labels.append(expr[e])
             expr_labels = " - ".join(expr_labels)
             desc_item = f"{state_label} - {expr_labels} - {full_item.localisation} {full_item.cote}"
-            html_item = f"<p class='{dict_class[state]}'>{desc_item}</p>"
+            html_item = f"<div class='item'><p class='{dict_class[state]}'>{desc_item}<br/>"
+            html_item += item2metassup(item, record, dict_entities)
+            html_item += "</p></div>"
             list_items.append(html_item)
-    div_items = "<h3>Liste des exemplaires</h3>\n"
     div_items += "\n".join(list_items)
+    div_items += "\n</div>\n"
     return div_items
+
+
+def item2metassup(item, record, dict_entities):
+    # Métadonnées biblio raccrochées à chaque item
+    manifid = list(dict_entities[item].toManifs)[0]
+    manif = dict_entities[manifid]
+    metas = {"Titre": manif.title,
+             "Edition": manif.publisher,
+             "Description": manif.description}
+    metas = "<br/>".join([f"{el}: {metas[el]}" for el in metas if metas[el]])
+    metas = f"<div class='item2metassup'>{metas}</div>"
+    return metas
 
 
 def generate_pro_infos(recordid, record, dict_entities):
@@ -225,6 +289,7 @@ def generate_work_filters(record):
     # Première ligne de filtres (moteur de recherche, langues, dates)
     header = "<h3>Filtres</h3>"
     filter_form = "<input type='form' width='150px' value='Limiter les résultats'/>"
+    filter_avail = "<a href='#'>Disponible</a>"
     filters_lng = ""
     for lang in record.lang:
         try:
@@ -242,7 +307,7 @@ def generate_work_filters(record):
         filters_content_type = [link]"""
     filters_content_type = " ".join(filters_content_type)
     year_range = generate_year_range(record)
-    filters_elements = [filter_form, filters_lng, filters_content_type, year_range]
+    filters_elements = [filter_form, filter_avail, filters_lng, filters_content_type, year_range]
     filters1 = f"<div class='filters1'>{' '.join(filters_elements)}</div>"
 
     # Deuxième ligne (mentions de responsabilités des expressions)
@@ -308,6 +373,8 @@ def write_html_footer(file):
 def delete_html_results():
     for filename in os.listdir("results"):
         if ".html" in filename and "form" not in filename:
+            os.remove(f"results/{filename}")
+        if ".json" in filename:
             os.remove(f"results/{filename}")
     for filename in os.listdir("results/graphs"):
             os.remove(f"results/graphs/{filename}")

@@ -4,13 +4,9 @@
     "id": "UMLRM0076",
     "txt": "\n000    01230cx  h2200241   4500\n001    UMLRM0076\n005    20221030######.D\n100    $a 20220905afrey50      ba0\n101 1  $a fre $c eng\n102    $a FR\n104    $a d1992\n105    $a ba\n145    $a i $b axxe\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0075 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula\u2019s guest $m Fran\u00e7ais $w Finn\u00e9 $n Texte not\u00e9\n442  1 $7 ba0yba0y $8 frefre $a Stoker, Bram (1847-1912) $t L\u2019invit\u00e9 de Dracula $m Fran\u00e7ais $w Finn\u00e9 $n Texte not\u00e9\n502  1 $3 11902797 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2023 6609 $a Finn\u00e9 $b Jacques $4 730\n542  1 $5 xxo $p Est une traduction de $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula\u2019s guest $m Anglais $n Texte not\u00e9\n640 6  $0 Date de premi\u00e8re publication $f #1992#####\n801  0 $a FR $b FR-751052119 $c 20221030\n810    $a BnF, catalogue g\u00e9n\u00e9ral : http://ark.bnf.fr/ark:/12148/cb35544517t (2022-10-30) $b Date de premi\u00e8re publication\n810    $a Dracula [Texte imprim\u00e9] ; suivi de L'invit\u00e9 de Dracula / Bram Stoker ; traduction de Jacques Finn\u00e9 ; pr\u00e9sentation et commentaires de Claude Aziza. \u2013 Paris : Pocket, impr. 2011. \u2013 [Texte not\u00e9 : sans m\u00e9diation] . \u2013 ISBN 978-2-266-21954-9",
     "self_index": [
-        "",
         "stoker bram 1847 1912 dracula's guest",
-        "",
         "bnf catalogue general http ark bnf fr ark 12148 cb35544517t 2022 10 30 $?dracula texte imprime suivi de invite de dracula bram stoker traduction de jacques finne presentation et commentaires de claude aziza paris pocket impr 2011 texte note sans mediation isbn 978 266 21954",
-        "",
         "stoker bram 1847 1912 dracula's guest",
-        "",
         "bnf catalogue general http ark bnf fr ark 12148 cb35544517t 2022 10 30 $?dracula texte imprime suivi de invite de dracula bram stoker traduction de jacques finne presentation et commentaires de claude aziza paris pocket impr 2011 texte note sans mediation isbn 978 266 21954"
     ],
     "linked_entities_index": [
@@ -18,20 +14,11 @@
         "dracula suivi de invite de dracula bram stoker traduction de jacques finne presentation et commentaires de claude aziza",
         "paris pocket$? 72 la fleche 2011",
         "pocket",
-        "",
         "bibliographie pages 567 569$?filmographie pages 571 573",
-        "",
-        "",
         "dracula suivi de invite de dracula bram stoker traduction de jacques finne presentation et commentaires de claude aziza",
         "paris pocket$? 72 la fleche 2011",
         "pocket",
-        "",
         "bibliographie pages 567 569$?filmographie pages 571 573",
-        "",
-        "",
-        "",
-        "",
-        "",
         "oeuvre publiee titre posthume$? initialement premier chapitre du roman dracula ecrit en 1897 il ete omis du livre publie pour des raisons de longueur et publie pour la premiere fois en 1914$?adapte pour le film la fille de dracula",
         "premiere rencontre de jonathan harker avec le surnaturel peu avant de se rendre au chateau du comte dracula"
     ],
@@ -43,9 +30,10 @@
         "aziza claude",
         "stoker bram"
     ],
-    "global_index": " stoker bram 1847 1912 dracula's guest francais finne texte note paris pocket$? 72 la fleche 2011 bibliographie pages 567 569$?filmographie pages 571 573 oeuvre publiee titre posthume$? initialement premier chapitre du roman dracula ecrit en 1897 il ete omis du livre publie pour des raisons de longueur et publie pour la premiere fois en 1914$?adapte pour le film la fille de dracula premiere rencontre de jonathan harker avec le surnaturel peu avant de se rendre au chateau du comte dracula stoker bram 1847 1912 dracula's guest bnf catalogue general http ark bnf fr ark 12148 cb35544517t 2022 10 30 $?dracula texte imprime suivi de invite de dracula bram stoker traduction de jacques finne presentation et commentaires de claude aziza paris pocket impr 2011 texte note sans mediation isbn 978 266 21954 pocket aziza claude dracula suivi de invite de dracula bram stoker traduction de jacques finne presentation et commentaires de claude aziza finne jacques stoker bram",
+    "global_index": "pocket bibliographie pages 567 569$?filmographie pages 571 573 aziza claude paris pocket$? 72 la fleche 2011 finne jacques bnf catalogue general http ark bnf fr ark 12148 cb35544517t 2022 10 30 $?dracula texte imprime suivi de invite de dracula bram stoker traduction de jacques finne presentation et commentaires de claude aziza paris pocket impr 2011 texte note sans mediation isbn 978 266 21954 stoker bram stoker bram 1847 1912 dracula's guest francais finne texte note dracula suivi de invite de dracula bram stoker traduction de jacques finne presentation et commentaires de claude aziza oeuvre publiee titre posthume$? initialement premier chapitre du roman dracula ecrit en 1897 il ete omis du livre publie pour des raisons de longueur et publie pour la premiere fois en 1914$?adapte pour le film la fille de dracula stoker bram 1847 1912 dracula's guest premiere rencontre de jonathan harker avec le surnaturel peu avant de se rendre au chateau du comte dracula",
     "type": "e",
     "label": "Stoker, Bram (1847-1912), Dracula\u2019s guest, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9",
+    "label_html": "Stoker, Bram (1847-1912), Dracula\u2019s guest, Fran\u00e7ais, Finn\u00e9 <img src='icons/Texte not\u00e9.png' alt='[Texte not\u00e9]' title='Texte not\u00e9'/>",
     "splitted_label": "Stoker, Bram\n(1847-1912),\nDracula\u2019s guest,\nFran\u00e7ais, Finn\u00e9,\nTexte not\u00e9",
     "stats_zones": {
         "001": 1,
@@ -75,7 +63,7 @@
         "11902797"
     ],
     "toOeuvres": {
-        "UMLRM0075": "Stoker, Bram (1847-1912), Dracula\u2019s guest, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9"
+        "UMLRM0075": "Stoker, Bram (1847-1912), Dracula's guest"
     },
     "toExpressions": {},
     "toManifs": {
@@ -87,9 +75,20 @@
     "toItems": {
         "UMLRM1024": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1024"
     },
-    "repr": "id : UMLRM0076\ntype initial : oe ; type : e\nlabel : Stoker, Bram (1847-1912), Dracula\u2019s guest, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9\n\nNotice : \n000    01230cx  h2200241   4500\n001    UMLRM0076\n005    20221030######.D\n100    $a 20220905afrey50      ba0\n101 1  $a fre $c eng\n102    $a FR\n104    $a d1992\n105    $a ba\n145    $a i $b axxe\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0075 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula\u2019s guest $m Fran\u00e7ais $w Finn\u00e9 $n Texte not\u00e9\n442  1 $7 ba0yba0y $8 frefre $a Stoker, Bram (1847-1912) $t L\u2019invit\u00e9 de Dracula $m Fran\u00e7ais $w Finn\u00e9 $n Texte not\u00e9\n502  1 $3 11902797 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2023 6609 $a Finn\u00e9 $b Jacques $4 730\n542  1 $5 xxo $p Est une traduction de $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula\u2019s guest $m Anglais $n Texte not\u00e9\n640 6  $0 Date de premi\u00e8re publication $f #1992#####\n801  0 $a FR $b FR-751052119 $c 20221030\n810    $a BnF, catalogue g\u00e9n\u00e9ral : http://ark.bnf.fr/ark:/12148/cb35544517t (2022-10-30) $b Date de premi\u00e8re publication\n810    $a Dracula [Texte imprim\u00e9] ; suivi de L'invit\u00e9 de Dracula / Bram Stoker ; traduction de Jacques Finn\u00e9 ; pr\u00e9sentation et commentaires de Claude Aziza. \u2013 Paris : Pocket, impr. 2011. \u2013 [Texte not\u00e9 : sans m\u00e9diation] . \u2013 ISBN 978-2-266-21954-9 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b7970fc0>\nIndexation :  stoker bram 1847 1912 dracula's guest bnf catalogue general http ark bnf fr ark 12148 cb35544517t 2022 10 30 $?dracula texte imprime suivi de invite de dracula bram stoker traduction de jacques finne presentation et commentaires de claude aziza paris pocket impr 2011 texte note sans mediation isbn 978 266 21954 finne jacques",
+    "other_expressions": {
+        "UMLRM0005": "Stoker, Bram (1847-1912), Dracula, Anglais, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0020": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Molitor, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0041": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Sirgent, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0050": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0053": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Chicheportiche, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0056": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Paul-Margueritte, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0059": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Paul-Margueritte, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0065": "Stoker, Bram (1847-1912), Dracula, Espagnol, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0068": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Molitor - Moissard, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0187": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Parole \u00e9nonc\u00e9e [Stoker, Bram (1847-1912), Dracula]"
+    },
+    "repr": "id : UMLRM0076\ntype initial : oe ; type : e\nlabel : Stoker, Bram (1847-1912), Dracula\u2019s guest, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9\n\nNotice : \n000    01230cx  h2200241   4500\n001    UMLRM0076\n005    20221030######.D\n100    $a 20220905afrey50      ba0\n101 1  $a fre $c eng\n102    $a FR\n104    $a d1992\n105    $a ba\n145    $a i $b axxe\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0075 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula\u2019s guest $m Fran\u00e7ais $w Finn\u00e9 $n Texte not\u00e9\n442  1 $7 ba0yba0y $8 frefre $a Stoker, Bram (1847-1912) $t L\u2019invit\u00e9 de Dracula $m Fran\u00e7ais $w Finn\u00e9 $n Texte not\u00e9\n502  1 $3 11902797 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2023 6609 $a Finn\u00e9 $b Jacques $4 730\n542  1 $5 xxo $p Est une traduction de $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula\u2019s guest $m Anglais $n Texte not\u00e9\n640 6  $0 Date de premi\u00e8re publication $f #1992#####\n801  0 $a FR $b FR-751052119 $c 20221030\n810    $a BnF, catalogue g\u00e9n\u00e9ral : http://ark.bnf.fr/ark:/12148/cb35544517t (2022-10-30) $b Date de premi\u00e8re publication\n810    $a Dracula [Texte imprim\u00e9] ; suivi de L'invit\u00e9 de Dracula / Bram Stoker ; traduction de Jacques Finn\u00e9 ; pr\u00e9sentation et commentaires de Claude Aziza. \u2013 Paris : Pocket, impr. 2011. \u2013 [Texte not\u00e9 : sans m\u00e9diation] . \u2013 ISBN 978-2-266-21954-9 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e5040>\nIndexation : finne jacques stoker bram 1847 1912 dracula's guest bnf catalogue general http ark bnf fr ark 12148 cb35544517t 2022 10 30 $?dracula texte imprime suivi de invite de dracula bram stoker traduction de jacques finne presentation et commentaires de claude aziza paris pocket impr 2011 texte note sans mediation isbn 978 266 21954",
     "lang": [
-        "eng",
         "fre"
     ],
     "expressionContentType": "Texte not\u00e9",
@@ -98,6 +97,8 @@
         "Finn\u00e9, Jacques (Traducteur)"
     ],
     "detailed": "\n\nDate de premi\u00e8re publication : 1992",
+    "detailed_sup": "Description : \u0152uvre publi\u00e9e \u00e0 titre posthume.  Initialement, premier chapitre du roman Dracula \u00e9crit en 1897, il a \u00e9t\u00e9 omis du livre publi\u00e9 pour des raisons de longueur et publi\u00e9 pour la premi\u00e8re fois en 1914. Adapt\u00e9 pour le film \"La fille de Dracula\".\nPremi\u00e8re rencontre de Jonathan Harker avec le surnaturel, peu avant de se rendre au ch\u00e2teau du comte Dracula.\n\n\nDate de premi\u00e8re publication : 1914\nDate d\u2019\u00e9criture : 08/03/1890\n",
     "rebonds": "",
-    "other_expressions": null
+    "rebondids": [],
+    "other_works_expressions": null
 }

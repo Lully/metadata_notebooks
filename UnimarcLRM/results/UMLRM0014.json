@@ -5,43 +5,27 @@
     "txt": "\n000    01036cx  f2200229   4500\n001    UMLRM0014\n005    20220712.......D\n100    $a 20060703afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2005\n105    $a ba\n145 0  $a b $b xb2e\n145 0  $a i $b axxe\n147 0  $a h\n152    $a RDA-FR\n154    $a xb\n232    $3 UMLRM0013 $7 ba0yba0y $8 frefre $a Jean-Claude Gallotta, Nosferatu, ballet de l'Op\u00e9ra $c programme $d 2006-05 $n Texte not\u00e9. Image fixe\n300    $a R\u00e9unit des analyses sur l\u2019\u0153uvre pr\u00e9sent\u00e9e, l'argument du ballet et des notices biographiques sur les interpr\u00e8tes\n640 6  $0 Date de copyright de l\u2019expression $f #2005#####\n801  0 $a FR $b FR-751131015 $c 20220920\n810    $a  Jean-Claude Gallotta, Nosferatu, ballet de l'Op\u00e9ra: [chor\u00e9graphie de Jean-Claude Gallotta, musiques de Pascal Dusapin] : [programme, 6 mai 2006, Op\u00e9ra national de Paris, Op\u00e9ra Bastille] / Op\u00e9ra national de Paris. \u2013 Paris : Op\u00e9ra national de Paris, copyright 2005. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation]",
     "self_index": [
         "jean claude gallotta nosferatu ballet de opera",
-        "",
-        "",
         "jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris paris opera national de paris copyright 2005 texte note image fixe sans mediation",
         "jean claude gallotta nosferatu ballet de opera",
-        "",
-        "",
         "jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris paris opera national de paris copyright 2005 texte note image fixe sans mediation"
     ],
     "linked_entities_index": [
         "jean claude gallotta nosferatu ballet de opera programme 2006 05 texte note image fixe",
         "jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris",
         "paris opera national de paris 2005",
-        "",
-        "",
-        "",
-        "",
-        "",
         "jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris",
         "paris opera national de paris 2005",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
         "jean claude gallotta nosferatu ballet de opera",
-        "presence d'illustrations",
-        ""
+        "presence d'illustrations"
     ],
     "resp_index": [],
     "linked_resp_index": [
         "opera national de paris"
     ],
-    "global_index": " jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris presence d'illustrations paris opera national de paris 2005 jean claude gallotta nosferatu ballet de opera programme 2006 05 texte note image fixe opera national de paris jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris paris opera national de paris copyright 2005 texte note image fixe sans mediation jean claude gallotta nosferatu ballet de opera",
+    "global_index": "jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris jean claude gallotta nosferatu ballet de opera paris opera national de paris 2005 presence d'illustrations opera national de paris jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris paris opera national de paris copyright 2005 texte note image fixe sans mediation jean claude gallotta nosferatu ballet de opera programme 2006 05 texte note image fixe",
     "type": "e",
     "label": "Jean-Claude Gallotta, Nosferatu, ballet de l'Op\u00e9ra, programme, 2006-05, Texte not\u00e9. Image fixe",
+    "label_html": "Jean-Claude Gallotta, Nosferatu, ballet de l'Op\u00e9ra <img src='icons/programme.png' alt='[programme]' title='programme'/> 2006-05 <img src='icons/Texte not\u00e9. Image fixe.png' alt='[Texte not\u00e9. Image fixe]' title='Texte not\u00e9. Image fixe'/>",
     "splitted_label": "Jean-Claude\nGallotta, Nosferatu,\nballet de l'Op\u00e9ra,\nprogramme, 2006-05,\nTexte not\u00e9. Image\nfixe",
     "stats_zones": {
         "001": 1,
@@ -64,7 +48,7 @@
     "resp": {},
     "respIds": [],
     "toOeuvres": {
-        "UMLRM0013": "Jean-Claude Gallotta, Nosferatu, ballet de l'Op\u00e9ra, programme, 2006-05, Texte not\u00e9. Image fixe"
+        "UMLRM0013": "Jean-Claude Gallotta, Nosferatu, ballet de l'Op\u00e9ra, programme, 2006-05"
     },
     "toExpressions": {},
     "toManifs": {
@@ -76,7 +60,8 @@
     "toItems": {
         "UMLRM1004": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1004"
     },
-    "repr": "id : UMLRM0014\ntype initial : oe ; type : e\nlabel : Jean-Claude Gallotta, Nosferatu, ballet de l'Op\u00e9ra, programme, 2006-05, Texte not\u00e9. Image fixe\n\nNotice : \n000    01036cx  f2200229   4500\n001    UMLRM0014\n005    20220712.......D\n100    $a 20060703afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2005\n105    $a ba\n145 0  $a b $b xb2e\n145 0  $a i $b axxe\n147 0  $a h\n152    $a RDA-FR\n154    $a xb\n232    $3 UMLRM0013 $7 ba0yba0y $8 frefre $a Jean-Claude Gallotta, Nosferatu, ballet de l'Op\u00e9ra $c programme $d 2006-05 $n Texte not\u00e9. Image fixe\n300    $a R\u00e9unit des analyses sur l\u2019\u0153uvre pr\u00e9sent\u00e9e, l'argument du ballet et des notices biographiques sur les interpr\u00e8tes\n640 6  $0 Date de copyright de l\u2019expression $f #2005#####\n801  0 $a FR $b FR-751131015 $c 20220920\n810    $a  Jean-Claude Gallotta, Nosferatu, ballet de l'Op\u00e9ra: [chor\u00e9graphie de Jean-Claude Gallotta, musiques de Pascal Dusapin] : [programme, 6 mai 2006, Op\u00e9ra national de Paris, Op\u00e9ra Bastille] / Op\u00e9ra national de Paris. \u2013 Paris : Op\u00e9ra national de Paris, copyright 2005. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b79707c0>\nIndexation :  jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris paris opera national de paris copyright 2005 texte note image fixe sans mediation jean claude gallotta nosferatu ballet de opera",
+    "other_expressions": {},
+    "repr": "id : UMLRM0014\ntype initial : oe ; type : e\nlabel : Jean-Claude Gallotta, Nosferatu, ballet de l'Op\u00e9ra, programme, 2006-05, Texte not\u00e9. Image fixe\n\nNotice : \n000    01036cx  f2200229   4500\n001    UMLRM0014\n005    20220712.......D\n100    $a 20060703afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2005\n105    $a ba\n145 0  $a b $b xb2e\n145 0  $a i $b axxe\n147 0  $a h\n152    $a RDA-FR\n154    $a xb\n232    $3 UMLRM0013 $7 ba0yba0y $8 frefre $a Jean-Claude Gallotta, Nosferatu, ballet de l'Op\u00e9ra $c programme $d 2006-05 $n Texte not\u00e9. Image fixe\n300    $a R\u00e9unit des analyses sur l\u2019\u0153uvre pr\u00e9sent\u00e9e, l'argument du ballet et des notices biographiques sur les interpr\u00e8tes\n640 6  $0 Date de copyright de l\u2019expression $f #2005#####\n801  0 $a FR $b FR-751131015 $c 20220920\n810    $a  Jean-Claude Gallotta, Nosferatu, ballet de l'Op\u00e9ra: [chor\u00e9graphie de Jean-Claude Gallotta, musiques de Pascal Dusapin] : [programme, 6 mai 2006, Op\u00e9ra national de Paris, Op\u00e9ra Bastille] / Op\u00e9ra national de Paris. \u2013 Paris : Op\u00e9ra national de Paris, copyright 2005. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e3740>\nIndexation : jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris paris opera national de paris copyright 2005 texte note image fixe sans mediation jean claude gallotta nosferatu ballet de opera",
     "lang": [
         "fre"
     ],
@@ -84,6 +69,8 @@
     "exprContentType": "programme",
     "exprResp": [],
     "detailed": "\n\nDate de copyright de l\u2019expression : 2005",
+    "detailed_sup": "Description : Pr\u00e9sence d\u2019illustrations\n\n\nDate de copyright de la premi\u00e8re expression : 2005\n",
     "rebonds": "",
-    "other_expressions": null
+    "rebondids": [],
+    "other_works_expressions": null
 }

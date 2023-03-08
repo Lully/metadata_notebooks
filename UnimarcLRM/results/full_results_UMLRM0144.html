@@ -21,20 +21,33 @@ input {font-style: italic;
 		  
 ------------------------------*/
 
+body.e {background-color: #eeffff;}
+body.o {background-color: #ffeeff;}
+
+.comment {font-family: Courier New;
+		  font-size: 0.8em;
+		 }
+
 /* Métadonnées */
 div.detailed {float: left;
-			  width: 80%;
+			  width: 60%;
 			  padding-right: 20px;}
+			  
+div.detailed_sup {float: left;
+			      width: 60%;
+			      padding-right: 20px;}
+			 
+			  
 p.detailed.label {font-weight: bold;
 					 color: #05513c;
 					}
 
 div.rebonds {float: right;
-			width: 15%;
+			width: 35%;
 			background-color: #efefef;
 			padding: 20px;
 			border-radius: 20px;}
-span.rebond {padding-left: 8px;
+span.rebond {padding-left: 0px;
 			 }
 span.rebond a {text-decoration: none;
 			   font-weight: normal;
@@ -42,6 +55,27 @@ span.rebond a {text-decoration: none;
 			  }
 span.rebond a:hover {text-decoration: underline;
 			  }
+
+div.other_expressions {float: left;
+					   width: 80%}
+					   
+div.other_expressions ul {margin: 0;
+	   				   padding: 0;
+					   list-style: none;
+					   }
+div.other_expressions p {font-weight: bold;}
+div.other_expressions ul li {display: inline;
+							 background: #efefef;
+							 list-style-type: none;
+							 padding: 5px;
+							 margin: 2px;
+							 padding-bottom: 10px;
+							 border: 1px solid #600;
+							 max-width: 100px;
+  							 float: left;}
+div.other_expressions ul li a {text-align: center ;
+							   text-decoration: none ;}
+div.other_expressions ul li:hover {background: #a6a6a6;}			 
 
 
 /* Filtres */
@@ -64,12 +98,16 @@ div.ui-rangeslider {width: 40%;}
 
 
 /* Liste des exemplaires*/
-.items {width: 100%;
+.items {width: 80%;
 		  float: left;}
 
 
 .avail {background-color: #beff9f}
 .unavail {background-color: #ffe2d7}
+
+div.item2metassup {font-size: 0.8em;
+					margin-top: -10px;
+					margin-left: 20px;}
 
 
 /* Métadonnées professionnelles*/
@@ -99,19 +137,22 @@ a.link2work {color: #5a918a;
 
 .short_result_details {margin-left: 20px;
 					   font-size: 0.8em;}</style></head>
-<body>
+<body class='o'>
 
 <div class="entete">
 <p>Rappel de la recherche : <strong></strong></p>
 <p class='back'><a href='short_results_o.html'>Retour à la liste des résultats</a></p><h1>Résultat 30</h1></div><div class='full_record'>
 <p class='detailed label'>Dusapin, Pascal (1955-....), Apex</p>
 <div class='detailed'><p class='detailed'>Description : Commande de l'Orchestre national de Lyon. Dates de composition : "Paris 14 mai 1995, corrections août 2010". Création par l'Orchestre national de Lyon sous la direction d'Emmanuel Krivine le 11 janvier 1996<br/><br/><br/>Date d’achèvement : 14/05/1995<br/>Première représentation (création) : 11/01/1996 (Lyon)</p></div>
-<div class='rebonds'><p class='rebonds'><strong>Voir aussi</strong></br><span class='rebond'><a href='full_results_.html'>Dusapin, Pascal (1955-....) 7 solos pour orchestre</a></span><br/><span class='rebond'><a href='full_results_UMLRM0142.html'>Musique utilisée dans [œuvre] Gallotta, Jean-Claude (1950-....) Nosferatu</a></span></p></div></div>
+<div class='rebonds'><p class='rebonds'><p><strong>Voir aussi</strong></p><ul><li><span class='rebond'><a href='full_results_UMLRM0142.html'>Musique utilisée dans [œuvre] Gallotta, Jean-Claude (1950-....) Nosferatu</a></span></li></ul></div>
 <div class='filters'><h3>Filtres</h3>
-<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/>   <div class='yearRange'><p>Filtre par année</p></div></div>
+<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/> <a href='#'>Disponible</a>   <div class='yearRange'><p>Filtre par année</p></div></div>
 <div class='filters2'></div></div>
-<div class='items'><h3>Liste des exemplaires</h3>
+<div class='items'>
+<h3>Liste des exemplaires</h3>
+
 </div>
+
 
 <div class='pro'>
 <hr/>
@@ -134,11 +175,11 @@ a.link2work {color: #5a918a;
 </svg></div>
 <div class="indexed_metas">
 <table class="indexed_metas_table">
-<tr><th>self_index</th><td>['', '', '', 'commande de orchestre national de lyon$?dates de composition paris 14 mai 1995 corrections aout 2010 $?creation par orchestre national de lyon sous la direction emmanuel krivine le 11 janvier 1996', '', '', '', '', 'commande de orchestre national de lyon$?dates de composition paris 14 mai 1995 corrections aout 2010 $?creation par orchestre national de lyon sous la direction emmanuel krivine le 11 janvier 1996', '']</td></tr>
+<tr><th>self_index</th><td>['commande de orchestre national de lyon$?dates de composition paris 14 mai 1995 corrections aout 2010 $?creation par orchestre national de lyon sous la direction emmanuel krivine le 11 janvier 1996', 'commande de orchestre national de lyon$?dates de composition paris 14 mai 1995 corrections aout 2010 $?creation par orchestre national de lyon sous la direction emmanuel krivine le 11 janvier 1996']</td></tr>
 <tr><th>linked_entities_index</th><td>[]</td></tr>
 <tr><th>resp_index</th><td>['dusapin pascal', 'dusapin pascal']</td></tr>
 <tr><th>linked_resp_index</th><td>[]</td></tr>
-<tr><th>global_index</th><td> commande de orchestre national de lyon$?dates de composition paris 14 mai 1995 corrections aout 2010 $?creation par orchestre national de lyon sous la direction emmanuel krivine le 11 janvier 1996 dusapin pascal</td></tr>
+<tr><th>global_index</th><td>commande de orchestre national de lyon$?dates de composition paris 14 mai 1995 corrections aout 2010 $?creation par orchestre national de lyon sous la direction emmanuel krivine le 11 janvier 1996 dusapin pascal</td></tr>
 </table>
 </div>
 <p class="marc_record"><br/>000    01827cx  h2200337   4500<br/>001    UMLRM0144<br/>005    20220725.......D<br/>100    $a 19980911afrey50      ba0<br/>102    $a FR<br/>104    $a d1995<br/>127 0  $a 001600<br/>128    $a zz<br/>140    $a mu<br/>145 0  $a d<br/>146 0  $a b $d 01ofu<br/>152    $a RDA-FR<br/>154    $a xa<br/>241  1 $3 13893539 $o ISNI 0000 0001 2103 9893 $a Dusapin, Pascal (1955-....) $t Apex $7 ba0yba0y $8 frelat<br/>370    $c Commande de l'Orchestre national de Lyon $c Dates de composition : "Paris 14 mai 1995, corrections août 2010" $c Création par l'Orchestre national de Lyon sous la direction d'Emmanuel Krivine le 11 janvier 1996<br/>441  1 $3 13893539 $a Dusapin, Pascal (1955-....) $t Solo $r Orchestre $s No 3 $7 ba0yba0y $8 frefre<br/>441  0 $3 13893539 $a Dusapin, Pascal (1955-....) $t Solo n° 3 pour orchestre $7 ba0yba0y $8 frefre<br/>501  1 $3 13893539 $o ISNI 0000 0001 2103 9893 $a Dusapin $b Pascal $f 1955-.... $4 230<br/>541  1 $5 x|d $a Dusapin, Pascal (1955-....) $t 7 solos pour orchestre $7 ba0yba0y $8 frefre<br/>541  1 $5 x|r $p Musique utilisée dans [œuvre] $3 UMLRM0142 $7 ba0yba0y $8 frefre $a Gallotta, Jean-Claude (1950-....) $t Nosferatu<br/>608    $3 11981010 $a Orchestre, Musique d' $3 11975995 $z 20e siècle $2 rameauGenre<br/>640 5  $0 Date d’achèvement $f #19950514#<br/>640 6  $0 Première représentation (création) $p FR $d Lyon $e Auditorium Maurice Ravel $f #19960111#<br/>801    $a FR $b FR-751131015 $c 20220725<br/>810    $a  IRCAM : http://brahms.ircam.fr/works/work/14024 (2010-08-19)<br/>810    $a  Oxford music online : http://www.oxfordmusiconline.com (2010-08-19)<br/>810    $a 7 solos pour orchestre / Pascal Dusapin ; Orchestre philharmonique de Liège Wallonie Bruxelles ; Pascal Rophé. – [France] : Naïve, P 2010. – [Musique exécutée : audio]. – Naïve MO 782180</p>

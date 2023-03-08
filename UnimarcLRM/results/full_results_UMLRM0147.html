@@ -21,20 +21,33 @@ input {font-style: italic;
 		  
 ------------------------------*/
 
+body.e {background-color: #eeffff;}
+body.o {background-color: #ffeeff;}
+
+.comment {font-family: Courier New;
+		  font-size: 0.8em;
+		 }
+
 /* Métadonnées */
 div.detailed {float: left;
-			  width: 80%;
+			  width: 60%;
 			  padding-right: 20px;}
+			  
+div.detailed_sup {float: left;
+			      width: 60%;
+			      padding-right: 20px;}
+			 
+			  
 p.detailed.label {font-weight: bold;
 					 color: #05513c;
 					}
 
 div.rebonds {float: right;
-			width: 15%;
+			width: 35%;
 			background-color: #efefef;
 			padding: 20px;
 			border-radius: 20px;}
-span.rebond {padding-left: 8px;
+span.rebond {padding-left: 0px;
 			 }
 span.rebond a {text-decoration: none;
 			   font-weight: normal;
@@ -42,6 +55,27 @@ span.rebond a {text-decoration: none;
 			  }
 span.rebond a:hover {text-decoration: underline;
 			  }
+
+div.other_expressions {float: left;
+					   width: 80%}
+					   
+div.other_expressions ul {margin: 0;
+	   				   padding: 0;
+					   list-style: none;
+					   }
+div.other_expressions p {font-weight: bold;}
+div.other_expressions ul li {display: inline;
+							 background: #efefef;
+							 list-style-type: none;
+							 padding: 5px;
+							 margin: 2px;
+							 padding-bottom: 10px;
+							 border: 1px solid #600;
+							 max-width: 100px;
+  							 float: left;}
+div.other_expressions ul li a {text-align: center ;
+							   text-decoration: none ;}
+div.other_expressions ul li:hover {background: #a6a6a6;}			 
 
 
 /* Filtres */
@@ -64,12 +98,16 @@ div.ui-rangeslider {width: 40%;}
 
 
 /* Liste des exemplaires*/
-.items {width: 100%;
+.items {width: 80%;
 		  float: left;}
 
 
 .avail {background-color: #beff9f}
 .unavail {background-color: #ffe2d7}
+
+div.item2metassup {font-size: 0.8em;
+					margin-top: -10px;
+					margin-left: 20px;}
 
 
 /* Métadonnées professionnelles*/
@@ -99,19 +137,22 @@ a.link2work {color: #5a918a;
 
 .short_result_details {margin-left: 20px;
 					   font-size: 0.8em;}</style></head>
-<body>
+<body class='o'>
 
 <div class="entete">
 <p>Rappel de la recherche : <strong></strong></p>
 <p class='back'><a href='short_results_o.html'>Retour à la liste des résultats</a></p><h1>Résultat 33</h1></div><div class='full_record'>
 <p class='detailed label'>Nosferatu, spectacle, 2001</p>
 <div class='detailed'><p class='detailed'>Description : Première représentation (création mondiale) : Paris (France) : Opéra national de Paris-Bastille, 2001-05-02. Reprise pour 5 représentations du 6 au 13 mai 2006 à l’Opéra Bastille.<br/><br/><br/>Première représentation (création) : 02/05/2001 (Paris)</p></div>
-<div class='rebonds'><p class='rebonds'><strong>Voir aussi</strong></br><span class='rebond'><a href='full_results_UMLRM0138.html'>Utilise les décors Jeanneteau, Daniel (1963-....) Deratte, Laure (19..-....) [Maquette de décor en volume pour "Nosferatu"]</a></span></p></div></div>
+<div class='rebonds'><p class='rebonds'><p><strong>Voir aussi</strong></p><ul><li><span class='rebond'><a href='full_results_UMLRM0138.html'>Utilise les décors Jeanneteau, Daniel (1963-....) Deratte, Laure (19..-....) [Maquette de décor en volume pour "Nosferatu"]</a></span></li></ul></div>
 <div class='filters'><h3>Filtres</h3>
-<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/>  <a class="filters_content_type" href="#">spectacle</a> <div class='yearRange'><p>Filtre par année</p></div></div>
+<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/> <a href='#'>Disponible</a>  <a class="filters_content_type" href="#">spectacle</a> <div class='yearRange'><p>Filtre par année</p></div></div>
 <div class='filters2'><a href="#">Martinez, José, danseur (Danseur)</a> | <a href="#">Kontarsky, Bernhard (Chef d'orchestre)</a> | <a href="#">Opéra national de Paris, Ballet (Danseur)</a> | <a href="#">Opéra national de Paris, Orchestre (Musicien)</a></div></div>
-<div class='items'><h3>Liste des exemplaires</h3>
+<div class='items'>
+<h3>Liste des exemplaires</h3>
+
 </div>
+
 
 <div class='pro'>
 <hr/>
@@ -148,11 +189,11 @@ a.link2work {color: #5a918a;
 </svg></div>
 <div class="indexed_metas">
 <table class="indexed_metas_table">
-<tr><th>self_index</th><td>['https data bnf fr 15078987 jean claude gallotta nosferatu', '', 'nosferatu', "premiere representation creation mondiale paris france opera national de paris bastille 2001 05 02 reprise pour representations du au 13 mai 2006 l'opera bastille", '', 'https data bnf fr 15078987 jean claude gallotta nosferatu', '', 'nosferatu', "premiere representation creation mondiale paris france opera national de paris bastille 2001 05 02 reprise pour representations du au 13 mai 2006 l'opera bastille", '']</td></tr>
-<tr><th>linked_entities_index</th><td>['nosferatu', '', '', 'memopera http www memopera fr 2013 03 15 jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris paris opera national de paris copyright 2005 texte note image fixe sans mediation', 'nosferatu', '', '', 'memopera http www memopera fr 2013 03 15 jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris paris opera national de paris copyright 2005 texte note image fixe sans mediation']</td></tr>
+<tr><th>self_index</th><td>['https data bnf fr 15078987 jean claude gallotta nosferatu', 'nosferatu', "premiere representation creation mondiale paris france opera national de paris bastille 2001 05 02 reprise pour representations du au 13 mai 2006 l'opera bastille", 'https data bnf fr 15078987 jean claude gallotta nosferatu', 'nosferatu', "premiere representation creation mondiale paris france opera national de paris bastille 2001 05 02 reprise pour representations du au 13 mai 2006 l'opera bastille"]</td></tr>
+<tr><th>linked_entities_index</th><td>['nosferatu', 'memopera http www memopera fr 2013 03 15 jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris paris opera national de paris copyright 2005 texte note image fixe sans mediation', 'nosferatu', 'memopera http www memopera fr 2013 03 15 jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris paris opera national de paris copyright 2005 texte note image fixe sans mediation']</td></tr>
 <tr><th>resp_index</th><td>['gallotta jean claude', 'dusapin pascal', 'jeanneteau daniel', 'deratte laure', 'beriot olivier', 'bruguiere dominique', 'opera national de paris', 'gallotta jean claude', 'dusapin pascal', 'jeanneteau daniel', 'deratte laure', 'beriot olivier', 'bruguiere dominique', 'opera national de paris']</td></tr>
 <tr><th>linked_resp_index</th><td>['martinez jose danseur', 'kontarsky bernhard', 'opera national de paris ballet', 'opera national de paris orchestre']</td></tr>
-<tr><th>global_index</th><td> martinez jose danseur memopera http www memopera fr 2013 03 15 jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris paris opera national de paris copyright 2005 texte note image fixe sans mediation beriot olivier https data bnf fr 15078987 jean claude gallotta nosferatu gallotta jean claude opera national de paris orchestre premiere representation creation mondiale paris france opera national de paris bastille 2001 05 02 reprise pour representations du au 13 mai 2006 l'opera bastille nosferatu jeanneteau daniel opera national de paris deratte laure kontarsky bernhard dusapin pascal bruguiere dominique opera national de paris ballet</td></tr>
+<tr><th>global_index</th><td>nosferatu memopera http www memopera fr 2013 03 15 jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris paris opera national de paris copyright 2005 texte note image fixe sans mediation premiere representation creation mondiale paris france opera national de paris bastille 2001 05 02 reprise pour representations du au 13 mai 2006 l'opera bastille beriot olivier jeanneteau daniel opera national de paris kontarsky bernhard https data bnf fr 15078987 jean claude gallotta nosferatu deratte laure gallotta jean claude martinez jose danseur bruguiere dominique opera national de paris ballet dusapin pascal opera national de paris orchestre</td></tr>
 </table>
 </div>
 <p class="marc_record"><br/>000    02168cx  f2200349   4500<br/>001    UMLRM0147<br/>005    20220712.......D<br/>033    $a https://data.bnf.fr/15078987/jean-claude_gallotta_nosferatu/<br/>100    $a 20050513afrey50      ba0<br/>102    $a FR<br/>104    $a d2001<br/>125 0  $a m<br/>140    $a pe $b bt  $2 IAML-Formes<br/>145 0  $a c<br/>145 0  $a d<br/>152    $a RDA-FR<br/>154    $a xa<br/>231    $a Nosferatu $c spectacle $d 2001 $e Paris ; Opéra Bastille $7 ba0yba0y $8 frefre<br/>370    $c Première représentation (création mondiale) : Paris (France) : Opéra national de Paris-Bastille, 2001-05-02. Reprise pour 5 représentations du 6 au 13 mai 2006 à l’Opéra Bastille.<br/>501  1 $3 12150665 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 3153 2932 $a Gallotta $b Jean-Claude $f 1950-.... $4 200<br/>501  1 $3 13893539 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2103 9893 $a Dusapin $b Pascal $f 1955-.... $4 230<br/>501  1 $3 14654751 $7 ba0yba0y $8 frefre $o ISNI 0000 0003 6454 4704 $a Jeanneteau $b Daniel $f 1963-.... $4 632<br/>501  1 $3 14676342 $7 ba0yba0y $8 frefre $a Deratte $b Laure $f 19..-.... $4 632<br/>501  1 $3 14671708 $7 ba0yba0y $8 frefre $o ISNI 0000 0003 7503 2421 $a Bériot $b Olivier $f 1963-.... $4 633<br/>501  1 $3 14654720 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 0131 6489 $a Bruguière $b Dominique $f 1950-.... $4 633<br/>511 02 $3 11865646 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2322 4603 $a Opéra national de Paris $4 630<br/>541  1 $5 xxr $p Utilise les décors $3 UMLRM0138 $7 ba0yba0y $8 frefre $a Jeanneteau, Daniel (1963-....) $a Deratte, Laure (19..-....) $t [Maquette de décor en volume pour "Nosferatu"]<br/>608    $3 11934698 $a Ballet $2 rameauGenre<br/>640 6  $0 Première représentation (création) $p FR $d Paris $e Opéra Bastille $f #20010502#<br/>801  0 $a FR $b FR-751131015 $c 20220920<br/>810    $a Mémopéra : http://www.memopera.fr(2013-03-15)<br/>810    $a  Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra: [chorégraphie de Jean-Claude Gallotta, musiques de Pascal Dusapin] : [programme, 6 mai 2006, Opéra national de Paris, Opéra Bastille] / Opéra national de Paris. – Paris : Opéra national de Paris, copyright 2005. – [Texte noté. Image fixe : sans médiation]</p>

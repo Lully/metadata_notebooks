@@ -21,20 +21,33 @@ input {font-style: italic;
 		  
 ------------------------------*/
 
+body.e {background-color: #eeffff;}
+body.o {background-color: #ffeeff;}
+
+.comment {font-family: Courier New;
+		  font-size: 0.8em;
+		 }
+
 /* Métadonnées */
 div.detailed {float: left;
-			  width: 80%;
+			  width: 60%;
 			  padding-right: 20px;}
+			  
+div.detailed_sup {float: left;
+			      width: 60%;
+			      padding-right: 20px;}
+			 
+			  
 p.detailed.label {font-weight: bold;
 					 color: #05513c;
 					}
 
 div.rebonds {float: right;
-			width: 15%;
+			width: 35%;
 			background-color: #efefef;
 			padding: 20px;
 			border-radius: 20px;}
-span.rebond {padding-left: 8px;
+span.rebond {padding-left: 0px;
 			 }
 span.rebond a {text-decoration: none;
 			   font-weight: normal;
@@ -42,6 +55,27 @@ span.rebond a {text-decoration: none;
 			  }
 span.rebond a:hover {text-decoration: underline;
 			  }
+
+div.other_expressions {float: left;
+					   width: 80%}
+					   
+div.other_expressions ul {margin: 0;
+	   				   padding: 0;
+					   list-style: none;
+					   }
+div.other_expressions p {font-weight: bold;}
+div.other_expressions ul li {display: inline;
+							 background: #efefef;
+							 list-style-type: none;
+							 padding: 5px;
+							 margin: 2px;
+							 padding-bottom: 10px;
+							 border: 1px solid #600;
+							 max-width: 100px;
+  							 float: left;}
+div.other_expressions ul li a {text-align: center ;
+							   text-decoration: none ;}
+div.other_expressions ul li:hover {background: #a6a6a6;}			 
 
 
 /* Filtres */
@@ -64,12 +98,16 @@ div.ui-rangeslider {width: 40%;}
 
 
 /* Liste des exemplaires*/
-.items {width: 100%;
+.items {width: 80%;
 		  float: left;}
 
 
 .avail {background-color: #beff9f}
 .unavail {background-color: #ffe2d7}
+
+div.item2metassup {font-size: 0.8em;
+					margin-top: -10px;
+					margin-left: 20px;}
 
 
 /* Métadonnées professionnelles*/
@@ -99,19 +137,22 @@ a.link2work {color: #5a918a;
 
 .short_result_details {margin-left: 20px;
 					   font-size: 0.8em;}</style></head>
-<body>
+<body class='o'>
 
 <div class="entete">
 <p>Rappel de la recherche : <strong></strong></p>
 <p class='back'><a href='short_results_o.html'>Retour à la liste des résultats</a></p><h1>Résultat 40</h1></div><div class='full_record'>
 <p class='detailed label'>Drácula, film, 1931</p>
 <div class='detailed'><p class='detailed'>Description : Adapté de la pièce de théâtre de Hamilton Deane et John L. Balderston "Dracula"<br/><br/><br/>Dates de tournage : 10/10/1930<br/>Date de première sortie en salle : 20/03/1931 (Madrid)<br/>Date de première sortie en salle (New)</p></div>
-<div class='rebonds'><p class='rebonds'><strong>Voir aussi</strong></br><span class='rebond'><a href='full_results_UMLRM0154.html'>Est un remake de Dracula film 1931</a></span><br/><span class='rebond'><a href='full_results_UMLRM0155.html'>Est une adaptation dans un autre mode de création de [œuvre] Deane, Hamilton (1879-1958) Balderston, John L. (1889-1954) Dracula</a></span><br/><span class='rebond'><a href='full_results_UMLRM0004.html'>Stoker Bram (1847-1912) Dracula</a></span></p></div></div>
+<div class='rebonds'><p class='rebonds'><p><strong>Voir aussi</strong></p><ul><li><span class='rebond'><a href='full_results_UMLRM0154.html'>Est un remake de Dracula film 1931</a></span></li><li><span class='rebond'><a href='full_results_UMLRM0155.html'>Est une adaptation dans un autre mode de création de [œuvre] Deane, Hamilton (1879-1958) Balderston, John L. (1889-1954) Dracula</a></span></li><li><span class='rebond'><a href='full_results_UMLRM0004.html'>Stoker Bram (1847-1912) Dracula</a></span></li></ul></div>
 <div class='filters'><h3>Filtres</h3>
-<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/>  <a class="filters_lng" href="#">espagnol</a> <a class="filters_content_type" href="#">film</a> <div class='yearRange'><p>Filtre par année</p></div></div>
+<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/> <a href='#'>Disponible</a>  <a class="filters_lng" href="#">espagnol</a> <a class="filters_content_type" href="#">film</a> <div class='yearRange'><p>Filtre par année</p></div></div>
 <div class='filters2'></div></div>
-<div class='items'><h3>Liste des exemplaires</h3>
-<p class='avail'>Disponible - Dracula, film, 1931, Versions multiples (5 langues ; sous-titrage en 5 langues) - Drácula, film, 1931 - Glass, Philip (1937-....), Dracula, Kronos quartet, Musique exécutée - Bibliothèque municipale de Célesteville MEZZANINE COTE_UMLRM1047</p></div>
+<div class='items'>
+<h3>Liste des exemplaires</h3>
+<div class='item'><p class='unavail'>Emprunté - Dracula, film, 1931, Versions multiples (5 langues ; sous-titrage en 5 langues) - Drácula, film, 1931 - Glass, Philip (1937-....), Dracula, Kronos quartet, Musique exécutée - Bibliothèque municipale de Célesteville MEZZANINE COTE_UMLRM1047<br/><div class='item2metassup'>Titre: Dracula / Tod Browning, [réalisateur], scénario de Garrett Fort, d’après le roman de Bram Stoker et la pièce de Hamilton Deane et John L. Balderston, Bela Lugosi, David Manners, Helen Chandler... [et autres], [acteurs]<br/>Edition: [Paris]-[Paris]. Universal StudioCanal vidéo, Universal StudioCanal vidéo. 2014, 2014</div></p></div>
+</div>
+
 
 <div class='pro'>
 <hr/>
@@ -172,11 +213,11 @@ a.link2work {color: #5a918a;
 </svg></div>
 <div class="indexed_metas">
 <table class="indexed_metas_table">
-<tr><th>self_index</th><td>['', '', 'dracula', 'adapte de la piece de theatre de hamilton deane et john balderston dracula', '', '', '', 'dracula', 'adapte de la piece de theatre de hamilton deane et john balderston dracula', '']</td></tr>
-<tr><th>linked_entities_index</th><td>["dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs", 'paris universal studiocanal video 2014$? paris universal studiocanal video 2014', '', '', '', 'contient aussi dracula version espagnole introduction la version espagnole par lupita tovar kohner dracula la genese lugosi le prince des tenebres dracula nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet sur les traces des monstres anecdotes interactives archives dracula dracula la restauration', '', "dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs", 'paris universal studiocanal video 2014$? paris universal studiocanal video 2014', '', '', '', 'contient aussi dracula version espagnole introduction la version espagnole par lupita tovar kohner dracula la genese lugosi le prince des tenebres dracula nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet sur les traces des monstres anecdotes interactives archives dracula dracula la restauration', '', 'dracula', '', 'surround dolby digital', 'dracula tod browning realisateur scenario de garrett fort d\'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs paris universal studiocanal video editeur distributeur 2014 images animees video 830 098 edv 764 $?wikipedia https fr wikipedia org wiki dr c3 a1cula 2022 10 13 $?imdb internet movie database https www imdb com title tt0021815 2022 10 13 $?servin javier tale of two draculas the history preservation restoration and legacy of universal studios\' english and spanish language "dracula" https jservin85 wordpress com preservation and restoration restoration of dracula', 'dracula', '', 'surround dolby digital', 'dracula tod browning realisateur scenario de garrett fort d\'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs paris universal studiocanal video editeur distributeur 2014 images animees video 830 098 edv 764 $?wikipedia https fr wikipedia org wiki dr c3 a1cula 2022 10 13 $?imdb internet movie database https www imdb com title tt0021815 2022 10 13 $?servin javier tale of two draculas the history preservation restoration and legacy of universal studios\' english and spanish language "dracula" https jservin85 wordpress com preservation and restoration restoration of dracula']</td></tr>
+<tr><th>self_index</th><td>['dracula', 'adapte de la piece de theatre de hamilton deane et john balderston dracula', 'dracula', 'adapte de la piece de theatre de hamilton deane et john balderston dracula']</td></tr>
+<tr><th>linked_entities_index</th><td>["dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs", 'paris universal studiocanal video 2014$? paris universal studiocanal video 2014', 'contient aussi dracula version espagnole introduction la version espagnole par lupita tovar kohner dracula la genese lugosi le prince des tenebres dracula nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet sur les traces des monstres anecdotes interactives archives dracula dracula la restauration', "dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs", 'paris universal studiocanal video 2014$? paris universal studiocanal video 2014', 'contient aussi dracula version espagnole introduction la version espagnole par lupita tovar kohner dracula la genese lugosi le prince des tenebres dracula nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet sur les traces des monstres anecdotes interactives archives dracula dracula la restauration', 'dracula', 'surround dolby digital', 'dracula tod browning realisateur scenario de garrett fort d\'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs paris universal studiocanal video editeur distributeur 2014 images animees video 830 098 edv 764 $?wikipedia https fr wikipedia org wiki dr c3 a1cula 2022 10 13 $?imdb internet movie database https www imdb com title tt0021815 2022 10 13 $?servin javier tale of two draculas the history preservation restoration and legacy of universal studios\' english and spanish language "dracula" https jservin85 wordpress com preservation and restoration restoration of dracula', 'dracula', 'surround dolby digital', 'dracula tod browning realisateur scenario de garrett fort d\'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs paris universal studiocanal video editeur distributeur 2014 images animees video 830 098 edv 764 $?wikipedia https fr wikipedia org wiki dr c3 a1cula 2022 10 13 $?imdb internet movie database https www imdb com title tt0021815 2022 10 13 $?servin javier tale of two draculas the history preservation restoration and legacy of universal studios\' english and spanish language "dracula" https jservin85 wordpress com preservation and restoration restoration of dracula']</td></tr>
 <tr><th>resp_index</th><td>['melford george', 'fernandez cue baltasar', 'villarias carlos', 'tovar lupita', 'norton barry', 'melford george', 'fernandez cue baltasar', 'villarias carlos', 'tovar lupita', 'norton barry']</td></tr>
 <tr><th>linked_resp_index</th><td>[]</td></tr>
-<tr><th>global_index</th><td> dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs adapte de la piece de theatre de hamilton deane et john balderston dracula paris universal studiocanal video 2014$? paris universal studiocanal video 2014 villarias carlos dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs paris universal studiocanal video editeur distributeur 2014 images animees video 830 098 edv 764 $?wikipedia https fr wikipedia org wiki dr c3 a1cula 2022 10 13 $?imdb internet movie database https www imdb com title tt0021815 2022 10 13 $?servin javier tale of two draculas the history preservation restoration and legacy of universal studios' english and spanish language "dracula" https jservin85 wordpress com preservation and restoration restoration of dracula tovar lupita fernandez cue baltasar contient aussi dracula version espagnole introduction la version espagnole par lupita tovar kohner dracula la genese lugosi le prince des tenebres dracula nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet sur les traces des monstres anecdotes interactives archives dracula dracula la restauration melford george surround dolby digital dracula norton barry</td></tr>
+<tr><th>global_index</th><td>surround dolby digital villarias carlos melford george contient aussi dracula version espagnole introduction la version espagnole par lupita tovar kohner dracula la genese lugosi le prince des tenebres dracula nouvelle bande sonore ecrite par philip glass et interpretee par le kronos quartet sur les traces des monstres anecdotes interactives archives dracula dracula la restauration tovar lupita fernandez cue baltasar dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs paris universal studiocanal video editeur distributeur 2014 images animees video 830 098 edv 764 $?wikipedia https fr wikipedia org wiki dr c3 a1cula 2022 10 13 $?imdb internet movie database https www imdb com title tt0021815 2022 10 13 $?servin javier tale of two draculas the history preservation restoration and legacy of universal studios' english and spanish language "dracula" https jservin85 wordpress com preservation and restoration restoration of dracula norton barry dracula tod browning realisateur scenario de garrett fort d'apres le roman de bram stoker et la piece de hamilton deane et john balderston bela lugosi david manners helen chandler et autres acteurs paris universal studiocanal video 2014$? paris universal studiocanal video 2014 adapte de la piece de theatre de hamilton deane et john balderston dracula dracula</td></tr>
 </table>
 </div>
 <p class="marc_record"><br/>000    01684nx  f2200349   4500<br/>001    UMLRM0163<br/>100    $a 20221018afrey50      ba0<br/>101 0  $a spa<br/>102    $a US $a ES<br/>104    $a d1931<br/>125 0  $a m<br/>127 0  $a 014400<br/>140    $a ic $b fffa $2 BnF-GenreFilm<br/>145 0  $a b $b xa2ae<br/>147 0  $a a $e b $h a<br/>152    $a RDA-FR<br/>154    $a xa<br/>231    $7 ba0yba0y $8 frespa $a Drácula $c film $d 1931 $f espagnol<br/>370    $c Adapté de la pièce de théâtre de Hamilton Deane et John L. Balderston "Dracula"<br/>431    $7 ba0yba0y $8 fre### $a Dracula $c film $d 1931 $m Version espagnole<br/>441    $3 14691107 $o ISNI 0000 0000 7844 0445 $a Melford, George (1877-1961) $t Drácula $7 ba0yba0y $8 frespa<br/>501  1 $3 14691107 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 7844 0445 $a Melford $b George $f 1877-1961 $4 300<br/>501  1 $7 ba0yba0y $8 frespa $a Fernández Cué $b Baltasar $f 1878-1966 $4 690<br/>501  1 $7 ba0yba0y $8 frespa $o ISNI 0000 0000 4816 7409 $a Villarías $b Carlos $f 1892-1976 $4 005<br/>501  1 $3 14702511 $7 ba0yba0y $8 fre### $o ISNI 0000 0003 6953 0387 $a ‏Tovar‏ $b Lupita $f 1910-2016 $4 005<br/>501  1 $7 ba0yba0y $8 fre### $a Norton $b Barry $f 1905-1956 $4 005<br/>531    $5 xxa $p Est un remake de $3 UMLRM0154 $a Dracula $c film $d 1931 $7 ba0yba0y $8 fre###<br/>541  1 $5 xxa $p Est une adaptation dans un autre mode de création de [œuvre] $3 UMLRM0155 $7 ba0yba0y $8 fre### $a Deane, Hamilton (1879-1958) $a Balderston, John L. (1889-1954) $t Dracula<br/>541  1 $5 xxl $3 UMLRM0004 $7 ba0yba0y $8 fre### $a Stoker $b Bram (1847-1912) $t Dracula<br/>640 5  $0 Dates de tournage $f #19301010# $i #19301108#<br/>640 6  $0 Date de première sortie en salle $a ES $d Madrid $f #19310320#<br/>640 6  $0 Date de première sortie en salle $a US $d New</p>

@@ -4,13 +4,9 @@
     "id": "UMLRM0161",
     "txt": "\n000    01205nx  h2200241   4500\n001    UMLRM0161\n100    $a 20221031afrey50      ba0\n101 0  $a eng\n102    $a GB\n104    $a d1997\n105    $a ba\n145 0  $a i $b axxe\n145 0  $a b $b xb2e\n147 0  $a h\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0034 $7 ba0yba0y $8 freeng $a Humphries, Tudor (1953-\u2026.) $t Dracula $m Anglais $n Texte not\u00e9. Image fixe\n542  1 $5 xxn $p A pour traduction $3 UMLRM0035 $7 ba0yba0y $8 freeng $a Humphries, Tudor (1953-\u2026.) $t Dracula $m Fran\u00e7ais $n Texte not\u00e9. Image fixe\n640 6  $0 Date de premi\u00e8re publication $f #1997#####\n801  0 $a FR $b FR-751052119 $c 20221031\n810    $a Dracula / Bram Stoker ; illustrated by Tudor Humphries. \u2013 Abridged edition for young readers. \u2013 London : Dorling Kindersley, 1997. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation]. \u2013 ISBN 0751370703\n810    $a British Library Main Catalog : Explore the British Library Search - Dracula / Bram Stoker ; illustrated by Tudor Humphries (bl.uk) (2022-10-31). System number: 010729537. BNB GB9809359\n810    $a Deakin university. Library Catalog : Dracula / Bram Stoker ; illustrated by Tudor Humphries (deakin.edu.au) (2022-10-31)",
     "self_index": [
-        "",
         "humphries tudor 1953 dracula",
-        "",
         "dracula bram stoker illustrated by tudor humphries abridged edition for young readers london dorling kindersley 1997 texte note image fixe sans mediation isbn 0751370703$?british library main catalog explore the british library search dracula bram stoker illustrated by tudor humphries bl uk 2022 10 31 system number 010729537 bnb gb9809359$?deakin university library catalog dracula bram stoker illustrated by tudor humphries deakin edu au 2022 10 31",
-        "",
         "humphries tudor 1953 dracula",
-        "",
         "dracula bram stoker illustrated by tudor humphries abridged edition for young readers london dorling kindersley 1997 texte note image fixe sans mediation isbn 0751370703$?british library main catalog explore the british library search dracula bram stoker illustrated by tudor humphries bl uk 2022 10 31 system number 010729537 bnb gb9809359$?deakin university library catalog dracula bram stoker illustrated by tudor humphries deakin edu au 2022 10 31"
     ],
     "linked_entities_index": [
@@ -18,20 +14,9 @@
         "dracula bram stoker illustrated by tudor humphries",
         "london dorling kindersley 1997",
         "eyewitness classics",
-        "",
-        "",
-        "",
-        "",
         "dracula bram stoker illustrated by tudor humphries",
         "london dorling kindersley 1997",
         "eyewitness classics",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
         "version abregee et illustree destination de la jeunesse du roman de bram stoker $?nombreuses illustrations dessins photographies en noir et en couleur",
         "introduction au personnage du vampire travers le heros du roman de bram stoker l'album permet de decouvrir le chef oeuvre dans une version abregee mais aussi de le comprendre et de le situer dans son contexte grace aux notes documentaires et aux tres nombreuses illustrations qui accompagnent constamment le texte"
     ],
@@ -39,9 +24,10 @@
     "linked_resp_index": [
         "humphries tudor"
     ],
-    "global_index": " london dorling kindersley 1997 dracula bram stoker illustrated by tudor humphries eyewitness classics humphries tudor dracula bram stoker illustrated by tudor humphries abridged edition for young readers london dorling kindersley 1997 texte note image fixe sans mediation isbn 0751370703$?british library main catalog explore the british library search dracula bram stoker illustrated by tudor humphries bl uk 2022 10 31 system number 010729537 bnb gb9809359$?deakin university library catalog dracula bram stoker illustrated by tudor humphries deakin edu au 2022 10 31 humphries tudor 1953 dracula humphries tudor 1953 dracula anglais texte note image fixe introduction au personnage du vampire travers le heros du roman de bram stoker l'album permet de decouvrir le chef oeuvre dans une version abregee mais aussi de le comprendre et de le situer dans son contexte grace aux notes documentaires et aux tres nombreuses illustrations qui accompagnent constamment le texte version abregee et illustree destination de la jeunesse du roman de bram stoker $?nombreuses illustrations dessins photographies en noir et en couleur",
+    "global_index": "humphries tudor 1953 dracula anglais texte note image fixe humphries tudor 1953 dracula version abregee et illustree destination de la jeunesse du roman de bram stoker $?nombreuses illustrations dessins photographies en noir et en couleur dracula bram stoker illustrated by tudor humphries humphries tudor introduction au personnage du vampire travers le heros du roman de bram stoker l'album permet de decouvrir le chef oeuvre dans une version abregee mais aussi de le comprendre et de le situer dans son contexte grace aux notes documentaires et aux tres nombreuses illustrations qui accompagnent constamment le texte eyewitness classics london dorling kindersley 1997 dracula bram stoker illustrated by tudor humphries abridged edition for young readers london dorling kindersley 1997 texte note image fixe sans mediation isbn 0751370703$?british library main catalog explore the british library search dracula bram stoker illustrated by tudor humphries bl uk 2022 10 31 system number 010729537 bnb gb9809359$?deakin university library catalog dracula bram stoker illustrated by tudor humphries deakin edu au 2022 10 31",
     "type": "e",
     "label": "Humphries, Tudor (1953-\u2026.), Dracula, Anglais, Texte not\u00e9. Image fixe",
+    "label_html": "Humphries, Tudor (1953-\u2026.), Dracula, Anglais <img src='icons/Texte not\u00e9. Image fixe.png' alt='[Texte not\u00e9. Image fixe]' title='Texte not\u00e9. Image fixe'/>",
     "splitted_label": "Humphries, Tudor\n(1953-\u2026.), Dracula,\nAnglais, Texte not\u00e9.\nImage fixe",
     "stats_zones": {
         "001": 1,
@@ -63,7 +49,7 @@
     "resp": {},
     "respIds": [],
     "toOeuvres": {
-        "UMLRM0034": "Humphries, Tudor (1953-\u2026.), Dracula, Anglais, Texte not\u00e9. Image fixe"
+        "UMLRM0034": "Humphries, Tudor (1953-\u2026.), Dracula"
     },
     "toExpressions": {},
     "toManifs": {
@@ -73,7 +59,20 @@
         1997
     ],
     "toItems": {},
-    "repr": "id : UMLRM0161\ntype initial : oe ; type : e\nlabel : Humphries, Tudor (1953-\u2026.), Dracula, Anglais, Texte not\u00e9. Image fixe\n\nNotice : \n000    01205nx  h2200241   4500\n001    UMLRM0161\n100    $a 20221031afrey50      ba0\n101 0  $a eng\n102    $a GB\n104    $a d1997\n105    $a ba\n145 0  $a i $b axxe\n145 0  $a b $b xb2e\n147 0  $a h\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0034 $7 ba0yba0y $8 freeng $a Humphries, Tudor (1953-\u2026.) $t Dracula $m Anglais $n Texte not\u00e9. Image fixe\n542  1 $5 xxn $p A pour traduction $3 UMLRM0035 $7 ba0yba0y $8 freeng $a Humphries, Tudor (1953-\u2026.) $t Dracula $m Fran\u00e7ais $n Texte not\u00e9. Image fixe\n640 6  $0 Date de premi\u00e8re publication $f #1997#####\n801  0 $a FR $b FR-751052119 $c 20221031\n810    $a Dracula / Bram Stoker ; illustrated by Tudor Humphries. \u2013 Abridged edition for young readers. \u2013 London : Dorling Kindersley, 1997. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation]. \u2013 ISBN 0751370703\n810    $a British Library Main Catalog : Explore the British Library Search - Dracula / Bram Stoker ; illustrated by Tudor Humphries (bl.uk) (2022-10-31). System number: 010729537. BNB GB9809359\n810    $a Deakin university. Library Catalog : Dracula / Bram Stoker ; illustrated by Tudor Humphries (deakin.edu.au) (2022-10-31) \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b7972cc0>\nIndexation :  humphries tudor 1953 dracula dracula bram stoker illustrated by tudor humphries abridged edition for young readers london dorling kindersley 1997 texte note image fixe sans mediation isbn 0751370703$?british library main catalog explore the british library search dracula bram stoker illustrated by tudor humphries bl uk 2022 10 31 system number 010729537 bnb gb9809359$?deakin university library catalog dracula bram stoker illustrated by tudor humphries deakin edu au 2022 10 31",
+    "other_expressions": {
+        "UMLRM0035": "Humphries, Tudor (1953-\u2026.), Dracula, Fran\u00e7ais, Texte not\u00e9. Image fixe [Humphries, Tudor (1953-\u2026.), Dracula]",
+        "UMLRM0005": "Stoker, Bram (1847-1912), Dracula, Anglais, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0020": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Molitor, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0041": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Sirgent, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0050": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0053": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Chicheportiche, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0056": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Paul-Margueritte, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0059": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Paul-Margueritte, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0065": "Stoker, Bram (1847-1912), Dracula, Espagnol, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0068": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Molitor - Moissard, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0187": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Parole \u00e9nonc\u00e9e [Stoker, Bram (1847-1912), Dracula]"
+    },
+    "repr": "id : UMLRM0161\ntype initial : oe ; type : e\nlabel : Humphries, Tudor (1953-\u2026.), Dracula, Anglais, Texte not\u00e9. Image fixe\n\nNotice : \n000    01205nx  h2200241   4500\n001    UMLRM0161\n100    $a 20221031afrey50      ba0\n101 0  $a eng\n102    $a GB\n104    $a d1997\n105    $a ba\n145 0  $a i $b axxe\n145 0  $a b $b xb2e\n147 0  $a h\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0034 $7 ba0yba0y $8 freeng $a Humphries, Tudor (1953-\u2026.) $t Dracula $m Anglais $n Texte not\u00e9. Image fixe\n542  1 $5 xxn $p A pour traduction $3 UMLRM0035 $7 ba0yba0y $8 freeng $a Humphries, Tudor (1953-\u2026.) $t Dracula $m Fran\u00e7ais $n Texte not\u00e9. Image fixe\n640 6  $0 Date de premi\u00e8re publication $f #1997#####\n801  0 $a FR $b FR-751052119 $c 20221031\n810    $a Dracula / Bram Stoker ; illustrated by Tudor Humphries. \u2013 Abridged edition for young readers. \u2013 London : Dorling Kindersley, 1997. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation]. \u2013 ISBN 0751370703\n810    $a British Library Main Catalog : Explore the British Library Search - Dracula / Bram Stoker ; illustrated by Tudor Humphries (bl.uk) (2022-10-31). System number: 010729537. BNB GB9809359\n810    $a Deakin university. Library Catalog : Dracula / Bram Stoker ; illustrated by Tudor Humphries (deakin.edu.au) (2022-10-31) \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e5d00>\nIndexation : humphries tudor 1953 dracula dracula bram stoker illustrated by tudor humphries abridged edition for young readers london dorling kindersley 1997 texte note image fixe sans mediation isbn 0751370703$?british library main catalog explore the british library search dracula bram stoker illustrated by tudor humphries bl uk 2022 10 31 system number 010729537 bnb gb9809359$?deakin university library catalog dracula bram stoker illustrated by tudor humphries deakin edu au 2022 10 31",
     "lang": [
         "eng"
     ],
@@ -81,6 +80,8 @@
     "exprContentType": "Texte not\u00e9. Image fixe",
     "exprResp": [],
     "detailed": "\n\nDate de premi\u00e8re publication : 1997",
+    "detailed_sup": "Description : Version abr\u00e9g\u00e9e et illustr\u00e9e \u00e0 destination de la jeunesse du roman de Bram Stoker.. Nombreuses illustrations (dessins, photographies) en noir et en couleur.\n Introduction au personnage du vampire \u00e0 travers le h\u00e9ros du roman de Bram Stoker. L\u2019album permet de d\u00e9couvrir le chef-d'\u0153uvre dans une version abr\u00e9g\u00e9e, mais aussi de le comprendre et de le situer dans son contexte gr\u00e2ce aux notes documentaires et aux tr\u00e8s nombreuses illustrations qui accompagnent constamment le texte.\n\n\nDate de premi\u00e8re publication : 1997\n",
     "rebonds": "",
-    "other_expressions": null
+    "rebondids": [],
+    "other_works_expressions": null
 }

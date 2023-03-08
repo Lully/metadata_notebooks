@@ -5,6 +5,11 @@ ROLES = {"000": "Fonction à préciser", "003": "Encadrant académique", "005": 
 ENTITY_TYPE = {"i": "item", "m": "manifestation", "e": "expression", "o": "oeuvre", "n": "nom géographique",
                "p": "personne", "c": "collectivité", "l": "marque", "t": "laps de temps", "g": "genre-forme"}
 
+content_type = ["film", "Image animée", "Image fixe", "jeu vidéo", 
+                "Musique exécutée", "Parole énoncée", "programme", "spectacle",
+                "Texte noté. Image fixe", "Texte noté", "émission radiophonique"]
+re_content_type = f"({'|'.join(content_type)})"
+
 # Dans une manifestation : liens à des expressions
 tags_manif2expressions = {"507": "point d'accès autorisé Titre (manifestation pointant vers expression)", 
                           "577": "point d'accès autorisé Auteur-Titre (manifestation pointant vers expression)"}

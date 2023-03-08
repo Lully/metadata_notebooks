@@ -5,11 +5,9 @@
     "txt": "\n000    00946cx  f2200241   4500\n001    UMLRM0079\n005    20220721######.D\n100    $a 20220721afrey50      ba0\n101 0  $a eng\n102    $a US\n104    $a d1992\n127    $a 020700\n145 0  $a b $b xa2ae\n145 0  $c tdi $2 rdacontent\n147 0  $a g $e c $h c\n152    $a RDA-FR\n154    $a xb\n232    $3 UMLRM0078 $7 ba0yba0y $8 freeng $a Bram Stoker's Dracula $c film $m Anglais\n371    $a Dolby Digital $f Film en version originale anglaise, non sous-titr\u00e9e\n640 0  $0 Date de copyright $f #1992#####\n801  0 $a FR $b FR-141186101 $c 20220721\n810    $a IMDB (Internet movie database) : https://www.imdb.com/title/tt0103874/ (2022-11-03) $b Techniques d\u2019enregistrement\n810    $a Bram Stoker's Dracula : a Francis Ford Coppola film / Gary Oldman, Winona Ryder, Anthony Hopkins... [et autres], [acteurs]. \u2013 Tokyo : Sony pictures entertainment [\u00e9diteur] $d  1993]. \u2013 [Image anim\u00e9e : vid\u00e9o]",
     "self_index": [
         "bram stoker dracula",
-        "",
         "dolby digital",
         "imdb internet movie database https www imdb com title tt0103874 2022 11 03 $?bram stoker dracula francis ford coppola film gary oldman winona ryder anthony hopkins et autres acteurs tokyo sony pictures entertainment editeur",
         "bram stoker dracula",
-        "",
         "dolby digital",
         "imdb internet movie database https www imdb com title tt0103874 2022 11 03 $?bram stoker dracula francis ford coppola film gary oldman winona ryder anthony hopkins et autres acteurs tokyo sony pictures entertainment editeur"
     ],
@@ -17,19 +15,8 @@
         "bram stoker dracula film anglais",
         "bram stoker dracula francis ford coppola film gary oldman winona ryder anthony hopkins et autres acteurs james hart scenario wojciech kilar compositeur",
         "tokyo sony pictures entertainment 1993 1992",
-        "",
-        "",
-        "",
-        "",
-        "",
         "bram stoker dracula francis ford coppola film gary oldman winona ryder anthony hopkins et autres acteurs james hart scenario wojciech kilar compositeur",
         "tokyo sony pictures entertainment 1993 1992",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
         "0000 0000 75fe 0000 0000 0000",
         "bram stoker dracula",
         "adapte du roman de bram stoker dracula $?duree du montage original final cut 155 mn duree pour l'exploitation en salle 128 mn",
@@ -47,9 +34,10 @@
         "osiris films firme",
         "columbia pictures"
     ],
-    "global_index": " imdb internet movie database https www imdb com title tt0103874 2022 11 03 $?bram stoker dracula francis ford coppola film gary oldman winona ryder anthony hopkins et autres acteurs tokyo sony pictures entertainment editeur hopkins columbia pictures coppola francis ford american zoetrope firme adapte du roman de bram stoker dracula $?duree du montage original final cut 155 mn duree pour l'exploitation en salle 128 mn 0000 0000 75fe 0000 0000 0000 tokyo sony pictures entertainment 1993 1992 hart james oldman osiris films firme kilar wojciech bram stoker dracula dolby digital bram stoker dracula film anglais bram stoker dracula francis ford coppola film gary oldman winona ryder anthony hopkins et autres acteurs james hart scenario wojciech kilar compositeur ryder transylvanie 1462 brise apres le suicide de sa femme qui cru mort au combat vlad empaleur repousse eglise et devient le comte dracula un vampire assoiffe de sang et asservi aux forces du mal quatre siecles plus tard il recoit la visite du jeune clerc jonathan harker dans son chateau isole dracula est immediatement fascine par la photographie de mina la fiancee de celui ci dans laquelle il croit reconnaitre son amour perdu apres avoir livre jonathan ses femmes vampires le comte se rend londres la il seduit lucy la meilleure amie de mina qui cede ses avances les soupirants de la jeune femme lord arthur holmwood le dr seward et americain quincey morris font appel au professeur van helsing pour occuper de lucy mais elle succombe bientot sous les crocs de dracula ayant decouvert qu elle etait devenue une vampire van helsing est oblige de achever pendant ce temps jonathan est parvenu echapper il epouse mina pour la soustraire dracula mais la jeune femme finit par ceder au comte jonathan et ses amis partent avec elle pour la transylvanie afin de traquer le vampire dans son antre est mina elle meme qui tuera dracula qu elle veritablement aime et qui sauvera ainsi son ame",
+    "global_index": "hopkins bram stoker dracula hart james oldman coppola francis ford columbia pictures adapte du roman de bram stoker dracula $?duree du montage original final cut 155 mn duree pour l'exploitation en salle 128 mn american zoetrope firme dolby digital imdb internet movie database https www imdb com title tt0103874 2022 11 03 $?bram stoker dracula francis ford coppola film gary oldman winona ryder anthony hopkins et autres acteurs tokyo sony pictures entertainment editeur osiris films firme transylvanie 1462 brise apres le suicide de sa femme qui cru mort au combat vlad empaleur repousse eglise et devient le comte dracula un vampire assoiffe de sang et asservi aux forces du mal quatre siecles plus tard il recoit la visite du jeune clerc jonathan harker dans son chateau isole dracula est immediatement fascine par la photographie de mina la fiancee de celui ci dans laquelle il croit reconnaitre son amour perdu apres avoir livre jonathan ses femmes vampires le comte se rend londres la il seduit lucy la meilleure amie de mina qui cede ses avances les soupirants de la jeune femme lord arthur holmwood le dr seward et americain quincey morris font appel au professeur van helsing pour occuper de lucy mais elle succombe bientot sous les crocs de dracula ayant decouvert qu elle etait devenue une vampire van helsing est oblige de achever pendant ce temps jonathan est parvenu echapper il epouse mina pour la soustraire dracula mais la jeune femme finit par ceder au comte jonathan et ses amis partent avec elle pour la transylvanie afin de traquer le vampire dans son antre est mina elle meme qui tuera dracula qu elle veritablement aime et qui sauvera ainsi son ame bram stoker dracula francis ford coppola film gary oldman winona ryder anthony hopkins et autres acteurs james hart scenario wojciech kilar compositeur ryder tokyo sony pictures entertainment 1993 1992 bram stoker dracula film anglais kilar wojciech 0000 0000 75fe 0000 0000 0000",
     "type": "e",
     "label": "Bram Stoker's Dracula, film, Anglais",
+    "label_html": "Bram Stoker's Dracula <img src='icons/film.png' alt='[film]' title='film'/> Anglais",
     "splitted_label": "Bram Stoker's\nDracula, film,\nAnglais",
     "stats_zones": {
         "001": 1,
@@ -72,7 +60,7 @@
     "resp": {},
     "respIds": [],
     "toOeuvres": {
-        "UMLRM0078": "Bram Stoker's Dracula, film, Anglais"
+        "UMLRM0078": "Bram Stoker's Dracula, film"
     },
     "toExpressions": {},
     "toManifs": {
@@ -84,7 +72,20 @@
     "toItems": {
         "UMLRM1025": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1025"
     },
-    "repr": "id : UMLRM0079\ntype initial : oe ; type : e\nlabel : Bram Stoker's Dracula, film, Anglais\n\nNotice : \n000    00946cx  f2200241   4500\n001    UMLRM0079\n005    20220721######.D\n100    $a 20220721afrey50      ba0\n101 0  $a eng\n102    $a US\n104    $a d1992\n127    $a 020700\n145 0  $a b $b xa2ae\n145 0  $c tdi $2 rdacontent\n147 0  $a g $e c $h c\n152    $a RDA-FR\n154    $a xb\n232    $3 UMLRM0078 $7 ba0yba0y $8 freeng $a Bram Stoker's Dracula $c film $m Anglais\n371    $a Dolby Digital $f Film en version originale anglaise, non sous-titr\u00e9e\n640 0  $0 Date de copyright $f #1992#####\n801  0 $a FR $b FR-141186101 $c 20220721\n810    $a IMDB (Internet movie database) : https://www.imdb.com/title/tt0103874/ (2022-11-03) $b Techniques d\u2019enregistrement\n810    $a Bram Stoker's Dracula : a Francis Ford Coppola film / Gary Oldman, Winona Ryder, Anthony Hopkins... [et autres], [acteurs]. \u2013 Tokyo : Sony pictures entertainment [\u00e9diteur] $d  1993]. \u2013 [Image anim\u00e9e : vid\u00e9o] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b7972080>\nIndexation :  imdb internet movie database https www imdb com title tt0103874 2022 11 03 $?bram stoker dracula francis ford coppola film gary oldman winona ryder anthony hopkins et autres acteurs tokyo sony pictures entertainment editeur bram stoker dracula dolby digital",
+    "other_expressions": {
+        "UMLRM0082": "\"Dracula\" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola, Fran\u00e7ais-Anglais, Texte not\u00e9 [\"Dracula\" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola]",
+        "UMLRM0005": "Stoker, Bram (1847-1912), Dracula, Anglais, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0020": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Molitor, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0041": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Sirgent, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0050": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0053": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Chicheportiche, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0056": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Paul-Margueritte, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0059": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Paul-Margueritte, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0065": "Stoker, Bram (1847-1912), Dracula, Espagnol, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0068": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Molitor - Moissard, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0187": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Parole \u00e9nonc\u00e9e [Stoker, Bram (1847-1912), Dracula]"
+    },
+    "repr": "id : UMLRM0079\ntype initial : oe ; type : e\nlabel : Bram Stoker's Dracula, film, Anglais\n\nNotice : \n000    00946cx  f2200241   4500\n001    UMLRM0079\n005    20220721######.D\n100    $a 20220721afrey50      ba0\n101 0  $a eng\n102    $a US\n104    $a d1992\n127    $a 020700\n145 0  $a b $b xa2ae\n145 0  $c tdi $2 rdacontent\n147 0  $a g $e c $h c\n152    $a RDA-FR\n154    $a xb\n232    $3 UMLRM0078 $7 ba0yba0y $8 freeng $a Bram Stoker's Dracula $c film $m Anglais\n371    $a Dolby Digital $f Film en version originale anglaise, non sous-titr\u00e9e\n640 0  $0 Date de copyright $f #1992#####\n801  0 $a FR $b FR-141186101 $c 20220721\n810    $a IMDB (Internet movie database) : https://www.imdb.com/title/tt0103874/ (2022-11-03) $b Techniques d\u2019enregistrement\n810    $a Bram Stoker's Dracula : a Francis Ford Coppola film / Gary Oldman, Winona Ryder, Anthony Hopkins... [et autres], [acteurs]. \u2013 Tokyo : Sony pictures entertainment [\u00e9diteur] $d  1993]. \u2013 [Image anim\u00e9e : vid\u00e9o] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e50c0>\nIndexation : dolby digital bram stoker dracula imdb internet movie database https www imdb com title tt0103874 2022 11 03 $?bram stoker dracula francis ford coppola film gary oldman winona ryder anthony hopkins et autres acteurs tokyo sony pictures entertainment editeur",
     "lang": [
         "eng"
     ],
@@ -92,6 +93,8 @@
     "exprContentType": "film",
     "exprResp": [],
     "detailed": "Description : Dolby Digital, Film en version originale anglaise, non sous-titr\u00e9e\n\n\nDate de copyright : 1992",
+    "detailed_sup": "Description : Adapt\u00e9 du roman de Bram Stoker \"Dracula\". Dur\u00e9e du montage original (final cut) : 155 mn. Dur\u00e9e pour l\u2019exploitation en salle : 128 mn.\nTransylvanie, 1462. Bris\u00e9 apr\u00e8s le suicide de sa femme qui l'a cru mort au combat, Vlad l'Empaleur repousse l'Eglise et devient le comte Dracula, un vampire assoiff\u00e9 de sang et asservi aux forces du mal. Quatre si\u00e8cles plus tard, il re\u00e7oit la visite du jeune clerc Jonathan Harker dans son ch\u00e2teau isol\u00e9. Dracula est imm\u00e9diatement fascin\u00e9 par la photographie de Mina, la fianc\u00e9e de celui-ci, dans laquelle il croit reconna\u00eetre son amour perdu. Apr\u00e8s avoir livr\u00e9 Jonathan \u00e0 ses femmes-vampires, le comte se rend \u00e0 Londres. L\u00e0, il s\u00e9duit Lucy, la meilleure amie de Mina qui c\u00e8de \u00e0 ses avances. Les soupirants de la jeune femme, Lord Arthur Holmwood, le Dr Seward et l'Am\u00e9ricain Quincey Morris, font appel au professeur Van Helsing pour s'occuper de Lucy mais elle succombe bient\u00f4t sous les crocs de Dracula. Ayant d\u00e9couvert qu'elle \u00e9tait devenue une vampire, Van Helsing est oblig\u00e9 de l'achever. Pendant ce temps, Jonathan est parvenu \u00e0 s'\u00e9chapper. Il \u00e9pouse Mina pour la soustraire \u00e0 Dracula mais la jeune femme finit par c\u00e9der au comte. Jonathan et ses amis partent avec elle pour la Transylvanie afin de traquer le vampire dans son antre. C'est Mina elle-m\u00eame qui tuera Dracula qu'elle a v\u00e9ritablement aim\u00e9 et qui sauvera ainsi son \u00e2me.\n\n\nDates de tournage : 14/10/1991\nDate de copyright : 1992\n : 10/11/1992 (Hollywood)\n : 13/01/1993\n",
     "rebonds": "",
-    "other_expressions": null
+    "rebondids": [],
+    "other_works_expressions": null
 }

@@ -4,44 +4,27 @@
     "id": "UMLRM0133",
     "txt": "\n000    00753cx  h2200241   4500\n001    UMLRM0133\n005    20221005140223.0\n100    $a 20221005afrey50      ba0\n101 0  $a ger\n102    $a DE\n104    $a d2009\n105    $a ba\n145 0  $a i $b axxe\n145 0  $a b1 $b xb2e\n145 0  $c txt $2 rdacontent\n145 0  $c sti $2 rdacontent\n147 0  $a a\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0132 $7 ba0yba0y $8 freger $a Eickhoff, Stefan $t Max Schreck : Gespenstertheater $m Allemand $n Texte not\u00e9\n640 0  $0 Date de copyright $f #2009#####\n801  0 $a FR $b FR-751045101 $c 20221005\n810    $a Max Schreck : Gespenstertheater / Stefan Eickhoff. \u2013 M\u00fcnchen : Belleville, cop. 2009. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 9783936298543",
     "self_index": [
-        "",
         "eickhoff stefan max schreck gespenstertheater",
-        "",
         "max schreck gespenstertheater stefan eickhoff munchen belleville cop 2009 texte note sans mediation isbn 9783936298543",
-        "",
         "eickhoff stefan max schreck gespenstertheater",
-        "",
         "max schreck gespenstertheater stefan eickhoff munchen belleville cop 2009 texte note sans mediation isbn 9783936298543"
     ],
     "linked_entities_index": [
         "eickhoff stefan max schreck gespenstertheater allemand texte note",
         "max schreck gespenstertheater stefan eickhoff",
         "munchen belleville copyright 2009",
-        "",
-        "",
-        "",
-        "",
-        "",
         "max schreck gespenstertheater stefan eickhoff",
         "munchen belleville copyright 2009",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "illustrations 60 pages environ $?bibliographie pages $?index",
-        ""
+        "illustrations 60 pages environ $?bibliographie pages $?index"
     ],
     "resp_index": [],
     "linked_resp_index": [
         "eickhoff stefan"
     ],
-    "global_index": " illustrations 60 pages environ $?bibliographie pages $?index eickhoff stefan max schreck gespenstertheater stefan eickhoff munchen belleville cop 2009 texte note sans mediation isbn 9783936298543 munchen belleville copyright 2009 eickhoff stefan max schreck gespenstertheater allemand texte note max schreck gespenstertheater stefan eickhoff eickhoff stefan max schreck gespenstertheater",
+    "global_index": "eickhoff stefan max schreck gespenstertheater munchen belleville copyright 2009 illustrations 60 pages environ $?bibliographie pages $?index max schreck gespenstertheater stefan eickhoff eickhoff stefan max schreck gespenstertheater allemand texte note max schreck gespenstertheater stefan eickhoff munchen belleville cop 2009 texte note sans mediation isbn 9783936298543 eickhoff stefan",
     "type": "e",
     "label": "Eickhoff, Stefan, Max Schreck : Gespenstertheater, Allemand, Texte not\u00e9",
+    "label_html": "Eickhoff, Stefan, Max Schreck : Gespenstertheater, Allemand <img src='icons/Texte not\u00e9.png' alt='[Texte not\u00e9]' title='Texte not\u00e9'/>",
     "splitted_label": "Eickhoff, Stefan,\nMax Schreck :\nGespenstertheater,\nAllemand, Texte not\u00e9",
     "stats_zones": {
         "001": 1,
@@ -63,7 +46,7 @@
     "resp": {},
     "respIds": [],
     "toOeuvres": {
-        "UMLRM0132": "Eickhoff, Stefan, Max Schreck : Gespenstertheater, Allemand, Texte not\u00e9"
+        "UMLRM0132": "Eickhoff, Stefan, Max Schreck : Gespenstertheater"
     },
     "toExpressions": {},
     "toManifs": {
@@ -75,7 +58,8 @@
     "toItems": {
         "UMLRM1043": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1043"
     },
-    "repr": "id : UMLRM0133\ntype initial : oe ; type : e\nlabel : Eickhoff, Stefan, Max Schreck : Gespenstertheater, Allemand, Texte not\u00e9\n\nNotice : \n000    00753cx  h2200241   4500\n001    UMLRM0133\n005    20221005140223.0\n100    $a 20221005afrey50      ba0\n101 0  $a ger\n102    $a DE\n104    $a d2009\n105    $a ba\n145 0  $a i $b axxe\n145 0  $a b1 $b xb2e\n145 0  $c txt $2 rdacontent\n145 0  $c sti $2 rdacontent\n147 0  $a a\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0132 $7 ba0yba0y $8 freger $a Eickhoff, Stefan $t Max Schreck : Gespenstertheater $m Allemand $n Texte not\u00e9\n640 0  $0 Date de copyright $f #2009#####\n801  0 $a FR $b FR-751045101 $c 20221005\n810    $a Max Schreck : Gespenstertheater / Stefan Eickhoff. \u2013 M\u00fcnchen : Belleville, cop. 2009. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 9783936298543 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b7972700>\nIndexation :  max schreck gespenstertheater stefan eickhoff munchen belleville cop 2009 texte note sans mediation isbn 9783936298543 eickhoff stefan max schreck gespenstertheater",
+    "other_expressions": {},
+    "repr": "id : UMLRM0133\ntype initial : oe ; type : e\nlabel : Eickhoff, Stefan, Max Schreck : Gespenstertheater, Allemand, Texte not\u00e9\n\nNotice : \n000    00753cx  h2200241   4500\n001    UMLRM0133\n005    20221005140223.0\n100    $a 20221005afrey50      ba0\n101 0  $a ger\n102    $a DE\n104    $a d2009\n105    $a ba\n145 0  $a i $b axxe\n145 0  $a b1 $b xb2e\n145 0  $c txt $2 rdacontent\n145 0  $c sti $2 rdacontent\n147 0  $a a\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0132 $7 ba0yba0y $8 freger $a Eickhoff, Stefan $t Max Schreck : Gespenstertheater $m Allemand $n Texte not\u00e9\n640 0  $0 Date de copyright $f #2009#####\n801  0 $a FR $b FR-751045101 $c 20221005\n810    $a Max Schreck : Gespenstertheater / Stefan Eickhoff. \u2013 M\u00fcnchen : Belleville, cop. 2009. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 9783936298543 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e5740>\nIndexation : eickhoff stefan max schreck gespenstertheater max schreck gespenstertheater stefan eickhoff munchen belleville cop 2009 texte note sans mediation isbn 9783936298543",
     "lang": [
         "ger"
     ],
@@ -83,6 +67,8 @@
     "exprContentType": "Texte not\u00e9",
     "exprResp": [],
     "detailed": "\n\nDate de copyright : 2009",
+    "detailed_sup": "Description : Illustrations (60 pages environ). Bibliographie (4 pages). Index\n\n\nDate de copyright : 2009\n",
     "rebonds": "",
-    "other_expressions": null
+    "rebondids": [],
+    "other_works_expressions": null
 }

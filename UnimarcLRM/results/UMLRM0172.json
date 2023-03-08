@@ -4,13 +4,9 @@
     "id": "UMLRM0172",
     "txt": "\n000    01072nx  h2200229   4500\n001    UMLRM0172\n100    $a 20221005afrey50      ba0\n101 2  $a fre $c eng\n102    $a FR\n104    $a d2004\n105    $a ba\n145 0  $a i $b axxe\n145 0  $a b1 $b xb2e\n147 0  $a a\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0037 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $c Choix $k Cassou-Nogu\u00e8s ; Langenhagen $m Fran\u00e7ais $w Finn\u00e9 $n Texte not\u00e9 $o 2004\n502  1 $3 11902797 $7 ba0yba0y $8 frefre $o ISNI0000 0001 2023 6609 $a Finn\u00e9 $b Jacques $f 1944-.... $4 730\n542  1 $5 xxp $p Est une s\u00e9lection de [expression] $3 UMLRM0050 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Fran\u00e7ais $w Finn\u00e9 $n Texte not\u00e9\n640 6  $0 Date de premi\u00e8re publication $f #2004#####\n801  0 $a FR $b FR-751131010 $c 20221005\n810    $a Dracula / Bram Stoker ; traduction par Jacques Finn\u00e9 ; pr\u00e9sentation, notes, choix des extraits et dossier par Anne Cassou-Nogu\u00e8s et Marie-Ande de Langenhagen. \u2013 Paris : Flammarion, 2004. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 2-08-072188-7",
     "self_index": [
-        "",
         "stoker bram 1847 1912 dracula",
-        "",
         "dracula bram stoker traduction par jacques finne presentation notes choix des extraits et dossier par anne cassou nogues et marie ande de langenhagen paris flammarion 2004 texte note sans mediation isbn 08 072188",
-        "",
         "stoker bram 1847 1912 dracula",
-        "",
         "dracula bram stoker traduction par jacques finne presentation notes choix des extraits et dossier par anne cassou nogues et marie ande de langenhagen paris flammarion 2004 texte note sans mediation isbn 08 072188"
     ],
     "linked_entities_index": [
@@ -18,20 +14,9 @@
         "dracula extraits bram stoker traduction par jacques finne presentation notes choix des extraits et dossier par anne cassou nogues et marie aude de langenhagen",
         "paris flammarion 2004$? manchecourt loiret france imprimerie maury eurolivres",
         "etonnants classiques",
-        "",
-        "",
-        "",
-        "",
         "dracula extraits bram stoker traduction par jacques finne presentation notes choix des extraits et dossier par anne cassou nogues et marie aude de langenhagen",
         "paris flammarion 2004$? manchecourt loiret france imprimerie maury eurolivres",
         "etonnants classiques",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
         "edition par extraits conservant la numerotation des chapitres du texte integral et signalant les passages supprimes et resumes$?accompagne d'un dossier comprenant notamment une biographie de l'auteur des reperes chronologiques des elements de contexte historique et culturel un cahier iconographique et une filmographie pages",
         "version abregee un classique du vampirisme"
     ],
@@ -44,9 +29,10 @@
         "cassou nogues anne",
         "langenhagen marie aude de"
     ],
-    "global_index": " stoker bram 1847 1912 dracula choix cassou nogues langenhagen francais finne texte note 2004 stoker bram langenhagen marie aude de finne jacques paris flammarion 2004$? manchecourt loiret france imprimerie maury eurolivres version abregee un classique du vampirisme dracula extraits bram stoker traduction par jacques finne presentation notes choix des extraits et dossier par anne cassou nogues et marie aude de langenhagen stoker bram 1847 1912 dracula edition par extraits conservant la numerotation des chapitres du texte integral et signalant les passages supprimes et resumes$?accompagne d'un dossier comprenant notamment une biographie de l'auteur des reperes chronologiques des elements de contexte historique et culturel un cahier iconographique et une filmographie pages cassou nogues anne etonnants classiques dracula bram stoker traduction par jacques finne presentation notes choix des extraits et dossier par anne cassou nogues et marie ande de langenhagen paris flammarion 2004 texte note sans mediation isbn 08 072188",
+    "global_index": "langenhagen marie aude de finne jacques stoker bram 1847 1912 dracula choix cassou nogues langenhagen francais finne texte note 2004 dracula extraits bram stoker traduction par jacques finne presentation notes choix des extraits et dossier par anne cassou nogues et marie aude de langenhagen edition par extraits conservant la numerotation des chapitres du texte integral et signalant les passages supprimes et resumes$?accompagne d'un dossier comprenant notamment une biographie de l'auteur des reperes chronologiques des elements de contexte historique et culturel un cahier iconographique et une filmographie pages cassou nogues anne version abregee un classique du vampirisme stoker bram dracula bram stoker traduction par jacques finne presentation notes choix des extraits et dossier par anne cassou nogues et marie ande de langenhagen paris flammarion 2004 texte note sans mediation isbn 08 072188 etonnants classiques paris flammarion 2004$? manchecourt loiret france imprimerie maury eurolivres stoker bram 1847 1912 dracula",
     "type": "e",
     "label": "Stoker, Bram (1847-1912), Choix, Dracula, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9",
+    "label_html": "Stoker, Bram (1847-1912), Choix, Dracula, Fran\u00e7ais, Finn\u00e9 <img src='icons/Texte not\u00e9.png' alt='[Texte not\u00e9]' title='Texte not\u00e9'/>",
     "splitted_label": "Stoker, Bram\n(1847-1912), Choix,\nDracula, Fran\u00e7ais,\nFinn\u00e9, Texte not\u00e9",
     "stats_zones": {
         "001": 1,
@@ -75,7 +61,7 @@
         "11902797"
     ],
     "toOeuvres": {
-        "UMLRM0037": "Stoker, Bram (1847-1912), Dracula, Choix, Cassou-Nogu\u00e8s ; Langenhagen, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9, 2004"
+        "UMLRM0037": "Stoker, Bram (1847-1912), Choix, Dracula"
     },
     "toExpressions": {},
     "toManifs": {
@@ -87,9 +73,22 @@
     "toItems": {
         "UMLRM1050": "BM_CELESTEVILLE > JEUNESSE > COTE_UMLRM1050"
     },
-    "repr": "id : UMLRM0172\ntype initial : oe ; type : e\nlabel : Stoker, Bram (1847-1912), Choix, Dracula, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9\n\nNotice : \n000    01072nx  h2200229   4500\n001    UMLRM0172\n100    $a 20221005afrey50      ba0\n101 2  $a fre $c eng\n102    $a FR\n104    $a d2004\n105    $a ba\n145 0  $a i $b axxe\n145 0  $a b1 $b xb2e\n147 0  $a a\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0037 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $c Choix $k Cassou-Nogu\u00e8s ; Langenhagen $m Fran\u00e7ais $w Finn\u00e9 $n Texte not\u00e9 $o 2004\n502  1 $3 11902797 $7 ba0yba0y $8 frefre $o ISNI0000 0001 2023 6609 $a Finn\u00e9 $b Jacques $f 1944-.... $4 730\n542  1 $5 xxp $p Est une s\u00e9lection de [expression] $3 UMLRM0050 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Fran\u00e7ais $w Finn\u00e9 $n Texte not\u00e9\n640 6  $0 Date de premi\u00e8re publication $f #2004#####\n801  0 $a FR $b FR-751131010 $c 20221005\n810    $a Dracula / Bram Stoker ; traduction par Jacques Finn\u00e9 ; pr\u00e9sentation, notes, choix des extraits et dossier par Anne Cassou-Nogu\u00e8s et Marie-Ande de Langenhagen. \u2013 Paris : Flammarion, 2004. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 2-08-072188-7 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b7972f00>\nIndexation :  stoker bram 1847 1912 dracula finne jacques dracula bram stoker traduction par jacques finne presentation notes choix des extraits et dossier par anne cassou nogues et marie ande de langenhagen paris flammarion 2004 texte note sans mediation isbn 08 072188",
+    "other_expressions": {
+        "UMLRM0038": "Stoker, Bram (1847-1912), Choix, Dracula, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9 [Stoker, Bram (1847-1912), Choix, Dracula]",
+        "UMLRM0047": "Stoker, Bram (1847-1912), Choix, Dracula, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9 [Stoker, Bram (1847-1912), Choix, Dracula]",
+        "UMLRM0005": "Stoker, Bram (1847-1912), Dracula, Anglais, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0020": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Molitor, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0041": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Sirgent, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0050": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0053": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Chicheportiche, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0056": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Paul-Margueritte, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0059": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Paul-Margueritte, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0065": "Stoker, Bram (1847-1912), Dracula, Espagnol, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0068": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Molitor - Moissard, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0187": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Parole \u00e9nonc\u00e9e [Stoker, Bram (1847-1912), Dracula]"
+    },
+    "repr": "id : UMLRM0172\ntype initial : oe ; type : e\nlabel : Stoker, Bram (1847-1912), Choix, Dracula, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9\n\nNotice : \n000    01072nx  h2200229   4500\n001    UMLRM0172\n100    $a 20221005afrey50      ba0\n101 2  $a fre $c eng\n102    $a FR\n104    $a d2004\n105    $a ba\n145 0  $a i $b axxe\n145 0  $a b1 $b xb2e\n147 0  $a a\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0037 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $c Choix $k Cassou-Nogu\u00e8s ; Langenhagen $m Fran\u00e7ais $w Finn\u00e9 $n Texte not\u00e9 $o 2004\n502  1 $3 11902797 $7 ba0yba0y $8 frefre $o ISNI0000 0001 2023 6609 $a Finn\u00e9 $b Jacques $f 1944-.... $4 730\n542  1 $5 xxp $p Est une s\u00e9lection de [expression] $3 UMLRM0050 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Fran\u00e7ais $w Finn\u00e9 $n Texte not\u00e9\n640 6  $0 Date de premi\u00e8re publication $f #2004#####\n801  0 $a FR $b FR-751131010 $c 20221005\n810    $a Dracula / Bram Stoker ; traduction par Jacques Finn\u00e9 ; pr\u00e9sentation, notes, choix des extraits et dossier par Anne Cassou-Nogu\u00e8s et Marie-Ande de Langenhagen. \u2013 Paris : Flammarion, 2004. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 2-08-072188-7 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e5f40>\nIndexation : finne jacques dracula bram stoker traduction par jacques finne presentation notes choix des extraits et dossier par anne cassou nogues et marie ande de langenhagen paris flammarion 2004 texte note sans mediation isbn 08 072188 stoker bram 1847 1912 dracula",
     "lang": [
-        "eng",
         "fre"
     ],
     "expressionContentType": "Texte not\u00e9",
@@ -98,6 +97,8 @@
         "Finn\u00e9, Jacques (Traducteur)"
     ],
     "detailed": "\n\nDate de premi\u00e8re publication : 2004",
+    "detailed_sup": "Description : \u00c9dition par extraits conservant la num\u00e9rotation des chapitres du texte int\u00e9gral et signalant les passages supprim\u00e9s et r\u00e9sum\u00e9s. Accompagn\u00e9 d\u2019un dossier comprenant notamment une biographie de l\u2019auteur, des rep\u00e8res chronologiques, des \u00e9l\u00e9ments de contexte historique et culturel, un cahier iconographique et une filmographie (9 pages).\nVersion abr\u00e9g\u00e9e d'un classique du vampirisme.\n\n\nDate de premi\u00e8re publication : 2004\n",
     "rebonds": "",
-    "other_expressions": null
+    "rebondids": [],
+    "other_works_expressions": null
 }

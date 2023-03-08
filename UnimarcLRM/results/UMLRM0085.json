@@ -4,13 +4,9 @@
     "id": "UMLRM0085",
     "txt": "\n000    00633cx  h2200205   4500\n001    UMLRM0085\n005    20220908\n100    $a 20220908afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2011\n105    $a ba\n145 0  $a i3 $b axxe\n145 0  $a b1 $b cb2e\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0084 $7 ba0yba0y $8 frefre $a Cazacu, Matei (1946-....) $t Dracula $m Fran\u00e7ais $n Texte not\u00e9\n640 6  $0 Date de premi\u00e8re publication $f #2011#####\n801  0 $a FR $b FR-751045101 $c 20220908\n810    $a Dracula  / Matei Cazacu. \u2013 Paris : Tallandier, 2011. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 978-2-84734-801-9",
     "self_index": [
-        "",
         "cazacu matei 1946 dracula",
-        "",
         "dracula matei cazacu paris tallandier 2011 texte note sans mediation isbn 978 84734 801",
-        "",
         "cazacu matei 1946 dracula",
-        "",
         "dracula matei cazacu paris tallandier 2011 texte note sans mediation isbn 978 84734 801"
     ],
     "linked_entities_index": [
@@ -18,30 +14,19 @@
         "dracula matei cazacu",
         "paris tallandier$? 61 lonrai normandie roto impression 2011",
         "texto",
-        "",
-        "",
-        "",
-        "",
         "dracula matei cazacu",
         "paris tallandier$? 61 lonrai normandie roto impression 2011",
         "texto",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "carte$?bibliographie pages $?index",
-        ""
+        "carte$?bibliographie pages $?index"
     ],
     "resp_index": [],
     "linked_resp_index": [
         "cazacu matei"
     ],
-    "global_index": " cazacu matei 1946 dracula francais texte note texto dracula matei cazacu carte$?bibliographie pages $?index cazacu matei paris tallandier$? 61 lonrai normandie roto impression 2011 dracula matei cazacu paris tallandier 2011 texte note sans mediation isbn 978 84734 801 cazacu matei 1946 dracula",
+    "global_index": "cazacu matei 1946 dracula francais texte note cazacu matei 1946 dracula carte$?bibliographie pages $?index dracula matei cazacu texto cazacu matei paris tallandier$? 61 lonrai normandie roto impression 2011 dracula matei cazacu paris tallandier 2011 texte note sans mediation isbn 978 84734 801",
     "type": "e",
     "label": "Cazacu, Matei (1946-....), Dracula, Fran\u00e7ais, Texte not\u00e9",
+    "label_html": "Cazacu, Matei (1946-....), Dracula, Fran\u00e7ais <img src='icons/Texte not\u00e9.png' alt='[Texte not\u00e9]' title='Texte not\u00e9'/>",
     "splitted_label": "Cazacu, Matei\n(1946-....),\nDracula, Fran\u00e7ais,\nTexte not\u00e9",
     "stats_zones": {
         "001": 1,
@@ -62,7 +47,7 @@
     "resp": {},
     "respIds": [],
     "toOeuvres": {
-        "UMLRM0084": "Cazacu, Matei (1946-....), Dracula, Fran\u00e7ais, Texte not\u00e9"
+        "UMLRM0084": "Cazacu, Matei (1946-....), Dracula"
     },
     "toExpressions": {},
     "toManifs": {
@@ -74,7 +59,8 @@
     "toItems": {
         "UMLRM1027": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1027"
     },
-    "repr": "id : UMLRM0085\ntype initial : oe ; type : e\nlabel : Cazacu, Matei (1946-....), Dracula, Fran\u00e7ais, Texte not\u00e9\n\nNotice : \n000    00633cx  h2200205   4500\n001    UMLRM0085\n005    20220908\n100    $a 20220908afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2011\n105    $a ba\n145 0  $a i3 $b axxe\n145 0  $a b1 $b cb2e\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0084 $7 ba0yba0y $8 frefre $a Cazacu, Matei (1946-....) $t Dracula $m Fran\u00e7ais $n Texte not\u00e9\n640 6  $0 Date de premi\u00e8re publication $f #2011#####\n801  0 $a FR $b FR-751045101 $c 20220908\n810    $a Dracula  / Matei Cazacu. \u2013 Paris : Tallandier, 2011. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 978-2-84734-801-9 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b7972180>\nIndexation :  dracula matei cazacu paris tallandier 2011 texte note sans mediation isbn 978 84734 801 cazacu matei 1946 dracula",
+    "other_expressions": {},
+    "repr": "id : UMLRM0085\ntype initial : oe ; type : e\nlabel : Cazacu, Matei (1946-....), Dracula, Fran\u00e7ais, Texte not\u00e9\n\nNotice : \n000    00633cx  h2200205   4500\n001    UMLRM0085\n005    20220908\n100    $a 20220908afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2011\n105    $a ba\n145 0  $a i3 $b axxe\n145 0  $a b1 $b cb2e\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0084 $7 ba0yba0y $8 frefre $a Cazacu, Matei (1946-....) $t Dracula $m Fran\u00e7ais $n Texte not\u00e9\n640 6  $0 Date de premi\u00e8re publication $f #2011#####\n801  0 $a FR $b FR-751045101 $c 20220908\n810    $a Dracula  / Matei Cazacu. \u2013 Paris : Tallandier, 2011. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 978-2-84734-801-9 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e51c0>\nIndexation : dracula matei cazacu paris tallandier 2011 texte note sans mediation isbn 978 84734 801 cazacu matei 1946 dracula",
     "lang": [
         "fre"
     ],
@@ -82,6 +68,8 @@
     "exprContentType": "Texte not\u00e9",
     "exprResp": [],
     "detailed": "\n\nDate de premi\u00e8re publication : 2011",
+    "detailed_sup": "Description : Carte. Bibliographie (4 pages). Index\n\n\nDate de premi\u00e8re publication : 2011\n",
     "rebonds": "",
-    "other_expressions": null
+    "rebondids": [],
+    "other_works_expressions": null
 }

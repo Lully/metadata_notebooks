@@ -21,20 +21,33 @@ input {font-style: italic;
 		  
 ------------------------------*/
 
+body.e {background-color: #eeffff;}
+body.o {background-color: #ffeeff;}
+
+.comment {font-family: Courier New;
+		  font-size: 0.8em;
+		 }
+
 /* Métadonnées */
 div.detailed {float: left;
-			  width: 80%;
+			  width: 60%;
 			  padding-right: 20px;}
+			  
+div.detailed_sup {float: left;
+			      width: 60%;
+			      padding-right: 20px;}
+			 
+			  
 p.detailed.label {font-weight: bold;
 					 color: #05513c;
 					}
 
 div.rebonds {float: right;
-			width: 15%;
+			width: 35%;
 			background-color: #efefef;
 			padding: 20px;
 			border-radius: 20px;}
-span.rebond {padding-left: 8px;
+span.rebond {padding-left: 0px;
 			 }
 span.rebond a {text-decoration: none;
 			   font-weight: normal;
@@ -42,6 +55,27 @@ span.rebond a {text-decoration: none;
 			  }
 span.rebond a:hover {text-decoration: underline;
 			  }
+
+div.other_expressions {float: left;
+					   width: 80%}
+					   
+div.other_expressions ul {margin: 0;
+	   				   padding: 0;
+					   list-style: none;
+					   }
+div.other_expressions p {font-weight: bold;}
+div.other_expressions ul li {display: inline;
+							 background: #efefef;
+							 list-style-type: none;
+							 padding: 5px;
+							 margin: 2px;
+							 padding-bottom: 10px;
+							 border: 1px solid #600;
+							 max-width: 100px;
+  							 float: left;}
+div.other_expressions ul li a {text-align: center ;
+							   text-decoration: none ;}
+div.other_expressions ul li:hover {background: #a6a6a6;}			 
 
 
 /* Filtres */
@@ -64,12 +98,16 @@ div.ui-rangeslider {width: 40%;}
 
 
 /* Liste des exemplaires*/
-.items {width: 100%;
+.items {width: 80%;
 		  float: left;}
 
 
 .avail {background-color: #beff9f}
 .unavail {background-color: #ffe2d7}
+
+div.item2metassup {font-size: 0.8em;
+					margin-top: -10px;
+					margin-left: 20px;}
 
 
 /* Métadonnées professionnelles*/
@@ -99,18 +137,23 @@ a.link2work {color: #5a918a;
 
 .short_result_details {margin-left: 20px;
 					   font-size: 0.8em;}</style></head>
-<body>
+<body class='e'>
 
 <div class="entete">
 <p>Rappel de la recherche : <strong></strong></p>
 <p class='back'><a href='short_results_e.html'>Retour à la liste des résultats</a></p><h1>Résultat 52</h1></div><div class='full_record'>
 <p class='detailed label'>Finné, Jacques (1944-….), Bibliographie de Dracula, Français, Texte noté</p>
-<div class='detailed'><p class='detailed'><br/><br/>Date de copyright : 1986</p></div></div>
+<div class='detailed'><p class='detailed'><br/><br/>Date de copyright : 1986</p></div>
+<div class='detailed_sup'><p class='detailed'><br/><br/>Date de copyright : 1986<br/></p></div>
+<div class='rebonds'></div>
 <div class='filters'><h3>Filtres</h3>
-<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/>  <a class="filters_lng" href="#">français</a>  <div class='yearRange'><p>Filtre par année</p></div></div>
+<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/> <a href='#'>Disponible</a>  <a class="filters_lng" href="#">français</a>  <div class='yearRange'><p>Filtre par année</p></div></div>
 <div class='filters2'></div></div>
-<div class='items'><h3>Liste des exemplaires</h3>
-<p class='avail'>Disponible - Finné, Jacques (1944-….), Bibliographie de Dracula, Français, Texte noté - Bibliothèque municipale de Célesteville ADULTES COTE_UMLRM1055</p></div>
+<div class='items'>
+<h3>Liste des exemplaires</h3>
+<div class='item'><p class='unavail'>Emprunté - Finné, Jacques (1944-….), Bibliographie de Dracula, Français, Texte noté - Bibliothèque municipale de Célesteville ADULTES COTE_UMLRM1055<br/><div class='item2metassup'>Titre: Bibliographie de Dracula / Jacques Finné<br/>Edition: Lausanne. L’âge d'homme. Copyright 1996</div></p></div>
+</div>
+
 
 <div class='pro'>
 <hr/>
@@ -175,11 +218,11 @@ a.link2work {color: #5a918a;
 </svg></div>
 <div class="indexed_metas">
 <table class="indexed_metas_table">
-<tr><th>self_index</th><td>['', 'finne jacques 1944 bibliographie de dracula', '', "bibliographie de dracula jacques finne lausanne l'age homme cop 1986 texte note sans mediation", '', 'finne jacques 1944 bibliographie de dracula', '', "bibliographie de dracula jacques finne lausanne l'age homme cop 1986 texte note sans mediation"]</td></tr>
-<tr><th>linked_entities_index</th><td>['finne jacques 1944 bibliographie de dracula francais texte note', 'bibliographie de dracula jacques finne', "lausanne l'age homme copyright 1996", 'contemporains', '', '', '', '', 'bibliographie de dracula jacques finne', "lausanne l'age homme copyright 1996", 'contemporains', '', '', '', '', '', '', '', '', '']</td></tr>
+<tr><th>self_index</th><td>['finne jacques 1944 bibliographie de dracula', "bibliographie de dracula jacques finne lausanne l'age homme cop 1986 texte note sans mediation", 'finne jacques 1944 bibliographie de dracula', "bibliographie de dracula jacques finne lausanne l'age homme cop 1986 texte note sans mediation"]</td></tr>
+<tr><th>linked_entities_index</th><td>['finne jacques 1944 bibliographie de dracula francais texte note', 'bibliographie de dracula jacques finne', "lausanne l'age homme copyright 1996", 'contemporains', 'bibliographie de dracula jacques finne', "lausanne l'age homme copyright 1996", 'contemporains']</td></tr>
 <tr><th>resp_index</th><td>[]</td></tr>
 <tr><th>linked_resp_index</th><td>['finne']</td></tr>
-<tr><th>global_index</th><td> finne jacques 1944 bibliographie de dracula francais texte note finne jacques 1944 bibliographie de dracula finne contemporains bibliographie de dracula jacques finne bibliographie de dracula jacques finne lausanne l'age homme cop 1986 texte note sans mediation lausanne l'age homme copyright 1996</td></tr>
+<tr><th>global_index</th><td>bibliographie de dracula jacques finne lausanne l'age homme cop 1986 texte note sans mediation finne jacques 1944 bibliographie de dracula contemporains finne lausanne l'age homme copyright 1996 finne jacques 1944 bibliographie de dracula francais texte note bibliographie de dracula jacques finne</td></tr>
 </table>
 </div>
 <p class="marc_record"><br/>000    00595nx  h2200181   4500<br/>001    UMLRM0196<br/>100    $a 20221116afrey50      ba0<br/>101 0  $a fre<br/>102    $a BE<br/>104    $a d1986<br/>105    $a ba<br/>145 0  $a i $b axxe<br/>152    $a RDA-FR<br/>154    $a xb<br/>242  1 $3 UMLRM0195 $7 ba0yba0y $8 frefre $a Finné, Jacques (1944-….) $t Bibliographie de Dracula $m Français $n Texte noté<br/>640 0  $0 Date de copyright $f #1986#####<br/>801  0 $a FR $b FR-751045101 $c 20221116<br/>810    $a Bibliographie de Dracula / Jacques Finné. – Lausanne :  L’âge d'homme, cop. 1986. – [Texte noté : sans médiation]</p>

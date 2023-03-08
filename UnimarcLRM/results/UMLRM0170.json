@@ -4,45 +4,28 @@
     "id": "UMLRM0170",
     "txt": "\n000    00756nx  h2200193   4500\n001    UMLRM0170\n100    $a 20221024afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2003\n145 0  $a b $b xb2e\n147 0  $a h $c g $c i $c j\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0169 $a Gauriat, Vincent $t Dracula, pages tir\u00e9es du journal d\u2019une vierge, un film de Guy Maddin $n Image fixe $7 ba0yba0y $8 frefre\n371    $f Technique utilis\u00e9e : offset\n640 6  $0 Date de premi\u00e8re publication $f #2003#####\n801  0 $a FR $b FR-751045101 $c 20221024\n810    $a Dracula, pages tir\u00e9es du journal d\u2019une vierge, un film de Guy Maddin. \u2013 [Paris] : ED distribution, [2003] (Aubervilliers : Imprimerie Karcher). \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation]",
     "self_index": [
-        "",
         "gauriat vincent dracula pages tirees du journal d'une vierge un film de guy maddin",
-        "",
         "dracula pages tirees du journal d'une vierge un film de guy maddin paris ed distribution 2003 aubervilliers imprimerie karcher texte note image fixe sans mediation",
-        "",
         "gauriat vincent dracula pages tirees du journal d'une vierge un film de guy maddin",
-        "",
         "dracula pages tirees du journal d'une vierge un film de guy maddin paris ed distribution 2003 aubervilliers imprimerie karcher texte note image fixe sans mediation"
     ],
     "linked_entities_index": [
         "gauriat vincent dracula pages tirees du journal d'une vierge un film de guy maddin image fixe",
         "dracula pages tirees du journal d'une vierge un film de guy maddin affiche gauriat",
         "paris ed distribution 2003 aubervilliers imprimerie karcher",
-        "",
-        "",
-        "",
-        "",
-        "",
         "dracula pages tirees du journal d'une vierge un film de guy maddin affiche gauriat",
         "paris ed distribution 2003 aubervilliers imprimerie karcher",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "grande categorie technique impression photomecanique$?genre iconographique scenes fantastiques affiche creee pour accompagner la diffusion en france du film de guy maddin premiere diffusion en salle 31 decembre 2003",
-        ""
+        "grande categorie technique impression photomecanique$?genre iconographique scenes fantastiques affiche creee pour accompagner la diffusion en france du film de guy maddin premiere diffusion en salle 31 decembre 2003"
     ],
     "resp_index": [],
     "linked_resp_index": [
         "imprimerie karcher",
         "gauriat vincent"
     ],
-    "global_index": " paris ed distribution 2003 aubervilliers imprimerie karcher gauriat vincent imprimerie karcher dracula pages tirees du journal d'une vierge un film de guy maddin paris ed distribution 2003 aubervilliers imprimerie karcher texte note image fixe sans mediation grande categorie technique impression photomecanique$?genre iconographique scenes fantastiques affiche creee pour accompagner la diffusion en france du film de guy maddin premiere diffusion en salle 31 decembre 2003 gauriat vincent dracula pages tirees du journal d'une vierge un film de guy maddin dracula pages tirees du journal d'une vierge un film de guy maddin affiche gauriat gauriat vincent dracula pages tirees du journal d'une vierge un film de guy maddin image fixe",
+    "global_index": "grande categorie technique impression photomecanique$?genre iconographique scenes fantastiques affiche creee pour accompagner la diffusion en france du film de guy maddin premiere diffusion en salle 31 decembre 2003 gauriat vincent dracula pages tirees du journal d'une vierge un film de guy maddin image fixe dracula pages tirees du journal d'une vierge un film de guy maddin affiche gauriat paris ed distribution 2003 aubervilliers imprimerie karcher dracula pages tirees du journal d'une vierge un film de guy maddin paris ed distribution 2003 aubervilliers imprimerie karcher texte note image fixe sans mediation gauriat vincent dracula pages tirees du journal d'une vierge un film de guy maddin imprimerie karcher gauriat vincent",
     "type": "e",
     "label": "Gauriat, Vincent, Dracula, pages tir\u00e9es du journal d\u2019une vierge, un film de Guy Maddin, Image fixe",
+    "label_html": "Gauriat, Vincent, Dracula, pages tir\u00e9es du journal d\u2019une vierge, un film de Guy Maddin <img src='icons/Image fixe.png' alt='[Image fixe]' title='Image fixe'/>",
     "splitted_label": "Gauriat, Vincent,\nDracula, pages\ntir\u00e9es du journal\nd\u2019une vierge, un\nfilm de Guy Maddin,\nImage fixe",
     "stats_zones": {
         "001": 1,
@@ -63,7 +46,7 @@
     "resp": {},
     "respIds": [],
     "toOeuvres": {
-        "UMLRM0169": "Gauriat, Vincent, Dracula, pages tir\u00e9es du journal d\u2019une vierge, un film de Guy Maddin, Image fixe"
+        "UMLRM0169": "Gauriat, Vincent, Dracula, pages tir\u00e9es du journal d\u2019une vierge, un film de Guy Maddin"
     },
     "toExpressions": {},
     "toManifs": {
@@ -75,7 +58,8 @@
     "toItems": {
         "UMLRM1049": "BM_CELESTEVILLE > MEZZANINE > COTE_UMLRM1049"
     },
-    "repr": "id : UMLRM0170\ntype initial : oe ; type : e\nlabel : Gauriat, Vincent, Dracula, pages tir\u00e9es du journal d\u2019une vierge, un film de Guy Maddin, Image fixe\n\nNotice : \n000    00756nx  h2200193   4500\n001    UMLRM0170\n100    $a 20221024afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2003\n145 0  $a b $b xb2e\n147 0  $a h $c g $c i $c j\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0169 $a Gauriat, Vincent $t Dracula, pages tir\u00e9es du journal d\u2019une vierge, un film de Guy Maddin $n Image fixe $7 ba0yba0y $8 frefre\n371    $f Technique utilis\u00e9e : offset\n640 6  $0 Date de premi\u00e8re publication $f #2003#####\n801  0 $a FR $b FR-751045101 $c 20221024\n810    $a Dracula, pages tir\u00e9es du journal d\u2019une vierge, un film de Guy Maddin. \u2013 [Paris] : ED distribution, [2003] (Aubervilliers : Imprimerie Karcher). \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b7972ec0>\nIndexation :  dracula pages tirees du journal d'une vierge un film de guy maddin paris ed distribution 2003 aubervilliers imprimerie karcher texte note image fixe sans mediation gauriat vincent dracula pages tirees du journal d'une vierge un film de guy maddin",
+    "other_expressions": {},
+    "repr": "id : UMLRM0170\ntype initial : oe ; type : e\nlabel : Gauriat, Vincent, Dracula, pages tir\u00e9es du journal d\u2019une vierge, un film de Guy Maddin, Image fixe\n\nNotice : \n000    00756nx  h2200193   4500\n001    UMLRM0170\n100    $a 20221024afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2003\n145 0  $a b $b xb2e\n147 0  $a h $c g $c i $c j\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0169 $a Gauriat, Vincent $t Dracula, pages tir\u00e9es du journal d\u2019une vierge, un film de Guy Maddin $n Image fixe $7 ba0yba0y $8 frefre\n371    $f Technique utilis\u00e9e : offset\n640 6  $0 Date de premi\u00e8re publication $f #2003#####\n801  0 $a FR $b FR-751045101 $c 20221024\n810    $a Dracula, pages tir\u00e9es du journal d\u2019une vierge, un film de Guy Maddin. \u2013 [Paris] : ED distribution, [2003] (Aubervilliers : Imprimerie Karcher). \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e5f00>\nIndexation : dracula pages tirees du journal d'une vierge un film de guy maddin paris ed distribution 2003 aubervilliers imprimerie karcher texte note image fixe sans mediation gauriat vincent dracula pages tirees du journal d'une vierge un film de guy maddin",
     "lang": [
         "fre"
     ],
@@ -83,6 +67,8 @@
     "exprContentType": "Image fixe",
     "exprResp": [],
     "detailed": "Description : Technique utilis\u00e9e : offset\n\n\nDate de premi\u00e8re publication : 2003",
+    "detailed_sup": "Description : Grande cat\u00e9gorie technique : impression photom\u00e9canique. Genre iconographique : Sc\u00e8nes fantastiques, Affiche cr\u00e9\u00e9e pour accompagner la diffusion en France du film de Guy Maddin (premi\u00e8re diffusion en salle : 31 d\u00e9cembre 2003)\n\n\nDate de premi\u00e8re publication : 2003\nDate de sortie en salle du film : 31/12/2003\n",
     "rebonds": "",
-    "other_expressions": null
+    "rebondids": [],
+    "other_works_expressions": null
 }

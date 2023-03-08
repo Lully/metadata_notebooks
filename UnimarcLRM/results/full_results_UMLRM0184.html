@@ -21,20 +21,33 @@ input {font-style: italic;
 		  
 ------------------------------*/
 
+body.e {background-color: #eeffff;}
+body.o {background-color: #ffeeff;}
+
+.comment {font-family: Courier New;
+		  font-size: 0.8em;
+		 }
+
 /* Métadonnées */
 div.detailed {float: left;
-			  width: 80%;
+			  width: 60%;
 			  padding-right: 20px;}
+			  
+div.detailed_sup {float: left;
+			      width: 60%;
+			      padding-right: 20px;}
+			 
+			  
 p.detailed.label {font-weight: bold;
 					 color: #05513c;
 					}
 
 div.rebonds {float: right;
-			width: 15%;
+			width: 35%;
 			background-color: #efefef;
 			padding: 20px;
 			border-radius: 20px;}
-span.rebond {padding-left: 8px;
+span.rebond {padding-left: 0px;
 			 }
 span.rebond a {text-decoration: none;
 			   font-weight: normal;
@@ -42,6 +55,27 @@ span.rebond a {text-decoration: none;
 			  }
 span.rebond a:hover {text-decoration: underline;
 			  }
+
+div.other_expressions {float: left;
+					   width: 80%}
+					   
+div.other_expressions ul {margin: 0;
+	   				   padding: 0;
+					   list-style: none;
+					   }
+div.other_expressions p {font-weight: bold;}
+div.other_expressions ul li {display: inline;
+							 background: #efefef;
+							 list-style-type: none;
+							 padding: 5px;
+							 margin: 2px;
+							 padding-bottom: 10px;
+							 border: 1px solid #600;
+							 max-width: 100px;
+  							 float: left;}
+div.other_expressions ul li a {text-align: center ;
+							   text-decoration: none ;}
+div.other_expressions ul li:hover {background: #a6a6a6;}			 
 
 
 /* Filtres */
@@ -64,12 +98,16 @@ div.ui-rangeslider {width: 40%;}
 
 
 /* Liste des exemplaires*/
-.items {width: 100%;
+.items {width: 80%;
 		  float: left;}
 
 
 .avail {background-color: #beff9f}
 .unavail {background-color: #ffe2d7}
+
+div.item2metassup {font-size: 0.8em;
+					margin-top: -10px;
+					margin-left: 20px;}
 
 
 /* Métadonnées professionnelles*/
@@ -99,19 +137,30 @@ a.link2work {color: #5a918a;
 
 .short_result_details {margin-left: 20px;
 					   font-size: 0.8em;}</style></head>
-<body>
+<body class='e'>
 
 <div class="entete">
 <p>Rappel de la recherche : <strong></strong></p>
 <p class='back'><a href='short_results_e.html'>Retour à la liste des résultats</a></p><h1>Résultat 48</h1></div><div class='full_record'>
 <p class='detailed label'>Shadow of the vampire, film, Anglais ; sous titrage en français</p>
-<div class='detailed'><p class='detailed'>Description : Encodage du son : format multicanal (Dolby digital 5.1), Film en version anglaise avec sous-titrage en français<br/><br/><br/>Date de première publication : 2001</p></div></div>
+<div class='detailed'><p class='detailed'>Description : Encodage du son : format multicanal (Dolby digital 5.1), Film en version anglaise avec sous-titrage en français<br/><br/><br/>Date de première publication : 2001</p></div>
+<div class='detailed_sup'><p class='detailed'>Description : D'après le tournage du film "Nosferatu : eine Symphonie des Grauens" (sorti en France sous le titre de "Nosferatu le vampire") de F.-W. Murnau.<br/>Le tournage de "Nosferatu, eine Symphonie des Grauens" (1922) est entravé par sa star Max Schreck, qui prend le rôle d'un vampire beaucoup plus au sérieux qu'il ne semble humainement possible..<br/>En 1921, Friedrich Murnau entreprend le tournage de sa version de Dracula : Nosferatu. Contrevenant un peu aux règles de l'expressionnisme, il décide de tourner en décors naturels et emmène son équipe dans une campagne retirée de Tchécoslovaquie. L'acteur qui doit incarner le vampire, Max Schreck, est parti sur les lieux avant tout le monde pour s'imprégner de son personnage. Dès sa première scène, il terrorise son partenaire. Il n'apparaît jamais à visage découvert, adopte une attitude déconcertante et vit dans l'ombre, retiré de l'équipe, qui commence à s'inquiéter. Bientôt, en plein tournage, il se jette sur l'opérateur et lui suce le sang. Schreck est en fait un authentique vampire à qui, en échange de sa prestation, Murnau a promis de livrer son actrice vedette, Greta. Celle-ci arrive sur les lieux. Schreck devient de plus en plus impatient et Murnau doit sans cesse renégocier pour espérer finir son film. Un soir, Murnau, drogué, avoue tout à son producteur. Celui-ci essaie de piéger Schreck en faisant entrer la lumière du jour à la fin de sa dernière scène, pour le tuer. Mais le vampire déjoue le tour, et, furieux, tue l'actrice, le producteur et le nouvel opérateur. Fasciné, Murnau tourne. Des techniciens arrivent alors à ouvrir une porte. Le soleil entre, Schreck meurt. Inconscient du drame, Murnau demande le "cut".<br/><br/><br/>Première mise à disposition : 15/05/2000<br/>Date de sortie en salle : 29/11/2000<br/>Date de sortie en salle : 29/12/2000<br/>Date de copyright : 2000<br/>Date de tournage : 18/04/1999<br/></p></div>
+<div class='rebonds'><p><a class='expr2oeuvre_link' href='short_results_UMLRM0129_e.html'>Voir les 2 versions de l'oeuvre<br><em><strong>Shadow of the vampire, film</strong></em></a></p></div>
 <div class='filters'><h3>Filtres</h3>
-<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/>  <a class="filters_lng" href="#">anglais</a> <a class="filters_lng" href="#">allemand</a>  <div class='yearRange'><p>Filtre par année</p></div></div>
+<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/> <a href='#'>Disponible</a>  <a class="filters_lng" href="#">anglais</a> <a class="filters_lng" href="#">allemand</a>  <div class='yearRange'><p>Filtre par année</p></div></div>
 <div class='filters2'></div></div>
-<div class='items'><h3>Liste des exemplaires</h3>
-<p class='unavail'>Emprunté - Shadow of the vampire, film, Français - Shadow of the vampire, film, Anglais ; sous titrage en français - Bibliothèque municipale de Célesteville ADULTES COTE_UMLRM1051</p></div>
+<div class='items'>
+<h3>Liste des exemplaires</h3>
+<div class='item'><p class='avail'>Disponible - Shadow of the vampire, film, Français - Shadow of the vampire, film, Anglais ; sous titrage en français - Bibliothèque municipale de Célesteville ADULTES COTE_UMLRM1051<br/><div class='item2metassup'>Titre: L'ombre du vampire / E. Elias Merhige, [réalisateur], Steven Katz, scénario, Dan Jones, [compositeur], John Malkovitch, Willem Dafoe, Cary Elwes... [et autres], [acteurs]<br/>Edition: Paris-Antony. Studio Canal+, Universal pictures vidéo France SA. [DL 2001]</div></p></div>
+</div>
 
+
+<div class='other_expressions'>
+<p>Autres oeuvres en lien
+<p class='comment'>Sur une page d'expression, cette rubrique liste directement les expressions des oeuvres liées à l'oeuvre de l'expression en cours</p><ul><li><a href="full_results_UMLRM0130.html">Shadow of the vampire, film, Français [Shadow of the vampire, film]</a></li>
+<li><a href="full_results_UMLRM0002.html">Nosferatu, eine Symphonie des Grauens, film, Français, 60mn [Nosferatu, eine Symphonie des Grauens, film]</a></li>
+</ul>
+</div>
 <div class='pro'>
 <hr/>
 <h3>Infos professionnelles</h3>
@@ -183,11 +232,11 @@ a.link2work {color: #5a918a;
 </svg></div>
 <div class="indexed_metas">
 <table class="indexed_metas_table">
-<tr><th>self_index</th><td>['shadow of the vampire', '', 'encodage du son format multicanal dolby digital', 'ombre du vampire shadow of the vampire elias merhige realisateur steven katz scenario dan jones compositeur john malkovitch willem dafoe cary elwes et autres acteurs paris studio canal editeur antony universal pictures video france sa distributeur 2001 dl image animee video reference commerciale 1962412 studio canal $?wikipedia https fr wikipedia org wiki 27ombre du vampire 2022 11 08 $?cine ressources catalogue collectif des bibliotheques et archives de cinema http www cineressources net 2022 11 08 $?imdb internet movie database https www imdb com title tt0189998 2022 11 08', 'shadow of the vampire', '', 'encodage du son format multicanal dolby digital', 'ombre du vampire shadow of the vampire elias merhige realisateur steven katz scenario dan jones compositeur john malkovitch willem dafoe cary elwes et autres acteurs paris studio canal editeur antony universal pictures video france sa distributeur 2001 dl image animee video reference commerciale 1962412 studio canal $?wikipedia https fr wikipedia org wiki 27ombre du vampire 2022 11 08 $?cine ressources catalogue collectif des bibliotheques et archives de cinema http www cineressources net 2022 11 08 $?imdb internet movie database https www imdb com title tt0189998 2022 11 08']</td></tr>
-<tr><th>linked_entities_index</th><td>['shadow of the vampire film anglais sous titrage en francais', 'ombre du vampire shadow of the vampire elias merhige realisateur steven katz scenario dan jones compositeur john malkovitch willem dafoe cary elwes et autres acteurs eng', 'paris studio canal dl 2001 antony universal pictures video france sa', '', '', '', 'contient aussi les bandes annonces filmographies en coulisse bonus cache', '', 'ombre du vampire shadow of the vampire elias merhige realisateur steven katz scenario dan jones compositeur john malkovitch willem dafoe cary elwes et autres acteurs eng', 'paris studio canal dl 2001 antony universal pictures video france sa', '', '', '', 'contient aussi les bandes annonces filmographies en coulisse bonus cache', '', 'https www wikidata org wiki q1324090$?http viaf org viaf 316752046', '', 'shadow of the vampire', 'apres le tournage du film nosferatu eine symphonie des grauens sorti en france sous le titre de nosferatu le vampire de murnau', 'le tournage de nosferatu eine symphonie des grauens 1922 est entrave par sa star max schreck qui prend le role un vampire beaucoup plus au serieux qu il ne semble humainement possible $?en 1921 friedrich murnau entreprend le tournage de sa version de dracula nosferatu contrevenant un peu aux regles de expressionnisme il decide de tourner en decors naturels et emmene son equipe dans une campagne retiree de tchecoslovaquie acteur qui doit incarner le vampire max schreck est parti sur les lieux avant tout le monde pour impregner de son personnage des sa premiere scene il terrorise son partenaire il apparait jamais visage decouvert adopte une attitude deconcertante et vit dans ombre retire de equipe qui commence inquieter bientot en plein tournage il se jette sur operateur et lui suce le sang schreck est en fait un authentique vampire qui en echange de sa prestation murnau promis de livrer son actrice vedette greta celle ci arrive sur les lieux schreck devient de plus en plus impatient et murnau doit sans cesse renegocier pour esperer finir son film un soir murnau drogue avoue tout son producteur celui ci essaie de pieger schreck en faisant entrer la lumiere du jour la fin de sa derniere scene pour le tuer mais le vampire dejoue le tour et furieux tue actrice le producteur et le nouvel operateur fascine murnau tourne des techniciens arrivent alors ouvrir une porte le soleil entre schreck meurt inconscient du drame murnau demande le cut']</td></tr>
+<tr><th>self_index</th><td>['shadow of the vampire', 'encodage du son format multicanal dolby digital', 'ombre du vampire shadow of the vampire elias merhige realisateur steven katz scenario dan jones compositeur john malkovitch willem dafoe cary elwes et autres acteurs paris studio canal editeur antony universal pictures video france sa distributeur 2001 dl image animee video reference commerciale 1962412 studio canal $?wikipedia https fr wikipedia org wiki 27ombre du vampire 2022 11 08 $?cine ressources catalogue collectif des bibliotheques et archives de cinema http www cineressources net 2022 11 08 $?imdb internet movie database https www imdb com title tt0189998 2022 11 08', 'shadow of the vampire', 'encodage du son format multicanal dolby digital', 'ombre du vampire shadow of the vampire elias merhige realisateur steven katz scenario dan jones compositeur john malkovitch willem dafoe cary elwes et autres acteurs paris studio canal editeur antony universal pictures video france sa distributeur 2001 dl image animee video reference commerciale 1962412 studio canal $?wikipedia https fr wikipedia org wiki 27ombre du vampire 2022 11 08 $?cine ressources catalogue collectif des bibliotheques et archives de cinema http www cineressources net 2022 11 08 $?imdb internet movie database https www imdb com title tt0189998 2022 11 08']</td></tr>
+<tr><th>linked_entities_index</th><td>['shadow of the vampire film anglais sous titrage en francais', 'ombre du vampire shadow of the vampire elias merhige realisateur steven katz scenario dan jones compositeur john malkovitch willem dafoe cary elwes et autres acteurs eng', 'paris studio canal dl 2001 antony universal pictures video france sa', 'contient aussi les bandes annonces filmographies en coulisse bonus cache', 'ombre du vampire shadow of the vampire elias merhige realisateur steven katz scenario dan jones compositeur john malkovitch willem dafoe cary elwes et autres acteurs eng', 'paris studio canal dl 2001 antony universal pictures video france sa', 'contient aussi les bandes annonces filmographies en coulisse bonus cache', 'https www wikidata org wiki q1324090$?http viaf org viaf 316752046', 'shadow of the vampire', 'apres le tournage du film nosferatu eine symphonie des grauens sorti en france sous le titre de nosferatu le vampire de murnau', 'le tournage de nosferatu eine symphonie des grauens 1922 est entrave par sa star max schreck qui prend le role un vampire beaucoup plus au serieux qu il ne semble humainement possible $?en 1921 friedrich murnau entreprend le tournage de sa version de dracula nosferatu contrevenant un peu aux regles de expressionnisme il decide de tourner en decors naturels et emmene son equipe dans une campagne retiree de tchecoslovaquie acteur qui doit incarner le vampire max schreck est parti sur les lieux avant tout le monde pour impregner de son personnage des sa premiere scene il terrorise son partenaire il apparait jamais visage decouvert adopte une attitude deconcertante et vit dans ombre retire de equipe qui commence inquieter bientot en plein tournage il se jette sur operateur et lui suce le sang schreck est en fait un authentique vampire qui en echange de sa prestation murnau promis de livrer son actrice vedette greta celle ci arrive sur les lieux schreck devient de plus en plus impatient et murnau doit sans cesse renegocier pour esperer finir son film un soir murnau drogue avoue tout son producteur celui ci essaie de pieger schreck en faisant entrer la lumiere du jour la fin de sa derniere scene pour le tuer mais le vampire dejoue le tour et furieux tue actrice le producteur et le nouvel operateur fascine murnau tourne des techniciens arrivent alors ouvrir une porte le soleil entre schreck meurt inconscient du drame murnau demande le cut']</td></tr>
 <tr><th>resp_index</th><td>[]</td></tr>
 <tr><th>linked_resp_index</th><td>['studio canal plus', 'universal pictures video france sa', 'lions gate productions', 'merhige elias', 'katz stephen', 'malkovich john', 'dafoe willem', 'elwes cary', 'bbc films', 'saturn films', 'pilgrim films and television', 'film fund luxembourg']</td></tr>
-<tr><th>global_index</th><td> elwes cary encodage du son format multicanal dolby digital shadow of the vampire film fund luxembourg dafoe willem katz stephen https www wikidata org wiki q1324090$?http viaf org viaf 316752046 bbc films lions gate productions paris studio canal dl 2001 antony universal pictures video france sa contient aussi les bandes annonces filmographies en coulisse bonus cache pilgrim films and television shadow of the vampire film anglais sous titrage en francais merhige elias malkovich john universal pictures video france sa le tournage de nosferatu eine symphonie des grauens 1922 est entrave par sa star max schreck qui prend le role un vampire beaucoup plus au serieux qu il ne semble humainement possible $?en 1921 friedrich murnau entreprend le tournage de sa version de dracula nosferatu contrevenant un peu aux regles de expressionnisme il decide de tourner en decors naturels et emmene son equipe dans une campagne retiree de tchecoslovaquie acteur qui doit incarner le vampire max schreck est parti sur les lieux avant tout le monde pour impregner de son personnage des sa premiere scene il terrorise son partenaire il apparait jamais visage decouvert adopte une attitude deconcertante et vit dans ombre retire de equipe qui commence inquieter bientot en plein tournage il se jette sur operateur et lui suce le sang schreck est en fait un authentique vampire qui en echange de sa prestation murnau promis de livrer son actrice vedette greta celle ci arrive sur les lieux schreck devient de plus en plus impatient et murnau doit sans cesse renegocier pour esperer finir son film un soir murnau drogue avoue tout son producteur celui ci essaie de pieger schreck en faisant entrer la lumiere du jour la fin de sa derniere scene pour le tuer mais le vampire dejoue le tour et furieux tue actrice le producteur et le nouvel operateur fascine murnau tourne des techniciens arrivent alors ouvrir une porte le soleil entre schreck meurt inconscient du drame murnau demande le cut saturn films ombre du vampire shadow of the vampire elias merhige realisateur steven katz scenario dan jones compositeur john malkovitch willem dafoe cary elwes et autres acteurs paris studio canal editeur antony universal pictures video france sa distributeur 2001 dl image animee video reference commerciale 1962412 studio canal $?wikipedia https fr wikipedia org wiki 27ombre du vampire 2022 11 08 $?cine ressources catalogue collectif des bibliotheques et archives de cinema http www cineressources net 2022 11 08 $?imdb internet movie database https www imdb com title tt0189998 2022 11 08 studio canal plus ombre du vampire shadow of the vampire elias merhige realisateur steven katz scenario dan jones compositeur john malkovitch willem dafoe cary elwes et autres acteurs eng apres le tournage du film nosferatu eine symphonie des grauens sorti en france sous le titre de nosferatu le vampire de murnau</td></tr>
+<tr><th>global_index</th><td>merhige elias ombre du vampire shadow of the vampire elias merhige realisateur steven katz scenario dan jones compositeur john malkovitch willem dafoe cary elwes et autres acteurs paris studio canal editeur antony universal pictures video france sa distributeur 2001 dl image animee video reference commerciale 1962412 studio canal $?wikipedia https fr wikipedia org wiki 27ombre du vampire 2022 11 08 $?cine ressources catalogue collectif des bibliotheques et archives de cinema http www cineressources net 2022 11 08 $?imdb internet movie database https www imdb com title tt0189998 2022 11 08 katz stephen le tournage de nosferatu eine symphonie des grauens 1922 est entrave par sa star max schreck qui prend le role un vampire beaucoup plus au serieux qu il ne semble humainement possible $?en 1921 friedrich murnau entreprend le tournage de sa version de dracula nosferatu contrevenant un peu aux regles de expressionnisme il decide de tourner en decors naturels et emmene son equipe dans une campagne retiree de tchecoslovaquie acteur qui doit incarner le vampire max schreck est parti sur les lieux avant tout le monde pour impregner de son personnage des sa premiere scene il terrorise son partenaire il apparait jamais visage decouvert adopte une attitude deconcertante et vit dans ombre retire de equipe qui commence inquieter bientot en plein tournage il se jette sur operateur et lui suce le sang schreck est en fait un authentique vampire qui en echange de sa prestation murnau promis de livrer son actrice vedette greta celle ci arrive sur les lieux schreck devient de plus en plus impatient et murnau doit sans cesse renegocier pour esperer finir son film un soir murnau drogue avoue tout son producteur celui ci essaie de pieger schreck en faisant entrer la lumiere du jour la fin de sa derniere scene pour le tuer mais le vampire dejoue le tour et furieux tue actrice le producteur et le nouvel operateur fascine murnau tourne des techniciens arrivent alors ouvrir une porte le soleil entre schreck meurt inconscient du drame murnau demande le cut https www wikidata org wiki q1324090$?http viaf org viaf 316752046 saturn films bbc films shadow of the vampire shadow of the vampire film anglais sous titrage en francais elwes cary encodage du son format multicanal dolby digital lions gate productions ombre du vampire shadow of the vampire elias merhige realisateur steven katz scenario dan jones compositeur john malkovitch willem dafoe cary elwes et autres acteurs eng studio canal plus malkovich john paris studio canal dl 2001 antony universal pictures video france sa pilgrim films and television universal pictures video france sa dafoe willem film fund luxembourg apres le tournage du film nosferatu eine symphonie des grauens sorti en france sous le titre de nosferatu le vampire de murnau contient aussi les bandes annonces filmographies en coulisse bonus cache</td></tr>
 </table>
 </div>
 <p class="marc_record"><br/>000    01438nx  f2200241   4500<br/>001    UMLRM0184<br/>100    $a 20221109afrey50      ba0<br/>101 2  $a eng $a ger $j fre<br/>102    $a FR<br/>104    $a d2001<br/>145    $a b $b xa2ae<br/>147 1  $a h $e c $h c<br/>152    $a  RDA-FR<br/>154    $a xb<br/>232    $3 UMLRM0129 $7 ba0yba0y $8 freeng $a Shadow of the vampire $c film $m Anglais ; sous titrage en français<br/>371    $a Encodage du son : format multicanal (Dolby digital 5.1) $f Film en version anglaise avec sous-titrage en français<br/>432    $7 ba0yba0y $8 frefre $a L'ombre du vampire $c film $m Anglais ; sous titrage en français<br/>640 6  $0 Date de première publication $f #2001#####<br/>801  0 $a FR $b FR-751131015 $c 20221108<br/>810    $a L'ombre du vampire = Shadow of the vampire / E. Elias Merhige, [réalisateur] ; Steven Katz, scénario ; Dan Jones, [compositeur] ; John Malkovitch, Willem Dafoe, Cary Elwes... [et autres], [acteurs]. – Paris : Studio Canal+ [éditeur] ; Antony : Universal pictures vidéo France SA [distributeur], 2001 (DL). – [Image animée : vidéo]. – Référence commerciale : 1962412 (Studio Canal)<br/>810    $a Wikipedia : https://fr.wikipedia.org/wiki/L%27Ombre_du_vampire (2022-11-08)<br/>810    $a Ciné-ressources : catalogue collectif des bibliothèques et archives de cinéma : http://www.cineressources.net (2022-11-08)<br/>810    $a IMDB (Internet movie database) : https://www.imdb.com/title/tt0189998 (2022-11-08)</p>

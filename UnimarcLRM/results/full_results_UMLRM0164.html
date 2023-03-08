@@ -21,20 +21,33 @@ input {font-style: italic;
 		  
 ------------------------------*/
 
+body.e {background-color: #eeffff;}
+body.o {background-color: #ffeeff;}
+
+.comment {font-family: Courier New;
+		  font-size: 0.8em;
+		 }
+
 /* Métadonnées */
 div.detailed {float: left;
-			  width: 80%;
+			  width: 60%;
 			  padding-right: 20px;}
+			  
+div.detailed_sup {float: left;
+			      width: 60%;
+			      padding-right: 20px;}
+			 
+			  
 p.detailed.label {font-weight: bold;
 					 color: #05513c;
 					}
 
 div.rebonds {float: right;
-			width: 15%;
+			width: 35%;
 			background-color: #efefef;
 			padding: 20px;
 			border-radius: 20px;}
-span.rebond {padding-left: 8px;
+span.rebond {padding-left: 0px;
 			 }
 span.rebond a {text-decoration: none;
 			   font-weight: normal;
@@ -42,6 +55,27 @@ span.rebond a {text-decoration: none;
 			  }
 span.rebond a:hover {text-decoration: underline;
 			  }
+
+div.other_expressions {float: left;
+					   width: 80%}
+					   
+div.other_expressions ul {margin: 0;
+	   				   padding: 0;
+					   list-style: none;
+					   }
+div.other_expressions p {font-weight: bold;}
+div.other_expressions ul li {display: inline;
+							 background: #efefef;
+							 list-style-type: none;
+							 padding: 5px;
+							 margin: 2px;
+							 padding-bottom: 10px;
+							 border: 1px solid #600;
+							 max-width: 100px;
+  							 float: left;}
+div.other_expressions ul li a {text-align: center ;
+							   text-decoration: none ;}
+div.other_expressions ul li:hover {background: #a6a6a6;}			 
 
 
 /* Filtres */
@@ -64,12 +98,16 @@ div.ui-rangeslider {width: 40%;}
 
 
 /* Liste des exemplaires*/
-.items {width: 100%;
+.items {width: 80%;
 		  float: left;}
 
 
 .avail {background-color: #beff9f}
 .unavail {background-color: #ffe2d7}
+
+div.item2metassup {font-size: 0.8em;
+					margin-top: -10px;
+					margin-left: 20px;}
 
 
 /* Métadonnées professionnelles*/
@@ -99,19 +137,22 @@ a.link2work {color: #5a918a;
 
 .short_result_details {margin-left: 20px;
 					   font-size: 0.8em;}</style></head>
-<body>
+<body class='o'>
 
 <div class="entete">
 <p>Rappel de la recherche : <strong></strong></p>
 <p class='back'><a href='short_results_o.html'>Retour à la liste des résultats</a></p><h1>Résultat 41</h1></div><div class='full_record'>
 <p class='detailed label'>Godden, Mark, Dracula</p>
 <div class='detailed'><p class='detailed'>Description : Commande du Royal Winnipeg Ballet à l’occasion du 100e anniversaire du roman de Bram Stoker publié en 1897. Créé par le Royal Winnipeg Ballet en octobre 1998, et repris en 2018 (12-14 avril). Adapté à l’écran en 2001 par le réalisateur Guy Maddin, sous le titre "Dracula<br/><br/><br/>Première représentation (création) : 1998 (Winnipeg)</p></div>
-<div class='rebonds'><p class='rebonds'><strong>Voir aussi</strong></br><span class='rebond'><a href='full_results_UMLRM0135.html'>A pour adaptation dans un autre mode de création de [œuvre] Dracula : pages from a virgin's diary film</a></span><br/><span class='rebond'><a href='full_results_UMLRM0165.html'>Utilise la musique [œuvre] Mahler, Gustav (1860-1911) Symphonies Choix Godden</a></span><br/><span class='rebond'><a href='full_results_UMLRM0004.html'>Stoker, Bram (1847-1912) Dracula</a></span></p></div></div>
+<div class='rebonds'><p class='rebonds'><p><strong>Voir aussi</strong></p><ul><li><span class='rebond'><a href='full_results_UMLRM0135.html'>A pour adaptation dans un autre mode de création de [œuvre] Dracula : pages from a virgin's diary film</a></span></li><li><span class='rebond'><a href='full_results_UMLRM0165.html'>Utilise la musique [œuvre] Mahler, Gustav (1860-1911) Symphonies Choix Godden</a></span></li><li><span class='rebond'><a href='full_results_UMLRM0004.html'>Stoker, Bram (1847-1912) Dracula</a></span></li></ul></div>
 <div class='filters'><h3>Filtres</h3>
-<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/>   <div class='yearRange'><p>Filtre par année</p></div></div>
+<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/> <a href='#'>Disponible</a>   <div class='yearRange'><p>Filtre par année</p></div></div>
 <div class='filters2'></div></div>
-<div class='items'><h3>Liste des exemplaires</h3>
+<div class='items'>
+<h3>Liste des exemplaires</h3>
+
 </div>
+
 
 <div class='pro'>
 <hr/>
@@ -134,11 +175,11 @@ a.link2work {color: #5a918a;
 </svg></div>
 <div class="indexed_metas">
 <table class="indexed_metas_table">
-<tr><th>self_index</th><td>['', '', '', "commande du royal winnipeg ballet l'occasion du 100e anniversaire du roman de bram stoker publie en 1897$?cree par le royal winnipeg ballet en octobre 1998 et repris en 2018 12 14 avril $?adapte l'ecran en 2001 par le realisateur guy maddin sous le titre dracula", '', '', '', '', "commande du royal winnipeg ballet l'occasion du 100e anniversaire du roman de bram stoker publie en 1897$?cree par le royal winnipeg ballet en octobre 1998 et repris en 2018 12 14 avril $?adapte l'ecran en 2001 par le realisateur guy maddin sous le titre dracula", '']</td></tr>
+<tr><th>self_index</th><td>["commande du royal winnipeg ballet l'occasion du 100e anniversaire du roman de bram stoker publie en 1897$?cree par le royal winnipeg ballet en octobre 1998 et repris en 2018 12 14 avril $?adapte l'ecran en 2001 par le realisateur guy maddin sous le titre dracula", "commande du royal winnipeg ballet l'occasion du 100e anniversaire du roman de bram stoker publie en 1897$?cree par le royal winnipeg ballet en octobre 1998 et repris en 2018 12 14 avril $?adapte l'ecran en 2001 par le realisateur guy maddin sous le titre dracula"]</td></tr>
 <tr><th>linked_entities_index</th><td>[]</td></tr>
 <tr><th>resp_index</th><td>['godden mark', 'godden mark']</td></tr>
 <tr><th>linked_resp_index</th><td>[]</td></tr>
-<tr><th>global_index</th><td> godden mark commande du royal winnipeg ballet l'occasion du 100e anniversaire du roman de bram stoker publie en 1897$?cree par le royal winnipeg ballet en octobre 1998 et repris en 2018 12 14 avril $?adapte l'ecran en 2001 par le realisateur guy maddin sous le titre dracula</td></tr>
+<tr><th>global_index</th><td>godden mark commande du royal winnipeg ballet l'occasion du 100e anniversaire du roman de bram stoker publie en 1897$?cree par le royal winnipeg ballet en octobre 1998 et repris en 2018 12 14 avril $?adapte l'ecran en 2001 par le realisateur guy maddin sous le titre dracula</td></tr>
 </table>
 </div>
 <p class="marc_record"><br/>000    01782nx  h2200277   4500<br/>001    UMLRM0164<br/>100    $a 20221021afrey50      ba0<br/>102    $a CA<br/>104    $a d1998<br/>125 0  $a m<br/>140    $a da $b bt  $2 IAML-Formes<br/>145 0  $a c<br/>152    $a RDA-FR<br/>154    $a xa<br/>241  1 $a Godden, Mark $t Dracula $7 ba0yba0y $8 freeng<br/>370    $c Commande du Royal Winnipeg Ballet à l’occasion du 100e anniversaire du roman de Bram Stoker publié en 1897 $c Créé par le Royal Winnipeg Ballet en octobre 1998, et repris en 2018 (12-14 avril) $c Adapté à l’écran en 2001 par le réalisateur Guy Maddin, sous le titre "Dracula $e pages from a virgin's diary" : première diffusion du film en 2002.<br/>501  1 $7 ba0yba0y $8 fre### $a Godden $b Mark $4 200<br/>531    $5 xxc $p A pour adaptation dans un autre mode de création de [œuvre] $3 UMLRM0135 $a Dracula : pages from a virgin's diary $c film $7 ba0yba0y $8 freeng<br/>541  1 $5 xxr $p Utilise la musique [œuvre] $3 UMLRM0165 $7 ba0yba0y $8 frefre $a Mahler, Gustav (1860-1911) $t Symphonies $c Choix $k Godden<br/>541  1 $5 xxl $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula<br/>608    $3 11934698 $a Ballet $2 rameauGenre<br/>640 6  $0 Première représentation (création) $p CA $b Manitoba $d Winnipeg $e Royal Winnipeg Ballet $f #199810###<br/>801  0 $a FR $b FR-751131015 $c 20221021<br/>810    $a Robb, Peter. The Royal Winnipeg resurrects Mark Godden’s Dracula : https://artsfile.ca/the-royal-winnipeg-resurrects-mark-goddens-dracula/ (2022-10-21)<br/>810    $a Pepper, Kaija. How Does Mark Godden’s Dracula Dance? : http://www.markgodden.com/pdf/DraculaReview-Kaija-Pepper.pdf (2022-10-21) $b Date de création et musique utilisée<br/>810    $a Encyclopédie Canadienne : https://www.thecanadianencyclopedia.ca/fr/article/godden-mark (2022-10-21)</p>

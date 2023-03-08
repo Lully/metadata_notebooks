@@ -21,20 +21,33 @@ input {font-style: italic;
 		  
 ------------------------------*/
 
+body.e {background-color: #eeffff;}
+body.o {background-color: #ffeeff;}
+
+.comment {font-family: Courier New;
+		  font-size: 0.8em;
+		 }
+
 /* Métadonnées */
 div.detailed {float: left;
-			  width: 80%;
+			  width: 60%;
 			  padding-right: 20px;}
+			  
+div.detailed_sup {float: left;
+			      width: 60%;
+			      padding-right: 20px;}
+			 
+			  
 p.detailed.label {font-weight: bold;
 					 color: #05513c;
 					}
 
 div.rebonds {float: right;
-			width: 15%;
+			width: 35%;
 			background-color: #efefef;
 			padding: 20px;
 			border-radius: 20px;}
-span.rebond {padding-left: 8px;
+span.rebond {padding-left: 0px;
 			 }
 span.rebond a {text-decoration: none;
 			   font-weight: normal;
@@ -42,6 +55,27 @@ span.rebond a {text-decoration: none;
 			  }
 span.rebond a:hover {text-decoration: underline;
 			  }
+
+div.other_expressions {float: left;
+					   width: 80%}
+					   
+div.other_expressions ul {margin: 0;
+	   				   padding: 0;
+					   list-style: none;
+					   }
+div.other_expressions p {font-weight: bold;}
+div.other_expressions ul li {display: inline;
+							 background: #efefef;
+							 list-style-type: none;
+							 padding: 5px;
+							 margin: 2px;
+							 padding-bottom: 10px;
+							 border: 1px solid #600;
+							 max-width: 100px;
+  							 float: left;}
+div.other_expressions ul li a {text-align: center ;
+							   text-decoration: none ;}
+div.other_expressions ul li:hover {background: #a6a6a6;}			 
 
 
 /* Filtres */
@@ -64,12 +98,16 @@ div.ui-rangeslider {width: 40%;}
 
 
 /* Liste des exemplaires*/
-.items {width: 100%;
+.items {width: 80%;
 		  float: left;}
 
 
 .avail {background-color: #beff9f}
 .unavail {background-color: #ffe2d7}
+
+div.item2metassup {font-size: 0.8em;
+					margin-top: -10px;
+					margin-left: 20px;}
 
 
 /* Métadonnées professionnelles*/
@@ -99,19 +137,22 @@ a.link2work {color: #5a918a;
 
 .short_result_details {margin-left: 20px;
 					   font-size: 0.8em;}</style></head>
-<body>
+<body class='o'>
 
 <div class="entete">
 <p>Rappel de la recherche : <strong></strong></p>
 <p class='back'><a href='short_results_o.html'>Retour à la liste des résultats</a></p><h1>Résultat 26</h1></div><div class='full_record'>
 <p class='detailed label'>Jeanneteau, Daniel (1963-....) - Deratte, Laure (19..-....), [Maquette de décor en volume pour "Nosferatu"]</p>
 <div class='detailed'><p class='detailed'>Description : Grande catégorie technique : dessin, Maquette de décor pour le ballet "Nosferatu" de Jean-Claude Gallotta créé à Opéra national de Paris-Bastille le 2 mai 2001<br/><br/><br/>Événement à l’origine de l’œuvre : 02/05/2001 (Paris)</p></div>
-<div class='rebonds'><p class='rebonds'><strong>Voir aussi</strong></br><span class='rebond'><a href='full_results_UMLRM0147.html'>Décors utilisés dans Nosferatu spectacle 2001 Paris ; Opéra Bastille</a></span><br/><span class='rebond'><a href='full_results_.html'>Œuvre préparatoire pour Jeanneteau, Daniel (1963-....) Deratte, Laure (19..-....) [Décors pour "Nosferatu"]</a></span><br/><span class='rebond'><a href='full_results_.html'>Opéra Bastille (Paris, France ; lieu)</a></span></p></div></div>
+<div class='rebonds'><p class='rebonds'><p><strong>Voir aussi</strong></p><ul><li><span class='rebond'><a href='full_results_UMLRM0147.html'>Décors utilisés dans Nosferatu spectacle 2001 Paris ; Opéra Bastille</a></span></li></ul></div>
 <div class='filters'><h3>Filtres</h3>
-<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/>  <a class="filters_lng" href="#">zxx</a> <a class="filters_content_type" href="#">Image fixe</a> <div class='yearRange'><p>Filtre par année</p></div></div>
+<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/> <a href='#'>Disponible</a>  <a class="filters_lng" href="#">zxx</a> <a class="filters_content_type" href="#">Image fixe</a> <div class='yearRange'><p>Filtre par année</p></div></div>
 <div class='filters2'></div></div>
-<div class='items'><h3>Liste des exemplaires</h3>
+<div class='items'>
+<h3>Liste des exemplaires</h3>
+
 </div>
+
 
 <div class='pro'>
 <hr/>
@@ -183,11 +224,11 @@ a.link2work {color: #5a918a;
 </svg></div>
 <div class="indexed_metas">
 <table class="indexed_metas_table">
-<tr><th>self_index</th><td>['', '', '', 'grande categorie technique dessin maquette de decor pour le ballet nosferatu de jean claude gallotta cree opera national de paris bastille le mai 2001', '', '', '', '', 'grande categorie technique dessin maquette de decor pour le ballet nosferatu de jean claude gallotta cree opera national de paris bastille le mai 2001', '']</td></tr>
-<tr><th>linked_entities_index</th><td>['maquette de decor en volume pour nosferatu daniel jeanneteau et laure deratte', '2001', '', '', '', '', '', 'maquette de decor en volume pour nosferatu daniel jeanneteau et laure deratte', '2001', '', '', '', '', '', '', 'jeanneteau daniel 1963 $?deratte laure 19 maquette de decor en volume pour nosferatu', '', 'maquette de decor en volume pour nosferatu daniel jeanneteau et laure deratte 2001 image fixe sans mediation', '', 'jeanneteau daniel 1963 $?deratte laure 19 maquette de decor en volume pour nosferatu', '', 'maquette de decor en volume pour nosferatu daniel jeanneteau et laure deratte 2001 image fixe sans mediation']</td></tr>
+<tr><th>self_index</th><td>['grande categorie technique dessin maquette de decor pour le ballet nosferatu de jean claude gallotta cree opera national de paris bastille le mai 2001', 'grande categorie technique dessin maquette de decor pour le ballet nosferatu de jean claude gallotta cree opera national de paris bastille le mai 2001']</td></tr>
+<tr><th>linked_entities_index</th><td>['maquette de decor en volume pour nosferatu daniel jeanneteau et laure deratte', '2001', 'maquette de decor en volume pour nosferatu daniel jeanneteau et laure deratte', '2001', 'jeanneteau daniel 1963 $?deratte laure 19 maquette de decor en volume pour nosferatu', 'maquette de decor en volume pour nosferatu daniel jeanneteau et laure deratte 2001 image fixe sans mediation', 'jeanneteau daniel 1963 $?deratte laure 19 maquette de decor en volume pour nosferatu', 'maquette de decor en volume pour nosferatu daniel jeanneteau et laure deratte 2001 image fixe sans mediation']</td></tr>
 <tr><th>resp_index</th><td>['jeanneteau daniel', 'deratte laure', 'jeanneteau daniel', 'deratte laure']</td></tr>
 <tr><th>linked_resp_index</th><td>[]</td></tr>
-<tr><th>global_index</th><td> maquette de decor en volume pour nosferatu daniel jeanneteau et laure deratte 2001 image fixe sans mediation 2001 jeanneteau daniel 1963 $?deratte laure 19 maquette de decor en volume pour nosferatu jeanneteau daniel deratte laure grande categorie technique dessin maquette de decor pour le ballet nosferatu de jean claude gallotta cree opera national de paris bastille le mai 2001 maquette de decor en volume pour nosferatu daniel jeanneteau et laure deratte</td></tr>
+<tr><th>global_index</th><td>maquette de decor en volume pour nosferatu daniel jeanneteau et laure deratte 2001 image fixe sans mediation jeanneteau daniel deratte laure grande categorie technique dessin maquette de decor pour le ballet nosferatu de jean claude gallotta cree opera national de paris bastille le mai 2001 2001 jeanneteau daniel 1963 $?deratte laure 19 maquette de decor en volume pour nosferatu maquette de decor en volume pour nosferatu daniel jeanneteau et laure deratte</td></tr>
 </table>
 </div>
 <p class="marc_record"><br/>000    01546nx  h2200265   4500<br/>001    UMLRM0138<br/>100    $a 20221025afrey50      ba0<br/>102    $a FR<br/>104    $a d2001<br/>125 0  $a m<br/>140    $a is $b maquette $2 frTICO<br/>145 0  $a b $b xb2e<br/>152    $a RDA-FR<br/>154    $a xa<br/>241  1 $3 14654751 $o ISNI 0000 0003 6454 4704 $a Jeanneteau, Daniel (1963-....) $3 14676342 $a Deratte, Laure (19..-....) $t [Maquette de décor en volume pour "Nosferatu"] $7 ba0yba0y $8 frefre<br/>370    $a Grande catégorie technique : dessin $c Maquette de décor pour le ballet "Nosferatu" de Jean-Claude Gallotta créé à Opéra national de Paris-Bastille le 2 mai 2001<br/>501  1 $3 14654751 $7 ba0yba0y $8 frefre $o ISNI 0000 0003 6454 4704 $a Jeanneteau $b Daniel $f 1963-.... $4 040<br/>501  1 $3 14676342 $7 ba0yba0y $8 frefre $a Deratte $b Laure $f 19..-.... $4 040<br/>515    $0 Lieu de l’événement à l’origine de l’œuvre $a Opéra Bastille (Paris, France ; lieu)<br/>531    $5 xxr $p Décors utilisés dans $3 UMLRM0147 $a Nosferatu $c spectacle $d 2001 $e Paris ; Opéra Bastille $7 ba0yba0y $8 frefre<br/>541  1 $5 xxr $p Œuvre préparatoire pour $a Jeanneteau, Daniel (1963-....) $a Deratte, Laure (19..-....) $t [Décors pour "Nosferatu"]<br/>608    $3 11960059 $a Décors de ballet $2 rameau<br/>640 0  $0 Événement à l’origine de l’œuvre $a FR $d Paris $e  Opéra Bastille $f #20010502#<br/>801  0 $a FR $b FR-751045101 $c 20221025<br/>810    $a [Maquette de décor en volume pour "Nosferatu"]/ [Daniel Jeanneteau et Laure Deratte]. – [2001]. – [Image fixe : sans médiation]</p>

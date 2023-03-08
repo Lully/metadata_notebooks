@@ -21,20 +21,33 @@ input {font-style: italic;
 		  
 ------------------------------*/
 
+body.e {background-color: #eeffff;}
+body.o {background-color: #ffeeff;}
+
+.comment {font-family: Courier New;
+		  font-size: 0.8em;
+		 }
+
 /* Métadonnées */
 div.detailed {float: left;
-			  width: 80%;
+			  width: 60%;
 			  padding-right: 20px;}
+			  
+div.detailed_sup {float: left;
+			      width: 60%;
+			      padding-right: 20px;}
+			 
+			  
 p.detailed.label {font-weight: bold;
 					 color: #05513c;
 					}
 
 div.rebonds {float: right;
-			width: 15%;
+			width: 35%;
 			background-color: #efefef;
 			padding: 20px;
 			border-radius: 20px;}
-span.rebond {padding-left: 8px;
+span.rebond {padding-left: 0px;
 			 }
 span.rebond a {text-decoration: none;
 			   font-weight: normal;
@@ -42,6 +55,27 @@ span.rebond a {text-decoration: none;
 			  }
 span.rebond a:hover {text-decoration: underline;
 			  }
+
+div.other_expressions {float: left;
+					   width: 80%}
+					   
+div.other_expressions ul {margin: 0;
+	   				   padding: 0;
+					   list-style: none;
+					   }
+div.other_expressions p {font-weight: bold;}
+div.other_expressions ul li {display: inline;
+							 background: #efefef;
+							 list-style-type: none;
+							 padding: 5px;
+							 margin: 2px;
+							 padding-bottom: 10px;
+							 border: 1px solid #600;
+							 max-width: 100px;
+  							 float: left;}
+div.other_expressions ul li a {text-align: center ;
+							   text-decoration: none ;}
+div.other_expressions ul li:hover {background: #a6a6a6;}			 
 
 
 /* Filtres */
@@ -64,12 +98,16 @@ div.ui-rangeslider {width: 40%;}
 
 
 /* Liste des exemplaires*/
-.items {width: 100%;
+.items {width: 80%;
 		  float: left;}
 
 
 .avail {background-color: #beff9f}
 .unavail {background-color: #ffe2d7}
+
+div.item2metassup {font-size: 0.8em;
+					margin-top: -10px;
+					margin-left: 20px;}
 
 
 /* Métadonnées professionnelles*/
@@ -99,19 +137,22 @@ a.link2work {color: #5a918a;
 
 .short_result_details {margin-left: 20px;
 					   font-size: 0.8em;}</style></head>
-<body>
+<body class='o'>
 
 <div class="entete">
 <p>Rappel de la recherche : <strong></strong></p>
 <p class='back'><a href='short_results_o.html'>Retour à la liste des résultats</a></p><h1>Résultat 6</h1></div><div class='full_record'>
 <p class='detailed label'>Stoker, Bram (1847-1912), Choix, Dracula</p>
 <div class='detailed'><p class='detailed'>Description : Choix d’extraits signalant les passages supprimés et résumant l’intrigue entre deux extraits. Accompagné d’un dossier comprenant notamment une présentation de l’auteur et de son œuvre en contexte, une étude de l’œuvre selon 5 thématiques et un lexique établi par Michèle Sendre. Illustrations. Complété par des ressources pédagogiques à destination des enseignants : 2 fiches d’activité (« Dracula : entrer dans l’œuvre » et « Dracula : histoire des arts ») et un livre du professeur disponibles sur le site de l’éditeur<br/><br/><br/>Date de première publication : 2014</p></div>
-<div class='rebonds'><p class='rebonds'><strong>Voir aussi</strong></br><span class='rebond'><a href='full_results_UMLRM0004.html'>Est une sélection de [œuvre] Stoker, Bram (1847-1912) Dracula</a></span></p></div></div>
+<div class='rebonds'><p class='rebonds'><p><strong>Voir aussi</strong></p><ul><li><span class='rebond'><a href='full_results_UMLRM0004.html'>Est une sélection de [œuvre] Stoker, Bram (1847-1912) Dracula</a></span></li></ul></div>
 <div class='filters'><h3>Filtres</h3>
-<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/>  <a class="filters_lng" href="#">anglais</a> <a class="filters_lng" href="#">français</a> <a class="filters_content_type" href="#">Texte noté</a> <div class='yearRange'><p>Filtre par année</p></div></div>
+<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/> <a href='#'>Disponible</a>  <a class="filters_lng" href="#">français</a> <a class="filters_content_type" href="#">Texte noté</a> <div class='yearRange'><p>Filtre par année</p></div></div>
 <div class='filters2'><a href="#">Molitor, Lucienne (Traducteur)</a></div></div>
-<div class='items'><h3>Liste des exemplaires</h3>
-<p class='avail'>Disponible - Stoker, Bram (1847-1912), Choix, Dracula, Français, Molitor, Texte noté - Bibliothèque municipale de Célesteville JEUNESSE COTE_UMLRM1010</p></div>
+<div class='items'>
+<h3>Liste des exemplaires</h3>
+<div class='item'><p class='avail'>Disponible - Stoker, Bram (1847-1912), Choix, Dracula, Français, Molitor, Texte noté - Bibliothèque municipale de Célesteville JEUNESSE COTE_UMLRM1010<br/><div class='item2metassup'>Titre: Dracula : [extraits choisis] / Bram Stoker, traduction de Lucienne Molitor, choix des extraits et appareil pédagogique établi par Nadia Bruneel-Ziane,..., lexique établi par Michèle Sendre<br/>Edition: [Paris]-Italie. Magnard. 2014</div></p></div>
+</div>
+
 
 <div class='pro'>
 <hr/>
@@ -173,11 +214,11 @@ a.link2work {color: #5a918a;
 </svg></div>
 <div class="indexed_metas">
 <table class="indexed_metas_table">
-<tr><th>self_index</th><td>['', '', '', "choix d'extraits signalant les passages supprimes et resumant l'intrigue entre deux extraits$?accompagne d'un dossier comprenant notamment une presentation de l'auteur et de son oeuvre en contexte une etude de l'oeuvre selon thematiques et un lexique etabli par michele sendre$?illustrations$?complete par des ressources pedagogiques destination des enseignants fiches d'activite dracula entrer dans l'oeuvre et dracula histoire des arts et un livre du professeur disponibles sur le site de l'editeur", '', '', '', '', "choix d'extraits signalant les passages supprimes et resumant l'intrigue entre deux extraits$?accompagne d'un dossier comprenant notamment une presentation de l'auteur et de son oeuvre en contexte une etude de l'oeuvre selon thematiques et un lexique etabli par michele sendre$?illustrations$?complete par des ressources pedagogiques destination des enseignants fiches d'activite dracula entrer dans l'oeuvre et dracula histoire des arts et un livre du professeur disponibles sur le site de l'editeur", '']</td></tr>
-<tr><th>linked_entities_index</th><td>['dracula extraits choisis bram stoker traduction de lucienne molitor choix des extraits et appareil pedagogique etabli par nadia bruneel ziane lexique etabli par michele sendre', 'paris magnard$? italie 2014', 'classiques patrimoine', '', '', '', '', 'dracula extraits choisis bram stoker traduction de lucienne molitor choix des extraits et appareil pedagogique etabli par nadia bruneel ziane lexique etabli par michele sendre', 'paris magnard$? italie 2014', 'classiques patrimoine', '', '', '', '', '', 'stoker bram 1847 1912 dracula', '', 'dracula bram stoker traduction de lucienne molitor choix des extraits et appareil pedagogique etabli par nadia bruneel ziane lexique etabli par michele sendre paris magnard impr 2014 texte note sans mediation isbn 978 210 74066', '', 'stoker bram 1847 1912 dracula', '', 'dracula bram stoker traduction de lucienne molitor choix des extraits et appareil pedagogique etabli par nadia bruneel ziane lexique etabli par michele sendre paris magnard impr 2014 texte note sans mediation isbn 978 210 74066']</td></tr>
+<tr><th>self_index</th><td>["choix d'extraits signalant les passages supprimes et resumant l'intrigue entre deux extraits$?accompagne d'un dossier comprenant notamment une presentation de l'auteur et de son oeuvre en contexte une etude de l'oeuvre selon thematiques et un lexique etabli par michele sendre$?illustrations$?complete par des ressources pedagogiques destination des enseignants fiches d'activite dracula entrer dans l'oeuvre et dracula histoire des arts et un livre du professeur disponibles sur le site de l'editeur", "choix d'extraits signalant les passages supprimes et resumant l'intrigue entre deux extraits$?accompagne d'un dossier comprenant notamment une presentation de l'auteur et de son oeuvre en contexte une etude de l'oeuvre selon thematiques et un lexique etabli par michele sendre$?illustrations$?complete par des ressources pedagogiques destination des enseignants fiches d'activite dracula entrer dans l'oeuvre et dracula histoire des arts et un livre du professeur disponibles sur le site de l'editeur"]</td></tr>
+<tr><th>linked_entities_index</th><td>['dracula extraits choisis bram stoker traduction de lucienne molitor choix des extraits et appareil pedagogique etabli par nadia bruneel ziane lexique etabli par michele sendre', 'paris magnard$? italie 2014', 'classiques patrimoine', 'dracula extraits choisis bram stoker traduction de lucienne molitor choix des extraits et appareil pedagogique etabli par nadia bruneel ziane lexique etabli par michele sendre', 'paris magnard$? italie 2014', 'classiques patrimoine', 'stoker bram 1847 1912 dracula', 'dracula bram stoker traduction de lucienne molitor choix des extraits et appareil pedagogique etabli par nadia bruneel ziane lexique etabli par michele sendre paris magnard impr 2014 texte note sans mediation isbn 978 210 74066', 'stoker bram 1847 1912 dracula', 'dracula bram stoker traduction de lucienne molitor choix des extraits et appareil pedagogique etabli par nadia bruneel ziane lexique etabli par michele sendre paris magnard impr 2014 texte note sans mediation isbn 978 210 74066']</td></tr>
 <tr><th>resp_index</th><td>['stoker bram', 'ziane bruneel nadia', 'sendre haidar michele', 'stoker bram', 'ziane bruneel nadia', 'sendre haidar michele']</td></tr>
 <tr><th>linked_resp_index</th><td>['molitor lucienne']</td></tr>
-<tr><th>global_index</th><td> dracula bram stoker traduction de lucienne molitor choix des extraits et appareil pedagogique etabli par nadia bruneel ziane lexique etabli par michele sendre paris magnard impr 2014 texte note sans mediation isbn 978 210 74066 molitor lucienne stoker bram paris magnard$? italie 2014 stoker bram 1847 1912 dracula ziane bruneel nadia classiques patrimoine sendre haidar michele dracula extraits choisis bram stoker traduction de lucienne molitor choix des extraits et appareil pedagogique etabli par nadia bruneel ziane lexique etabli par michele sendre choix d'extraits signalant les passages supprimes et resumant l'intrigue entre deux extraits$?accompagne d'un dossier comprenant notamment une presentation de l'auteur et de son oeuvre en contexte une etude de l'oeuvre selon thematiques et un lexique etabli par michele sendre$?illustrations$?complete par des ressources pedagogiques destination des enseignants fiches d'activite dracula entrer dans l'oeuvre et dracula histoire des arts et un livre du professeur disponibles sur le site de l'editeur</td></tr>
+<tr><th>global_index</th><td>sendre haidar michele dracula bram stoker traduction de lucienne molitor choix des extraits et appareil pedagogique etabli par nadia bruneel ziane lexique etabli par michele sendre paris magnard impr 2014 texte note sans mediation isbn 978 210 74066 ziane bruneel nadia classiques patrimoine stoker bram paris magnard$? italie 2014 molitor lucienne choix d'extraits signalant les passages supprimes et resumant l'intrigue entre deux extraits$?accompagne d'un dossier comprenant notamment une presentation de l'auteur et de son oeuvre en contexte une etude de l'oeuvre selon thematiques et un lexique etabli par michele sendre$?illustrations$?complete par des ressources pedagogiques destination des enseignants fiches d'activite dracula entrer dans l'oeuvre et dracula histoire des arts et un livre du professeur disponibles sur le site de l'editeur dracula extraits choisis bram stoker traduction de lucienne molitor choix des extraits et appareil pedagogique etabli par nadia bruneel ziane lexique etabli par michele sendre stoker bram 1847 1912 dracula</td></tr>
 </table>
 </div>
 <p class="marc_record"><br/>000    02039nx  h2200337   4500<br/>001    UMLRM0031<br/>100    $a 20221024afrey50      ba0<br/>101 0  $a fre<br/>102    $a FR<br/>104    $a d2014<br/>125 02 $a d<br/>125 02 $a e<br/>140    $a te $b rofan $2 BnF-GenreLitt<br/>140    $a te $b roepi $2 BnF-GenreLitt<br/>140    $a te $b lecmc $2 BnF-FonctTexMix<br/>145 0  $a i<br/>145 0  $a b1 $b xb2e<br/>147 0  $a a<br/>152    $a RDA-FR<br/>154    $a xa<br/>241  1 $3 11925586 $a Stoker, Bram (1847-1912) $t Dracula $c Choix $k Bruneel-Ziane $7 ba0yba0y $8 freeng<br/>333    $a Ouvrage parascolaire, niveau collège et lycée professionnel<br/>370    $a Choix d’extraits signalant les passages supprimés et résumant l’intrigue entre deux extraits $a Accompagné d’un dossier comprenant notamment une présentation de l’auteur et de son œuvre en contexte, une étude de l’œuvre selon 5 thématiques et un lexique établi par Michèle Sendre $a Illustrations $a Complété par des ressources pédagogiques à destination des enseignants : 2 fiches d’activité (« Dracula : entrer dans l’œuvre » et « Dracula : histoire des arts ») et un livre du professeur disponibles sur le site de l’éditeur<br/>501  1 $3 11925586 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2122 2356 $a Stoker $b Bram $f 1847-1912 $4 070<br/>501  1 $3 16718404 $7 ba0yba0y $8 fre### $o ISNI 0000 0004 1990 1570 $a Ziane-Bruneel $b Nadia $f 1963-.... $4 340<br/>501  1 $3 12202765 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 0064 6937 $a Sendre-Haïdar $b Michèle $4 205<br/>541  1 $5 xxr $p Est une sélection de [œuvre] $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula<br/>640 6  $0 Date de première publication $f #2014#####<br/>676    $a 823 $v 23<br/>801  0 $a FR $b FR-751131010 $c 20221005 $g RDA-FR<br/>810    $a Dracula / Bram Stoker ; traduction de Lucienne Molitor ; choix des extraits et appareil pédagogique établi par Nadia Bruneel-Ziane,... ; lexique établi par Michèle Sendre. – [Paris] : Magnard, impr. 2014. – [Texte noté : sans médiation]. – ISBN 978-2-210-74066-2</p>

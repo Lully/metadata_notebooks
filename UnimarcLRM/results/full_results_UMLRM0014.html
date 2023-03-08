@@ -21,20 +21,33 @@ input {font-style: italic;
 		  
 ------------------------------*/
 
+body.e {background-color: #eeffff;}
+body.o {background-color: #ffeeff;}
+
+.comment {font-family: Courier New;
+		  font-size: 0.8em;
+		 }
+
 /* Métadonnées */
 div.detailed {float: left;
-			  width: 80%;
+			  width: 60%;
 			  padding-right: 20px;}
+			  
+div.detailed_sup {float: left;
+			      width: 60%;
+			      padding-right: 20px;}
+			 
+			  
 p.detailed.label {font-weight: bold;
 					 color: #05513c;
 					}
 
 div.rebonds {float: right;
-			width: 15%;
+			width: 35%;
 			background-color: #efefef;
 			padding: 20px;
 			border-radius: 20px;}
-span.rebond {padding-left: 8px;
+span.rebond {padding-left: 0px;
 			 }
 span.rebond a {text-decoration: none;
 			   font-weight: normal;
@@ -42,6 +55,27 @@ span.rebond a {text-decoration: none;
 			  }
 span.rebond a:hover {text-decoration: underline;
 			  }
+
+div.other_expressions {float: left;
+					   width: 80%}
+					   
+div.other_expressions ul {margin: 0;
+	   				   padding: 0;
+					   list-style: none;
+					   }
+div.other_expressions p {font-weight: bold;}
+div.other_expressions ul li {display: inline;
+							 background: #efefef;
+							 list-style-type: none;
+							 padding: 5px;
+							 margin: 2px;
+							 padding-bottom: 10px;
+							 border: 1px solid #600;
+							 max-width: 100px;
+  							 float: left;}
+div.other_expressions ul li a {text-align: center ;
+							   text-decoration: none ;}
+div.other_expressions ul li:hover {background: #a6a6a6;}			 
 
 
 /* Filtres */
@@ -64,12 +98,16 @@ div.ui-rangeslider {width: 40%;}
 
 
 /* Liste des exemplaires*/
-.items {width: 100%;
+.items {width: 80%;
 		  float: left;}
 
 
 .avail {background-color: #beff9f}
 .unavail {background-color: #ffe2d7}
+
+div.item2metassup {font-size: 0.8em;
+					margin-top: -10px;
+					margin-left: 20px;}
 
 
 /* Métadonnées professionnelles*/
@@ -99,18 +137,23 @@ a.link2work {color: #5a918a;
 
 .short_result_details {margin-left: 20px;
 					   font-size: 0.8em;}</style></head>
-<body>
+<body class='e'>
 
 <div class="entete">
 <p>Rappel de la recherche : <strong></strong></p>
 <p class='back'><a href='short_results_e.html'>Retour à la liste des résultats</a></p><h1>Résultat 5</h1></div><div class='full_record'>
 <p class='detailed label'>Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra, programme, 2006-05, Texte noté. Image fixe</p>
-<div class='detailed'><p class='detailed'><br/><br/>Date de copyright de l’expression : 2005</p></div></div>
+<div class='detailed'><p class='detailed'><br/><br/>Date de copyright de l’expression : 2005</p></div>
+<div class='detailed_sup'><p class='detailed'>Description : Présence d’illustrations<br/><br/><br/>Date de copyright de la première expression : 2005<br/></p></div>
+<div class='rebonds'></div>
 <div class='filters'><h3>Filtres</h3>
-<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/>  <a class="filters_lng" href="#">français</a>  <div class='yearRange'><p>Filtre par année</p></div></div>
+<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/> <a href='#'>Disponible</a>  <a class="filters_lng" href="#">français</a>  <div class='yearRange'><p>Filtre par année</p></div></div>
 <div class='filters2'></div></div>
-<div class='items'><h3>Liste des exemplaires</h3>
-<p class='unavail'>Emprunté - Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra, programme, 2006-05, Texte noté. Image fixe - Bibliothèque municipale de Célesteville ADULTES COTE_UMLRM1004</p></div>
+<div class='items'>
+<h3>Liste des exemplaires</h3>
+<div class='item'><p class='avail'>Disponible - Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra, programme, 2006-05, Texte noté. Image fixe - Bibliothèque municipale de Célesteville ADULTES COTE_UMLRM1004<br/><div class='item2metassup'>Titre: Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra : [chorégraphie de Jean-Claude Gallotta, musiques de Pascal Dusapin], [programme, 6 mai 2006, Opéra national de Paris, Opéra Bastille] /  Opéra national de Paris<br/>Edition: Paris. Opéra national de Paris. C 2005</div></p></div>
+</div>
+
 
 <div class='pro'>
 <hr/>
@@ -180,11 +223,11 @@ a.link2work {color: #5a918a;
 </svg></div>
 <div class="indexed_metas">
 <table class="indexed_metas_table">
-<tr><th>self_index</th><td>['jean claude gallotta nosferatu ballet de opera', '', '', 'jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris paris opera national de paris copyright 2005 texte note image fixe sans mediation', 'jean claude gallotta nosferatu ballet de opera', '', '', 'jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris paris opera national de paris copyright 2005 texte note image fixe sans mediation']</td></tr>
-<tr><th>linked_entities_index</th><td>['jean claude gallotta nosferatu ballet de opera programme 2006 05 texte note image fixe', 'jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris', 'paris opera national de paris 2005', '', '', '', '', '', 'jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris', 'paris opera national de paris 2005', '', '', '', '', '', '', '', 'jean claude gallotta nosferatu ballet de opera', "presence d'illustrations", '']</td></tr>
+<tr><th>self_index</th><td>['jean claude gallotta nosferatu ballet de opera', 'jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris paris opera national de paris copyright 2005 texte note image fixe sans mediation', 'jean claude gallotta nosferatu ballet de opera', 'jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris paris opera national de paris copyright 2005 texte note image fixe sans mediation']</td></tr>
+<tr><th>linked_entities_index</th><td>['jean claude gallotta nosferatu ballet de opera programme 2006 05 texte note image fixe', 'jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris', 'paris opera national de paris 2005', 'jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris', 'paris opera national de paris 2005', 'jean claude gallotta nosferatu ballet de opera', "presence d'illustrations"]</td></tr>
 <tr><th>resp_index</th><td>[]</td></tr>
 <tr><th>linked_resp_index</th><td>['opera national de paris']</td></tr>
-<tr><th>global_index</th><td> jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris presence d'illustrations paris opera national de paris 2005 jean claude gallotta nosferatu ballet de opera programme 2006 05 texte note image fixe opera national de paris jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris paris opera national de paris copyright 2005 texte note image fixe sans mediation jean claude gallotta nosferatu ballet de opera</td></tr>
+<tr><th>global_index</th><td>jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris jean claude gallotta nosferatu ballet de opera paris opera national de paris 2005 presence d'illustrations opera national de paris jean claude gallotta nosferatu ballet de opera choregraphie de jean claude gallotta musiques de pascal dusapin programme mai 2006 opera national de paris opera bastille opera national de paris paris opera national de paris copyright 2005 texte note image fixe sans mediation jean claude gallotta nosferatu ballet de opera programme 2006 05 texte note image fixe</td></tr>
 </table>
 </div>
 <p class="marc_record"><br/>000    01036cx  f2200229   4500<br/>001    UMLRM0014<br/>005    20220712.......D<br/>100    $a 20060703afrey50      ba0<br/>101 0  $a fre<br/>102    $a FR<br/>104    $a d2005<br/>105    $a ba<br/>145 0  $a b $b xb2e<br/>145 0  $a i $b axxe<br/>147 0  $a h<br/>152    $a RDA-FR<br/>154    $a xb<br/>232    $3 UMLRM0013 $7 ba0yba0y $8 frefre $a Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra $c programme $d 2006-05 $n Texte noté. Image fixe<br/>300    $a Réunit des analyses sur l’œuvre présentée, l'argument du ballet et des notices biographiques sur les interprètes<br/>640 6  $0 Date de copyright de l’expression $f #2005#####<br/>801  0 $a FR $b FR-751131015 $c 20220920<br/>810    $a  Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra: [chorégraphie de Jean-Claude Gallotta, musiques de Pascal Dusapin] : [programme, 6 mai 2006, Opéra national de Paris, Opéra Bastille] / Opéra national de Paris. – Paris : Opéra national de Paris, copyright 2005. – [Texte noté. Image fixe : sans médiation]</p>

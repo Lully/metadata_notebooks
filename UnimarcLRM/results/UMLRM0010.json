@@ -4,39 +4,19 @@
     "id": "UMLRM0010",
     "txt": "\n000    01239cx  h2200277   4500\n001    UMLRM0010\n005    20220927######.D\n100    $a 20220927afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2021\n125 02 $a k\n140    $a te $b etdoc $2 BnF-FonctTexMix\n145 0  $a i\n152    $a RDA-FR\n154    $a xa\n241  1 $3 15057905 $a Palma, Paola (1971-\u2026.) $3 15055051 $a Vezyroglou, Dimitri (1970-\u2026.) $t \"Nosferatu le vampire\" $7 ba0yba0y $8 frefre\n370    $a Bibliographie (8 pages) $a Webliographie (2 pages) $a Filmographie (3 pages) $a Glossaire\n501  1 $3 15057905 $7 ba0yba0y $8 fre### $o ISNI 0000 0000 0254 6542 $a Palma $b Paola $f 1971-\u2026. $4 070\n501  1 $3 15055051 $7 ba0yba0y $8 fre### $o ISNI 0000 0001 2027 9756 $a Vezyroglou $b Dimitri $f 1970-\u2026. $4 070\n631    $3 UMLRM0007 $7 ba0yba0y $8 freger $a Nosferatu, Phantom des Nacht $c film\n631    $3 UMLRM0001 $7 ba0yba0y $8 freger $a Nosferatu, eine Symphonie des Grauens $c film\n640 6  $0 Date de premi\u00e8re publication $f #2021#####\n676    $a 791.437 2 $v 23\n801  0 $a FR $b FR-751052119 $c 20220927\n810    $a \"Nosferatu le vampire\" / Paola Palma, Dimitri Vezyroglou. \u2013 Neuilly : Atlande, DL 2021. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 978-2-35030-689-6",
     "self_index": [
-        "",
-        "",
-        "",
         "bibliographie pages $?webliographie pages $?filmographie pages $?glossaire",
-        "",
-        "",
-        "",
-        "",
-        "bibliographie pages $?webliographie pages $?filmographie pages $?glossaire",
-        ""
+        "bibliographie pages $?webliographie pages $?filmographie pages $?glossaire"
     ],
     "linked_entities_index": [
         "nosferatu le vampire paola palma dimitri vezyroglou",
         "neuilly atlande dl 2021",
         "clefs concours",
-        "",
-        "",
-        "",
-        "",
         "nosferatu le vampire paola palma dimitri vezyroglou",
         "neuilly atlande dl 2021",
         "clefs concours",
-        "",
-        "",
-        "",
-        "",
-        "",
         "palma paola 1971 $?vezyroglou dimitri 1970 nosferatu le vampire",
-        "",
         "nosferatu le vampire paola palma dimitri vezyroglou neuilly atlande dl 2021 texte note sans mediation isbn 978 35030 689",
-        "",
         "palma paola 1971 $?vezyroglou dimitri 1970 nosferatu le vampire",
-        "",
         "nosferatu le vampire paola palma dimitri vezyroglou neuilly atlande dl 2021 texte note sans mediation isbn 978 35030 689"
     ],
     "resp_index": [
@@ -46,9 +26,10 @@
         "vezyroglou dimitri"
     ],
     "linked_resp_index": [],
-    "global_index": " clefs concours nosferatu le vampire paola palma dimitri vezyroglou vezyroglou dimitri bibliographie pages $?webliographie pages $?filmographie pages $?glossaire neuilly atlande dl 2021 palma paola palma paola 1971 $?vezyroglou dimitri 1970 nosferatu le vampire nosferatu le vampire paola palma dimitri vezyroglou neuilly atlande dl 2021 texte note sans mediation isbn 978 35030 689",
+    "global_index": "nosferatu le vampire paola palma dimitri vezyroglou neuilly atlande dl 2021 bibliographie pages $?webliographie pages $?filmographie pages $?glossaire vezyroglou dimitri clefs concours nosferatu le vampire paola palma dimitri vezyroglou neuilly atlande dl 2021 texte note sans mediation isbn 978 35030 689 palma paola 1971 $?vezyroglou dimitri 1970 nosferatu le vampire palma paola",
     "type": "o",
     "label": "Palma, Paola (1971-\u2026.) - Vezyroglou, Dimitri (1970-\u2026.), \"Nosferatu le vampire\"",
+    "label_html": "Palma, Paola (1971-\u2026.) - Vezyroglou, Dimitri (1970-\u2026.), \"Nosferatu le vampire\"",
     "splitted_label": "Palma, Paola\n(1971-\u2026.) -\nVezyroglou, Dimitri\n(1970-\u2026.),\n\"Nosferatu le\nvampire\"",
     "stats_zones": {
         "001": 1,
@@ -80,8 +61,8 @@
         ]
     },
     "respIds": [
-        "15055051",
-        "15057905"
+        "15057905",
+        "15055051"
     ],
     "toOeuvres": {},
     "toExpressions": {
@@ -96,11 +77,13 @@
     "toItems": {
         "UMLRM1003": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1003"
     },
-    "repr": "id : UMLRM0010\ntype initial : oe ; type : o\nlabel : Palma, Paola (1971-\u2026.) - Vezyroglou, Dimitri (1970-\u2026.), \"Nosferatu le vampire\"\n\nNotice : \n000    01239cx  h2200277   4500\n001    UMLRM0010\n005    20220927######.D\n100    $a 20220927afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2021\n125 02 $a k\n140    $a te $b etdoc $2 BnF-FonctTexMix\n145 0  $a i\n152    $a RDA-FR\n154    $a xa\n241  1 $3 15057905 $a Palma, Paola (1971-\u2026.) $3 15055051 $a Vezyroglou, Dimitri (1970-\u2026.) $t \"Nosferatu le vampire\" $7 ba0yba0y $8 frefre\n370    $a Bibliographie (8 pages) $a Webliographie (2 pages) $a Filmographie (3 pages) $a Glossaire\n501  1 $3 15057905 $7 ba0yba0y $8 fre### $o ISNI 0000 0000 0254 6542 $a Palma $b Paola $f 1971-\u2026. $4 070\n501  1 $3 15055051 $7 ba0yba0y $8 fre### $o ISNI 0000 0001 2027 9756 $a Vezyroglou $b Dimitri $f 1970-\u2026. $4 070\n631    $3 UMLRM0007 $7 ba0yba0y $8 freger $a Nosferatu, Phantom des Nacht $c film\n631    $3 UMLRM0001 $7 ba0yba0y $8 freger $a Nosferatu, eine Symphonie des Grauens $c film\n640 6  $0 Date de premi\u00e8re publication $f #2021#####\n676    $a 791.437 2 $v 23\n801  0 $a FR $b FR-751052119 $c 20220927\n810    $a \"Nosferatu le vampire\" / Paola Palma, Dimitri Vezyroglou. \u2013 Neuilly : Atlande, DL 2021. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 978-2-35030-689-6 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b7970700>\nIndexation :  vezyroglou dimitri palma paola bibliographie pages $?webliographie pages $?filmographie pages $?glossaire",
+    "other_expressions": {},
+    "repr": "id : UMLRM0010\ntype initial : oe ; type : o\nlabel : Palma, Paola (1971-\u2026.) - Vezyroglou, Dimitri (1970-\u2026.), \"Nosferatu le vampire\"\n\nNotice : \n000    01239cx  h2200277   4500\n001    UMLRM0010\n005    20220927######.D\n100    $a 20220927afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2021\n125 02 $a k\n140    $a te $b etdoc $2 BnF-FonctTexMix\n145 0  $a i\n152    $a RDA-FR\n154    $a xa\n241  1 $3 15057905 $a Palma, Paola (1971-\u2026.) $3 15055051 $a Vezyroglou, Dimitri (1970-\u2026.) $t \"Nosferatu le vampire\" $7 ba0yba0y $8 frefre\n370    $a Bibliographie (8 pages) $a Webliographie (2 pages) $a Filmographie (3 pages) $a Glossaire\n501  1 $3 15057905 $7 ba0yba0y $8 fre### $o ISNI 0000 0000 0254 6542 $a Palma $b Paola $f 1971-\u2026. $4 070\n501  1 $3 15055051 $7 ba0yba0y $8 fre### $o ISNI 0000 0001 2027 9756 $a Vezyroglou $b Dimitri $f 1970-\u2026. $4 070\n631    $3 UMLRM0007 $7 ba0yba0y $8 freger $a Nosferatu, Phantom des Nacht $c film\n631    $3 UMLRM0001 $7 ba0yba0y $8 freger $a Nosferatu, eine Symphonie des Grauens $c film\n640 6  $0 Date de premi\u00e8re publication $f #2021#####\n676    $a 791.437 2 $v 23\n801  0 $a FR $b FR-751052119 $c 20220927\n810    $a \"Nosferatu le vampire\" / Paola Palma, Dimitri Vezyroglou. \u2013 Neuilly : Atlande, DL 2021. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 978-2-35030-689-6 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e3640>\nIndexation : bibliographie pages $?webliographie pages $?filmographie pages $?glossaire palma paola vezyroglou dimitri",
     "subjects": {},
     "genreforme": {},
     "detailed": "Description : Bibliographie (8 pages). Webliographie (2 pages). Filmographie (3 pages). Glossaire\n\n\nDate de premi\u00e8re publication : 2021",
     "rebonds": "",
+    "rebondids": [],
     "exprResp": [],
     "lang": [
         "fre"

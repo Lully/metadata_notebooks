@@ -5,38 +5,18 @@
     "txt": "\n000    01811cx  h2200313   4500\n001    UMLRM0114\n005    202210171342##.D\n033    $a https://www.wikidata.org/wiki/Q1750300 $2 Wikidata\n100    $a 20221017afrey50      ba0\n101 0  $a eng\n102    $a GB\n104    $a d2009\n125 00 $a m\n140    $a te $b rofan $2 BnF-GenreLitt\n152    $a RDA-FR\n154    $a xa\n241  1 $3 16166678 $o ISNI 0000 0001 1080 0544 $a Stoker, Dacre $3 16166639 $o ISNI 0000 0001 0923 8478 $a Holt, Ian (1964-\u2026.) $t Dracula, the un-dead $7 ba0yba0y $8 freeng\n370    $a Suite du roman de Bram Stoker $a Accompagn\u00e9e de reproductions en fac-simil\u00e9 de notes de Bram Stoker\n441  1 $3 16166678 $o ISNI 0000 0001 1080 0544 $a  Stoker, Dacre $3 16166639 $o ISNI 0000 0001 0923 8478 $a Holt, Ian (1964-\u2026.)\n501  1 $3 16166678 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 1080 0544 $a Stoker $b Dacre $4 070\n501  1 $3 16166639 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 0923 8478 $a Holt $b Ian $f 1964-\u2026. $4 070\n541  1 $5 xxi $p Suite de $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula\n541  1 $5 xxc $p A pour adaptation dans un autre mode de cr\u00e9ation [\u0153uvre] $3 UMLRM0186 $7 ba0yba0y $8 frefre $a Dufranne, Michel (1970-....) $a Kowalski, Piotr (1973-....) $t Dracula l\u2019immortel\n608    $3 17863011 $a Roman fantastique $2 rameauGenre\n608    $3 11945821 $a Litt\u00e9rature d'\u00e9pouvante $2 rameauGenre\n640 6  $0 Date de premi\u00e8re publication $f #2009#####\n801  0 $a FR $b FR-751131015 $c 20221017\n810    $a Wikip\u00e9dia : https://en.wikipedia.org/wiki/Dracula_the_Un-dead (2022-11-08)\n810    $a Dracula l'immortel / Dacre Stoker et Ian Holt ; traduit de l'anglais (\u00c9tats-Unis) par Jean-No\u00ebl Chatain. \u2013 Neuilly-sur-Seine : M. Lafon, DL 2009. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 978-2-7499-1109-0",
     "self_index": [
         "https www wikidata org wiki q1750300",
-        "",
-        "",
         "suite du roman de bram stoker$?accompagnee de reproductions en fac simile de notes de bram stoker",
-        "",
         "https www wikidata org wiki q1750300",
-        "",
-        "",
-        "suite du roman de bram stoker$?accompagnee de reproductions en fac simile de notes de bram stoker",
-        ""
+        "suite du roman de bram stoker$?accompagnee de reproductions en fac simile de notes de bram stoker"
     ],
     "linked_entities_index": [
         "dracula immortel dacre stoker et ian holt traduit de anglais etats unis par jean noel chatain",
         "neuilly sur seine michel lafon dl 2009$? espagne",
-        "",
-        "",
-        "",
-        "",
-        "",
         "dracula immortel dacre stoker et ian holt traduit de anglais etats unis par jean noel chatain",
         "neuilly sur seine michel lafon dl 2009$? espagne",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
         "stoker dacre$?holt ian 1964 dracula the un dead",
-        "",
         "dracula immortel dacre stoker et ian holt traduit de anglais etats unis par jean noel chatain neuilly sur seine lafon dl 2009 texte note sans mediation isbn 978 7499 1109",
-        "",
         "stoker dacre$?holt ian 1964 dracula the un dead",
-        "",
         "dracula immortel dacre stoker et ian holt traduit de anglais etats unis par jean noel chatain neuilly sur seine lafon dl 2009 texte note sans mediation isbn 978 7499 1109"
     ],
     "resp_index": [
@@ -48,9 +28,10 @@
     "linked_resp_index": [
         "chatain jean noel"
     ],
-    "global_index": " stoker dacre$?holt ian 1964 dracula the un dead dracula immortel dacre stoker et ian holt traduit de anglais etats unis par jean noel chatain chatain jean noel suite du roman de bram stoker$?accompagnee de reproductions en fac simile de notes de bram stoker holt ian neuilly sur seine michel lafon dl 2009$? espagne stoker dacre https www wikidata org wiki q1750300 dracula immortel dacre stoker et ian holt traduit de anglais etats unis par jean noel chatain neuilly sur seine lafon dl 2009 texte note sans mediation isbn 978 7499 1109",
+    "global_index": "chatain jean noel holt ian neuilly sur seine michel lafon dl 2009$? espagne stoker dacre$?holt ian 1964 dracula the un dead dracula immortel dacre stoker et ian holt traduit de anglais etats unis par jean noel chatain neuilly sur seine lafon dl 2009 texte note sans mediation isbn 978 7499 1109 https www wikidata org wiki q1750300 suite du roman de bram stoker$?accompagnee de reproductions en fac simile de notes de bram stoker dracula immortel dacre stoker et ian holt traduit de anglais etats unis par jean noel chatain stoker dacre",
     "type": "o",
     "label": "Stoker, Dacre - Holt, Ian (1964-\u2026.), Dracula, the un-dead",
+    "label_html": "Stoker, Dacre - Holt, Ian (1964-\u2026.), Dracula, the un-dead",
     "splitted_label": "Stoker, Dacre -\nHolt, Ian (1964-\u2026.),\nDracula, the un-dead",
     "stats_zones": {
         "001": 1,
@@ -99,7 +80,8 @@
     "toItems": {
         "UMLRM1037": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1038"
     },
-    "repr": "id : UMLRM0114\ntype initial : oe ; type : o\nlabel : Stoker, Dacre - Holt, Ian (1964-\u2026.), Dracula, the un-dead\n\nNotice : \n000    01811cx  h2200313   4500\n001    UMLRM0114\n005    202210171342##.D\n033    $a https://www.wikidata.org/wiki/Q1750300 $2 Wikidata\n100    $a 20221017afrey50      ba0\n101 0  $a eng\n102    $a GB\n104    $a d2009\n125 00 $a m\n140    $a te $b rofan $2 BnF-GenreLitt\n152    $a RDA-FR\n154    $a xa\n241  1 $3 16166678 $o ISNI 0000 0001 1080 0544 $a Stoker, Dacre $3 16166639 $o ISNI 0000 0001 0923 8478 $a Holt, Ian (1964-\u2026.) $t Dracula, the un-dead $7 ba0yba0y $8 freeng\n370    $a Suite du roman de Bram Stoker $a Accompagn\u00e9e de reproductions en fac-simil\u00e9 de notes de Bram Stoker\n441  1 $3 16166678 $o ISNI 0000 0001 1080 0544 $a  Stoker, Dacre $3 16166639 $o ISNI 0000 0001 0923 8478 $a Holt, Ian (1964-\u2026.)\n501  1 $3 16166678 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 1080 0544 $a Stoker $b Dacre $4 070\n501  1 $3 16166639 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 0923 8478 $a Holt $b Ian $f 1964-\u2026. $4 070\n541  1 $5 xxi $p Suite de $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula\n541  1 $5 xxc $p A pour adaptation dans un autre mode de cr\u00e9ation [\u0153uvre] $3 UMLRM0186 $7 ba0yba0y $8 frefre $a Dufranne, Michel (1970-....) $a Kowalski, Piotr (1973-....) $t Dracula l\u2019immortel\n608    $3 17863011 $a Roman fantastique $2 rameauGenre\n608    $3 11945821 $a Litt\u00e9rature d'\u00e9pouvante $2 rameauGenre\n640 6  $0 Date de premi\u00e8re publication $f #2009#####\n801  0 $a FR $b FR-751131015 $c 20221017\n810    $a Wikip\u00e9dia : https://en.wikipedia.org/wiki/Dracula_the_Un-dead (2022-11-08)\n810    $a Dracula l'immortel / Dacre Stoker et Ian Holt ; traduit de l'anglais (\u00c9tats-Unis) par Jean-No\u00ebl Chatain. \u2013 Neuilly-sur-Seine : M. Lafon, DL 2009. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 978-2-7499-1109-0 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b7972440>\nIndexation :  suite du roman de bram stoker$?accompagnee de reproductions en fac simile de notes de bram stoker holt ian https www wikidata org wiki q1750300 stoker dacre",
+    "other_expressions": {},
+    "repr": "id : UMLRM0114\ntype initial : oe ; type : o\nlabel : Stoker, Dacre - Holt, Ian (1964-\u2026.), Dracula, the un-dead\n\nNotice : \n000    01811cx  h2200313   4500\n001    UMLRM0114\n005    202210171342##.D\n033    $a https://www.wikidata.org/wiki/Q1750300 $2 Wikidata\n100    $a 20221017afrey50      ba0\n101 0  $a eng\n102    $a GB\n104    $a d2009\n125 00 $a m\n140    $a te $b rofan $2 BnF-GenreLitt\n152    $a RDA-FR\n154    $a xa\n241  1 $3 16166678 $o ISNI 0000 0001 1080 0544 $a Stoker, Dacre $3 16166639 $o ISNI 0000 0001 0923 8478 $a Holt, Ian (1964-\u2026.) $t Dracula, the un-dead $7 ba0yba0y $8 freeng\n370    $a Suite du roman de Bram Stoker $a Accompagn\u00e9e de reproductions en fac-simil\u00e9 de notes de Bram Stoker\n441  1 $3 16166678 $o ISNI 0000 0001 1080 0544 $a  Stoker, Dacre $3 16166639 $o ISNI 0000 0001 0923 8478 $a Holt, Ian (1964-\u2026.)\n501  1 $3 16166678 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 1080 0544 $a Stoker $b Dacre $4 070\n501  1 $3 16166639 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 0923 8478 $a Holt $b Ian $f 1964-\u2026. $4 070\n541  1 $5 xxi $p Suite de $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula\n541  1 $5 xxc $p A pour adaptation dans un autre mode de cr\u00e9ation [\u0153uvre] $3 UMLRM0186 $7 ba0yba0y $8 frefre $a Dufranne, Michel (1970-....) $a Kowalski, Piotr (1973-....) $t Dracula l\u2019immortel\n608    $3 17863011 $a Roman fantastique $2 rameauGenre\n608    $3 11945821 $a Litt\u00e9rature d'\u00e9pouvante $2 rameauGenre\n640 6  $0 Date de premi\u00e8re publication $f #2009#####\n801  0 $a FR $b FR-751131015 $c 20221017\n810    $a Wikip\u00e9dia : https://en.wikipedia.org/wiki/Dracula_the_Un-dead (2022-11-08)\n810    $a Dracula l'immortel / Dacre Stoker et Ian Holt ; traduit de l'anglais (\u00c9tats-Unis) par Jean-No\u00ebl Chatain. \u2013 Neuilly-sur-Seine : M. Lafon, DL 2009. \u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 978-2-7499-1109-0 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e5480>\nIndexation : https www wikidata org wiki q1750300 suite du roman de bram stoker$?accompagnee de reproductions en fac simile de notes de bram stoker holt ian stoker dacre",
     "subjects": {},
     "genreforme": {
         "17863011": "",
@@ -107,11 +89,14 @@
     },
     "detailed": "Description : Suite du roman de Bram Stoker. Accompagn\u00e9e de reproductions en fac-simil\u00e9 de notes de Bram Stoker\n\n\nDate de premi\u00e8re publication : 2009",
     "rebonds": "<span class='rebond'><a href='full_results_UMLRM0004.html'>Suite de Stoker, Bram (1847-1912) Dracula</a></span>\n<span class='rebond'><a href='full_results_UMLRM0186.html'>A pour adaptation dans un autre mode de cr\u00e9ation [\u0153uvre] Dufranne, Michel (1970-....) Kowalski, Piotr (1973-....) Dracula l\u2019immortel</a></span>",
+    "rebondids": [
+        "UMLRM0004",
+        "UMLRM0186"
+    ],
     "exprResp": [
         "Chatain, Jean-No\u00ebl (Traducteur)"
     ],
     "lang": [
-        "eng",
         "fre"
     ],
     "exprContentType": [

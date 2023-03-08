@@ -49,6 +49,7 @@ class Record:
         self.self_index, self.linked_entities_index, self.resp_index, self.linked_resp_index, self.global_index = [[], [], [], [], []]
         self.type = get_type(xml_record, rectype)
         self.label = get_label(self)
+        self.label_html = html_label(self.label)
         self.splitted_label = split_label(self.label, self.type)
         self.stats_zones = get_stats_zones(xml_record)
         self.resp = get_responsabilites(xml_record, self.type)
@@ -58,6 +59,8 @@ class Record:
         self.toManifs = defaultdict(str)
         self.manifsYears = None
         self.toItems = defaultdict(str)
+        self.other_expressions = dict()
+
         self = construct_indexation(self, {})
         dic_id2type[self.id] = self.type
         self.repr = f"id : {self.id}\ntype initial : {self.init_type} ; type : {self.type}\n\
@@ -72,6 +75,9 @@ Indexation : {self.global_index}"
 class Manifestation(Record):
     def __init__(self, xml_record, rectype):
         super().__init__(xml_record, rectype)
+        self.title = manif2title(xml_record)
+        self.publisher = manif2publish(xml_record)
+        self.description = manif2description(xml_record)
         self.toExpressions = manif2expression(self.xml)
 
     def __repr__(self):
@@ -82,13 +88,41 @@ Vers expressions : {str(self.toExpressions)}\n\
 Vers items : {str(self.toItems)}"
         return representation
 
+
+def manif2title(xml_record):
+    # 200$a : 200$e. 200$f, 200$g
+    title = sru.record2fieldvalue(xml_record, "200$a")
+    f200e = ", ".join(sru.record2fieldvalue(xml_record, "200$e").split("¤"))
+    f200f = ", ".join(sru.record2fieldvalue(xml_record, "200$f").split("¤"))
+    f200g = ", ".join(sru.record2fieldvalue(xml_record, "200$g").split("¤"))
+    if f200e:
+        title += f" : {f200e}"
+    if f200f:
+        title += f" / {f200f}"
+    if f200g:
+        title += f", {f200g}"
+    return title
+
+def manif2publish(xml_record):
+    publisher = ""
+    f214a = "-".join(sru.record2fieldvalue(xml_record, "214$a").split("¤"))
+    f214c = ", ".join(sru.record2fieldvalue(xml_record, "214$c").split("¤"))
+    f214d = ", ".join(sru.record2fieldvalue(xml_record, "214$d").split("¤"))
+    publisher = ". ".join([el for el in [f214a, f214c, f214d] if el])
+    return publisher
+
+def manif2description(xml_record):
+    return ""
+
+
+
 class Oeuvre(Record):
     def __init__(self, xml_record, rectype):
         super().__init__(xml_record, rectype)
         self.subjects = get_subjects(xml_record)
         self.genreforme = get_genreforme(xml_record)
         self.detailed = construct_detailed_record(self, ["231", "241"], ["370", "378"], ["640"])
-        self.rebonds = get_rebonds(self, ["531", "541", "515"])
+        self.rebonds, self.rebondids = get_rebonds(self, ["531", "541", "515"])
         self.exprResp = None  # Mentions de responsabilités aux niveau des expressions
         self.lang = None
         self.exprContentType = None
@@ -100,6 +134,13 @@ Vers expressions : {str(self.toExpressions)}\n\
 Vers manifestations : {str(self.toManifs)}\n\
 Vers items : {str(self.toItems)}"
         return representation
+
+
+def html_label(label):
+    html_label = label
+    html_label = re.sub(f"[,\.] {re_content_type}[,\.]?", 
+                        r" <img src='icons/\1.png' alt='[\1]' title='\1'/>", html_label)
+    return html_label
 
 
 def get_subjects(xml_record):
@@ -172,7 +213,8 @@ def construct_indexation(record, dict_entities):
         current_value = sru.record2fieldvalue(record.xml, tag)
         current_value = re.sub(" ?$. ", " ", current_value)
         current_value = clean_string(current_value)
-        record.self_index.append(current_value)
+        if current_value:
+            record.self_index.append(current_value)
     for dico in [record.toOeuvres, record.toExpressions, record.toManifs, record.toItems]:
         values = []
         if type(dico) == dict:
@@ -180,31 +222,38 @@ def construct_indexation(record, dict_entities):
                 values.append(clean_string(dico[key]))
         record.linked_entities_index.extend(values)
     for resp_label in record.resp:
-        record.resp_index.append(clean_string(resp_label))
+        if clean_string(resp_label):
+            record.resp_index.append(clean_string(resp_label))
     if dict_entities:
         if record.type == "m":
             for expr in record.toExpressions:
                 if expr:
                     expr_rec = dict_entities[expr]
                     for resp_label in expr_rec.resp:
-                        record.linked_resp_index.append(clean_string(resp_label))
+                        if clean_string(resp_label):
+                            record.linked_resp_index.append(clean_string(resp_label))
             for oeuvre in record.toOeuvres:
                 oeuvre_rec = dict_entities[oeuvre]
                 for resp_label in oeuvre_rec.resp:
-                    record.linked_resp_index.append(clean_string(resp_label))
+                    if clean_string(resp_label):
+                        record.linked_resp_index.append(clean_string(resp_label))
         elif record.type == "e":
             for manif in record.toManifs:
                 manif_rec = dict_entities[manif]
                 for resp_label in manif_rec.resp:
-                    record.linked_resp_index.append(clean_string(resp_label))
+                    if clean_string(resp_label):
+                        record.linked_resp_index.append(clean_string(resp_label))
                 for el in manif_rec.self_index:
-                    record.linked_entities_index.append(el)
+                    if el:
+                        record.linked_entities_index.append(el)
             for oeuvre in record.toOeuvres:
                 oeuvre_rec = dict_entities[oeuvre]
                 for resp_label in oeuvre_rec.resp:
-                    record.linked_resp_index.append(clean_string(resp_label))
+                    if clean_string(resp_label):
+                        record.linked_resp_index.append(clean_string(resp_label))
                 for el in oeuvre_rec.self_index:
-                    record.linked_entities_index.append(el)
+                    if el:
+                        record.linked_entities_index.append(el)
         elif record.type == "o":
             for manif in record.toManifs:
                 manif_rec = dict_entities[manif]
@@ -216,9 +265,11 @@ def construct_indexation(record, dict_entities):
                 if expr:
                     expr_rec = dict_entities[expr]
                     for resp_label in expr_rec.resp:
-                        record.linked_resp_index.append(clean_string(resp_label))
+                        if clean_string(resp_label):
+                            record.linked_resp_index.append(clean_string(resp_label))
                     for el in expr_rec.self_index:
-                        record.linked_entities_index.append(el)
+                        if el:
+                            record.linked_entities_index.append(el)
     record.global_index = record.self_index + record.linked_entities_index + record.resp_index + record.linked_resp_index
     record.global_index = " ".join(set(record.global_index))
     return record
@@ -258,8 +309,9 @@ class Expression(Record):
         self.exprContentType = self.expressionContentType
         self.exprResp = get_exprResp(self)
         self.detailed = construct_detailed_record(self, ["232", "242"], ["371"], ["640"])
-        self.rebonds = get_rebonds(self, ["531", "541", "515"])
-        self.other_expressions = None
+        self.detailed_sup = None       # Métadonnées venues des entités en lien
+        self.rebonds, self.rebondids = get_rebonds(self, ["531", "541", "515"])
+        self.other_works_expressions = None
 
 
     def __repr__(self):
@@ -281,8 +333,7 @@ def get_exprResp(expression):
 
 def get_expression_language(xml_record):
     # Récupérer la langue de l'expression
-    languages = [sru.record2fieldvalue(xml_record, "101$a"), 
-                 sru.record2fieldvalue(xml_record, "101$c")]
+    languages = [sru.record2fieldvalue(xml_record, "101$a")]
     languages = "¤".join(languages)
     languages = [el for el in languages.split("¤") if el]
     return list(set(languages))
@@ -374,21 +425,26 @@ def get_cote(xml_record):
 
 def get_rebonds(record, rebonds_tags):
     rebonds = []
+    rebondids = []
     for tag in rebonds_tags:
         for field_occ in record.xml.xpath(f"*[@tag='{tag}']"):
-            link = f"full_results_{sru.field2subfield(field_occ, '3')}.html"
-            text = []
-            for subf in field_occ.xpath("*"):
-                code = subf.get("code")
-                if code in ascii_lowercase:
-                    text.append(subf.text)
-            text = " ".join(text)
-            if link:
-                rebonds.append(f"<span class='rebond'><a href='{link}'>{text}</a></span>")
-            else:
-                rebonds.append(f"<span class='rebond'>{text}</span>")
+            oid = sru.field2subfield(field_occ, '3').split("¤")[0]
+            if oid:
+                rebondids.append(oid)
+                link = f"full_results_{oid}.html"
+                text = []
+                for subf in field_occ.xpath("*"):
+                    code = subf.get("code")
+                    if code in ascii_lowercase:
+                        text.append(subf.text)
+                text = " ".join(text)
+                text = html_label(text)
+                if link:
+                    rebonds.append(f"<span class='rebond'><a href='{link}'>{text}</a></span>")
+                else:
+                    rebonds.append(f"<span class='rebond'>{text}</span>")
     rebonds = "\n".join(rebonds)
-    return rebonds
+    return rebonds, rebondids
 
 def get_stats_zones(xml_record):
     # Renvoie un dictionnaire listant les zones avec leur nombre d'occurrences

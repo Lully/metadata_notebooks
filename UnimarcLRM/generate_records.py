@@ -122,6 +122,29 @@ def enrich_oeuvres(dict_entities):
 def enrich_expressions(dict_entities):
     # Pour chaque expression, ajouter la liste des liens vers
     # les autres expressions de la même oeuvre
+    for eid in dict_entities:
+        entity = dict_entities[eid]
+        if entity.type == "e":
+            # Récupérer la liste des autres expressions de la même oeuvre
+            for oid in entity.toOeuvres:
+                entity.toOeuvres[oid] = dict_entities[oid].label
+                for exprid in dict_entities[oid].toExpressions:
+                    if exprid != eid:
+                        expr = dict_entities[exprid]
+                        dict_entities[eid].other_expressions[exprid] = f"{expr.label} [{dict_entities[oid].label}]"
+                dict_entities[eid].detailed_sup = ""
+                dict_entities[eid].detailed_sup += dict_entities[oid].detailed + "\n"
+
+            # Récupérer la liste d'autres expressions d'autres oeuvres en lien à l'oeuvre
+                for rebondid in dict_entities[oid].rebondids:
+                    # print(entity.id, entity.label, ">>", oid, dict_entities[oid].label, ">>", rebondid, dict_entities[rebondid].label)
+                    if rebondid in dict_entities:
+                        rebond_record = dict_entities[rebondid]
+                        oeuvre_label = rebond_record.label
+                        for exprid in rebond_record.toExpressions:
+                            exp_record = dict_entities[exprid]
+                            # REPRENDRE ICI LA RECUPERATION DES EXPR D'OEUVRES EN LIEN
+                            dict_entities[eid].other_expressions[exprid] = f"{exp_record.label} [{oeuvre_label}]"
     return dict_entities
 
 

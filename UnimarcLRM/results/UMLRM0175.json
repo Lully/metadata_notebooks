@@ -5,35 +5,18 @@
     "txt": "\n000    01561nx  f2200301   4500\n001    UMLRM0175\n100    $a 20221029afrey50      ba0\n101 2  $a ger $a fre $a eng $c ger $j fre\n102    $a FR\n104    $a d2013\n127    $a 1130\n145    $a b $b xa2ae\n147    $a a $e d $h a\n147 1  $a h $e c $h b\n147 1  $a g $e d $h u\n147 1  $a e $e d $h b\n152    $a  RDA-FR\n154    $a xb\n232    $3 UMLRM0174 $7 ba0yba0y $8 frefre $a Les grands classiques du cin\u00e9ma allemand $k RDM vid\u00e9o $m Anglais, allemand, fran\u00e7ais ; sous-titrage en fran\u00e7ais $n Image anim\u00e9e\n532    $5 xxp $3 UMLRM0002 $7 ba0yba0y $8 freger $t Nosferatu, eine Symphonie des Grauens $c film $l Version restaur\u00e9e $o 1995 $w 60mn $m Fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freger $a Der Golem wie er in die Welt kam $c film $l Version restaur\u00e9e $o 2002 $m Anglais-fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freger $a M $c film $l Version restaur\u00e9e $o 2003 $m Allemand ; sous-titrage en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freger $a Das Cabinet des Dr. Caligari $c film $l Version teint\u00e9e $o 1994 $m Allemand ; sous-titrage en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freger $a Dr. Mabuse der Spieler $c film $l Version teint\u00e9e $o 2000 $m Allemand ; sous-titrage en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freger $a Faust, eine deutsche Volkssage $c film $l Version s\u00e9pia $o 2002 $m Allemand ; sous-titrage en fran\u00e7ais\n640 6  $0 Date de premi\u00e8re publication $f #2013#####\n801  0 $a FR $b FR-751131015 $c 20221029\n810    $a Les grands classiques du cin\u00e9ma allemand. \u2013 [Sannois] : RDM vid\u00e9o [\u00e9diteur, distributeur], [DL 2013]. \u2013 [Image anim\u00e9e : vid\u00e9o]",
     "self_index": [
         "les grands classiques du cinema allemand",
-        "",
-        "",
         "les grands classiques du cinema allemand sannois rdm video editeur distributeur dl 2013 image animee video",
         "les grands classiques du cinema allemand",
-        "",
-        "",
         "les grands classiques du cinema allemand sannois rdm video editeur distributeur dl 2013 image animee video"
     ],
     "linked_entities_index": [
         "les grands classiques du cinema allemand rdm video anglais allemand francais sous titrage en francais image animee",
         "les grands classiques du cinema allemand",
         "sannois rdm video dl 2013 sannois rdm video",
-        "",
-        "",
-        "",
-        "",
-        "",
         "les grands classiques du cinema allemand",
         "sannois rdm video dl 2013 sannois rdm video",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
         "les grands classiques du cinema allemand",
-        "coffret reunissant films appartenant au cinema expressionniste allemand et dont ont fait l'objet de publications separees chez le meme editeur",
-        ""
+        "coffret reunissant films appartenant au cinema expressionniste allemand et dont ont fait l'objet de publications separees chez le meme editeur"
     ],
     "resp_index": [],
     "linked_resp_index": [
@@ -44,9 +27,10 @@
         "wiene robert",
         "rdm video"
     ],
-    "global_index": " coffret reunissant films appartenant au cinema expressionniste allemand et dont ont fait l'objet de publications separees chez le meme editeur les grands classiques du cinema allemand sannois rdm video editeur distributeur dl 2013 image animee video wiene robert wegener paul sannois rdm video dl 2013 sannois rdm video murnau friedrich wilhelm les grands classiques du cinema allemand les grands classiques du cinema allemand rdm video anglais allemand francais sous titrage en francais image animee rdm video lang fritz",
+    "global_index": "rdm video les grands classiques du cinema allemand rdm video anglais allemand francais sous titrage en francais image animee wegener paul lang fritz les grands classiques du cinema allemand sannois rdm video editeur distributeur dl 2013 image animee video wiene robert murnau friedrich wilhelm les grands classiques du cinema allemand coffret reunissant films appartenant au cinema expressionniste allemand et dont ont fait l'objet de publications separees chez le meme editeur sannois rdm video dl 2013 sannois rdm video",
     "type": "e",
     "label": "Les grands classiques du cin\u00e9ma allemand, Anglais, allemand, fran\u00e7ais ; sous-titrage en fran\u00e7ais, Image anim\u00e9e",
+    "label_html": "Les grands classiques du cin\u00e9ma allemand, Anglais, allemand, fran\u00e7ais ; sous-titrage en fran\u00e7ais <img src='icons/Image anim\u00e9e.png' alt='[Image anim\u00e9e]' title='Image anim\u00e9e'/>",
     "splitted_label": "Les grands\nclassiques du cin\u00e9ma\nallemand, Anglais,\nallemand, fran\u00e7ais ;\nsous-titrage en\nfran\u00e7ais, Image\nanim\u00e9e",
     "stats_zones": {
         "001": 1,
@@ -68,7 +52,7 @@
     "resp": {},
     "respIds": [],
     "toOeuvres": {
-        "UMLRM0174": "Les grands classiques du cin\u00e9ma allemand, RDM vid\u00e9o, Anglais, allemand, fran\u00e7ais ; sous-titrage en fran\u00e7ais, Image anim\u00e9e"
+        "UMLRM0174": "Les grands classiques du cin\u00e9ma allemand"
     },
     "toExpressions": {},
     "toManifs": {
@@ -78,16 +62,19 @@
         2013
     ],
     "toItems": {},
-    "repr": "id : UMLRM0175\ntype initial : oe ; type : e\nlabel : Les grands classiques du cin\u00e9ma allemand, Anglais, allemand, fran\u00e7ais ; sous-titrage en fran\u00e7ais, Image anim\u00e9e\n\nNotice : \n000    01561nx  f2200301   4500\n001    UMLRM0175\n100    $a 20221029afrey50      ba0\n101 2  $a ger $a fre $a eng $c ger $j fre\n102    $a FR\n104    $a d2013\n127    $a 1130\n145    $a b $b xa2ae\n147    $a a $e d $h a\n147 1  $a h $e c $h b\n147 1  $a g $e d $h u\n147 1  $a e $e d $h b\n152    $a  RDA-FR\n154    $a xb\n232    $3 UMLRM0174 $7 ba0yba0y $8 frefre $a Les grands classiques du cin\u00e9ma allemand $k RDM vid\u00e9o $m Anglais, allemand, fran\u00e7ais ; sous-titrage en fran\u00e7ais $n Image anim\u00e9e\n532    $5 xxp $3 UMLRM0002 $7 ba0yba0y $8 freger $t Nosferatu, eine Symphonie des Grauens $c film $l Version restaur\u00e9e $o 1995 $w 60mn $m Fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freger $a Der Golem wie er in die Welt kam $c film $l Version restaur\u00e9e $o 2002 $m Anglais-fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freger $a M $c film $l Version restaur\u00e9e $o 2003 $m Allemand ; sous-titrage en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freger $a Das Cabinet des Dr. Caligari $c film $l Version teint\u00e9e $o 1994 $m Allemand ; sous-titrage en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freger $a Dr. Mabuse der Spieler $c film $l Version teint\u00e9e $o 2000 $m Allemand ; sous-titrage en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freger $a Faust, eine deutsche Volkssage $c film $l Version s\u00e9pia $o 2002 $m Allemand ; sous-titrage en fran\u00e7ais\n640 6  $0 Date de premi\u00e8re publication $f #2013#####\n801  0 $a FR $b FR-751131015 $c 20221029\n810    $a Les grands classiques du cin\u00e9ma allemand. \u2013 [Sannois] : RDM vid\u00e9o [\u00e9diteur, distributeur], [DL 2013]. \u2013 [Image anim\u00e9e : vid\u00e9o] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b7972f80>\nIndexation :  les grands classiques du cinema allemand les grands classiques du cinema allemand sannois rdm video editeur distributeur dl 2013 image animee video",
+    "other_expressions": {},
+    "repr": "id : UMLRM0175\ntype initial : oe ; type : e\nlabel : Les grands classiques du cin\u00e9ma allemand, Anglais, allemand, fran\u00e7ais ; sous-titrage en fran\u00e7ais, Image anim\u00e9e\n\nNotice : \n000    01561nx  f2200301   4500\n001    UMLRM0175\n100    $a 20221029afrey50      ba0\n101 2  $a ger $a fre $a eng $c ger $j fre\n102    $a FR\n104    $a d2013\n127    $a 1130\n145    $a b $b xa2ae\n147    $a a $e d $h a\n147 1  $a h $e c $h b\n147 1  $a g $e d $h u\n147 1  $a e $e d $h b\n152    $a  RDA-FR\n154    $a xb\n232    $3 UMLRM0174 $7 ba0yba0y $8 frefre $a Les grands classiques du cin\u00e9ma allemand $k RDM vid\u00e9o $m Anglais, allemand, fran\u00e7ais ; sous-titrage en fran\u00e7ais $n Image anim\u00e9e\n532    $5 xxp $3 UMLRM0002 $7 ba0yba0y $8 freger $t Nosferatu, eine Symphonie des Grauens $c film $l Version restaur\u00e9e $o 1995 $w 60mn $m Fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freger $a Der Golem wie er in die Welt kam $c film $l Version restaur\u00e9e $o 2002 $m Anglais-fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freger $a M $c film $l Version restaur\u00e9e $o 2003 $m Allemand ; sous-titrage en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freger $a Das Cabinet des Dr. Caligari $c film $l Version teint\u00e9e $o 1994 $m Allemand ; sous-titrage en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freger $a Dr. Mabuse der Spieler $c film $l Version teint\u00e9e $o 2000 $m Allemand ; sous-titrage en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freger $a Faust, eine deutsche Volkssage $c film $l Version s\u00e9pia $o 2002 $m Allemand ; sous-titrage en fran\u00e7ais\n640 6  $0 Date de premi\u00e8re publication $f #2013#####\n801  0 $a FR $b FR-751131015 $c 20221029\n810    $a Les grands classiques du cin\u00e9ma allemand. \u2013 [Sannois] : RDM vid\u00e9o [\u00e9diteur, distributeur], [DL 2013]. \u2013 [Image anim\u00e9e : vid\u00e9o] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e5fc0>\nIndexation : les grands classiques du cinema allemand sannois rdm video editeur distributeur dl 2013 image animee video les grands classiques du cinema allemand",
     "lang": [
+        "fre",
         "eng",
-        "ger",
-        "fre"
+        "ger"
     ],
     "expressionContentType": "Image anim\u00e9e",
     "exprContentType": "Image anim\u00e9e",
     "exprResp": [],
     "detailed": "\n\nDate de premi\u00e8re publication : 2013",
+    "detailed_sup": "Description :  Coffret r\u00e9unissant 6 films appartenant au cin\u00e9ma expressionniste allemand, et dont 5 ont fait l\u2019objet de publications s\u00e9par\u00e9es chez le m\u00eame \u00e9diteur.\n\n\nDate de premi\u00e8re publication : 2013\n",
     "rebonds": "",
-    "other_expressions": null
+    "rebondids": [],
+    "other_works_expressions": null
 }

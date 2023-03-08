@@ -4,16 +4,8 @@
     "id": "UMLRM0142",
     "txt": "\n000    01613cx  h2200289   4500\n001    UMLRM0142\n005    20220725.......D\n100    $a 20060705afrey50      ba0\n102    $a FR\n104    $a d2001\n125 0  $a m\n140    $a da $b bt  $2 IAML-Formes\n145 0  $a c\n152    $a RDA-FR\n154    $a xa\n241  1 $3 12150665 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 3153 2932 $a Gallotta, Jean-Claude (1950-....) $t Nosferatu\n370    $c Cr\u00e9\u00e9 par le ballet de l'Op\u00e9ra de Paris\n501  1 $3 12150665 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 3153 2932 $a Gallotta $b Jean-Claude $f 1950-.... $4 200\n541  1 $5 x|r $p Utilise la musique [\u0153uvre] $3 UMLRM0143 $7 ba0yba0y $8 frelat $a Dusapin,Pascal (1955-....) $t Extenso\n541  1 $5 x|r $p Utilise la musique [\u0153uvre] $3 UMLRM0145 $7 ba0yba0y $8 fre### $a Dusapin,Pascal (1955-....) $t Watt\n541  1 $5 x|r $p Utilise la musique [\u0153uvre] $3 UMLRM0146 $7 ba0yba0y $8 fre###t $a Dusapin,Pascal (1955-....) $t Celo\n541  1 $5 x|r $p Utilise la musique [\u0153uvre] $3 UMLRM0144 $7 ba0yba0y $8 frelat $a Dusapin,Pascal (1955-....) $t Apex\n608    $3 11934698 $a Ballet $2 rameauGenre\n640 6  $0 Premi\u00e8re repr\u00e9sentation (cr\u00e9ation) $p FR $d Paris $e Op\u00e9ra Bastille $f #20010502#\n801  0 $a FR $b FR-751131015 $c 20220725\n810    $a M\u00e9mop\u00e9ra : http://www.memopera.fr (2013-03-15)\n810    $a Jean-Claude Gallotta, Nosferatu, ballet de l'Op\u00e9ra: [chor\u00e9graphie de Jean-Claude Gallotta, musiques de Pascal Dusapin] : [programme, 6 mai 2006, Op\u00e9ra national de Paris, Op\u00e9ra Bastille] / Op\u00e9ra national de Paris. \u2013 Paris : Op\u00e9ra national de Paris, copyright 2005. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation]",
     "self_index": [
-        "",
-        "",
-        "",
         "cree par le ballet de opera de paris",
-        "",
-        "",
-        "",
-        "",
-        "cree par le ballet de opera de paris",
-        ""
+        "cree par le ballet de opera de paris"
     ],
     "linked_entities_index": [],
     "resp_index": [
@@ -21,9 +13,10 @@
         "gallotta jean claude"
     ],
     "linked_resp_index": [],
-    "global_index": " gallotta jean claude cree par le ballet de opera de paris",
+    "global_index": "cree par le ballet de opera de paris gallotta jean claude",
     "type": "o",
     "label": "Gallotta, Jean-Claude (1950-....), Nosferatu",
+    "label_html": "Gallotta, Jean-Claude (1950-....), Nosferatu",
     "splitted_label": "Gallotta, Jean-\nClaude (1950-....),\nNosferatu",
     "stats_zones": {
         "001": 1,
@@ -58,13 +51,20 @@
     "toManifs": {},
     "manifsYears": [],
     "toItems": {},
-    "repr": "id : UMLRM0142\ntype initial : oe ; type : o\nlabel : Gallotta, Jean-Claude (1950-....), Nosferatu\n\nNotice : \n000    01613cx  h2200289   4500\n001    UMLRM0142\n005    20220725.......D\n100    $a 20060705afrey50      ba0\n102    $a FR\n104    $a d2001\n125 0  $a m\n140    $a da $b bt  $2 IAML-Formes\n145 0  $a c\n152    $a RDA-FR\n154    $a xa\n241  1 $3 12150665 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 3153 2932 $a Gallotta, Jean-Claude (1950-....) $t Nosferatu\n370    $c Cr\u00e9\u00e9 par le ballet de l'Op\u00e9ra de Paris\n501  1 $3 12150665 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 3153 2932 $a Gallotta $b Jean-Claude $f 1950-.... $4 200\n541  1 $5 x|r $p Utilise la musique [\u0153uvre] $3 UMLRM0143 $7 ba0yba0y $8 frelat $a Dusapin,Pascal (1955-....) $t Extenso\n541  1 $5 x|r $p Utilise la musique [\u0153uvre] $3 UMLRM0145 $7 ba0yba0y $8 fre### $a Dusapin,Pascal (1955-....) $t Watt\n541  1 $5 x|r $p Utilise la musique [\u0153uvre] $3 UMLRM0146 $7 ba0yba0y $8 fre###t $a Dusapin,Pascal (1955-....) $t Celo\n541  1 $5 x|r $p Utilise la musique [\u0153uvre] $3 UMLRM0144 $7 ba0yba0y $8 frelat $a Dusapin,Pascal (1955-....) $t Apex\n608    $3 11934698 $a Ballet $2 rameauGenre\n640 6  $0 Premi\u00e8re repr\u00e9sentation (cr\u00e9ation) $p FR $d Paris $e Op\u00e9ra Bastille $f #20010502#\n801  0 $a FR $b FR-751131015 $c 20220725\n810    $a M\u00e9mop\u00e9ra : http://www.memopera.fr (2013-03-15)\n810    $a Jean-Claude Gallotta, Nosferatu, ballet de l'Op\u00e9ra: [chor\u00e9graphie de Jean-Claude Gallotta, musiques de Pascal Dusapin] : [programme, 6 mai 2006, Op\u00e9ra national de Paris, Op\u00e9ra Bastille] / Op\u00e9ra national de Paris. \u2013 Paris : Op\u00e9ra national de Paris, copyright 2005. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b7972880>\nIndexation :  gallotta jean claude cree par le ballet de opera de paris",
+    "other_expressions": {},
+    "repr": "id : UMLRM0142\ntype initial : oe ; type : o\nlabel : Gallotta, Jean-Claude (1950-....), Nosferatu\n\nNotice : \n000    01613cx  h2200289   4500\n001    UMLRM0142\n005    20220725.......D\n100    $a 20060705afrey50      ba0\n102    $a FR\n104    $a d2001\n125 0  $a m\n140    $a da $b bt  $2 IAML-Formes\n145 0  $a c\n152    $a RDA-FR\n154    $a xa\n241  1 $3 12150665 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 3153 2932 $a Gallotta, Jean-Claude (1950-....) $t Nosferatu\n370    $c Cr\u00e9\u00e9 par le ballet de l'Op\u00e9ra de Paris\n501  1 $3 12150665 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 3153 2932 $a Gallotta $b Jean-Claude $f 1950-.... $4 200\n541  1 $5 x|r $p Utilise la musique [\u0153uvre] $3 UMLRM0143 $7 ba0yba0y $8 frelat $a Dusapin,Pascal (1955-....) $t Extenso\n541  1 $5 x|r $p Utilise la musique [\u0153uvre] $3 UMLRM0145 $7 ba0yba0y $8 fre### $a Dusapin,Pascal (1955-....) $t Watt\n541  1 $5 x|r $p Utilise la musique [\u0153uvre] $3 UMLRM0146 $7 ba0yba0y $8 fre###t $a Dusapin,Pascal (1955-....) $t Celo\n541  1 $5 x|r $p Utilise la musique [\u0153uvre] $3 UMLRM0144 $7 ba0yba0y $8 frelat $a Dusapin,Pascal (1955-....) $t Apex\n608    $3 11934698 $a Ballet $2 rameauGenre\n640 6  $0 Premi\u00e8re repr\u00e9sentation (cr\u00e9ation) $p FR $d Paris $e Op\u00e9ra Bastille $f #20010502#\n801  0 $a FR $b FR-751131015 $c 20220725\n810    $a M\u00e9mop\u00e9ra : http://www.memopera.fr (2013-03-15)\n810    $a Jean-Claude Gallotta, Nosferatu, ballet de l'Op\u00e9ra: [chor\u00e9graphie de Jean-Claude Gallotta, musiques de Pascal Dusapin] : [programme, 6 mai 2006, Op\u00e9ra national de Paris, Op\u00e9ra Bastille] / Op\u00e9ra national de Paris. \u2013 Paris : Op\u00e9ra national de Paris, copyright 2005. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e58c0>\nIndexation : cree par le ballet de opera de paris gallotta jean claude",
     "subjects": {},
     "genreforme": {
         "11934698": ""
     },
     "detailed": "Description : Cr\u00e9\u00e9 par le ballet de l'Op\u00e9ra de Paris\n\n\nPremi\u00e8re repr\u00e9sentation (cr\u00e9ation) : 02/05/2001 (Paris)",
     "rebonds": "<span class='rebond'><a href='full_results_UMLRM0143.html'>Utilise la musique [\u0153uvre] Dusapin,Pascal (1955-....) Extenso</a></span>\n<span class='rebond'><a href='full_results_UMLRM0145.html'>Utilise la musique [\u0153uvre] Dusapin,Pascal (1955-....) Watt</a></span>\n<span class='rebond'><a href='full_results_UMLRM0146.html'>Utilise la musique [\u0153uvre] Dusapin,Pascal (1955-....) Celo</a></span>\n<span class='rebond'><a href='full_results_UMLRM0144.html'>Utilise la musique [\u0153uvre] Dusapin,Pascal (1955-....) Apex</a></span>",
+    "rebondids": [
+        "UMLRM0143",
+        "UMLRM0145",
+        "UMLRM0146",
+        "UMLRM0144"
+    ],
     "exprResp": [],
     "lang": [],
     "exprContentType": []

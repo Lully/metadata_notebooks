@@ -21,20 +21,33 @@ input {font-style: italic;
 		  
 ------------------------------*/
 
+body.e {background-color: #eeffff;}
+body.o {background-color: #ffeeff;}
+
+.comment {font-family: Courier New;
+		  font-size: 0.8em;
+		 }
+
 /* Métadonnées */
 div.detailed {float: left;
-			  width: 80%;
+			  width: 60%;
 			  padding-right: 20px;}
+			  
+div.detailed_sup {float: left;
+			      width: 60%;
+			      padding-right: 20px;}
+			 
+			  
 p.detailed.label {font-weight: bold;
 					 color: #05513c;
 					}
 
 div.rebonds {float: right;
-			width: 15%;
+			width: 35%;
 			background-color: #efefef;
 			padding: 20px;
 			border-radius: 20px;}
-span.rebond {padding-left: 8px;
+span.rebond {padding-left: 0px;
 			 }
 span.rebond a {text-decoration: none;
 			   font-weight: normal;
@@ -42,6 +55,27 @@ span.rebond a {text-decoration: none;
 			  }
 span.rebond a:hover {text-decoration: underline;
 			  }
+
+div.other_expressions {float: left;
+					   width: 80%}
+					   
+div.other_expressions ul {margin: 0;
+	   				   padding: 0;
+					   list-style: none;
+					   }
+div.other_expressions p {font-weight: bold;}
+div.other_expressions ul li {display: inline;
+							 background: #efefef;
+							 list-style-type: none;
+							 padding: 5px;
+							 margin: 2px;
+							 padding-bottom: 10px;
+							 border: 1px solid #600;
+							 max-width: 100px;
+  							 float: left;}
+div.other_expressions ul li a {text-align: center ;
+							   text-decoration: none ;}
+div.other_expressions ul li:hover {background: #a6a6a6;}			 
 
 
 /* Filtres */
@@ -64,12 +98,16 @@ div.ui-rangeslider {width: 40%;}
 
 
 /* Liste des exemplaires*/
-.items {width: 100%;
+.items {width: 80%;
 		  float: left;}
 
 
 .avail {background-color: #beff9f}
 .unavail {background-color: #ffe2d7}
+
+div.item2metassup {font-size: 0.8em;
+					margin-top: -10px;
+					margin-left: 20px;}
 
 
 /* Métadonnées professionnelles*/
@@ -99,19 +137,22 @@ a.link2work {color: #5a918a;
 
 .short_result_details {margin-left: 20px;
 					   font-size: 0.8em;}</style></head>
-<body>
+<body class='o'>
 
 <div class="entete">
 <p>Rappel de la recherche : <strong></strong></p>
 <p class='back'><a href='short_results_o.html'>Retour à la liste des résultats</a></p><h1>Résultat 28</h1></div><div class='full_record'>
 <p class='detailed label'>Gallotta, Jean-Claude (1950-....), Nosferatu</p>
 <div class='detailed'><p class='detailed'>Description : Créé par le ballet de l'Opéra de Paris<br/><br/><br/>Première représentation (création) : 02/05/2001 (Paris)</p></div>
-<div class='rebonds'><p class='rebonds'><strong>Voir aussi</strong></br><span class='rebond'><a href='full_results_UMLRM0143.html'>Utilise la musique [œuvre] Dusapin,Pascal (1955-....) Extenso</a></span><br/><span class='rebond'><a href='full_results_UMLRM0145.html'>Utilise la musique [œuvre] Dusapin,Pascal (1955-....) Watt</a></span><br/><span class='rebond'><a href='full_results_UMLRM0146.html'>Utilise la musique [œuvre] Dusapin,Pascal (1955-....) Celo</a></span><br/><span class='rebond'><a href='full_results_UMLRM0144.html'>Utilise la musique [œuvre] Dusapin,Pascal (1955-....) Apex</a></span></p></div></div>
+<div class='rebonds'><p class='rebonds'><p><strong>Voir aussi</strong></p><ul><li><span class='rebond'><a href='full_results_UMLRM0143.html'>Utilise la musique [œuvre] Dusapin,Pascal (1955-....) Extenso</a></span></li><li><span class='rebond'><a href='full_results_UMLRM0145.html'>Utilise la musique [œuvre] Dusapin,Pascal (1955-....) Watt</a></span></li><li><span class='rebond'><a href='full_results_UMLRM0146.html'>Utilise la musique [œuvre] Dusapin,Pascal (1955-....) Celo</a></span></li><li><span class='rebond'><a href='full_results_UMLRM0144.html'>Utilise la musique [œuvre] Dusapin,Pascal (1955-....) Apex</a></span></li></ul></div>
 <div class='filters'><h3>Filtres</h3>
-<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/>   <div class='yearRange'><p>Filtre par année</p></div></div>
+<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/> <a href='#'>Disponible</a>   <div class='yearRange'><p>Filtre par année</p></div></div>
 <div class='filters2'></div></div>
-<div class='items'><h3>Liste des exemplaires</h3>
+<div class='items'>
+<h3>Liste des exemplaires</h3>
+
 </div>
+
 
 <div class='pro'>
 <hr/>
@@ -135,11 +176,11 @@ a.link2work {color: #5a918a;
 </svg></div>
 <div class="indexed_metas">
 <table class="indexed_metas_table">
-<tr><th>self_index</th><td>['', '', '', 'cree par le ballet de opera de paris', '', '', '', '', 'cree par le ballet de opera de paris', '']</td></tr>
+<tr><th>self_index</th><td>['cree par le ballet de opera de paris', 'cree par le ballet de opera de paris']</td></tr>
 <tr><th>linked_entities_index</th><td>[]</td></tr>
 <tr><th>resp_index</th><td>['gallotta jean claude', 'gallotta jean claude']</td></tr>
 <tr><th>linked_resp_index</th><td>[]</td></tr>
-<tr><th>global_index</th><td> gallotta jean claude cree par le ballet de opera de paris</td></tr>
+<tr><th>global_index</th><td>cree par le ballet de opera de paris gallotta jean claude</td></tr>
 </table>
 </div>
 <p class="marc_record"><br/>000    01613cx  h2200289   4500<br/>001    UMLRM0142<br/>005    20220725.......D<br/>100    $a 20060705afrey50      ba0<br/>102    $a FR<br/>104    $a d2001<br/>125 0  $a m<br/>140    $a da $b bt  $2 IAML-Formes<br/>145 0  $a c<br/>152    $a RDA-FR<br/>154    $a xa<br/>241  1 $3 12150665 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 3153 2932 $a Gallotta, Jean-Claude (1950-....) $t Nosferatu<br/>370    $c Créé par le ballet de l'Opéra de Paris<br/>501  1 $3 12150665 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 3153 2932 $a Gallotta $b Jean-Claude $f 1950-.... $4 200<br/>541  1 $5 x|r $p Utilise la musique [œuvre] $3 UMLRM0143 $7 ba0yba0y $8 frelat $a Dusapin,Pascal (1955-....) $t Extenso<br/>541  1 $5 x|r $p Utilise la musique [œuvre] $3 UMLRM0145 $7 ba0yba0y $8 fre### $a Dusapin,Pascal (1955-....) $t Watt<br/>541  1 $5 x|r $p Utilise la musique [œuvre] $3 UMLRM0146 $7 ba0yba0y $8 fre###t $a Dusapin,Pascal (1955-....) $t Celo<br/>541  1 $5 x|r $p Utilise la musique [œuvre] $3 UMLRM0144 $7 ba0yba0y $8 frelat $a Dusapin,Pascal (1955-....) $t Apex<br/>608    $3 11934698 $a Ballet $2 rameauGenre<br/>640 6  $0 Première représentation (création) $p FR $d Paris $e Opéra Bastille $f #20010502#<br/>801  0 $a FR $b FR-751131015 $c 20220725<br/>810    $a Mémopéra : http://www.memopera.fr (2013-03-15)<br/>810    $a Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra: [chorégraphie de Jean-Claude Gallotta, musiques de Pascal Dusapin] : [programme, 6 mai 2006, Opéra national de Paris, Opéra Bastille] / Opéra national de Paris. – Paris : Opéra national de Paris, copyright 2005. – [Texte noté. Image fixe : sans médiation]</p>

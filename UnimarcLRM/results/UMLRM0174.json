@@ -4,39 +4,19 @@
     "id": "UMLRM0174",
     "txt": "\n000    01505nx  f2200313   4500\n001    UMLRM0174\n100    $a 20221029afrey50      ba0\n102    $a FR\n104    $a d2013\n125 00 $a m\n140    $a ic $b fi $2 BnF-ImAnim\n145 0  $a b $b xa2ae\n147 0  $a h $e b\n152    $a RDA-FR\n154    $a xa\n231    $7 ba0yba0y $8 frefre $a Les grands classiques du cin\u00e9ma allemand $k RDM vid\u00e9o\n333    $a Adultes, tout public\n370    $a  Coffret r\u00e9unissant 6 films appartenant au cin\u00e9ma expressionniste allemand, et dont 5 ont fait l\u2019objet de publications s\u00e9par\u00e9es chez le m\u00eame \u00e9diteur.\n501  1 $3 11917269 $7 ba0yba0y $8 freger $o ISNI0000000122764261 $a Murnau $b Friedrich Wilhelm $f 1888-1931 $4 300\n501  1 $3 12117839 $7 ba0yba0y $8 freger $o ISNI0000000121215105 $a Lang $b Fritz $f 1890-1976 $4 300\n501  1 $3 15106528 $7 ba0yba0y $8 fre### $o ISNI0000000120371616 $a Wegener $b Paul $f 1874-1948 $4 300\n501  1 $3 13576249 $7 ba0yba0y $8 fre### $o ISNI0000000355696677 $a Wiene $b Robert $f 1881-1938 $4 300\n511 20 $7 ba0yba0y $8 frefre $a RDM Vid\u00e9o $4 340\n606    $3 12113861 $a Expressionnisme (cin\u00e9ma) $3 11949819 $y Allemagne $z 1918-1945\n608    $3 11934772 $a Anthologies $2 rameauForme\n608    $3 16242273 $a Films de fiction $2 rameauGenre\n640 6  $0 Date de premi\u00e8re publication $f #2013#####\n801  0 $a FR $b FR-751131015 $c 20221029\n810    $a Les grands classiques du cin\u00e9ma allemand. \u2013 [Sannois] : RDM vid\u00e9o [\u00e9diteur, distributeur], [DL 2013]. \u2013 [Image anim\u00e9e : vid\u00e9o]",
     "self_index": [
-        "",
-        "",
         "les grands classiques du cinema allemand",
         "coffret reunissant films appartenant au cinema expressionniste allemand et dont ont fait l'objet de publications separees chez le meme editeur",
-        "",
-        "",
-        "",
         "les grands classiques du cinema allemand",
-        "coffret reunissant films appartenant au cinema expressionniste allemand et dont ont fait l'objet de publications separees chez le meme editeur",
-        ""
+        "coffret reunissant films appartenant au cinema expressionniste allemand et dont ont fait l'objet de publications separees chez le meme editeur"
     ],
     "linked_entities_index": [
         "les grands classiques du cinema allemand",
         "sannois rdm video dl 2013 sannois rdm video",
-        "",
-        "",
-        "",
-        "",
-        "",
         "les grands classiques du cinema allemand",
         "sannois rdm video dl 2013 sannois rdm video",
-        "",
-        "",
-        "",
-        "",
-        "",
         "les grands classiques du cinema allemand",
-        "",
-        "",
         "les grands classiques du cinema allemand sannois rdm video editeur distributeur dl 2013 image animee video",
         "les grands classiques du cinema allemand",
-        "",
-        "",
         "les grands classiques du cinema allemand sannois rdm video editeur distributeur dl 2013 image animee video"
     ],
     "resp_index": [
@@ -54,9 +34,10 @@
     "linked_resp_index": [
         "rdm video"
     ],
-    "global_index": " rdm video coffret reunissant films appartenant au cinema expressionniste allemand et dont ont fait l'objet de publications separees chez le meme editeur les grands classiques du cinema allemand sannois rdm video editeur distributeur dl 2013 image animee video wiene robert sannois rdm video dl 2013 sannois rdm video murnau friedrich wilhelm les grands classiques du cinema allemand wegener paul lang fritz",
+    "global_index": "rdm video wegener paul lang fritz les grands classiques du cinema allemand sannois rdm video editeur distributeur dl 2013 image animee video wiene robert murnau friedrich wilhelm les grands classiques du cinema allemand coffret reunissant films appartenant au cinema expressionniste allemand et dont ont fait l'objet de publications separees chez le meme editeur sannois rdm video dl 2013 sannois rdm video",
     "type": "o",
     "label": "Les grands classiques du cin\u00e9ma allemand",
+    "label_html": "Les grands classiques du cin\u00e9ma allemand",
     "splitted_label": "Les grands\nclassiques du cin\u00e9ma\nallemand",
     "stats_zones": {
         "001": 1,
@@ -101,8 +82,8 @@
         "",
         "13576249",
         "11917269",
-        "12117839",
-        "15106528"
+        "15106528",
+        "12117839"
     ],
     "toOeuvres": {},
     "toExpressions": {
@@ -115,7 +96,8 @@
         2013
     ],
     "toItems": {},
-    "repr": "id : UMLRM0174\ntype initial : oe ; type : o\nlabel : Les grands classiques du cin\u00e9ma allemand\n\nNotice : \n000    01505nx  f2200313   4500\n001    UMLRM0174\n100    $a 20221029afrey50      ba0\n102    $a FR\n104    $a d2013\n125 00 $a m\n140    $a ic $b fi $2 BnF-ImAnim\n145 0  $a b $b xa2ae\n147 0  $a h $e b\n152    $a RDA-FR\n154    $a xa\n231    $7 ba0yba0y $8 frefre $a Les grands classiques du cin\u00e9ma allemand $k RDM vid\u00e9o\n333    $a Adultes, tout public\n370    $a  Coffret r\u00e9unissant 6 films appartenant au cin\u00e9ma expressionniste allemand, et dont 5 ont fait l\u2019objet de publications s\u00e9par\u00e9es chez le m\u00eame \u00e9diteur.\n501  1 $3 11917269 $7 ba0yba0y $8 freger $o ISNI0000000122764261 $a Murnau $b Friedrich Wilhelm $f 1888-1931 $4 300\n501  1 $3 12117839 $7 ba0yba0y $8 freger $o ISNI0000000121215105 $a Lang $b Fritz $f 1890-1976 $4 300\n501  1 $3 15106528 $7 ba0yba0y $8 fre### $o ISNI0000000120371616 $a Wegener $b Paul $f 1874-1948 $4 300\n501  1 $3 13576249 $7 ba0yba0y $8 fre### $o ISNI0000000355696677 $a Wiene $b Robert $f 1881-1938 $4 300\n511 20 $7 ba0yba0y $8 frefre $a RDM Vid\u00e9o $4 340\n606    $3 12113861 $a Expressionnisme (cin\u00e9ma) $3 11949819 $y Allemagne $z 1918-1945\n608    $3 11934772 $a Anthologies $2 rameauForme\n608    $3 16242273 $a Films de fiction $2 rameauGenre\n640 6  $0 Date de premi\u00e8re publication $f #2013#####\n801  0 $a FR $b FR-751131015 $c 20221029\n810    $a Les grands classiques du cin\u00e9ma allemand. \u2013 [Sannois] : RDM vid\u00e9o [\u00e9diteur, distributeur], [DL 2013]. \u2013 [Image anim\u00e9e : vid\u00e9o] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b7972f40>\nIndexation :  rdm video coffret reunissant films appartenant au cinema expressionniste allemand et dont ont fait l'objet de publications separees chez le meme editeur wiene robert murnau friedrich wilhelm les grands classiques du cinema allemand wegener paul lang fritz",
+    "other_expressions": {},
+    "repr": "id : UMLRM0174\ntype initial : oe ; type : o\nlabel : Les grands classiques du cin\u00e9ma allemand\n\nNotice : \n000    01505nx  f2200313   4500\n001    UMLRM0174\n100    $a 20221029afrey50      ba0\n102    $a FR\n104    $a d2013\n125 00 $a m\n140    $a ic $b fi $2 BnF-ImAnim\n145 0  $a b $b xa2ae\n147 0  $a h $e b\n152    $a RDA-FR\n154    $a xa\n231    $7 ba0yba0y $8 frefre $a Les grands classiques du cin\u00e9ma allemand $k RDM vid\u00e9o\n333    $a Adultes, tout public\n370    $a  Coffret r\u00e9unissant 6 films appartenant au cin\u00e9ma expressionniste allemand, et dont 5 ont fait l\u2019objet de publications s\u00e9par\u00e9es chez le m\u00eame \u00e9diteur.\n501  1 $3 11917269 $7 ba0yba0y $8 freger $o ISNI0000000122764261 $a Murnau $b Friedrich Wilhelm $f 1888-1931 $4 300\n501  1 $3 12117839 $7 ba0yba0y $8 freger $o ISNI0000000121215105 $a Lang $b Fritz $f 1890-1976 $4 300\n501  1 $3 15106528 $7 ba0yba0y $8 fre### $o ISNI0000000120371616 $a Wegener $b Paul $f 1874-1948 $4 300\n501  1 $3 13576249 $7 ba0yba0y $8 fre### $o ISNI0000000355696677 $a Wiene $b Robert $f 1881-1938 $4 300\n511 20 $7 ba0yba0y $8 frefre $a RDM Vid\u00e9o $4 340\n606    $3 12113861 $a Expressionnisme (cin\u00e9ma) $3 11949819 $y Allemagne $z 1918-1945\n608    $3 11934772 $a Anthologies $2 rameauForme\n608    $3 16242273 $a Films de fiction $2 rameauGenre\n640 6  $0 Date de premi\u00e8re publication $f #2013#####\n801  0 $a FR $b FR-751131015 $c 20221029\n810    $a Les grands classiques du cin\u00e9ma allemand. \u2013 [Sannois] : RDM vid\u00e9o [\u00e9diteur, distributeur], [DL 2013]. \u2013 [Image anim\u00e9e : vid\u00e9o] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e5f80>\nIndexation : rdm video wegener paul lang fritz wiene robert murnau friedrich wilhelm les grands classiques du cinema allemand coffret reunissant films appartenant au cinema expressionniste allemand et dont ont fait l'objet de publications separees chez le meme editeur",
     "subjects": {
         "12113861\u00a411949819": ""
     },
@@ -125,11 +107,12 @@
     },
     "detailed": "Description :  Coffret r\u00e9unissant 6 films appartenant au cin\u00e9ma expressionniste allemand, et dont 5 ont fait l\u2019objet de publications s\u00e9par\u00e9es chez le m\u00eame \u00e9diteur.\n\n\nDate de premi\u00e8re publication : 2013",
     "rebonds": "",
+    "rebondids": [],
     "exprResp": [],
     "lang": [
+        "fre",
         "eng",
-        "ger",
-        "fre"
+        "ger"
     ],
     "exprContentType": [
         "Image anim\u00e9e"

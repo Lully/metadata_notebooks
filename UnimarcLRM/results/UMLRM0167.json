@@ -5,35 +5,18 @@
     "txt": "\n000    01170nx  f2200265   4500\n001    UMLRM0167\n100    $a 20221021afrey50      ba0\n101 2  $a eng $j fre\n102    $a FR\n104    $a d2012\n145    $a b $b xa2ae\n147 1  $a h $e d $h c\n147 1  $a a $e c $h a\n147 1  $a g $e c $h a\n152    $a  RDA-FR\n154    $a xb\n232    $3 UMLRM0166 $7 ba0yba0y $8 fre### $a Guy Maddin $k ED Distribution $m Anglais ; sous-titrage en fran\u00e7ais $n Image anim\u00e9e\n371    $f Films en version originale anglaise avec sous-titrage optionnel en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freeng $a Tales from the Gimli hospital $c film $m Anglais ; sous-titrage en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freeng $a Archangel $c film $m Anglais ; sous-titrage en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freeng $a Careful $c film $m Anglais ; sous-titrage en fran\u00e7ais\n532    $5 xxp $3 UMLRM0136 $7 ba0yba0y $8 freeng $a Dracula : pages from a virgin's diary $c film $m Anglais ; sous-titrage en fran\u00e7ais\n640 6  $0 Date de premi\u00e8re publication $f #2012#####\n801  0 $a FR $b FR-751131015 $c 20221021\n810    $a Guy Maddin. \u2013 [Paris]  : ED distribution [\u00e9diteur, distributeur], [DL 2012]. \u2013 [Image anim\u00e9e : vid\u00e9o]",
     "self_index": [
         "guy maddin",
-        "",
-        "",
         "guy maddin paris ed distribution editeur distributeur dl 2012 image animee video",
         "guy maddin",
-        "",
-        "",
         "guy maddin paris ed distribution editeur distributeur dl 2012 image animee video"
     ],
     "linked_entities_index": [
         "guy maddin ed distribution anglais sous titrage en francais image animee",
         "guy maddin",
         "paris ed distribution dl 2012 paris ed distribution",
-        "",
-        "",
-        "",
-        "",
-        "",
         "guy maddin",
         "paris ed distribution dl 2012 paris ed distribution",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
         "guy maddin",
-        "coffret reunissant films appartenant au debut 1988 2002 de la carriere du realisateur canadien guy madden et dont ont fait l'objet de publications separees chez le meme editeur",
-        ""
+        "coffret reunissant films appartenant au debut 1988 2002 de la carriere du realisateur canadien guy madden et dont ont fait l'objet de publications separees chez le meme editeur"
     ],
     "resp_index": [],
     "linked_resp_index": [
@@ -41,9 +24,10 @@
         "maddin guy",
         "ed distribution"
     ],
-    "global_index": " coffret reunissant films appartenant au debut 1988 2002 de la carriere du realisateur canadien guy madden et dont ont fait l'objet de publications separees chez le meme editeur guy maddin paris ed distribution editeur distributeur dl 2012 image animee video maddin guy paris ed distribution dl 2012 paris ed distribution ed distribution guy maddin guy maddin ed distribution anglais sous titrage en francais image animee",
+    "global_index": "guy maddin paris ed distribution editeur distributeur dl 2012 image animee video guy maddin coffret reunissant films appartenant au debut 1988 2002 de la carriere du realisateur canadien guy madden et dont ont fait l'objet de publications separees chez le meme editeur ed distribution maddin guy paris ed distribution dl 2012 paris ed distribution guy maddin ed distribution anglais sous titrage en francais image animee",
     "type": "e",
     "label": "Guy Maddin, Anglais ; sous-titrage en fran\u00e7ais, Image anim\u00e9e",
+    "label_html": "Guy Maddin, Anglais ; sous-titrage en fran\u00e7ais <img src='icons/Image anim\u00e9e.png' alt='[Image anim\u00e9e]' title='Image anim\u00e9e'/>",
     "splitted_label": "Guy Maddin, Anglais\n; sous-titrage en\nfran\u00e7ais, Image\nanim\u00e9e",
     "stats_zones": {
         "001": 1,
@@ -65,7 +49,7 @@
     "resp": {},
     "respIds": [],
     "toOeuvres": {
-        "UMLRM0166": "Guy Maddin, ED Distribution, Anglais ; sous-titrage en fran\u00e7ais, Image anim\u00e9e"
+        "UMLRM0166": "Guy Maddin"
     },
     "toExpressions": {},
     "toManifs": {
@@ -77,7 +61,8 @@
     "toItems": {
         "UMLRM1048": "BM_CELESTEVILLE > MEZZANINE > COTE_UMLRM1048"
     },
-    "repr": "id : UMLRM0167\ntype initial : oe ; type : e\nlabel : Guy Maddin, Anglais ; sous-titrage en fran\u00e7ais, Image anim\u00e9e\n\nNotice : \n000    01170nx  f2200265   4500\n001    UMLRM0167\n100    $a 20221021afrey50      ba0\n101 2  $a eng $j fre\n102    $a FR\n104    $a d2012\n145    $a b $b xa2ae\n147 1  $a h $e d $h c\n147 1  $a a $e c $h a\n147 1  $a g $e c $h a\n152    $a  RDA-FR\n154    $a xb\n232    $3 UMLRM0166 $7 ba0yba0y $8 fre### $a Guy Maddin $k ED Distribution $m Anglais ; sous-titrage en fran\u00e7ais $n Image anim\u00e9e\n371    $f Films en version originale anglaise avec sous-titrage optionnel en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freeng $a Tales from the Gimli hospital $c film $m Anglais ; sous-titrage en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freeng $a Archangel $c film $m Anglais ; sous-titrage en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freeng $a Careful $c film $m Anglais ; sous-titrage en fran\u00e7ais\n532    $5 xxp $3 UMLRM0136 $7 ba0yba0y $8 freeng $a Dracula : pages from a virgin's diary $c film $m Anglais ; sous-titrage en fran\u00e7ais\n640 6  $0 Date de premi\u00e8re publication $f #2012#####\n801  0 $a FR $b FR-751131015 $c 20221021\n810    $a Guy Maddin. \u2013 [Paris]  : ED distribution [\u00e9diteur, distributeur], [DL 2012]. \u2013 [Image anim\u00e9e : vid\u00e9o] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b7972e40>\nIndexation : guy maddin  guy maddin paris ed distribution editeur distributeur dl 2012 image animee video",
+    "other_expressions": {},
+    "repr": "id : UMLRM0167\ntype initial : oe ; type : e\nlabel : Guy Maddin, Anglais ; sous-titrage en fran\u00e7ais, Image anim\u00e9e\n\nNotice : \n000    01170nx  f2200265   4500\n001    UMLRM0167\n100    $a 20221021afrey50      ba0\n101 2  $a eng $j fre\n102    $a FR\n104    $a d2012\n145    $a b $b xa2ae\n147 1  $a h $e d $h c\n147 1  $a a $e c $h a\n147 1  $a g $e c $h a\n152    $a  RDA-FR\n154    $a xb\n232    $3 UMLRM0166 $7 ba0yba0y $8 fre### $a Guy Maddin $k ED Distribution $m Anglais ; sous-titrage en fran\u00e7ais $n Image anim\u00e9e\n371    $f Films en version originale anglaise avec sous-titrage optionnel en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freeng $a Tales from the Gimli hospital $c film $m Anglais ; sous-titrage en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freeng $a Archangel $c film $m Anglais ; sous-titrage en fran\u00e7ais\n532    $5 xxp $7 ba0yba0y $8 freeng $a Careful $c film $m Anglais ; sous-titrage en fran\u00e7ais\n532    $5 xxp $3 UMLRM0136 $7 ba0yba0y $8 freeng $a Dracula : pages from a virgin's diary $c film $m Anglais ; sous-titrage en fran\u00e7ais\n640 6  $0 Date de premi\u00e8re publication $f #2012#####\n801  0 $a FR $b FR-751131015 $c 20221021\n810    $a Guy Maddin. \u2013 [Paris]  : ED distribution [\u00e9diteur, distributeur], [DL 2012]. \u2013 [Image anim\u00e9e : vid\u00e9o] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e5e80>\nIndexation : guy maddin paris ed distribution editeur distributeur dl 2012 image animee video guy maddin",
     "lang": [
         "eng"
     ],
@@ -85,6 +70,8 @@
     "exprContentType": "Image anim\u00e9e",
     "exprResp": [],
     "detailed": "Description : Films en version originale anglaise avec sous-titrage optionnel en fran\u00e7ais\n\n\nDate de premi\u00e8re publication : 2012",
+    "detailed_sup": "Description :  Coffret r\u00e9unissant 4 films appartenant au d\u00e9but (1988-2002) de la carri\u00e8re du r\u00e9alisateur canadien Guy Madden, et dont 3 ont fait l\u2019objet de publications s\u00e9par\u00e9es chez le m\u00eame \u00e9diteur.\n\n\nDate de premi\u00e8re publication : 2012\n",
     "rebonds": "",
-    "other_expressions": null
+    "rebondids": [],
+    "other_works_expressions": null
 }

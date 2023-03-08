@@ -4,39 +4,19 @@
     "id": "UMLRM0150",
     "txt": "\n000    01097nx  h2200253   4500\n001    UMLRM0150\n100    $a 20220927afrey50      ba0\n101 0  $a zxx\n102    $a FR\n104    $a d1968\n125 0  $a m\n140    $a is $b illus $2 BnF-FonctIco\n145 0  $a b $b xb2e\n147 0  $a a\n152    $a RDA-FR\n154    $a xa\n241  1 $3 11900673 $o ISNI 0000 0001 2125 532 $a Druillet, Philippe (1944-....) $t [Illustrations pour \"Dracula\" de Bram Stoker] $7 ba0yba0y $8 frefre\n370    $a Grande cat\u00e9gorie technique : dessin $a Genre iconographique : Sc\u00e8nes fantastiques\n501  1 $3 11900673 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2125 5326 $a Druillet $b Philippe $f 1944-.... $4 440\n541  1 $5 xxg $p Illustre $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula\n608    $3 11975832 $a Illustrations $2 rameauForme\n640 6  $0 Date de premi\u00e8re publication $f #1968#####\n801  0 $a FR $b FR-751045101 $c 20220927\n810    $a Dracula / Bram Stoker ; illustrations originales de Philippe Druillet ; introduction de Tony Faivre. - Paris : \u00c9ditions Opta, 1968. - [Texte not\u00e9. Image fixe : sans",
     "self_index": [
-        "",
-        "",
-        "",
         "grande categorie technique dessin$?genre iconographique scenes fantastiques",
-        "",
-        "",
-        "",
-        "",
-        "grande categorie technique dessin$?genre iconographique scenes fantastiques",
-        ""
+        "grande categorie technique dessin$?genre iconographique scenes fantastiques"
     ],
     "linked_entities_index": [
         "dracula bram stoker illustrations originales de philippe druillet introduction de tony faivre",
         "paris editions opta 1968",
         "aventures fantastiques",
-        "",
-        "",
-        "",
-        "",
         "dracula bram stoker illustrations originales de philippe druillet introduction de tony faivre",
         "paris editions opta 1968",
         "aventures fantastiques",
-        "",
-        "",
-        "",
-        "",
-        "",
         "druillet philippe 1944 illustrations pour dracula de bram stoker",
-        "",
         "dracula bram stoker illustrations originales de philippe druillet introduction de tony faivre paris editions opta 1968 texte note image fixe sans mediation",
-        "",
         "druillet philippe 1944 illustrations pour dracula de bram stoker",
-        "",
         "dracula bram stoker illustrations originales de philippe druillet introduction de tony faivre paris editions opta 1968 texte note image fixe sans mediation"
     ],
     "resp_index": [
@@ -46,9 +26,10 @@
     "linked_resp_index": [
         "faivre tony"
     ],
-    "global_index": " dracula bram stoker illustrations originales de philippe druillet introduction de tony faivre faivre tony aventures fantastiques druillet philippe 1944 illustrations pour dracula de bram stoker paris editions opta 1968 grande categorie technique dessin$?genre iconographique scenes fantastiques druillet philippe dracula bram stoker illustrations originales de philippe druillet introduction de tony faivre paris editions opta 1968 texte note image fixe sans mediation",
+    "global_index": "dracula bram stoker illustrations originales de philippe druillet introduction de tony faivre druillet philippe faivre tony druillet philippe 1944 illustrations pour dracula de bram stoker grande categorie technique dessin$?genre iconographique scenes fantastiques dracula bram stoker illustrations originales de philippe druillet introduction de tony faivre paris editions opta 1968 texte note image fixe sans mediation paris editions opta 1968 aventures fantastiques",
     "type": "o",
     "label": "Druillet, Philippe (1944-....), [Illustrations pour \"Dracula\" de Bram Stoker]",
+    "label_html": "Druillet, Philippe (1944-....), [Illustrations pour \"Dracula\" de Bram Stoker]",
     "splitted_label": "Druillet, Philippe\n(1944-....),\n[Illustrations pour\n\"Dracula\" de Bram\nStoker]",
     "stats_zones": {
         "001": 1,
@@ -92,13 +73,17 @@
     "toItems": {
         "UMLRM1035": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1035"
     },
-    "repr": "id : UMLRM0150\ntype initial : oe ; type : o\nlabel : Druillet, Philippe (1944-....), [Illustrations pour \"Dracula\" de Bram Stoker]\n\nNotice : \n000    01097nx  h2200253   4500\n001    UMLRM0150\n100    $a 20220927afrey50      ba0\n101 0  $a zxx\n102    $a FR\n104    $a d1968\n125 0  $a m\n140    $a is $b illus $2 BnF-FonctIco\n145 0  $a b $b xb2e\n147 0  $a a\n152    $a RDA-FR\n154    $a xa\n241  1 $3 11900673 $o ISNI 0000 0001 2125 532 $a Druillet, Philippe (1944-....) $t [Illustrations pour \"Dracula\" de Bram Stoker] $7 ba0yba0y $8 frefre\n370    $a Grande cat\u00e9gorie technique : dessin $a Genre iconographique : Sc\u00e8nes fantastiques\n501  1 $3 11900673 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2125 5326 $a Druillet $b Philippe $f 1944-.... $4 440\n541  1 $5 xxg $p Illustre $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula\n608    $3 11975832 $a Illustrations $2 rameauForme\n640 6  $0 Date de premi\u00e8re publication $f #1968#####\n801  0 $a FR $b FR-751045101 $c 20220927\n810    $a Dracula / Bram Stoker ; illustrations originales de Philippe Druillet ; introduction de Tony Faivre. - Paris : \u00c9ditions Opta, 1968. - [Texte not\u00e9. Image fixe : sans \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b7972a80>\nIndexation :  druillet philippe grande categorie technique dessin$?genre iconographique scenes fantastiques",
+    "other_expressions": {},
+    "repr": "id : UMLRM0150\ntype initial : oe ; type : o\nlabel : Druillet, Philippe (1944-....), [Illustrations pour \"Dracula\" de Bram Stoker]\n\nNotice : \n000    01097nx  h2200253   4500\n001    UMLRM0150\n100    $a 20220927afrey50      ba0\n101 0  $a zxx\n102    $a FR\n104    $a d1968\n125 0  $a m\n140    $a is $b illus $2 BnF-FonctIco\n145 0  $a b $b xb2e\n147 0  $a a\n152    $a RDA-FR\n154    $a xa\n241  1 $3 11900673 $o ISNI 0000 0001 2125 532 $a Druillet, Philippe (1944-....) $t [Illustrations pour \"Dracula\" de Bram Stoker] $7 ba0yba0y $8 frefre\n370    $a Grande cat\u00e9gorie technique : dessin $a Genre iconographique : Sc\u00e8nes fantastiques\n501  1 $3 11900673 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2125 5326 $a Druillet $b Philippe $f 1944-.... $4 440\n541  1 $5 xxg $p Illustre $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula\n608    $3 11975832 $a Illustrations $2 rameauForme\n640 6  $0 Date de premi\u00e8re publication $f #1968#####\n801  0 $a FR $b FR-751045101 $c 20220927\n810    $a Dracula / Bram Stoker ; illustrations originales de Philippe Druillet ; introduction de Tony Faivre. - Paris : \u00c9ditions Opta, 1968. - [Texte not\u00e9. Image fixe : sans \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e5ac0>\nIndexation : druillet philippe grande categorie technique dessin$?genre iconographique scenes fantastiques",
     "subjects": {},
     "genreforme": {
         "11975832": ""
     },
     "detailed": "Description : Grande cat\u00e9gorie technique : dessin. Genre iconographique : Sc\u00e8nes fantastiques\n\n\nDate de premi\u00e8re publication : 1968",
     "rebonds": "<span class='rebond'><a href='full_results_UMLRM0004.html'>Illustre Stoker, Bram (1847-1912) Dracula</a></span>",
+    "rebondids": [
+        "UMLRM0004"
+    ],
     "exprResp": [],
     "lang": [
         "zxx"

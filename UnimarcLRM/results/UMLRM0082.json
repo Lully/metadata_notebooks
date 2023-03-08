@@ -5,32 +5,16 @@
     "txt": "\n000    00756cx  f2200193   4500\n001    UMLRM0082\n005    20220926\n100    $a 20220926afrey50      ba0\n101 0  $a fre $a eng\n102    $a FR\n104    $a d2005\n105    $a ba\n145 0  $a i $b axxe\n152    $a RDA-FR\n154    $a xb\n232    $3 UMLRM0081 $a \"Dracula\" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola $m Fran\u00e7ais-Anglais $n Texte not\u00e9\n640 6  $0 Date de premi\u00e8re publication $f #2005#####\n801  0 $a FR $b FR-751045101 $c 20220926\n810    $a . \"Dracula\" [Texte imprim\u00e9] : l'oeuvre de Bram Stoker et le film de Francis F. Coppola / ouvrage dirig\u00e9 par Gilles Menegaldo et Dominique Sipi\u00e8re. \u2013 Paris : Ellipses, 2005.\u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 2-7298-2533-9",
     "self_index": [
         "dracula oeuvre de bram stoker et le film de francis coppola",
-        "",
-        "",
         "dracula texte imprime oeuvre de bram stoker et le film de francis coppola ouvrage dirige par gilles menegaldo et dominique sipiere paris ellipses 2005 texte note sans mediation isbn 7298 2533",
         "dracula oeuvre de bram stoker et le film de francis coppola",
-        "",
-        "",
         "dracula texte imprime oeuvre de bram stoker et le film de francis coppola ouvrage dirige par gilles menegaldo et dominique sipiere paris ellipses 2005 texte note sans mediation isbn 7298 2533"
     ],
     "linked_entities_index": [
         "dracula oeuvre de bram stoker et le film de francis coppola francais anglais texte note",
         "dracula oeuvre de bram stoker et le film de francis coppola ouvrage dirige par gilles menegaldo et dominique sipiere",
         "paris ellipses$? 86 liguge aubin imprimeur 2005",
-        "",
-        "",
-        "",
-        "",
-        "",
         "dracula oeuvre de bram stoker et le film de francis coppola ouvrage dirige par gilles menegaldo et dominique sipiere",
         "paris ellipses$? 86 liguge aubin imprimeur 2005",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
         "dracula oeuvre de bram stoker et le film de francis coppola",
         "textes en francais et en anglais$?bibliographie pages et en notes",
         "presente des contributions proposant des eclairages divers sur ces deux oeuvres etudiees de maniere autonome ou en regard une de autre ainsi que des approches critiques differenciees et complementaires entre les deux auteurs les deux oeuvres et les deux epoques celles de la fin des xixe et xxe siecles"
@@ -40,9 +24,10 @@
         "menegaldo gilles",
         "sipiere dominique"
     ],
-    "global_index": " menegaldo gilles paris ellipses$? 86 liguge aubin imprimeur 2005 dracula oeuvre de bram stoker et le film de francis coppola textes en francais et en anglais$?bibliographie pages et en notes dracula texte imprime oeuvre de bram stoker et le film de francis coppola ouvrage dirige par gilles menegaldo et dominique sipiere paris ellipses 2005 texte note sans mediation isbn 7298 2533 presente des contributions proposant des eclairages divers sur ces deux oeuvres etudiees de maniere autonome ou en regard une de autre ainsi que des approches critiques differenciees et complementaires entre les deux auteurs les deux oeuvres et les deux epoques celles de la fin des xixe et xxe siecles dracula oeuvre de bram stoker et le film de francis coppola francais anglais texte note sipiere dominique dracula oeuvre de bram stoker et le film de francis coppola ouvrage dirige par gilles menegaldo et dominique sipiere",
+    "global_index": "paris ellipses$? 86 liguge aubin imprimeur 2005 sipiere dominique dracula texte imprime oeuvre de bram stoker et le film de francis coppola ouvrage dirige par gilles menegaldo et dominique sipiere paris ellipses 2005 texte note sans mediation isbn 7298 2533 dracula oeuvre de bram stoker et le film de francis coppola ouvrage dirige par gilles menegaldo et dominique sipiere presente des contributions proposant des eclairages divers sur ces deux oeuvres etudiees de maniere autonome ou en regard une de autre ainsi que des approches critiques differenciees et complementaires entre les deux auteurs les deux oeuvres et les deux epoques celles de la fin des xixe et xxe siecles dracula oeuvre de bram stoker et le film de francis coppola francais anglais texte note dracula oeuvre de bram stoker et le film de francis coppola textes en francais et en anglais$?bibliographie pages et en notes menegaldo gilles",
     "type": "e",
     "label": "\"Dracula\" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola, Fran\u00e7ais-Anglais, Texte not\u00e9",
+    "label_html": "\"Dracula\" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola, Fran\u00e7ais-Anglais <img src='icons/Texte not\u00e9.png' alt='[Texte not\u00e9]' title='Texte not\u00e9'/>",
     "splitted_label": "\"Dracula\" : l'oeuvre\nde Bram Stoker et le\nfilm de Francis F.\nCoppola, Fran\u00e7ais-\nAnglais, Texte not\u00e9",
     "stats_zones": {
         "001": 1,
@@ -63,7 +48,7 @@
     "resp": {},
     "respIds": [],
     "toOeuvres": {
-        "UMLRM0081": "\"Dracula\" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola, Fran\u00e7ais-Anglais, Texte not\u00e9"
+        "UMLRM0081": "\"Dracula\" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola"
     },
     "toExpressions": {},
     "toManifs": {
@@ -75,15 +60,30 @@
     "toItems": {
         "UMLRM1026": "BM_CELESTEVILLE > MEZZANINE > COTE_UMLRM1026"
     },
-    "repr": "id : UMLRM0082\ntype initial : oe ; type : e\nlabel : \"Dracula\" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola, Fran\u00e7ais-Anglais, Texte not\u00e9\n\nNotice : \n000    00756cx  f2200193   4500\n001    UMLRM0082\n005    20220926\n100    $a 20220926afrey50      ba0\n101 0  $a fre $a eng\n102    $a FR\n104    $a d2005\n105    $a ba\n145 0  $a i $b axxe\n152    $a RDA-FR\n154    $a xb\n232    $3 UMLRM0081 $a \"Dracula\" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola $m Fran\u00e7ais-Anglais $n Texte not\u00e9\n640 6  $0 Date de premi\u00e8re publication $f #2005#####\n801  0 $a FR $b FR-751045101 $c 20220926\n810    $a . \"Dracula\" [Texte imprim\u00e9] : l'oeuvre de Bram Stoker et le film de Francis F. Coppola / ouvrage dirig\u00e9 par Gilles Menegaldo et Dominique Sipi\u00e8re. \u2013 Paris : Ellipses, 2005.\u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 2-7298-2533-9 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b7972100>\nIndexation :  dracula oeuvre de bram stoker et le film de francis coppola dracula texte imprime oeuvre de bram stoker et le film de francis coppola ouvrage dirige par gilles menegaldo et dominique sipiere paris ellipses 2005 texte note sans mediation isbn 7298 2533",
+    "other_expressions": {
+        "UMLRM0079": "Bram Stoker's Dracula, film, Anglais [Bram Stoker's Dracula, film]",
+        "UMLRM0005": "Stoker, Bram (1847-1912), Dracula, Anglais, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0020": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Molitor, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0041": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Sirgent, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0050": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0053": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Chicheportiche, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0056": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Paul-Margueritte, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0059": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Paul-Margueritte, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0065": "Stoker, Bram (1847-1912), Dracula, Espagnol, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0068": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Molitor - Moissard, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0187": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Parole \u00e9nonc\u00e9e [Stoker, Bram (1847-1912), Dracula]"
+    },
+    "repr": "id : UMLRM0082\ntype initial : oe ; type : e\nlabel : \"Dracula\" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola, Fran\u00e7ais-Anglais, Texte not\u00e9\n\nNotice : \n000    00756cx  f2200193   4500\n001    UMLRM0082\n005    20220926\n100    $a 20220926afrey50      ba0\n101 0  $a fre $a eng\n102    $a FR\n104    $a d2005\n105    $a ba\n145 0  $a i $b axxe\n152    $a RDA-FR\n154    $a xb\n232    $3 UMLRM0081 $a \"Dracula\" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola $m Fran\u00e7ais-Anglais $n Texte not\u00e9\n640 6  $0 Date de premi\u00e8re publication $f #2005#####\n801  0 $a FR $b FR-751045101 $c 20220926\n810    $a . \"Dracula\" [Texte imprim\u00e9] : l'oeuvre de Bram Stoker et le film de Francis F. Coppola / ouvrage dirig\u00e9 par Gilles Menegaldo et Dominique Sipi\u00e8re. \u2013 Paris : Ellipses, 2005.\u2013 [Texte not\u00e9 : sans m\u00e9diation]. \u2013 ISBN 2-7298-2533-9 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e5140>\nIndexation : dracula texte imprime oeuvre de bram stoker et le film de francis coppola ouvrage dirige par gilles menegaldo et dominique sipiere paris ellipses 2005 texte note sans mediation isbn 7298 2533 dracula oeuvre de bram stoker et le film de francis coppola",
     "lang": [
-        "eng",
-        "fre"
+        "fre",
+        "eng"
     ],
     "expressionContentType": "Texte not\u00e9",
     "exprContentType": "Texte not\u00e9",
     "exprResp": [],
     "detailed": "\n\nDate de premi\u00e8re publication : 2005",
+    "detailed_sup": "Description : Textes en fran\u00e7ais et en anglais. Bibliographie (7 pages) et en notes.\nPr\u00e9sente des contributions proposant des \u00e9clairages divers sur ces deux \u0153uvres \u00e9tudi\u00e9es de mani\u00e8re autonome ou en regard l'une de l'autre, ainsi que des approches critiques diff\u00e9renci\u00e9es et compl\u00e9mentaires entre les deux auteurs, les deux \u0153uvres et les deux \u00e9poques, celles de la fin des XIXe et XXe si\u00e8cles\n\n\nDate de premi\u00e8re publication : 2005\n",
     "rebonds": "",
-    "other_expressions": null
+    "rebondids": [],
+    "other_works_expressions": null
 }

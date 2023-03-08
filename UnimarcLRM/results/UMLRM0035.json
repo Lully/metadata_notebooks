@@ -4,13 +4,9 @@
     "id": "UMLRM0035",
     "txt": "\n000    01062nx  h2200229   4500\n001    UMLRM0035\n100    $a 20221031afrey50      ba0\n101 1  $a fre $c eng\n102    $a FR\n104    $a d1998\n105    $a ba\n145    $a i $b axxe\n145    $a b $b xb2e\n147    $a h\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0034 $7 ba0yba0y $8 freeng $a Humphries, Tudor (1953-\u2026.) $t Dracula $m Fran\u00e7ais $n Texte not\u00e9. Image fixe\n502  1 $3 13343810 $7 ba0yba0y $8 frefre $o ISNI 0000 0003 8523 9039 $a Jouve $b Mich\u00e8le $f 19..-.... $c angliciste $4 730\n542  1 $5 xxo $p Est une traduction de $3 UMLRM0161 $7 ba0yba0y $8 freeng $a Humphries, Tudor (1953-\u2026.) $t Dracula $m Anglais $n Texte not\u00e9. Image fixe\n640 6  $0 Date de premi\u00e8re publication $f #1998#####\n801  0 $a FR $b FR-751052119 $c 20221031\n810    $a  Dracula : [version abr\u00e9g\u00e9e] / d'apr\u00e8s Bram Stoker ; illustr\u00e9 par Tudor Humphries ; [traduit par Mich\u00e8le Jouve]. \u2013 Paris ; Bruxelles ; Montr\u00e9al [etc.] : S\u00e9lection du \"Reader's digest\",1998. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation]. \u2013 ISBN 2-7098-0973-7",
     "self_index": [
-        "",
         "humphries tudor 1953 dracula",
-        "",
         "dracula version abregee apres bram stoker illustre par tudor humphries traduit par michele jouve paris bruxelles montreal etc selection du reader digest 1998 texte note image fixe sans mediation isbn 7098 0973",
-        "",
         "humphries tudor 1953 dracula",
-        "",
         "dracula version abregee apres bram stoker illustre par tudor humphries traduit par michele jouve paris bruxelles montreal etc selection du reader digest 1998 texte note image fixe sans mediation isbn 7098 0973"
     ],
     "linked_entities_index": [
@@ -18,20 +14,9 @@
         "dracula version abregee apres bram stoker illustre par tudor humphries traduit par michele jouve",
         "paris$?bruxelles$?montreal etc selection du reader digest 1998$? chine",
         "la bibliotheque des classiques",
-        "",
-        "",
-        "",
-        "",
         "dracula version abregee apres bram stoker illustre par tudor humphries traduit par michele jouve",
         "paris$?bruxelles$?montreal etc selection du reader digest 1998$? chine",
         "la bibliotheque des classiques",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
         "version abregee et illustree destination de la jeunesse du roman de bram stoker $?nombreuses illustrations dessins photographies en noir et en couleur",
         "introduction au personnage du vampire travers le heros du roman de bram stoker l'album permet de decouvrir le chef oeuvre dans une version abregee mais aussi de le comprendre et de le situer dans son contexte grace aux notes documentaires et aux tres nombreuses illustrations qui accompagnent constamment le texte"
     ],
@@ -42,9 +27,10 @@
     "linked_resp_index": [
         "humphries tudor"
     ],
-    "global_index": " dracula version abregee apres bram stoker illustre par tudor humphries traduit par michele jouve paris bruxelles montreal etc selection du reader digest 1998 texte note image fixe sans mediation isbn 7098 0973 la bibliotheque des classiques humphries tudor jouve michele angliciste paris$?bruxelles$?montreal etc selection du reader digest 1998$? chine dracula version abregee apres bram stoker illustre par tudor humphries traduit par michele jouve humphries tudor 1953 dracula francais texte note image fixe humphries tudor 1953 dracula introduction au personnage du vampire travers le heros du roman de bram stoker l'album permet de decouvrir le chef oeuvre dans une version abregee mais aussi de le comprendre et de le situer dans son contexte grace aux notes documentaires et aux tres nombreuses illustrations qui accompagnent constamment le texte version abregee et illustree destination de la jeunesse du roman de bram stoker $?nombreuses illustrations dessins photographies en noir et en couleur",
+    "global_index": "jouve michele angliciste dracula version abregee apres bram stoker illustre par tudor humphries traduit par michele jouve humphries tudor 1953 dracula dracula version abregee apres bram stoker illustre par tudor humphries traduit par michele jouve paris bruxelles montreal etc selection du reader digest 1998 texte note image fixe sans mediation isbn 7098 0973 version abregee et illustree destination de la jeunesse du roman de bram stoker $?nombreuses illustrations dessins photographies en noir et en couleur la bibliotheque des classiques introduction au personnage du vampire travers le heros du roman de bram stoker l'album permet de decouvrir le chef oeuvre dans une version abregee mais aussi de le comprendre et de le situer dans son contexte grace aux notes documentaires et aux tres nombreuses illustrations qui accompagnent constamment le texte paris$?bruxelles$?montreal etc selection du reader digest 1998$? chine humphries tudor humphries tudor 1953 dracula francais texte note image fixe",
     "type": "e",
     "label": "Humphries, Tudor (1953-\u2026.), Dracula, Fran\u00e7ais, Texte not\u00e9. Image fixe",
+    "label_html": "Humphries, Tudor (1953-\u2026.), Dracula, Fran\u00e7ais <img src='icons/Texte not\u00e9. Image fixe.png' alt='[Texte not\u00e9. Image fixe]' title='Texte not\u00e9. Image fixe'/>",
     "splitted_label": "Humphries, Tudor\n(1953-\u2026.), Dracula,\nFran\u00e7ais, Texte\nnot\u00e9. Image fixe",
     "stats_zones": {
         "001": 1,
@@ -73,7 +59,7 @@
         "13343810"
     ],
     "toOeuvres": {
-        "UMLRM0034": "Humphries, Tudor (1953-\u2026.), Dracula, Fran\u00e7ais, Texte not\u00e9. Image fixe"
+        "UMLRM0034": "Humphries, Tudor (1953-\u2026.), Dracula"
     },
     "toExpressions": {},
     "toManifs": {
@@ -85,9 +71,21 @@
     "toItems": {
         "UMLRM1011": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1011"
     },
-    "repr": "id : UMLRM0035\ntype initial : oe ; type : e\nlabel : Humphries, Tudor (1953-\u2026.), Dracula, Fran\u00e7ais, Texte not\u00e9. Image fixe\n\nNotice : \n000    01062nx  h2200229   4500\n001    UMLRM0035\n100    $a 20221031afrey50      ba0\n101 1  $a fre $c eng\n102    $a FR\n104    $a d1998\n105    $a ba\n145    $a i $b axxe\n145    $a b $b xb2e\n147    $a h\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0034 $7 ba0yba0y $8 freeng $a Humphries, Tudor (1953-\u2026.) $t Dracula $m Fran\u00e7ais $n Texte not\u00e9. Image fixe\n502  1 $3 13343810 $7 ba0yba0y $8 frefre $o ISNI 0000 0003 8523 9039 $a Jouve $b Mich\u00e8le $f 19..-.... $c angliciste $4 730\n542  1 $5 xxo $p Est une traduction de $3 UMLRM0161 $7 ba0yba0y $8 freeng $a Humphries, Tudor (1953-\u2026.) $t Dracula $m Anglais $n Texte not\u00e9. Image fixe\n640 6  $0 Date de premi\u00e8re publication $f #1998#####\n801  0 $a FR $b FR-751052119 $c 20221031\n810    $a  Dracula : [version abr\u00e9g\u00e9e] / d'apr\u00e8s Bram Stoker ; illustr\u00e9 par Tudor Humphries ; [traduit par Mich\u00e8le Jouve]. \u2013 Paris ; Bruxelles ; Montr\u00e9al [etc.] : S\u00e9lection du \"Reader's digest\",1998. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation]. \u2013 ISBN 2-7098-0973-7 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b7970c40>\nIndexation :  dracula version abregee apres bram stoker illustre par tudor humphries traduit par michele jouve paris bruxelles montreal etc selection du reader digest 1998 texte note image fixe sans mediation isbn 7098 0973 humphries tudor 1953 dracula jouve michele angliciste",
+    "other_expressions": {
+        "UMLRM0161": "Humphries, Tudor (1953-\u2026.), Dracula, Anglais, Texte not\u00e9. Image fixe [Humphries, Tudor (1953-\u2026.), Dracula]",
+        "UMLRM0005": "Stoker, Bram (1847-1912), Dracula, Anglais, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0020": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Molitor, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0041": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Sirgent, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0050": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Finn\u00e9, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0053": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Chicheportiche, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0056": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Paul-Margueritte, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0059": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Paul-Margueritte, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0065": "Stoker, Bram (1847-1912), Dracula, Espagnol, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0068": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Molitor - Moissard, Texte not\u00e9 [Stoker, Bram (1847-1912), Dracula]",
+        "UMLRM0187": "Stoker, Bram (1847-1912), Dracula, Fran\u00e7ais, Parole \u00e9nonc\u00e9e [Stoker, Bram (1847-1912), Dracula]"
+    },
+    "repr": "id : UMLRM0035\ntype initial : oe ; type : e\nlabel : Humphries, Tudor (1953-\u2026.), Dracula, Fran\u00e7ais, Texte not\u00e9. Image fixe\n\nNotice : \n000    01062nx  h2200229   4500\n001    UMLRM0035\n100    $a 20221031afrey50      ba0\n101 1  $a fre $c eng\n102    $a FR\n104    $a d1998\n105    $a ba\n145    $a i $b axxe\n145    $a b $b xb2e\n147    $a h\n152    $a RDA-FR\n154    $a xb\n242  1 $3 UMLRM0034 $7 ba0yba0y $8 freeng $a Humphries, Tudor (1953-\u2026.) $t Dracula $m Fran\u00e7ais $n Texte not\u00e9. Image fixe\n502  1 $3 13343810 $7 ba0yba0y $8 frefre $o ISNI 0000 0003 8523 9039 $a Jouve $b Mich\u00e8le $f 19..-.... $c angliciste $4 730\n542  1 $5 xxo $p Est une traduction de $3 UMLRM0161 $7 ba0yba0y $8 freeng $a Humphries, Tudor (1953-\u2026.) $t Dracula $m Anglais $n Texte not\u00e9. Image fixe\n640 6  $0 Date de premi\u00e8re publication $f #1998#####\n801  0 $a FR $b FR-751052119 $c 20221031\n810    $a  Dracula : [version abr\u00e9g\u00e9e] / d'apr\u00e8s Bram Stoker ; illustr\u00e9 par Tudor Humphries ; [traduit par Mich\u00e8le Jouve]. \u2013 Paris ; Bruxelles ; Montr\u00e9al [etc.] : S\u00e9lection du \"Reader's digest\",1998. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation]. \u2013 ISBN 2-7098-0973-7 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e3c80>\nIndexation : humphries tudor 1953 dracula dracula version abregee apres bram stoker illustre par tudor humphries traduit par michele jouve paris bruxelles montreal etc selection du reader digest 1998 texte note image fixe sans mediation isbn 7098 0973 jouve michele angliciste",
     "lang": [
-        "eng",
         "fre"
     ],
     "expressionContentType": "Texte not\u00e9. Image fixe",
@@ -96,6 +94,8 @@
         "Jouve, Mich\u00e8le, angliciste (Traducteur)"
     ],
     "detailed": "\n\nDate de premi\u00e8re publication : 1998",
+    "detailed_sup": "Description : Version abr\u00e9g\u00e9e et illustr\u00e9e \u00e0 destination de la jeunesse du roman de Bram Stoker.. Nombreuses illustrations (dessins, photographies) en noir et en couleur.\n Introduction au personnage du vampire \u00e0 travers le h\u00e9ros du roman de Bram Stoker. L\u2019album permet de d\u00e9couvrir le chef-d'\u0153uvre dans une version abr\u00e9g\u00e9e, mais aussi de le comprendre et de le situer dans son contexte gr\u00e2ce aux notes documentaires et aux tr\u00e8s nombreuses illustrations qui accompagnent constamment le texte.\n\n\nDate de premi\u00e8re publication : 1997\n",
     "rebonds": "",
-    "other_expressions": null
+    "rebondids": [],
+    "other_works_expressions": null
 }

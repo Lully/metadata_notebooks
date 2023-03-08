@@ -21,20 +21,33 @@ input {font-style: italic;
 		  
 ------------------------------*/
 
+body.e {background-color: #eeffff;}
+body.o {background-color: #ffeeff;}
+
+.comment {font-family: Courier New;
+		  font-size: 0.8em;
+		 }
+
 /* Métadonnées */
 div.detailed {float: left;
-			  width: 80%;
+			  width: 60%;
 			  padding-right: 20px;}
+			  
+div.detailed_sup {float: left;
+			      width: 60%;
+			      padding-right: 20px;}
+			 
+			  
 p.detailed.label {font-weight: bold;
 					 color: #05513c;
 					}
 
 div.rebonds {float: right;
-			width: 15%;
+			width: 35%;
 			background-color: #efefef;
 			padding: 20px;
 			border-radius: 20px;}
-span.rebond {padding-left: 8px;
+span.rebond {padding-left: 0px;
 			 }
 span.rebond a {text-decoration: none;
 			   font-weight: normal;
@@ -42,6 +55,27 @@ span.rebond a {text-decoration: none;
 			  }
 span.rebond a:hover {text-decoration: underline;
 			  }
+
+div.other_expressions {float: left;
+					   width: 80%}
+					   
+div.other_expressions ul {margin: 0;
+	   				   padding: 0;
+					   list-style: none;
+					   }
+div.other_expressions p {font-weight: bold;}
+div.other_expressions ul li {display: inline;
+							 background: #efefef;
+							 list-style-type: none;
+							 padding: 5px;
+							 margin: 2px;
+							 padding-bottom: 10px;
+							 border: 1px solid #600;
+							 max-width: 100px;
+  							 float: left;}
+div.other_expressions ul li a {text-align: center ;
+							   text-decoration: none ;}
+div.other_expressions ul li:hover {background: #a6a6a6;}			 
 
 
 /* Filtres */
@@ -64,12 +98,16 @@ div.ui-rangeslider {width: 40%;}
 
 
 /* Liste des exemplaires*/
-.items {width: 100%;
+.items {width: 80%;
 		  float: left;}
 
 
 .avail {background-color: #beff9f}
 .unavail {background-color: #ffe2d7}
+
+div.item2metassup {font-size: 0.8em;
+					margin-top: -10px;
+					margin-left: 20px;}
 
 
 /* Métadonnées professionnelles*/
@@ -99,18 +137,22 @@ a.link2work {color: #5a918a;
 
 .short_result_details {margin-left: 20px;
 					   font-size: 0.8em;}</style></head>
-<body>
+<body class='o'>
 
 <div class="entete">
 <p>Rappel de la recherche : <strong></strong></p>
 <p class='back'><a href='short_results_o.html'>Retour à la liste des résultats</a></p><h1>Résultat 44</h1></div><div class='full_record'>
 <p class='detailed label'>Gauriat, Vincent, Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin</p>
-<div class='detailed'><p class='detailed'>Description : Grande catégorie technique : impression photomécanique. Genre iconographique : Scènes fantastiques, Affiche créée pour accompagner la diffusion en France du film de Guy Maddin (première diffusion en salle : 31 décembre 2003)<br/><br/><br/>Date de première publication : 2003<br/>Date de sortie en salle du film : 31/12/2003</p></div></div>
+<div class='detailed'><p class='detailed'>Description : Grande catégorie technique : impression photomécanique. Genre iconographique : Scènes fantastiques, Affiche créée pour accompagner la diffusion en France du film de Guy Maddin (première diffusion en salle : 31 décembre 2003)<br/><br/><br/>Date de première publication : 2003<br/>Date de sortie en salle du film : 31/12/2003</p></div>
+<div class='rebonds'></div>
 <div class='filters'><h3>Filtres</h3>
-<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/>  <a class="filters_lng" href="#">français</a> <a class="filters_content_type" href="#">Image fixe</a> <div class='yearRange'><p>Filtre par année</p></div></div>
+<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/> <a href='#'>Disponible</a>  <a class="filters_lng" href="#">français</a> <a class="filters_content_type" href="#">Image fixe</a> <div class='yearRange'><p>Filtre par année</p></div></div>
 <div class='filters2'></div></div>
-<div class='items'><h3>Liste des exemplaires</h3>
-<p class='avail'>Disponible - Gauriat, Vincent, Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin, Image fixe - Bibliothèque municipale de Célesteville MEZZANINE COTE_UMLRM1049</p></div>
+<div class='items'>
+<h3>Liste des exemplaires</h3>
+<div class='item'><p class='unavail'>Emprunté - Gauriat, Vincent, Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin, Image fixe - Bibliothèque municipale de Célesteville MEZZANINE COTE_UMLRM1049<br/><div class='item2metassup'>Titre: Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin : [affiche] / [V. Gauriat]<br/>Edition: [Paris]-Aubervilliers. ED distribution, Imprimerie Karcher. [2003]</div></p></div>
+</div>
+
 
 <div class='pro'>
 <hr/>
@@ -183,11 +225,11 @@ a.link2work {color: #5a918a;
 </svg></div>
 <div class="indexed_metas">
 <table class="indexed_metas_table">
-<tr><th>self_index</th><td>['', '', '', 'grande categorie technique impression photomecanique$?genre iconographique scenes fantastiques affiche creee pour accompagner la diffusion en france du film de guy maddin premiere diffusion en salle 31 decembre 2003', '', '', '', '', 'grande categorie technique impression photomecanique$?genre iconographique scenes fantastiques affiche creee pour accompagner la diffusion en france du film de guy maddin premiere diffusion en salle 31 decembre 2003', '']</td></tr>
-<tr><th>linked_entities_index</th><td>["dracula pages tirees du journal d'une vierge un film de guy maddin affiche gauriat", 'paris ed distribution 2003 aubervilliers imprimerie karcher', '', '', '', '', '', "dracula pages tirees du journal d'une vierge un film de guy maddin affiche gauriat", 'paris ed distribution 2003 aubervilliers imprimerie karcher', '', '', '', '', '', '', "gauriat vincent dracula pages tirees du journal d'une vierge un film de guy maddin", '', "dracula pages tirees du journal d'une vierge un film de guy maddin paris ed distribution 2003 aubervilliers imprimerie karcher texte note image fixe sans mediation", '', "gauriat vincent dracula pages tirees du journal d'une vierge un film de guy maddin", '', "dracula pages tirees du journal d'une vierge un film de guy maddin paris ed distribution 2003 aubervilliers imprimerie karcher texte note image fixe sans mediation"]</td></tr>
+<tr><th>self_index</th><td>['grande categorie technique impression photomecanique$?genre iconographique scenes fantastiques affiche creee pour accompagner la diffusion en france du film de guy maddin premiere diffusion en salle 31 decembre 2003', 'grande categorie technique impression photomecanique$?genre iconographique scenes fantastiques affiche creee pour accompagner la diffusion en france du film de guy maddin premiere diffusion en salle 31 decembre 2003']</td></tr>
+<tr><th>linked_entities_index</th><td>["dracula pages tirees du journal d'une vierge un film de guy maddin affiche gauriat", 'paris ed distribution 2003 aubervilliers imprimerie karcher', "dracula pages tirees du journal d'une vierge un film de guy maddin affiche gauriat", 'paris ed distribution 2003 aubervilliers imprimerie karcher', "gauriat vincent dracula pages tirees du journal d'une vierge un film de guy maddin", "dracula pages tirees du journal d'une vierge un film de guy maddin paris ed distribution 2003 aubervilliers imprimerie karcher texte note image fixe sans mediation", "gauriat vincent dracula pages tirees du journal d'une vierge un film de guy maddin", "dracula pages tirees du journal d'une vierge un film de guy maddin paris ed distribution 2003 aubervilliers imprimerie karcher texte note image fixe sans mediation"]</td></tr>
 <tr><th>resp_index</th><td>['gauriat vincent', 'gauriat vincent']</td></tr>
 <tr><th>linked_resp_index</th><td>['imprimerie karcher']</td></tr>
-<tr><th>global_index</th><td> paris ed distribution 2003 aubervilliers imprimerie karcher gauriat vincent imprimerie karcher dracula pages tirees du journal d'une vierge un film de guy maddin paris ed distribution 2003 aubervilliers imprimerie karcher texte note image fixe sans mediation grande categorie technique impression photomecanique$?genre iconographique scenes fantastiques affiche creee pour accompagner la diffusion en france du film de guy maddin premiere diffusion en salle 31 decembre 2003 gauriat vincent dracula pages tirees du journal d'une vierge un film de guy maddin dracula pages tirees du journal d'une vierge un film de guy maddin affiche gauriat</td></tr>
+<tr><th>global_index</th><td>grande categorie technique impression photomecanique$?genre iconographique scenes fantastiques affiche creee pour accompagner la diffusion en france du film de guy maddin premiere diffusion en salle 31 decembre 2003 dracula pages tirees du journal d'une vierge un film de guy maddin affiche gauriat paris ed distribution 2003 aubervilliers imprimerie karcher dracula pages tirees du journal d'une vierge un film de guy maddin paris ed distribution 2003 aubervilliers imprimerie karcher texte note image fixe sans mediation gauriat vincent dracula pages tirees du journal d'une vierge un film de guy maddin imprimerie karcher gauriat vincent</td></tr>
 </table>
 </div>
 <p class="marc_record"><br/>000    01337nx  h2200265   4500<br/>001    UMLRM0169<br/>100    $a 20221024afrey50      ba0<br/>101 0  $a fre<br/>102    $a FR<br/>104    $a d2003<br/>125 0  $a m<br/>140    $a is $b affiche $2 frTICO<br/>145 0  $a b $b xb2e<br/>147 0  $a h<br/>152    $a RDA-FR<br/>154    $a xa<br/>241  1 $3 14894385 $o ISNI 0000 0000 0352 8725 $a Gauriat, Vincent $t Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin $7 ba0yba0y $8 frefre<br/>370    $a Grande catégorie technique : impression photomécanique $a Genre iconographique : Scènes fantastiques $c Affiche créée pour accompagner la diffusion en France du film de Guy Maddin (première diffusion en salle : 31 décembre 2003)<br/>501  1 $3 14894385 $7 ba0yba0y $8 frefre $o ISNI 0000 0000 0352 8725 $a Gauriat $b Vincent $4 440<br/>631    $3 UMLRM0135 $7 ba0yba0y $8 freeng $a Dracula : pages from a virgin's diary $c film<br/>608    $3 11980539 $a Affiches de cinéma $2 rameauForme<br/>640 6  $0 Date de première publication $f #2003#####<br/>640 0  $0 Date de sortie en salle du film $a FR $f #20031231#<br/>801  0 $a FR $b FR-751045101 $c 20221024<br/>810    $a Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin. – [Paris] : ED distribution, [2003] (Aubervilliers : Imprimerie Karcher). – [Texte noté. Image fixe : sans médiation]</p>

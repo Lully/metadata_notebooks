@@ -4,39 +4,17 @@
     "id": "UMLRM0087",
     "txt": "\n000    01712cx  h2200337   4500\n001    UMLRM0087\n005    20220809\n100    $a 20220809afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2005\n125 02 $a m\n140    $a te $b etdoc $2 BnF-FonctTexMix\n140    $a te $b v $2 UM/B105pos4-7\n145 0  $a i\n145 0  $a b1 $b xb2e\n147 0  $a h\n152    $a RDA-FR\n154    $a xa\n241  1 $3 13577629 $o ISNI 0000 0001 2119 5730 $a Valls de Gomis, Estelle (1973-...) $t Le vampire au fil des sie\u0300cles : enque\u0302te autour d'un mythe $7 ba0yba0y $8 frefre\n370    $a Texte remani\u00e9 de la th\u00e8se de doctorat en litt\u00e9rature, soutenue \u00e0 l\u2019universit\u00e9 Toulouse 2 en 2003 $a Pr\u00e9sence d\u2019illustrations peu nombreuses $a Bibliographie (20 pages)\n501  1 $3 13577629 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2119 5730 $a Valls de Gomis $b Estelle $f 1973-... $4 070\n541  1 $5 xxc $p Est une adaptation pour un autre public dans le m\u00eame mode de cr\u00e9ation de [\u0153uvre] $3 UMLRM0141 $7 ba0yba0y $8 frefre $a Valls de Gomis, Estelle (1973-...) $t Le vampire au fil des sie\u0300cles : docimasie d'un mythe\n606    $3 11945972 $a Vampires $3 11996647 $x Dans la litte\u0301rature $2 rameau\n606    $3 11952413 $a Litte\u0301rature fantastique $2 rameau\n608    $3 11933610 $a The\u0300ses et e\u0301crits acade\u0301miques $2 rameauForme\n676    $a 398.45 $v 23\n676    $a 809.393 75 $v 23\n686    $a 800 $2 Cadre de classement de la Bibliographie nationale franc\u0327aise\n801  0 $a FR $b FR-751045101 $c 20220809\n810    $a Le vampire au fil des sie\u0300cles : enque\u0302te autour d'un mythe / Estelle Valls de Gomis. - Coudray-Macouard : Cheminements, DL 2005. \u2013 [Texte not\u00e9 : sans m\u00e9diation]",
     "self_index": [
-        "",
-        "",
-        "",
         "texte remanie de la these de doctorat en litterature soutenue l'universite toulouse en 2003$?presence d'illustrations peu nombreuses$?bibliographie 20 pages",
-        "",
-        "",
-        "",
-        "",
-        "texte remanie de la these de doctorat en litterature soutenue l'universite toulouse en 2003$?presence d'illustrations peu nombreuses$?bibliographie 20 pages",
-        ""
+        "texte remanie de la these de doctorat en litterature soutenue l'universite toulouse en 2003$?presence d'illustrations peu nombreuses$?bibliographie 20 pages"
     ],
     "linked_entities_index": [
         "le vampire au fil des siecles enquete autour un mythe estelle valls de gomis",
         "coudray macouard cheminements dl 2005$? 21 quetigny imprimerie darantiere",
-        "",
-        "",
-        "",
-        "",
-        "",
         "le vampire au fil des siecles enquete autour un mythe estelle valls de gomis",
         "coudray macouard cheminements dl 2005$? 21 quetigny imprimerie darantiere",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
         "valls de gomis estelle 1973 le vampire au fil des siecles enquete autour un mythe",
-        "",
         "le vampire au fil des siecles enquete autour un estelle valls de gomis coudray macouard cheminements dl 2005 texte note sans mediation",
-        "",
         "valls de gomis estelle 1973 le vampire au fil des siecles enquete autour un mythe",
-        "",
         "le vampire au fil des siecles enquete autour un estelle valls de gomis coudray macouard cheminements dl 2005 texte note sans mediation"
     ],
     "resp_index": [
@@ -44,9 +22,10 @@
         "valls de gomis estelle"
     ],
     "linked_resp_index": [],
-    "global_index": " coudray macouard cheminements dl 2005$? 21 quetigny imprimerie darantiere le vampire au fil des siecles enquete autour un mythe estelle valls de gomis valls de gomis estelle 1973 le vampire au fil des siecles enquete autour un mythe texte remanie de la these de doctorat en litterature soutenue l'universite toulouse en 2003$?presence d'illustrations peu nombreuses$?bibliographie 20 pages le vampire au fil des siecles enquete autour un estelle valls de gomis coudray macouard cheminements dl 2005 texte note sans mediation valls de gomis estelle",
+    "global_index": "le vampire au fil des siecles enquete autour un mythe estelle valls de gomis le vampire au fil des siecles enquete autour un estelle valls de gomis coudray macouard cheminements dl 2005 texte note sans mediation texte remanie de la these de doctorat en litterature soutenue l'universite toulouse en 2003$?presence d'illustrations peu nombreuses$?bibliographie 20 pages coudray macouard cheminements dl 2005$? 21 quetigny imprimerie darantiere valls de gomis estelle 1973 le vampire au fil des siecles enquete autour un mythe valls de gomis estelle",
     "type": "o",
     "label": "Valls de Gomis, Estelle (1973-...), Le vampire au fil des sie\u0300cles : enque\u0302te autour d'un mythe",
+    "label_html": "Valls de Gomis, Estelle (1973-...), Le vampire au fil des sie\u0300cles : enque\u0302te autour d'un mythe",
     "splitted_label": "Valls de Gomis,\nEstelle (1973-...),\nLe vampire au fil\ndes sie\u0300cles :\nenque\u0302te autour d'un\nmythe",
     "stats_zones": {
         "001": 1,
@@ -93,7 +72,8 @@
     "toItems": {
         "UMLRM1028": "BM_CELESTEVILLE > ADULTES > COTE_UMLRM1028"
     },
-    "repr": "id : UMLRM0087\ntype initial : oe ; type : o\nlabel : Valls de Gomis, Estelle (1973-...), Le vampire au fil des sie\u0300cles : enque\u0302te autour d'un mythe\n\nNotice : \n000    01712cx  h2200337   4500\n001    UMLRM0087\n005    20220809\n100    $a 20220809afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2005\n125 02 $a m\n140    $a te $b etdoc $2 BnF-FonctTexMix\n140    $a te $b v $2 UM/B105pos4-7\n145 0  $a i\n145 0  $a b1 $b xb2e\n147 0  $a h\n152    $a RDA-FR\n154    $a xa\n241  1 $3 13577629 $o ISNI 0000 0001 2119 5730 $a Valls de Gomis, Estelle (1973-...) $t Le vampire au fil des sie\u0300cles : enque\u0302te autour d'un mythe $7 ba0yba0y $8 frefre\n370    $a Texte remani\u00e9 de la th\u00e8se de doctorat en litt\u00e9rature, soutenue \u00e0 l\u2019universit\u00e9 Toulouse 2 en 2003 $a Pr\u00e9sence d\u2019illustrations peu nombreuses $a Bibliographie (20 pages)\n501  1 $3 13577629 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2119 5730 $a Valls de Gomis $b Estelle $f 1973-... $4 070\n541  1 $5 xxc $p Est une adaptation pour un autre public dans le m\u00eame mode de cr\u00e9ation de [\u0153uvre] $3 UMLRM0141 $7 ba0yba0y $8 frefre $a Valls de Gomis, Estelle (1973-...) $t Le vampire au fil des sie\u0300cles : docimasie d'un mythe\n606    $3 11945972 $a Vampires $3 11996647 $x Dans la litte\u0301rature $2 rameau\n606    $3 11952413 $a Litte\u0301rature fantastique $2 rameau\n608    $3 11933610 $a The\u0300ses et e\u0301crits acade\u0301miques $2 rameauForme\n676    $a 398.45 $v 23\n676    $a 809.393 75 $v 23\n686    $a 800 $2 Cadre de classement de la Bibliographie nationale franc\u0327aise\n801  0 $a FR $b FR-751045101 $c 20220809\n810    $a Le vampire au fil des sie\u0300cles : enque\u0302te autour d'un mythe / Estelle Valls de Gomis. - Coudray-Macouard : Cheminements, DL 2005. \u2013 [Texte not\u00e9 : sans m\u00e9diation] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b79721c0>\nIndexation :  valls de gomis estelle texte remanie de la these de doctorat en litterature soutenue l'universite toulouse en 2003$?presence d'illustrations peu nombreuses$?bibliographie 20 pages",
+    "other_expressions": {},
+    "repr": "id : UMLRM0087\ntype initial : oe ; type : o\nlabel : Valls de Gomis, Estelle (1973-...), Le vampire au fil des sie\u0300cles : enque\u0302te autour d'un mythe\n\nNotice : \n000    01712cx  h2200337   4500\n001    UMLRM0087\n005    20220809\n100    $a 20220809afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2005\n125 02 $a m\n140    $a te $b etdoc $2 BnF-FonctTexMix\n140    $a te $b v $2 UM/B105pos4-7\n145 0  $a i\n145 0  $a b1 $b xb2e\n147 0  $a h\n152    $a RDA-FR\n154    $a xa\n241  1 $3 13577629 $o ISNI 0000 0001 2119 5730 $a Valls de Gomis, Estelle (1973-...) $t Le vampire au fil des sie\u0300cles : enque\u0302te autour d'un mythe $7 ba0yba0y $8 frefre\n370    $a Texte remani\u00e9 de la th\u00e8se de doctorat en litt\u00e9rature, soutenue \u00e0 l\u2019universit\u00e9 Toulouse 2 en 2003 $a Pr\u00e9sence d\u2019illustrations peu nombreuses $a Bibliographie (20 pages)\n501  1 $3 13577629 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2119 5730 $a Valls de Gomis $b Estelle $f 1973-... $4 070\n541  1 $5 xxc $p Est une adaptation pour un autre public dans le m\u00eame mode de cr\u00e9ation de [\u0153uvre] $3 UMLRM0141 $7 ba0yba0y $8 frefre $a Valls de Gomis, Estelle (1973-...) $t Le vampire au fil des sie\u0300cles : docimasie d'un mythe\n606    $3 11945972 $a Vampires $3 11996647 $x Dans la litte\u0301rature $2 rameau\n606    $3 11952413 $a Litte\u0301rature fantastique $2 rameau\n608    $3 11933610 $a The\u0300ses et e\u0301crits acade\u0301miques $2 rameauForme\n676    $a 398.45 $v 23\n676    $a 809.393 75 $v 23\n686    $a 800 $2 Cadre de classement de la Bibliographie nationale franc\u0327aise\n801  0 $a FR $b FR-751045101 $c 20220809\n810    $a Le vampire au fil des sie\u0300cles : enque\u0302te autour d'un mythe / Estelle Valls de Gomis. - Coudray-Macouard : Cheminements, DL 2005. \u2013 [Texte not\u00e9 : sans m\u00e9diation] \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e5200>\nIndexation : valls de gomis estelle texte remanie de la these de doctorat en litterature soutenue l'universite toulouse en 2003$?presence d'illustrations peu nombreuses$?bibliographie 20 pages",
     "subjects": {
         "11945972\u00a411996647": "",
         "11952413": ""
@@ -103,6 +83,9 @@
     },
     "detailed": "Description : Texte remani\u00e9 de la th\u00e8se de doctorat en litt\u00e9rature, soutenue \u00e0 l\u2019universit\u00e9 Toulouse 2 en 2003. Pr\u00e9sence d\u2019illustrations peu nombreuses. Bibliographie (20 pages)\n\n\n",
     "rebonds": "<span class='rebond'><a href='full_results_UMLRM0141.html'>Est une adaptation pour un autre public dans le m\u00eame mode de cr\u00e9ation de [\u0153uvre] Valls de Gomis, Estelle (1973-...) Le vampire au fil des sie\u0300cles : docimasie d'un mythe</a></span>",
+    "rebondids": [
+        "UMLRM0141"
+    ],
     "exprResp": [],
     "lang": [
         "fre"

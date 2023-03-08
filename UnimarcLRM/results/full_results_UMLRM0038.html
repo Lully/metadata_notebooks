@@ -21,20 +21,33 @@ input {font-style: italic;
 		  
 ------------------------------*/
 
+body.e {background-color: #eeffff;}
+body.o {background-color: #ffeeff;}
+
+.comment {font-family: Courier New;
+		  font-size: 0.8em;
+		 }
+
 /* Métadonnées */
 div.detailed {float: left;
-			  width: 80%;
+			  width: 60%;
 			  padding-right: 20px;}
+			  
+div.detailed_sup {float: left;
+			      width: 60%;
+			      padding-right: 20px;}
+			 
+			  
 p.detailed.label {font-weight: bold;
 					 color: #05513c;
 					}
 
 div.rebonds {float: right;
-			width: 15%;
+			width: 35%;
 			background-color: #efefef;
 			padding: 20px;
 			border-radius: 20px;}
-span.rebond {padding-left: 8px;
+span.rebond {padding-left: 0px;
 			 }
 span.rebond a {text-decoration: none;
 			   font-weight: normal;
@@ -42,6 +55,27 @@ span.rebond a {text-decoration: none;
 			  }
 span.rebond a:hover {text-decoration: underline;
 			  }
+
+div.other_expressions {float: left;
+					   width: 80%}
+					   
+div.other_expressions ul {margin: 0;
+	   				   padding: 0;
+					   list-style: none;
+					   }
+div.other_expressions p {font-weight: bold;}
+div.other_expressions ul li {display: inline;
+							 background: #efefef;
+							 list-style-type: none;
+							 padding: 5px;
+							 margin: 2px;
+							 padding-bottom: 10px;
+							 border: 1px solid #600;
+							 max-width: 100px;
+  							 float: left;}
+div.other_expressions ul li a {text-align: center ;
+							   text-decoration: none ;}
+div.other_expressions ul li:hover {background: #a6a6a6;}			 
 
 
 /* Filtres */
@@ -64,12 +98,16 @@ div.ui-rangeslider {width: 40%;}
 
 
 /* Liste des exemplaires*/
-.items {width: 100%;
+.items {width: 80%;
 		  float: left;}
 
 
 .avail {background-color: #beff9f}
 .unavail {background-color: #ffe2d7}
+
+div.item2metassup {font-size: 0.8em;
+					margin-top: -10px;
+					margin-left: 20px;}
 
 
 /* Métadonnées professionnelles*/
@@ -99,19 +137,40 @@ a.link2work {color: #5a918a;
 
 .short_result_details {margin-left: 20px;
 					   font-size: 0.8em;}</style></head>
-<body>
+<body class='e'>
 
 <div class="entete">
 <p>Rappel de la recherche : <strong></strong></p>
 <p class='back'><a href='short_results_e.html'>Retour à la liste des résultats</a></p><h1>Résultat 9</h1></div><div class='full_record'>
 <p class='detailed label'>Stoker, Bram (1847-1912), Choix, Dracula, Français, Finné, Texte noté</p>
-<div class='detailed'><p class='detailed'>Description : Édition revue avec ajout d’un glossaire<br/><br/><br/>Date de première publication : 2006</p></div></div>
+<div class='detailed'><p class='detailed'>Description : Édition revue avec ajout d’un glossaire<br/><br/><br/>Date de première publication : 2006</p></div>
+<div class='detailed_sup'><p class='detailed'>Description : Édition par extraits conservant la numérotation des chapitres du texte intégral et signalant les passages supprimés et résumés. Accompagné d’un dossier comprenant notamment une biographie de l’auteur, des repères chronologiques, des éléments de contexte historique et culturel, un cahier iconographique et une filmographie (9 pages).<br/>Version abrégée d'un classique du vampirisme.<br/><br/><br/>Date de première publication : 2004<br/></p></div>
+<div class='rebonds'><p><a class='expr2oeuvre_link' href='short_results_UMLRM0037_e.html'>Voir les 3 versions de l'oeuvre<br><em><strong>Stoker, Bram (1847-1912), Choix, Dracula</strong></em></a></p></div>
 <div class='filters'><h3>Filtres</h3>
-<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/>  <a class="filters_lng" href="#">anglais</a> <a class="filters_lng" href="#">français</a>  <div class='yearRange'><p>Filtre par année</p></div></div>
+<div class='filters1'><input type='form' width='150px' value='Limiter les résultats'/> <a href='#'>Disponible</a>  <a class="filters_lng" href="#">français</a>  <div class='yearRange'><p>Filtre par année</p></div></div>
 <div class='filters2'><a href="#">Finné, Jacques (Traducteur)</a></div></div>
-<div class='items'><h3>Liste des exemplaires</h3>
-<p class='unavail'>Emprunté - Stoker, Bram (1847-1912), Choix, Dracula, Français, Finné, Texte noté - Bibliothèque municipale de Célesteville JEUNESSE COTE_UMLMR1012</p></div>
+<div class='items'>
+<h3>Liste des exemplaires</h3>
+<div class='item'><p class='unavail'>Emprunté - Stoker, Bram (1847-1912), Choix, Dracula, Français, Finné, Texte noté - Bibliothèque municipale de Célesteville JEUNESSE COTE_UMLMR1012<br/><div class='item2metassup'>Titre: Dracula : [extraits] / Bram Stoker, traduction par Jacques Finné, présentation, notes, choix des extraits et dossier par Anne Cassou-Noguès et Marie-Aude de Langenhagen,...<br/>Edition: [Paris]-Manchecourt (Loiret, France). Flammarion, Imprimerie Maury-Eurolivres. 2006</div></p></div>
+</div>
 
+
+<div class='other_expressions'>
+<p>Autres oeuvres en lien
+<p class='comment'>Sur une page d'expression, cette rubrique liste directement les expressions des oeuvres liées à l'oeuvre de l'expression en cours</p><ul><li><a href="full_results_UMLRM0047.html">Stoker, Bram (1847-1912), Choix, Dracula, Français, Finné, Texte noté [Stoker, Bram (1847-1912), Choix, Dracula]</a></li>
+<li><a href="full_results_UMLRM0172.html">Stoker, Bram (1847-1912), Choix, Dracula, Français, Finné, Texte noté [Stoker, Bram (1847-1912), Choix, Dracula]</a></li>
+<li><a href="full_results_UMLRM0005.html">Stoker, Bram (1847-1912), Dracula, Anglais, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0020.html">Stoker, Bram (1847-1912), Dracula, Français, Molitor, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0041.html">Stoker, Bram (1847-1912), Dracula, Français, Sirgent, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0050.html">Stoker, Bram (1847-1912), Dracula, Français, Finné, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0053.html">Stoker, Bram (1847-1912), Dracula, Français, Chicheportiche, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0056.html">Stoker, Bram (1847-1912), Dracula, Français, Paul-Margueritte, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0059.html">Stoker, Bram (1847-1912), Dracula, Français, Paul-Margueritte, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0065.html">Stoker, Bram (1847-1912), Dracula, Espagnol, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0068.html">Stoker, Bram (1847-1912), Dracula, Français, Molitor - Moissard, Texte noté [Stoker, Bram (1847-1912), Dracula]</a></li>
+<li><a href="full_results_UMLRM0187.html">Stoker, Bram (1847-1912), Dracula, Français, Parole énoncée [Stoker, Bram (1847-1912), Dracula]</a></li>
+</ul>
+</div>
 <div class='pro'>
 <hr/>
 <h3>Infos professionnelles</h3>
@@ -176,11 +235,11 @@ a.link2work {color: #5a918a;
 </svg></div>
 <div class="indexed_metas">
 <table class="indexed_metas_table">
-<tr><th>self_index</th><td>['', 'stoker bram 1847 1912 dracula', '', 'dracula bram stoker traduction par jacques finne presentation notes choix des extraits et dossier par anne cassou nogues et marie ande de langenhagen paris flammarion 2006 texte note sans mediation isbn 08 072306', '', 'stoker bram 1847 1912 dracula', '', 'dracula bram stoker traduction par jacques finne presentation notes choix des extraits et dossier par anne cassou nogues et marie ande de langenhagen paris flammarion 2006 texte note sans mediation isbn 08 072306']</td></tr>
-<tr><th>linked_entities_index</th><td>['stoker bram 1847 1912 dracula choix cassou nogues langenhagen francais finne texte note 2006', 'dracula extraits bram stoker traduction par jacques finne presentation notes choix des extraits et dossier par anne cassou nogues et marie aude de langenhagen', 'paris flammarion$? manchecourt loiret france imprimerie maury eurolivres 2006', 'etonnants classiques', '', '', '', '', 'dracula extraits bram stoker traduction par jacques finne presentation notes choix des extraits et dossier par anne cassou nogues et marie aude de langenhagen', 'paris flammarion$? manchecourt loiret france imprimerie maury eurolivres 2006', 'etonnants classiques', '', '', '', '', '', '', '', "edition par extraits conservant la numerotation des chapitres du texte integral et signalant les passages supprimes et resumes$?accompagne d'un dossier comprenant notamment une biographie de l'auteur des reperes chronologiques des elements de contexte historique et culturel un cahier iconographique et une filmographie pages", 'version abregee un classique du vampirisme']</td></tr>
+<tr><th>self_index</th><td>['stoker bram 1847 1912 dracula', 'dracula bram stoker traduction par jacques finne presentation notes choix des extraits et dossier par anne cassou nogues et marie ande de langenhagen paris flammarion 2006 texte note sans mediation isbn 08 072306', 'stoker bram 1847 1912 dracula', 'dracula bram stoker traduction par jacques finne presentation notes choix des extraits et dossier par anne cassou nogues et marie ande de langenhagen paris flammarion 2006 texte note sans mediation isbn 08 072306']</td></tr>
+<tr><th>linked_entities_index</th><td>['stoker bram 1847 1912 dracula choix cassou nogues langenhagen francais finne texte note 2006', 'dracula extraits bram stoker traduction par jacques finne presentation notes choix des extraits et dossier par anne cassou nogues et marie aude de langenhagen', 'paris flammarion$? manchecourt loiret france imprimerie maury eurolivres 2006', 'etonnants classiques', 'dracula extraits bram stoker traduction par jacques finne presentation notes choix des extraits et dossier par anne cassou nogues et marie aude de langenhagen', 'paris flammarion$? manchecourt loiret france imprimerie maury eurolivres 2006', 'etonnants classiques', "edition par extraits conservant la numerotation des chapitres du texte integral et signalant les passages supprimes et resumes$?accompagne d'un dossier comprenant notamment une biographie de l'auteur des reperes chronologiques des elements de contexte historique et culturel un cahier iconographique et une filmographie pages", 'version abregee un classique du vampirisme']</td></tr>
 <tr><th>resp_index</th><td>['finne jacques', 'finne jacques']</td></tr>
 <tr><th>linked_resp_index</th><td>['stoker bram', 'cassou nogues anne', 'langenhagen marie aude de']</td></tr>
-<tr><th>global_index</th><td> langenhagen marie aude de finne jacques stoker bram 1847 1912 dracula choix cassou nogues langenhagen francais finne texte note 2006 paris flammarion$? manchecourt loiret france imprimerie maury eurolivres 2006 dracula bram stoker traduction par jacques finne presentation notes choix des extraits et dossier par anne cassou nogues et marie ande de langenhagen paris flammarion 2006 texte note sans mediation isbn 08 072306 version abregee un classique du vampirisme dracula extraits bram stoker traduction par jacques finne presentation notes choix des extraits et dossier par anne cassou nogues et marie aude de langenhagen stoker bram 1847 1912 dracula edition par extraits conservant la numerotation des chapitres du texte integral et signalant les passages supprimes et resumes$?accompagne d'un dossier comprenant notamment une biographie de l'auteur des reperes chronologiques des elements de contexte historique et culturel un cahier iconographique et une filmographie pages cassou nogues anne etonnants classiques stoker bram</td></tr>
+<tr><th>global_index</th><td>dracula bram stoker traduction par jacques finne presentation notes choix des extraits et dossier par anne cassou nogues et marie ande de langenhagen paris flammarion 2006 texte note sans mediation isbn 08 072306 langenhagen marie aude de paris flammarion$? manchecourt loiret france imprimerie maury eurolivres 2006 finne jacques dracula extraits bram stoker traduction par jacques finne presentation notes choix des extraits et dossier par anne cassou nogues et marie aude de langenhagen edition par extraits conservant la numerotation des chapitres du texte integral et signalant les passages supprimes et resumes$?accompagne d'un dossier comprenant notamment une biographie de l'auteur des reperes chronologiques des elements de contexte historique et culturel un cahier iconographique et une filmographie pages cassou nogues anne version abregee un classique du vampirisme stoker bram etonnants classiques stoker bram 1847 1912 dracula choix cassou nogues langenhagen francais finne texte note 2006 stoker bram 1847 1912 dracula</td></tr>
 </table>
 </div>
 <p class="marc_record"><br/>000    01132nx  h2200241   4500<br/>001    UMLRM0038<br/>100    $a 20221005afrey50      ba0<br/>101 2  $a fre $c eng<br/>102    $a FR<br/>104    $a d2006<br/>105    $a ba<br/>145    $a i $b axxe<br/>145    $a b1 $b xb2e<br/>147    $a a<br/>152    $a RDA-FR<br/>154    $a xb<br/>242  1 $3 UMLRM0037 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $c Choix $k Cassou-Noguès ; Langenhagen $m Français $w Finné $n Texte noté $o 2006<br/>371    $f Édition revue avec ajout d’un glossaire<br/>502  1 $3 11902797 $7 ba0yba0y $8 frefre $o ISNI 0000 0001 2023 6609 $a Finné $b Jacques $f 1944-.... $4 730<br/>542  1 $5 xxp $p Est une sélection de [expression] $3 UMLRM0050 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t Dracula $m Français $w Finné $n Texte noté<br/>640 6  $0 Date de première publication $f #2006#####<br/>801  0 $a FR $b FR-751131010 $c 20221005<br/>810    $a Dracula / Bram Stoker ; traduction par Jacques Finné ; présentation, notes, choix des extraits et dossier par Anne Cassou-Noguès et Marie-Ande de Langenhagen. – Paris : Flammarion, 2006. – [Texte noté : sans médiation]. – ISBN 2-08-072306-5</p>

@@ -4,39 +4,21 @@
     "id": "UMLRM0126",
     "txt": "\n000    02427nx  h2200361   4500\n001    UMLRM0126\n005    20220921######.D\n100    $a 20220921afrey50      ba0\n101 0  $a eng\n102    $a US\n104    $a d2008\n125 00 $a m\n140    $a te\n145 0  $a i\n152    $a RDA-FR\n154    $a xa\n241  1 $3 11925586 $o ISNI 0000 0001 2122 2356 $a Stoker, Bram (1847-1912) $t Manuscrits $c Choix $k Eighteen-Bisang ; Miller $7 ba0yba0y $8 freeng\n370    $a Reproductions en fac-simil\u00e9 des \u00e9bauches manuscrites de Bram Stoker accompagn\u00e9es de leur transcription, ainsi que ses notes tapuscrites\n378    $a Bram Stoker's initial notes and outlines for his landmark horror novel Dracula were auctioned at Sotheby's in London in 1913 and eventually made their way to the Rosenbach Museum and Library, where they are housed today. This comprehensive work reproduces the handwritten notes both in facsimile and in annotated transcription. It also includes Stoker's typewritten research notes $b LoC $z eng\n431    $7 ba0yba0y $8 freeng $a Brams Stoker\u2019s notes for Dracula\n441  1 $3 11925586 $o ISNI 0000 0001 2122 2356 $a Stoker, Bram (1847-1912) $t [Notes pour \"Dracula\"] $k Eighteen-Bisang ; Miller $7 ba0yba0y $8 freeng\n501  1 $3 11925586 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2122 2356 $a Stoker $b Bram $f 1847-1912 $4 070\n501  1 $3 16259396 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 0976 8225 $a Eighteen-Bisang $b Robert $4 651\n501  1 $3 12679015 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 8170 1706 $a Miller $b Elizabeth Russel $f 1939-.... $4 651\n541  1 $5 xxk $p Est une \u0153uvre pr\u00e9paratoire pour $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t  Dracula\n608    $3 11979168 $a Notes, esquisses, etc. $2 rameau-Forme\n608    $3 11956260 $a Fac-simil\u00e9s $2 rameau-Forme\n640 6  $0 Date de premi\u00e8re publication $f #2008#####\n676    $a 823 $v 23\n801  0 $a FR $b FR-751052119 $c 20220921\n810    $a Wikidata : https://www.wikidata.org/wiki/Q41542. (2022-09-13) $b Date de cr\u00e9ation : 8 mars 1890 - 26 mai 1897\n810    $a Brams Stoker\u2019s notes for Dracula : a facsimile edition / Bram Stoker ; annotated and transcribed by Robert Eighteen-Bisang and Elizabeth Miller. \u2013 Jefferson (N.C.) : McFarland & Company Inc. Publishers, 2008. \u2013 [Texte not\u00e9 : sans mediation]. \u2013 ISBN 978-0-7864-3410-7\n810    $a Catalogue de la Biblioth\u00e8que du Congr\u00e8s : https://lccn.loc.gov/2008019450 $b R\u00e9sum\u00e9",
     "self_index": [
-        "",
-        "",
-        "",
         "reproductions en fac simile des ebauches manuscrites de bram stoker accompagnees de leur transcription ainsi que ses notes tapuscrites",
         "bram stoker initial notes and outlines for his landmark horror novel dracula were auctioned at sotheby in london in 1913 and eventually made their way to the rosenbach museum and library where they are housed today this comprehensive work reproduces the handwritten notes both in facsimile and in annotated transcription it also includes stoker typewritten research notes",
-        "",
-        "",
-        "",
         "reproductions en fac simile des ebauches manuscrites de bram stoker accompagnees de leur transcription ainsi que ses notes tapuscrites",
         "bram stoker initial notes and outlines for his landmark horror novel dracula were auctioned at sotheby in london in 1913 and eventually made their way to the rosenbach museum and library where they are housed today this comprehensive work reproduces the handwritten notes both in facsimile and in annotated transcription it also includes stoker typewritten research notes"
     ],
     "linked_entities_index": [
         "bram stoker's notes for \"dracula afacsimile edition bram stoker annotated and transcribed by robert eighteen bisang and elizabeth miller foreword by michael barsanti",
         "jefferson mcfarland company inc publishers 2008",
-        "",
-        "",
         "bibliographie pages 321 323",
-        "",
-        "",
         "bram stoker's notes for \"dracula afacsimile edition bram stoker annotated and transcribed by robert eighteen bisang and elizabeth miller foreword by michael barsanti",
         "jefferson mcfarland company inc publishers 2008",
-        "",
-        "",
         "bibliographie pages 321 323",
-        "",
-        "",
-        "",
         "stoker bram 1847 1912 manuscrits",
-        "",
         "brams stoker's notes for dracula facsimile edition bram stoker annotated and transcribed by robert eighteen bisang and elizabeth miller jefferson mcfarland company inc publishers 2008 texte note sans mediation isbn 978 7864 3410",
-        "",
         "stoker bram 1847 1912 manuscrits",
-        "",
         "brams stoker's notes for dracula facsimile edition bram stoker annotated and transcribed by robert eighteen bisang and elizabeth miller jefferson mcfarland company inc publishers 2008 texte note sans mediation isbn 978 7864 3410"
     ],
     "resp_index": [
@@ -54,9 +36,10 @@
         "eighteen bisang robert",
         "miller elizabeth russel"
     ],
-    "global_index": " barsanti michael reproductions en fac simile des ebauches manuscrites de bram stoker accompagnees de leur transcription ainsi que ses notes tapuscrites bibliographie pages 321 323 miller elizabeth russel stoker bram 1847 1912 manuscrits brams stoker's notes for dracula facsimile edition bram stoker annotated and transcribed by robert eighteen bisang and elizabeth miller jefferson mcfarland company inc publishers 2008 texte note sans mediation isbn 978 7864 3410 bram stoker initial notes and outlines for his landmark horror novel dracula were auctioned at sotheby in london in 1913 and eventually made their way to the rosenbach museum and library where they are housed today this comprehensive work reproduces the handwritten notes both in facsimile and in annotated transcription it also includes stoker typewritten research notes eighteen bisang robert jefferson mcfarland company inc publishers 2008 bram stoker's notes for \"dracula afacsimile edition bram stoker annotated and transcribed by robert eighteen bisang and elizabeth miller foreword by michael barsanti stoker bram",
+    "global_index": "miller elizabeth russel jefferson mcfarland company inc publishers 2008 bram stoker initial notes and outlines for his landmark horror novel dracula were auctioned at sotheby in london in 1913 and eventually made their way to the rosenbach museum and library where they are housed today this comprehensive work reproduces the handwritten notes both in facsimile and in annotated transcription it also includes stoker typewritten research notes bibliographie pages 321 323 stoker bram 1847 1912 manuscrits brams stoker's notes for dracula facsimile edition bram stoker annotated and transcribed by robert eighteen bisang and elizabeth miller jefferson mcfarland company inc publishers 2008 texte note sans mediation isbn 978 7864 3410 eighteen bisang robert reproductions en fac simile des ebauches manuscrites de bram stoker accompagnees de leur transcription ainsi que ses notes tapuscrites stoker bram barsanti michael bram stoker's notes for \"dracula afacsimile edition bram stoker annotated and transcribed by robert eighteen bisang and elizabeth miller foreword by michael barsanti",
     "type": "o",
     "label": "Stoker, Bram (1847-1912), Choix, Manuscrits",
+    "label_html": "Stoker, Bram (1847-1912), Choix, Manuscrits",
     "splitted_label": "Stoker, Bram\n(1847-1912), Choix,\nManuscrits",
     "stats_zones": {
         "001": 1,
@@ -95,8 +78,8 @@
         ]
     },
     "respIds": [
-        "11925586",
         "16259396",
+        "11925586",
         "12679015"
     ],
     "toOeuvres": {},
@@ -112,7 +95,8 @@
     "toItems": {
         "UMLRM1041": "BM_CELESTEVILLE > LANGUES > COTE_UMLRM1041"
     },
-    "repr": "id : UMLRM0126\ntype initial : oe ; type : o\nlabel : Stoker, Bram (1847-1912), Choix, Manuscrits\n\nNotice : \n000    02427nx  h2200361   4500\n001    UMLRM0126\n005    20220921######.D\n100    $a 20220921afrey50      ba0\n101 0  $a eng\n102    $a US\n104    $a d2008\n125 00 $a m\n140    $a te\n145 0  $a i\n152    $a RDA-FR\n154    $a xa\n241  1 $3 11925586 $o ISNI 0000 0001 2122 2356 $a Stoker, Bram (1847-1912) $t Manuscrits $c Choix $k Eighteen-Bisang ; Miller $7 ba0yba0y $8 freeng\n370    $a Reproductions en fac-simil\u00e9 des \u00e9bauches manuscrites de Bram Stoker accompagn\u00e9es de leur transcription, ainsi que ses notes tapuscrites\n378    $a Bram Stoker's initial notes and outlines for his landmark horror novel Dracula were auctioned at Sotheby's in London in 1913 and eventually made their way to the Rosenbach Museum and Library, where they are housed today. This comprehensive work reproduces the handwritten notes both in facsimile and in annotated transcription. It also includes Stoker's typewritten research notes $b LoC $z eng\n431    $7 ba0yba0y $8 freeng $a Brams Stoker\u2019s notes for Dracula\n441  1 $3 11925586 $o ISNI 0000 0001 2122 2356 $a Stoker, Bram (1847-1912) $t [Notes pour \"Dracula\"] $k Eighteen-Bisang ; Miller $7 ba0yba0y $8 freeng\n501  1 $3 11925586 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2122 2356 $a Stoker $b Bram $f 1847-1912 $4 070\n501  1 $3 16259396 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 0976 8225 $a Eighteen-Bisang $b Robert $4 651\n501  1 $3 12679015 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 8170 1706 $a Miller $b Elizabeth Russel $f 1939-.... $4 651\n541  1 $5 xxk $p Est une \u0153uvre pr\u00e9paratoire pour $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t  Dracula\n608    $3 11979168 $a Notes, esquisses, etc. $2 rameau-Forme\n608    $3 11956260 $a Fac-simil\u00e9s $2 rameau-Forme\n640 6  $0 Date de premi\u00e8re publication $f #2008#####\n676    $a 823 $v 23\n801  0 $a FR $b FR-751052119 $c 20220921\n810    $a Wikidata : https://www.wikidata.org/wiki/Q41542. (2022-09-13) $b Date de cr\u00e9ation : 8 mars 1890 - 26 mai 1897\n810    $a Brams Stoker\u2019s notes for Dracula : a facsimile edition / Bram Stoker ; annotated and transcribed by Robert Eighteen-Bisang and Elizabeth Miller. \u2013 Jefferson (N.C.) : McFarland & Company Inc. Publishers, 2008. \u2013 [Texte not\u00e9 : sans mediation]. \u2013 ISBN 978-0-7864-3410-7\n810    $a Catalogue de la Biblioth\u00e8que du Congr\u00e8s : https://lccn.loc.gov/2008019450 $b R\u00e9sum\u00e9 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b79725c0>\nIndexation :  reproductions en fac simile des ebauches manuscrites de bram stoker accompagnees de leur transcription ainsi que ses notes tapuscrites miller elizabeth russel bram stoker initial notes and outlines for his landmark horror novel dracula were auctioned at sotheby in london in 1913 and eventually made their way to the rosenbach museum and library where they are housed today this comprehensive work reproduces the handwritten notes both in facsimile and in annotated transcription it also includes stoker typewritten research notes eighteen bisang robert stoker bram",
+    "other_expressions": {},
+    "repr": "id : UMLRM0126\ntype initial : oe ; type : o\nlabel : Stoker, Bram (1847-1912), Choix, Manuscrits\n\nNotice : \n000    02427nx  h2200361   4500\n001    UMLRM0126\n005    20220921######.D\n100    $a 20220921afrey50      ba0\n101 0  $a eng\n102    $a US\n104    $a d2008\n125 00 $a m\n140    $a te\n145 0  $a i\n152    $a RDA-FR\n154    $a xa\n241  1 $3 11925586 $o ISNI 0000 0001 2122 2356 $a Stoker, Bram (1847-1912) $t Manuscrits $c Choix $k Eighteen-Bisang ; Miller $7 ba0yba0y $8 freeng\n370    $a Reproductions en fac-simil\u00e9 des \u00e9bauches manuscrites de Bram Stoker accompagn\u00e9es de leur transcription, ainsi que ses notes tapuscrites\n378    $a Bram Stoker's initial notes and outlines for his landmark horror novel Dracula were auctioned at Sotheby's in London in 1913 and eventually made their way to the Rosenbach Museum and Library, where they are housed today. This comprehensive work reproduces the handwritten notes both in facsimile and in annotated transcription. It also includes Stoker's typewritten research notes $b LoC $z eng\n431    $7 ba0yba0y $8 freeng $a Brams Stoker\u2019s notes for Dracula\n441  1 $3 11925586 $o ISNI 0000 0001 2122 2356 $a Stoker, Bram (1847-1912) $t [Notes pour \"Dracula\"] $k Eighteen-Bisang ; Miller $7 ba0yba0y $8 freeng\n501  1 $3 11925586 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 2122 2356 $a Stoker $b Bram $f 1847-1912 $4 070\n501  1 $3 16259396 $7 ba0yba0y $8 freeng $o ISNI 0000 0001 0976 8225 $a Eighteen-Bisang $b Robert $4 651\n501  1 $3 12679015 $7 ba0yba0y $8 freeng $o ISNI 0000 0000 8170 1706 $a Miller $b Elizabeth Russel $f 1939-.... $4 651\n541  1 $5 xxk $p Est une \u0153uvre pr\u00e9paratoire pour $3 UMLRM0004 $7 ba0yba0y $8 freeng $a Stoker, Bram (1847-1912) $t  Dracula\n608    $3 11979168 $a Notes, esquisses, etc. $2 rameau-Forme\n608    $3 11956260 $a Fac-simil\u00e9s $2 rameau-Forme\n640 6  $0 Date de premi\u00e8re publication $f #2008#####\n676    $a 823 $v 23\n801  0 $a FR $b FR-751052119 $c 20220921\n810    $a Wikidata : https://www.wikidata.org/wiki/Q41542. (2022-09-13) $b Date de cr\u00e9ation : 8 mars 1890 - 26 mai 1897\n810    $a Brams Stoker\u2019s notes for Dracula : a facsimile edition / Bram Stoker ; annotated and transcribed by Robert Eighteen-Bisang and Elizabeth Miller. \u2013 Jefferson (N.C.) : McFarland & Company Inc. Publishers, 2008. \u2013 [Texte not\u00e9 : sans mediation]. \u2013 ISBN 978-0-7864-3410-7\n810    $a Catalogue de la Biblioth\u00e8que du Congr\u00e8s : https://lccn.loc.gov/2008019450 $b R\u00e9sum\u00e9 \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e5600>\nIndexation : miller elizabeth russel bram stoker initial notes and outlines for his landmark horror novel dracula were auctioned at sotheby in london in 1913 and eventually made their way to the rosenbach museum and library where they are housed today this comprehensive work reproduces the handwritten notes both in facsimile and in annotated transcription it also includes stoker typewritten research notes reproductions en fac simile des ebauches manuscrites de bram stoker accompagnees de leur transcription ainsi que ses notes tapuscrites stoker bram eighteen bisang robert",
     "subjects": {},
     "genreforme": {
         "11979168": "",
@@ -120,6 +104,9 @@
     },
     "detailed": "Description : Reproductions en fac-simil\u00e9 des \u00e9bauches manuscrites de Bram Stoker accompagn\u00e9es de leur transcription, ainsi que ses notes tapuscrites.\nBram Stoker's initial notes and outlines for his landmark horror novel Dracula were auctioned at Sotheby's in London in 1913 and eventually made their way to the Rosenbach Museum and Library, where they are housed today. This comprehensive work reproduces the handwritten notes both in facsimile and in annotated transcription. It also includes Stoker's typewritten research notes\n\n\nDate de premi\u00e8re publication : 2008",
     "rebonds": "<span class='rebond'><a href='full_results_UMLRM0004.html'>Est une \u0153uvre pr\u00e9paratoire pour Stoker, Bram (1847-1912)  Dracula</a></span>",
+    "rebondids": [
+        "UMLRM0004"
+    ],
     "exprResp": [
         "Eighteen-Bisang, Robert (\u00c9diteur scientifique)",
         "Miller, Elizabeth Russel (\u00c9diteur scientifique)"

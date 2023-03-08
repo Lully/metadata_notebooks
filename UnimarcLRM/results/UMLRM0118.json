@@ -4,36 +4,19 @@
     "id": "UMLRM0118",
     "txt": "\n000    00949cx  h2200229   4500\n001    UMLRM0118\n005    202208301048##.D\n100    $a 20220811afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2012\n105    $a ba\n145 0  $a i $b axxe\n145 0  $a b $b xb2e\n147 0  $a g\n152    $a  RDA-FR\n154    $a xb\n242  1 $3 UMLRM0117 $7 ba0yba0y $8 frefre $a Dufranne, Michel (1970-....) $a Kowalski, Piotr (1973-....) $t Dracula l\u2019immortel $h 2 $m Fran\u00e7ais $n Texte not\u00e9. Image fixe\n640 6  $0 Date de premi\u00e8re publication $f #20120111#\n801  0 $a FR $b FR-751043001 $c 20220721\n810    $a Dracula l'immortel. 2 / sc\u00e9nario, Michel Dufranne ; dessin, Piotr Kowalski ; couleurs, Svart ; d'apr\u00e8s l'ouvrage de Dacre Stoker et Ian Holt. \u2013 [Neuilly-sur-Seine] : Michel Lafon ; [Paris] : Casterman, impr. 2012. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation]. \u2013 ISBN 978-2-203-03785-4\n810    $a http://ark.bnf.fr/ark:/12148/cb42659826w",
     "self_index": [
-        "",
         "dufranne michel 1970 $?kowalski piotr 1973 dracula l'immortel",
-        "",
         "dracula immortel scenario michel dufranne dessin piotr kowalski couleurs svart apres ouvrage de dacre stoker et ian holt neuilly sur seine michel lafon paris casterman impr 2012 texte note image fixe sans mediation isbn 978 203 03785 4$?http ark bnf fr ark 12148 cb42659826w",
-        "",
         "dufranne michel 1970 $?kowalski piotr 1973 dracula l'immortel",
-        "",
         "dracula immortel scenario michel dufranne dessin piotr kowalski couleurs svart apres ouvrage de dacre stoker et ian holt neuilly sur seine michel lafon paris casterman impr 2012 texte note image fixe sans mediation isbn 978 203 03785 4$?http ark bnf fr ark 12148 cb42659826w"
     ],
     "linked_entities_index": [
         "dufranne michel 1970 kowalski piotr 1973 dracula l'immortel francais texte note image fixe",
         "dracula immortel scenario michel dufranne dessin piotr kowalski couleurs svart apres ouvrage de dacre stoker et ian holt",
         "neuilly sur seine paris michel lafon$?casterman$? 85 lucon imprimerie pollina 2012",
-        "",
-        "",
-        "",
-        "",
         "1912 entre paris et londres des elements troublants viennent faire remonter la surface une peur qui semblait avoir ete oubliee depuis 25 ans depuis la destruction du vampire",
         "dracula immortel scenario michel dufranne dessin piotr kowalski couleurs svart apres ouvrage de dacre stoker et ian holt",
         "neuilly sur seine paris michel lafon$?casterman$? 85 lucon imprimerie pollina 2012",
-        "",
-        "",
-        "",
-        "",
-        "1912 entre paris et londres des elements troublants viennent faire remonter la surface une peur qui semblait avoir ete oubliee depuis 25 ans depuis la destruction du vampire",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "1912 entre paris et londres des elements troublants viennent faire remonter la surface une peur qui semblait avoir ete oubliee depuis 25 ans depuis la destruction du vampire"
     ],
     "resp_index": [],
     "linked_resp_index": [
@@ -41,9 +24,10 @@
         "kowalski piotr",
         "svart"
     ],
-    "global_index": " dufranne michel 1970 kowalski piotr 1973 dracula l'immortel francais texte note image fixe dufranne michel 1970 $?kowalski piotr 1973 dracula l'immortel kowalski piotr dracula immortel scenario michel dufranne dessin piotr kowalski couleurs svart apres ouvrage de dacre stoker et ian holt neuilly sur seine paris michel lafon$?casterman$? 85 lucon imprimerie pollina 2012 svart dufranne michel dracula immortel scenario michel dufranne dessin piotr kowalski couleurs svart apres ouvrage de dacre stoker et ian holt neuilly sur seine michel lafon paris casterman impr 2012 texte note image fixe sans mediation isbn 978 203 03785 4$?http ark bnf fr ark 12148 cb42659826w 1912 entre paris et londres des elements troublants viennent faire remonter la surface une peur qui semblait avoir ete oubliee depuis 25 ans depuis la destruction du vampire",
+    "global_index": "dufranne michel dracula immortel scenario michel dufranne dessin piotr kowalski couleurs svart apres ouvrage de dacre stoker et ian holt neuilly sur seine michel lafon paris casterman impr 2012 texte note image fixe sans mediation isbn 978 203 03785 4$?http ark bnf fr ark 12148 cb42659826w dufranne michel 1970 $?kowalski piotr 1973 dracula l'immortel 1912 entre paris et londres des elements troublants viennent faire remonter la surface une peur qui semblait avoir ete oubliee depuis 25 ans depuis la destruction du vampire dracula immortel scenario michel dufranne dessin piotr kowalski couleurs svart apres ouvrage de dacre stoker et ian holt neuilly sur seine paris michel lafon$?casterman$? 85 lucon imprimerie pollina 2012 dufranne michel 1970 kowalski piotr 1973 dracula l'immortel francais texte note image fixe kowalski piotr svart",
     "type": "e",
     "label": "Dufranne, Michel (1970-....) - Kowalski, Piotr (1973-....), Dracula l\u2019immortel, Fran\u00e7ais, Texte not\u00e9. Image fixe",
+    "label_html": "Dufranne, Michel (1970-....) - Kowalski, Piotr (1973-....), Dracula l\u2019immortel, Fran\u00e7ais <img src='icons/Texte not\u00e9. Image fixe.png' alt='[Texte not\u00e9. Image fixe]' title='Texte not\u00e9. Image fixe'/>",
     "splitted_label": "Dufranne, Michel\n(1970-....) -\nKowalski, Piotr\n(1973-....), Dracula\nl\u2019immortel,\nFran\u00e7ais, Texte\nnot\u00e9. Image fixe",
     "stats_zones": {
         "001": 1,
@@ -65,7 +49,7 @@
     "resp": {},
     "respIds": [],
     "toOeuvres": {
-        "UMLRM0117": "Dufranne, Michel (1970-....), Kowalski, Piotr (1973-....), Dracula l\u2019immortel, 2, Fran\u00e7ais, Texte not\u00e9. Image fixe"
+        "UMLRM0117": "Dufranne, Michel (1970-....) - Kowalski, Piotr (1973-....), Dracula l\u2019immortel"
     },
     "toExpressions": {},
     "toManifs": {
@@ -75,7 +59,8 @@
     "toItems": {
         "UMLRM1038": "BM_CELESTEVILLE > JEUNESSE > COTE_UMLRM1038"
     },
-    "repr": "id : UMLRM0118\ntype initial : oe ; type : e\nlabel : Dufranne, Michel (1970-....) - Kowalski, Piotr (1973-....), Dracula l\u2019immortel, Fran\u00e7ais, Texte not\u00e9. Image fixe\n\nNotice : \n000    00949cx  h2200229   4500\n001    UMLRM0118\n005    202208301048##.D\n100    $a 20220811afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2012\n105    $a ba\n145 0  $a i $b axxe\n145 0  $a b $b xb2e\n147 0  $a g\n152    $a  RDA-FR\n154    $a xb\n242  1 $3 UMLRM0117 $7 ba0yba0y $8 frefre $a Dufranne, Michel (1970-....) $a Kowalski, Piotr (1973-....) $t Dracula l\u2019immortel $h 2 $m Fran\u00e7ais $n Texte not\u00e9. Image fixe\n640 6  $0 Date de premi\u00e8re publication $f #20120111#\n801  0 $a FR $b FR-751043001 $c 20220721\n810    $a Dracula l'immortel. 2 / sc\u00e9nario, Michel Dufranne ; dessin, Piotr Kowalski ; couleurs, Svart ; d'apr\u00e8s l'ouvrage de Dacre Stoker et Ian Holt. \u2013 [Neuilly-sur-Seine] : Michel Lafon ; [Paris] : Casterman, impr. 2012. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation]. \u2013 ISBN 978-2-203-03785-4\n810    $a http://ark.bnf.fr/ark:/12148/cb42659826w \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x218b7972500>\nIndexation :  dracula immortel scenario michel dufranne dessin piotr kowalski couleurs svart apres ouvrage de dacre stoker et ian holt neuilly sur seine michel lafon paris casterman impr 2012 texte note image fixe sans mediation isbn 978 203 03785 4$?http ark bnf fr ark 12148 cb42659826w dufranne michel 1970 $?kowalski piotr 1973 dracula l'immortel",
+    "other_expressions": {},
+    "repr": "id : UMLRM0118\ntype initial : oe ; type : e\nlabel : Dufranne, Michel (1970-....) - Kowalski, Piotr (1973-....), Dracula l\u2019immortel, Fran\u00e7ais, Texte not\u00e9. Image fixe\n\nNotice : \n000    00949cx  h2200229   4500\n001    UMLRM0118\n005    202208301048##.D\n100    $a 20220811afrey50      ba0\n101 0  $a fre\n102    $a FR\n104    $a d2012\n105    $a ba\n145 0  $a i $b axxe\n145 0  $a b $b xb2e\n147 0  $a g\n152    $a  RDA-FR\n154    $a xb\n242  1 $3 UMLRM0117 $7 ba0yba0y $8 frefre $a Dufranne, Michel (1970-....) $a Kowalski, Piotr (1973-....) $t Dracula l\u2019immortel $h 2 $m Fran\u00e7ais $n Texte not\u00e9. Image fixe\n640 6  $0 Date de premi\u00e8re publication $f #20120111#\n801  0 $a FR $b FR-751043001 $c 20220721\n810    $a Dracula l'immortel. 2 / sc\u00e9nario, Michel Dufranne ; dessin, Piotr Kowalski ; couleurs, Svart ; d'apr\u00e8s l'ouvrage de Dacre Stoker et Ian Holt. \u2013 [Neuilly-sur-Seine] : Michel Lafon ; [Paris] : Casterman, impr. 2012. \u2013 [Texte not\u00e9. Image fixe : sans m\u00e9diation]. \u2013 ISBN 978-2-203-03785-4\n810    $a http://ark.bnf.fr/ark:/12148/cb42659826w \n\nXML : <Element {http://www.loc.gov/MARC21/slim}record at 0x257c06e5540>\nIndexation : dufranne michel 1970 $?kowalski piotr 1973 dracula l'immortel dracula immortel scenario michel dufranne dessin piotr kowalski couleurs svart apres ouvrage de dacre stoker et ian holt neuilly sur seine michel lafon paris casterman impr 2012 texte note image fixe sans mediation isbn 978 203 03785 4$?http ark bnf fr ark 12148 cb42659826w",
     "lang": [
         "fre"
     ],
@@ -83,6 +68,8 @@
     "exprContentType": "Texte not\u00e9. Image fixe",
     "exprResp": [],
     "detailed": "\n\nDate de premi\u00e8re publication : 11/01/2012",
+    "detailed_sup": "\n\nDate de premi\u00e8re publication : 11/01/2012\n",
     "rebonds": "",
-    "other_expressions": null
+    "rebondids": [],
+    "other_works_expressions": null
 }
